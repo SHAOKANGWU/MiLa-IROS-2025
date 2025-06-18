@@ -1,0 +1,2847 @@
+
+epoch 0
+Train Loss 15802.36
+
+epoch 1
+Train Loss 13423.94
+
+epoch 2
+Train Loss 11318.75
+
+epoch 3
+Train Loss 9352.20
+
+epoch 4
+Train Loss 7528.96
+
+epoch 5
+Train Loss 5717.61
+
+epoch 6
+Train Loss 4540.81
+
+epoch 7
+Train Loss 3318.46
+
+epoch 8
+Train Loss 2322.95
+
+epoch 9
+Train Loss 1201.95
+
+epoch 10
+Train Loss 580.41
+
+epoch 11
+Train Loss 299.69
+
+epoch 12
+Train Loss 322.16
+
+epoch 13
+Train Loss 581.41
+
+epoch 14
+Train Loss 553.91
+
+epoch 15
+Train Loss 518.39
+
+epoch 16
+Train Loss 457.13
+
+epoch 17
+Train Loss 426.21
+
+epoch 18
+Train Loss 324.43
+
+epoch 19
+Train Loss 238.99
+
+epoch 20
+Train Loss 203.97
+
+epoch 21
+Train Loss 199.12
+
+epoch 22
+Train Loss 178.27
+
+epoch 23
+Train Loss 165.83
+
+epoch 24
+Train Loss 167.98
+
+epoch 25
+Train Loss 128.85
+
+epoch 26
+Train Loss 137.90
+
+epoch 27
+Train Loss 126.25
+
+epoch 28
+Train Loss 130.08
+
+epoch 29
+Train Loss 130.14
+
+epoch 30
+Train Loss 138.63
+
+epoch 31
+Train Loss 134.24
+
+epoch 32
+Train Loss 139.90
+
+epoch 33
+Train Loss 127.75
+
+epoch 34
+Train Loss 110.08
+
+epoch 35
+Train Loss 117.79
+
+epoch 36
+Train Loss 118.05
+
+epoch 37
+Train Loss 112.07
+
+epoch 38
+Train Loss 116.10
+
+epoch 39
+Train Loss 113.11
+
+epoch 40
+Train Loss 104.98
+
+epoch 41
+Train Loss 99.30
+
+epoch 42
+Train Loss 109.60
+
+epoch 43
+Train Loss 102.89
+
+epoch 44
+Train Loss 108.17
+
+epoch 45
+Train Loss 94.26
+
+epoch 46
+Train Loss 107.00
+
+epoch 47
+Train Loss 100.10
+
+epoch 48
+Train Loss 88.89
+
+epoch 49
+Train Loss 95.78
+
+epoch 50
+Train Loss 84.31
+
+epoch 51
+Train Loss 93.97
+
+epoch 52
+Train Loss 86.98
+
+epoch 53
+Train Loss 97.71
+
+epoch 54
+Train Loss 98.67
+
+epoch 55
+Train Loss 88.72
+
+epoch 56
+Train Loss 88.61
+
+epoch 57
+Train Loss 79.03
+
+epoch 58
+Train Loss 81.64
+
+epoch 59
+Train Loss 102.91
+
+epoch 60
+Train Loss 84.33
+
+epoch 61
+Train Loss 88.88
+
+epoch 62
+Train Loss 87.27
+
+epoch 63
+Train Loss 88.64
+
+epoch 64
+Train Loss 102.53
+
+epoch 65
+Train Loss 91.87
+
+epoch 66
+Train Loss 84.27
+
+epoch 67
+Train Loss 91.35
+
+epoch 68
+Train Loss 80.89
+
+epoch 69
+Train Loss 94.09
+
+epoch 70
+Train Loss 90.74
+
+epoch 71
+Train Loss 69.99
+
+epoch 72
+Train Loss 86.22
+
+epoch 73
+Train Loss 90.45
+
+epoch 74
+Train Loss 86.94
+
+epoch 75
+Train Loss 81.13
+
+epoch 76
+Train Loss 85.92
+
+epoch 77
+Train Loss 82.88
+
+epoch 78
+Train Loss 89.80
+
+epoch 79
+Train Loss 80.42
+
+epoch 80
+Train Loss 73.36
+
+epoch 81
+Train Loss 74.20
+
+epoch 82
+Train Loss 80.60
+
+epoch 83
+Train Loss 83.79
+
+epoch 84
+Train Loss 67.32
+
+epoch 85
+Train Loss 80.55
+
+epoch 86
+Train Loss 79.06
+
+epoch 87
+Train Loss 72.04
+
+epoch 88
+Train Loss 72.97
+
+epoch 89
+Train Loss 73.80
+
+epoch 90
+Train Loss 74.46
+
+epoch 91
+Train Loss 81.55
+
+epoch 92
+Train Loss 75.45
+
+epoch 93
+Train Loss 69.91
+
+epoch 94
+Train Loss 76.47
+
+epoch 95
+Train Loss 73.96
+
+epoch 96
+Train Loss 72.71
+
+epoch 97
+Train Loss 59.28
+
+epoch 98
+Train Loss 73.60
+
+epoch 99
+Train Loss 74.23
+epoch 99, Valid Loss 64.50
+
+epoch 100
+Train Loss 87.41
+
+epoch 101
+Train Loss 70.34
+
+epoch 102
+Train Loss 61.09
+
+epoch 103
+Train Loss 81.72
+
+epoch 104
+Train Loss 74.81
+
+epoch 105
+Train Loss 90.35
+
+epoch 106
+Train Loss 71.02
+
+epoch 107
+Train Loss 71.38
+
+epoch 108
+Train Loss 72.79
+
+epoch 109
+Train Loss 78.56
+
+epoch 110
+Train Loss 60.66
+
+epoch 111
+Train Loss 67.14
+
+epoch 112
+Train Loss 66.50
+
+epoch 113
+Train Loss 73.32
+
+epoch 114
+Train Loss 71.66
+
+epoch 115
+Train Loss 71.72
+
+epoch 116
+Train Loss 61.86
+
+epoch 117
+Train Loss 65.47
+
+epoch 118
+Train Loss 63.27
+
+epoch 119
+Train Loss 63.89
+
+epoch 120
+Train Loss 63.17
+
+epoch 121
+Train Loss 75.21
+
+epoch 122
+Train Loss 71.13
+
+epoch 123
+Train Loss 63.61
+
+epoch 124
+Train Loss 64.98
+
+epoch 125
+Train Loss 64.19
+
+epoch 126
+Train Loss 64.84
+
+epoch 127
+Train Loss 63.07
+
+epoch 128
+Train Loss 69.83
+
+epoch 129
+Train Loss 62.11
+
+epoch 130
+Train Loss 69.21
+
+epoch 131
+Train Loss 66.12
+
+epoch 132
+Train Loss 56.38
+
+epoch 133
+Train Loss 61.68
+
+epoch 134
+Train Loss 62.35
+
+epoch 135
+Train Loss 66.31
+
+epoch 136
+Train Loss 63.65
+
+epoch 137
+Train Loss 64.10
+
+epoch 138
+Train Loss 69.85
+
+epoch 139
+Train Loss 57.10
+
+epoch 140
+Train Loss 58.92
+
+epoch 141
+Train Loss 63.24
+
+epoch 142
+Train Loss 61.77
+
+epoch 143
+Train Loss 71.95
+
+epoch 144
+Train Loss 60.72
+
+epoch 145
+Train Loss 58.09
+
+epoch 146
+Train Loss 63.22
+
+epoch 147
+Train Loss 56.83
+
+epoch 148
+Train Loss 66.65
+
+epoch 149
+Train Loss 61.43
+
+epoch 150
+Train Loss 66.10
+
+epoch 151
+Train Loss 60.00
+
+epoch 152
+Train Loss 60.18
+
+epoch 153
+Train Loss 58.71
+
+epoch 154
+Train Loss 63.66
+
+epoch 155
+Train Loss 58.41
+
+epoch 156
+Train Loss 65.06
+
+epoch 157
+Train Loss 59.33
+
+epoch 158
+Train Loss 60.01
+
+epoch 159
+Train Loss 60.36
+
+epoch 160
+Train Loss 62.56
+
+epoch 161
+Train Loss 55.31
+
+epoch 162
+Train Loss 55.71
+
+epoch 163
+Train Loss 58.77
+
+epoch 164
+Train Loss 70.91
+
+epoch 165
+Train Loss 54.74
+
+epoch 166
+Train Loss 50.63
+
+epoch 167
+Train Loss 56.55
+
+epoch 168
+Train Loss 64.43
+
+epoch 169
+Train Loss 56.43
+
+epoch 170
+Train Loss 63.21
+
+epoch 171
+Train Loss 59.58
+
+epoch 172
+Train Loss 56.15
+
+epoch 173
+Train Loss 55.74
+
+epoch 174
+Train Loss 68.78
+
+epoch 175
+Train Loss 48.66
+
+epoch 176
+Train Loss 48.27
+
+epoch 177
+Train Loss 57.53
+
+epoch 178
+Train Loss 56.30
+
+epoch 179
+Train Loss 57.84
+
+epoch 180
+Train Loss 60.13
+
+epoch 181
+Train Loss 54.61
+
+epoch 182
+Train Loss 50.47
+
+epoch 183
+Train Loss 56.91
+
+epoch 184
+Train Loss 58.48
+
+epoch 185
+Train Loss 52.35
+
+epoch 186
+Train Loss 50.75
+
+epoch 187
+Train Loss 51.65
+
+epoch 188
+Train Loss 50.72
+
+epoch 189
+Train Loss 57.90
+
+epoch 190
+Train Loss 63.64
+
+epoch 191
+Train Loss 51.25
+
+epoch 192
+Train Loss 53.66
+
+epoch 193
+Train Loss 56.47
+
+epoch 194
+Train Loss 49.13
+
+epoch 195
+Train Loss 57.82
+
+epoch 196
+Train Loss 50.48
+
+epoch 197
+Train Loss 58.23
+
+epoch 198
+Train Loss 46.61
+
+epoch 199
+Train Loss 46.04
+epoch 199, Valid Loss 47.15
+
+epoch 200
+Train Loss 53.72
+
+epoch 201
+Train Loss 48.99
+
+epoch 202
+Train Loss 54.14
+
+epoch 203
+Train Loss 55.42
+
+epoch 204
+Train Loss 48.40
+
+epoch 205
+Train Loss 48.47
+
+epoch 206
+Train Loss 61.24
+
+epoch 207
+Train Loss 52.30
+
+epoch 208
+Train Loss 51.07
+
+epoch 209
+Train Loss 49.30
+
+epoch 210
+Train Loss 56.07
+
+epoch 211
+Train Loss 47.24
+
+epoch 212
+Train Loss 50.66
+
+epoch 213
+Train Loss 45.64
+
+epoch 214
+Train Loss 58.19
+
+epoch 215
+Train Loss 47.47
+
+epoch 216
+Train Loss 55.23
+
+epoch 217
+Train Loss 52.70
+
+epoch 218
+Train Loss 51.75
+
+epoch 219
+Train Loss 53.15
+
+epoch 220
+Train Loss 54.04
+
+epoch 221
+Train Loss 53.59
+
+epoch 222
+Train Loss 53.26
+
+epoch 223
+Train Loss 43.05
+
+epoch 224
+Train Loss 54.58
+
+epoch 225
+Train Loss 54.06
+
+epoch 226
+Train Loss 51.52
+
+epoch 227
+Train Loss 46.72
+
+epoch 228
+Train Loss 54.73
+
+epoch 229
+Train Loss 57.04
+
+epoch 230
+Train Loss 51.07
+
+epoch 231
+Train Loss 48.54
+
+epoch 232
+Train Loss 46.44
+
+epoch 233
+Train Loss 52.71
+
+epoch 234
+Train Loss 48.62
+
+epoch 235
+Train Loss 56.45
+
+epoch 236
+Train Loss 49.01
+
+epoch 237
+Train Loss 51.97
+
+epoch 238
+Train Loss 56.18
+
+epoch 239
+Train Loss 57.02
+
+epoch 240
+Train Loss 48.54
+
+epoch 241
+Train Loss 56.29
+
+epoch 242
+Train Loss 52.69
+
+epoch 243
+Train Loss 42.49
+
+epoch 244
+Train Loss 52.60
+
+epoch 245
+Train Loss 50.65
+
+epoch 246
+Train Loss 50.74
+
+epoch 247
+Train Loss 45.38
+
+epoch 248
+Train Loss 46.98
+
+epoch 249
+Train Loss 53.60
+
+epoch 250
+Train Loss 51.86
+
+epoch 251
+Train Loss 51.86
+
+epoch 252
+Train Loss 47.67
+
+epoch 253
+Train Loss 50.15
+
+epoch 254
+Train Loss 44.65
+
+epoch 255
+Train Loss 54.84
+
+epoch 256
+Train Loss 45.89
+
+epoch 257
+Train Loss 46.18
+
+epoch 258
+Train Loss 51.69
+
+epoch 259
+Train Loss 52.41
+
+epoch 260
+Train Loss 48.81
+
+epoch 261
+Train Loss 41.80
+
+epoch 262
+Train Loss 44.05
+
+epoch 263
+Train Loss 49.83
+
+epoch 264
+Train Loss 43.18
+
+epoch 265
+Train Loss 45.55
+
+epoch 266
+Train Loss 45.44
+
+epoch 267
+Train Loss 49.46
+
+epoch 268
+Train Loss 49.24
+
+epoch 269
+Train Loss 47.73
+
+epoch 270
+Train Loss 55.06
+
+epoch 271
+Train Loss 42.83
+
+epoch 272
+Train Loss 49.98
+
+epoch 273
+Train Loss 44.52
+
+epoch 274
+Train Loss 43.13
+
+epoch 275
+Train Loss 51.23
+
+epoch 276
+Train Loss 43.82
+
+epoch 277
+Train Loss 37.62
+
+epoch 278
+Train Loss 46.29
+
+epoch 279
+Train Loss 42.84
+
+epoch 280
+Train Loss 51.40
+
+epoch 281
+Train Loss 49.73
+
+epoch 282
+Train Loss 47.78
+
+epoch 283
+Train Loss 47.12
+
+epoch 284
+Train Loss 53.46
+
+epoch 285
+Train Loss 40.16
+
+epoch 286
+Train Loss 47.18
+
+epoch 287
+Train Loss 44.98
+
+epoch 288
+Train Loss 49.33
+
+epoch 289
+Train Loss 53.84
+
+epoch 290
+Train Loss 45.14
+
+epoch 291
+Train Loss 49.94
+
+epoch 292
+Train Loss 41.70
+
+epoch 293
+Train Loss 43.93
+
+epoch 294
+Train Loss 42.49
+
+epoch 295
+Train Loss 45.25
+
+epoch 296
+Train Loss 43.86
+
+epoch 297
+Train Loss 41.83
+
+epoch 298
+Train Loss 49.87
+
+epoch 299
+Train Loss 49.89
+epoch 299, Valid Loss 41.87
+
+epoch 300
+Train Loss 48.62
+
+epoch 301
+Train Loss 44.50
+
+epoch 302
+Train Loss 43.26
+
+epoch 303
+Train Loss 40.68
+
+epoch 304
+Train Loss 42.60
+
+epoch 305
+Train Loss 38.75
+
+epoch 306
+Train Loss 48.98
+
+epoch 307
+Train Loss 45.35
+
+epoch 308
+Train Loss 39.31
+
+epoch 309
+Train Loss 44.20
+
+epoch 310
+Train Loss 36.86
+
+epoch 311
+Train Loss 39.22
+
+epoch 312
+Train Loss 46.95
+
+epoch 313
+Train Loss 47.54
+
+epoch 314
+Train Loss 42.28
+
+epoch 315
+Train Loss 37.45
+
+epoch 316
+Train Loss 47.16
+
+epoch 317
+Train Loss 46.53
+
+epoch 318
+Train Loss 41.04
+
+epoch 319
+Train Loss 37.02
+
+epoch 320
+Train Loss 46.71
+
+epoch 321
+Train Loss 43.01
+
+epoch 322
+Train Loss 40.90
+
+epoch 323
+Train Loss 46.64
+
+epoch 324
+Train Loss 50.88
+
+epoch 325
+Train Loss 43.11
+
+epoch 326
+Train Loss 46.03
+
+epoch 327
+Train Loss 42.78
+
+epoch 328
+Train Loss 45.05
+
+epoch 329
+Train Loss 42.53
+
+epoch 330
+Train Loss 40.97
+
+epoch 331
+Train Loss 44.78
+
+epoch 332
+Train Loss 42.50
+
+epoch 333
+Train Loss 46.52
+
+epoch 334
+Train Loss 57.04
+
+epoch 335
+Train Loss 36.26
+
+epoch 336
+Train Loss 42.10
+
+epoch 337
+Train Loss 38.33
+
+epoch 338
+Train Loss 44.51
+
+epoch 339
+Train Loss 40.70
+
+epoch 340
+Train Loss 44.64
+
+epoch 341
+Train Loss 47.80
+
+epoch 342
+Train Loss 42.69
+
+epoch 343
+Train Loss 41.67
+
+epoch 344
+Train Loss 49.43
+
+epoch 345
+Train Loss 41.95
+
+epoch 346
+Train Loss 39.47
+
+epoch 347
+Train Loss 41.42
+
+epoch 348
+Train Loss 44.00
+
+epoch 349
+Train Loss 36.80
+
+epoch 350
+Train Loss 48.11
+
+epoch 351
+Train Loss 39.79
+
+epoch 352
+Train Loss 39.80
+
+epoch 353
+Train Loss 36.90
+
+epoch 354
+Train Loss 36.27
+
+epoch 355
+Train Loss 40.82
+
+epoch 356
+Train Loss 38.23
+
+epoch 357
+Train Loss 40.53
+
+epoch 358
+Train Loss 44.22
+
+epoch 359
+Train Loss 40.27
+
+epoch 360
+Train Loss 37.49
+
+epoch 361
+Train Loss 36.18
+
+epoch 362
+Train Loss 36.44
+
+epoch 363
+Train Loss 48.32
+
+epoch 364
+Train Loss 37.41
+
+epoch 365
+Train Loss 37.66
+
+epoch 366
+Train Loss 37.61
+
+epoch 367
+Train Loss 40.13
+
+epoch 368
+Train Loss 37.05
+
+epoch 369
+Train Loss 39.56
+
+epoch 370
+Train Loss 32.83
+
+epoch 371
+Train Loss 39.37
+
+epoch 372
+Train Loss 46.53
+
+epoch 373
+Train Loss 41.22
+
+epoch 374
+Train Loss 38.79
+
+epoch 375
+Train Loss 42.56
+
+epoch 376
+Train Loss 42.05
+
+epoch 377
+Train Loss 40.17
+
+epoch 378
+Train Loss 42.44
+
+epoch 379
+Train Loss 39.22
+
+epoch 380
+Train Loss 38.14
+
+epoch 381
+Train Loss 41.99
+
+epoch 382
+Train Loss 40.59
+
+epoch 383
+Train Loss 43.27
+
+epoch 384
+Train Loss 35.27
+
+epoch 385
+Train Loss 41.74
+
+epoch 386
+Train Loss 41.21
+
+epoch 387
+Train Loss 38.22
+
+epoch 388
+Train Loss 30.27
+
+epoch 389
+Train Loss 45.38
+
+epoch 390
+Train Loss 37.25
+
+epoch 391
+Train Loss 33.99
+
+epoch 392
+Train Loss 35.43
+
+epoch 393
+Train Loss 42.50
+
+epoch 394
+Train Loss 38.81
+
+epoch 395
+Train Loss 36.70
+
+epoch 396
+Train Loss 36.92
+
+epoch 397
+Train Loss 38.65
+
+epoch 398
+Train Loss 32.66
+
+epoch 399
+Train Loss 37.43
+epoch 399, Valid Loss 36.22
+
+epoch 400
+Train Loss 33.40
+
+epoch 401
+Train Loss 41.82
+
+epoch 402
+Train Loss 35.63
+
+epoch 403
+Train Loss 38.17
+
+epoch 404
+Train Loss 34.76
+
+epoch 405
+Train Loss 42.88
+
+epoch 406
+Train Loss 32.00
+
+epoch 407
+Train Loss 38.09
+
+epoch 408
+Train Loss 36.33
+
+epoch 409
+Train Loss 43.49
+
+epoch 410
+Train Loss 35.45
+
+epoch 411
+Train Loss 38.94
+
+epoch 412
+Train Loss 32.27
+
+epoch 413
+Train Loss 35.46
+
+epoch 414
+Train Loss 39.82
+
+epoch 415
+Train Loss 34.32
+
+epoch 416
+Train Loss 39.54
+
+epoch 417
+Train Loss 41.55
+
+epoch 418
+Train Loss 37.04
+
+epoch 419
+Train Loss 41.62
+
+epoch 420
+Train Loss 36.77
+
+epoch 421
+Train Loss 38.91
+
+epoch 422
+Train Loss 35.97
+
+epoch 423
+Train Loss 38.86
+
+epoch 424
+Train Loss 36.80
+
+epoch 425
+Train Loss 32.54
+
+epoch 426
+Train Loss 39.38
+
+epoch 427
+Train Loss 36.19
+
+epoch 428
+Train Loss 37.00
+
+epoch 429
+Train Loss 34.08
+
+epoch 430
+Train Loss 34.30
+
+epoch 431
+Train Loss 39.82
+
+epoch 432
+Train Loss 39.77
+
+epoch 433
+Train Loss 40.03
+
+epoch 434
+Train Loss 33.84
+
+epoch 435
+Train Loss 37.77
+
+epoch 436
+Train Loss 36.44
+
+epoch 437
+Train Loss 39.50
+
+epoch 438
+Train Loss 31.63
+
+epoch 439
+Train Loss 36.22
+
+epoch 440
+Train Loss 35.46
+
+epoch 441
+Train Loss 36.68
+
+epoch 442
+Train Loss 34.85
+
+epoch 443
+Train Loss 35.68
+
+epoch 444
+Train Loss 38.13
+
+epoch 445
+Train Loss 36.33
+
+epoch 446
+Train Loss 39.28
+
+epoch 447
+Train Loss 35.03
+
+epoch 448
+Train Loss 31.34
+
+epoch 449
+Train Loss 38.72
+
+epoch 450
+Train Loss 33.63
+
+epoch 451
+Train Loss 38.38
+
+epoch 452
+Train Loss 34.98
+
+epoch 453
+Train Loss 31.64
+
+epoch 454
+Train Loss 38.50
+
+epoch 455
+Train Loss 34.75
+
+epoch 456
+Train Loss 37.64
+
+epoch 457
+Train Loss 43.56
+
+epoch 458
+Train Loss 35.28
+
+epoch 459
+Train Loss 31.32
+
+epoch 460
+Train Loss 31.89
+
+epoch 461
+Train Loss 33.30
+
+epoch 462
+Train Loss 27.30
+
+epoch 463
+Train Loss 37.88
+
+epoch 464
+Train Loss 38.57
+
+epoch 465
+Train Loss 33.04
+
+epoch 466
+Train Loss 34.58
+
+epoch 467
+Train Loss 33.94
+
+epoch 468
+Train Loss 35.81
+
+epoch 469
+Train Loss 34.65
+
+epoch 470
+Train Loss 36.86
+
+epoch 471
+Train Loss 29.46
+
+epoch 472
+Train Loss 40.90
+
+epoch 473
+Train Loss 32.00
+
+epoch 474
+Train Loss 33.55
+
+epoch 475
+Train Loss 39.99
+
+epoch 476
+Train Loss 32.47
+
+epoch 477
+Train Loss 30.76
+
+epoch 478
+Train Loss 35.23
+
+epoch 479
+Train Loss 34.34
+
+epoch 480
+Train Loss 35.75
+
+epoch 481
+Train Loss 37.83
+
+epoch 482
+Train Loss 33.63
+
+epoch 483
+Train Loss 31.52
+
+epoch 484
+Train Loss 26.81
+
+epoch 485
+Train Loss 35.22
+
+epoch 486
+Train Loss 34.91
+
+epoch 487
+Train Loss 41.70
+
+epoch 488
+Train Loss 37.83
+
+epoch 489
+Train Loss 42.90
+
+epoch 490
+Train Loss 34.18
+
+epoch 491
+Train Loss 36.65
+
+epoch 492
+Train Loss 38.18
+
+epoch 493
+Train Loss 32.38
+
+epoch 494
+Train Loss 37.56
+
+epoch 495
+Train Loss 31.92
+
+epoch 496
+Train Loss 33.74
+
+epoch 497
+Train Loss 37.67
+
+epoch 498
+Train Loss 29.95
+
+epoch 499
+Train Loss 35.83
+epoch 499, Valid Loss 34.91
+
+epoch 500
+Train Loss 28.78
+
+epoch 501
+Train Loss 36.19
+
+epoch 502
+Train Loss 29.48
+
+epoch 503
+Train Loss 31.20
+
+epoch 504
+Train Loss 31.98
+
+epoch 505
+Train Loss 41.35
+
+epoch 506
+Train Loss 35.84
+
+epoch 507
+Train Loss 34.84
+
+epoch 508
+Train Loss 37.13
+
+epoch 509
+Train Loss 37.36
+
+epoch 510
+Train Loss 40.26
+
+epoch 511
+Train Loss 35.69
+
+epoch 512
+Train Loss 25.12
+
+epoch 513
+Train Loss 26.15
+
+epoch 514
+Train Loss 36.55
+
+epoch 515
+Train Loss 33.48
+
+epoch 516
+Train Loss 30.38
+
+epoch 517
+Train Loss 32.21
+
+epoch 518
+Train Loss 32.05
+
+epoch 519
+Train Loss 32.19
+
+epoch 520
+Train Loss 36.28
+
+epoch 521
+Train Loss 33.45
+
+epoch 522
+Train Loss 32.12
+
+epoch 523
+Train Loss 37.20
+
+epoch 524
+Train Loss 33.99
+
+epoch 525
+Train Loss 34.86
+
+epoch 526
+Train Loss 30.84
+
+epoch 527
+Train Loss 31.96
+
+epoch 528
+Train Loss 32.03
+
+epoch 529
+Train Loss 33.00
+
+epoch 530
+Train Loss 31.42
+
+epoch 531
+Train Loss 36.06
+
+epoch 532
+Train Loss 33.84
+
+epoch 533
+Train Loss 36.14
+
+epoch 534
+Train Loss 33.29
+
+epoch 535
+Train Loss 34.96
+
+epoch 536
+Train Loss 35.29
+
+epoch 537
+Train Loss 30.32
+
+epoch 538
+Train Loss 28.00
+
+epoch 539
+Train Loss 27.65
+
+epoch 540
+Train Loss 35.14
+
+epoch 541
+Train Loss 35.26
+
+epoch 542
+Train Loss 33.55
+
+epoch 543
+Train Loss 28.22
+
+epoch 544
+Train Loss 33.35
+
+epoch 545
+Train Loss 30.51
+
+epoch 546
+Train Loss 27.91
+
+epoch 547
+Train Loss 31.55
+
+epoch 548
+Train Loss 27.41
+
+epoch 549
+Train Loss 33.29
+
+epoch 550
+Train Loss 37.03
+
+epoch 551
+Train Loss 28.10
+
+epoch 552
+Train Loss 26.60
+
+epoch 553
+Train Loss 31.66
+
+epoch 554
+Train Loss 32.59
+
+epoch 555
+Train Loss 28.02
+
+epoch 556
+Train Loss 33.77
+
+epoch 557
+Train Loss 34.11
+
+epoch 558
+Train Loss 33.99
+
+epoch 559
+Train Loss 34.90
+
+epoch 560
+Train Loss 30.68
+
+epoch 561
+Train Loss 27.90
+
+epoch 562
+Train Loss 39.69
+
+epoch 563
+Train Loss 37.42
+
+epoch 564
+Train Loss 31.26
+
+epoch 565
+Train Loss 31.56
+
+epoch 566
+Train Loss 28.51
+
+epoch 567
+Train Loss 31.00
+
+epoch 568
+Train Loss 35.87
+
+epoch 569
+Train Loss 35.05
+
+epoch 570
+Train Loss 30.53
+
+epoch 571
+Train Loss 28.15
+
+epoch 572
+Train Loss 33.47
+
+epoch 573
+Train Loss 39.42
+
+epoch 574
+Train Loss 30.65
+
+epoch 575
+Train Loss 25.38
+
+epoch 576
+Train Loss 27.81
+
+epoch 577
+Train Loss 31.51
+
+epoch 578
+Train Loss 29.21
+
+epoch 579
+Train Loss 31.98
+
+epoch 580
+Train Loss 32.25
+
+epoch 581
+Train Loss 30.10
+
+epoch 582
+Train Loss 31.65
+
+epoch 583
+Train Loss 33.20
+
+epoch 584
+Train Loss 30.31
+
+epoch 585
+Train Loss 30.32
+
+epoch 586
+Train Loss 29.89
+
+epoch 587
+Train Loss 29.43
+
+epoch 588
+Train Loss 31.24
+
+epoch 589
+Train Loss 29.04
+
+epoch 590
+Train Loss 33.08
+
+epoch 591
+Train Loss 30.46
+
+epoch 592
+Train Loss 30.32
+
+epoch 593
+Train Loss 32.22
+
+epoch 594
+Train Loss 29.01
+
+epoch 595
+Train Loss 27.52
+
+epoch 596
+Train Loss 36.39
+
+epoch 597
+Train Loss 33.26
+
+epoch 598
+Train Loss 33.63
+
+epoch 599
+Train Loss 30.12
+epoch 599, Valid Loss 30.94
+
+epoch 600
+Train Loss 33.48
+
+epoch 601
+Train Loss 30.09
+
+epoch 602
+Train Loss 31.85
+
+epoch 603
+Train Loss 27.63
+
+epoch 604
+Train Loss 30.79
+
+epoch 605
+Train Loss 29.07
+
+epoch 606
+Train Loss 28.51
+
+epoch 607
+Train Loss 30.53
+
+epoch 608
+Train Loss 28.63
+
+epoch 609
+Train Loss 28.63
+
+epoch 610
+Train Loss 25.14
+
+epoch 611
+Train Loss 30.33
+
+epoch 612
+Train Loss 30.07
+
+epoch 613
+Train Loss 24.15
+
+epoch 614
+Train Loss 29.74
+
+epoch 615
+Train Loss 29.26
+
+epoch 616
+Train Loss 26.08
+
+epoch 617
+Train Loss 24.88
+
+epoch 618
+Train Loss 28.85
+
+epoch 619
+Train Loss 30.82
+
+epoch 620
+Train Loss 30.16
+
+epoch 621
+Train Loss 29.90
+
+epoch 622
+Train Loss 25.60
+
+epoch 623
+Train Loss 33.24
+
+epoch 624
+Train Loss 30.26
+
+epoch 625
+Train Loss 24.59
+
+epoch 626
+Train Loss 29.20
+
+epoch 627
+Train Loss 32.15
+
+epoch 628
+Train Loss 27.43
+
+epoch 629
+Train Loss 29.24
+
+epoch 630
+Train Loss 29.97
+
+epoch 631
+Train Loss 30.37
+
+epoch 632
+Train Loss 28.73
+
+epoch 633
+Train Loss 33.67
+
+epoch 634
+Train Loss 29.49
+
+epoch 635
+Train Loss 31.82
+
+epoch 636
+Train Loss 28.93
+
+epoch 637
+Train Loss 27.57
+
+epoch 638
+Train Loss 32.96
+
+epoch 639
+Train Loss 26.51
+
+epoch 640
+Train Loss 29.48
+
+epoch 641
+Train Loss 32.74
+
+epoch 642
+Train Loss 30.91
+
+epoch 643
+Train Loss 33.59
+
+epoch 644
+Train Loss 29.87
+
+epoch 645
+Train Loss 27.76
+
+epoch 646
+Train Loss 32.79
+
+epoch 647
+Train Loss 25.43
+
+epoch 648
+Train Loss 32.25
+
+epoch 649
+Train Loss 32.98
+
+epoch 650
+Train Loss 25.29
+
+epoch 651
+Train Loss 30.96
+
+epoch 652
+Train Loss 25.86
+
+epoch 653
+Train Loss 26.35
+
+epoch 654
+Train Loss 33.02
+
+epoch 655
+Train Loss 37.41
+
+epoch 656
+Train Loss 27.54
+
+epoch 657
+Train Loss 38.12
+
+epoch 658
+Train Loss 32.04
+
+epoch 659
+Train Loss 30.38
+
+epoch 660
+Train Loss 32.25
+
+epoch 661
+Train Loss 31.37
+
+epoch 662
+Train Loss 30.62
+
+epoch 663
+Train Loss 26.45
+
+epoch 664
+Train Loss 27.57
+
+epoch 665
+Train Loss 33.76
+
+epoch 666
+Train Loss 26.56
+
+epoch 667
+Train Loss 27.03
+
+epoch 668
+Train Loss 30.24
+
+epoch 669
+Train Loss 25.61
+
+epoch 670
+Train Loss 28.43
+
+epoch 671
+Train Loss 33.17
+
+epoch 672
+Train Loss 28.56
+
+epoch 673
+Train Loss 28.27
+
+epoch 674
+Train Loss 25.07
+
+epoch 675
+Train Loss 28.00
+
+epoch 676
+Train Loss 25.19
+
+epoch 677
+Train Loss 31.92
+
+epoch 678
+Train Loss 27.14
+
+epoch 679
+Train Loss 28.56
+
+epoch 680
+Train Loss 27.07
+
+epoch 681
+Train Loss 31.49
+
+epoch 682
+Train Loss 31.21
+
+epoch 683
+Train Loss 30.78
+
+epoch 684
+Train Loss 28.55
+
+epoch 685
+Train Loss 26.55
+
+epoch 686
+Train Loss 29.00
+
+epoch 687
+Train Loss 27.69
+
+epoch 688
+Train Loss 32.70
+
+epoch 689
+Train Loss 33.93
+
+epoch 690
+Train Loss 32.25
+
+epoch 691
+Train Loss 29.80
+
+epoch 692
+Train Loss 27.00
+
+epoch 693
+Train Loss 31.60
+
+epoch 694
+Train Loss 29.35
+
+epoch 695
+Train Loss 28.48
+
+epoch 696
+Train Loss 25.31
+
+epoch 697
+Train Loss 27.96
+
+epoch 698
+Train Loss 30.82
+
+epoch 699
+Train Loss 27.12
+epoch 699, Valid Loss 27.55
+
+epoch 700
+Train Loss 26.90
+
+epoch 701
+Train Loss 23.70
+
+epoch 702
+Train Loss 28.46
+
+epoch 703
+Train Loss 28.08
+
+epoch 704
+Train Loss 30.43
+
+epoch 705
+Train Loss 26.38
+
+epoch 706
+Train Loss 32.23
+
+epoch 707
+Train Loss 25.55
+
+epoch 708
+Train Loss 30.50
+
+epoch 709
+Train Loss 29.28
+
+epoch 710
+Train Loss 23.89
+
+epoch 711
+Train Loss 27.65
+
+epoch 712
+Train Loss 26.19
+
+epoch 713
+Train Loss 25.04
+
+epoch 714
+Train Loss 26.23
+
+epoch 715
+Train Loss 28.18
+
+epoch 716
+Train Loss 27.68
+
+epoch 717
+Train Loss 31.08
+
+epoch 718
+Train Loss 25.14
+
+epoch 719
+Train Loss 26.29
+
+epoch 720
+Train Loss 25.78
+
+epoch 721
+Train Loss 28.21
+
+epoch 722
+Train Loss 26.04
+
+epoch 723
+Train Loss 29.53
+
+epoch 724
+Train Loss 27.27
+
+epoch 725
+Train Loss 23.64
+
+epoch 726
+Train Loss 32.05
+
+epoch 727
+Train Loss 27.05
+
+epoch 728
+Train Loss 26.67
+
+epoch 729
+Train Loss 27.02
+
+epoch 730
+Train Loss 31.36
+
+epoch 731
+Train Loss 24.47
+
+epoch 732
+Train Loss 24.43
+
+epoch 733
+Train Loss 25.30
+
+epoch 734
+Train Loss 30.90
+
+epoch 735
+Train Loss 26.85
+
+epoch 736
+Train Loss 26.22
+
+epoch 737
+Train Loss 27.81
+
+epoch 738
+Train Loss 28.94
+
+epoch 739
+Train Loss 25.74
+
+epoch 740
+Train Loss 28.10
+
+epoch 741
+Train Loss 29.91
+
+epoch 742
+Train Loss 25.19
+
+epoch 743
+Train Loss 29.65
+
+epoch 744
+Train Loss 23.29
+
+epoch 745
+Train Loss 24.46
+
+epoch 746
+Train Loss 26.36
+
+epoch 747
+Train Loss 26.10
+
+epoch 748
+Train Loss 29.05
+
+epoch 749
+Train Loss 27.11
+
+epoch 750
+Train Loss 26.45
+
+epoch 751
+Train Loss 25.81
+
+epoch 752
+Train Loss 31.38
+
+epoch 753
+Train Loss 24.35
+
+epoch 754
+Train Loss 23.97
+
+epoch 755
+Train Loss 24.29
+
+epoch 756
+Train Loss 23.56
+
+epoch 757
+Train Loss 25.79
+
+epoch 758
+Train Loss 31.99
+
+epoch 759
+Train Loss 28.46
+
+epoch 760
+Train Loss 26.03
+
+epoch 761
+Train Loss 27.32
+
+epoch 762
+Train Loss 26.91
+
+epoch 763
+Train Loss 29.15
+
+epoch 764
+Train Loss 28.08
+
+epoch 765
+Train Loss 26.42
+
+epoch 766
+Train Loss 27.60
+
+epoch 767
+Train Loss 25.30
+
+epoch 768
+Train Loss 23.50
+
+epoch 769
+Train Loss 26.75
+
+epoch 770
+Train Loss 27.46
+
+epoch 771
+Train Loss 28.72
+
+epoch 772
+Train Loss 26.05
+
+epoch 773
+Train Loss 27.39
+
+epoch 774
+Train Loss 29.28
+
+epoch 775
+Train Loss 25.87
+
+epoch 776
+Train Loss 26.14
+
+epoch 777
+Train Loss 22.92
+
+epoch 778
+Train Loss 22.62
+
+epoch 779
+Train Loss 26.53
+
+epoch 780
+Train Loss 26.36
+
+epoch 781
+Train Loss 23.81
+
+epoch 782
+Train Loss 27.70
+
+epoch 783
+Train Loss 23.71
+
+epoch 784
+Train Loss 26.49
+
+epoch 785
+Train Loss 24.76
+
+epoch 786
+Train Loss 31.82
+
+epoch 787
+Train Loss 24.08
+
+epoch 788
+Train Loss 27.63
+
+epoch 789
+Train Loss 30.74
+
+epoch 790
+Train Loss 24.93
+
+epoch 791
+Train Loss 25.55
+
+epoch 792
+Train Loss 27.43
+
+epoch 793
+Train Loss 29.34
+
+epoch 794
+Train Loss 22.32
+
+epoch 795
+Train Loss 31.49
+
+epoch 796
+Train Loss 28.60
+
+epoch 797
+Train Loss 32.23
+
+epoch 798
+Train Loss 20.06
+
+epoch 799
+Train Loss 23.89
+epoch 799, Valid Loss 27.24
+
+epoch 800
+Train Loss 22.09
+
+epoch 801
+Train Loss 24.61
+
+epoch 802
+Train Loss 28.42
+
+epoch 803
+Train Loss 25.81
+
+epoch 804
+Train Loss 25.21
+
+epoch 805
+Train Loss 24.64
+
+epoch 806
+Train Loss 25.64
+
+epoch 807
+Train Loss 26.01
+
+epoch 808
+Train Loss 20.24
+
+epoch 809
+Train Loss 29.24
+
+epoch 810
+Train Loss 25.64
+
+epoch 811
+Train Loss 24.30
+
+epoch 812
+Train Loss 23.99
+
+epoch 813
+Train Loss 28.43
+
+epoch 814
+Train Loss 22.18
+
+epoch 815
+Train Loss 26.42
+
+epoch 816
+Train Loss 23.19
+
+epoch 817
+Train Loss 28.35
+
+epoch 818
+Train Loss 24.02
+
+epoch 819
+Train Loss 22.81
+
+epoch 820
+Train Loss 29.52
+
+epoch 821
+Train Loss 22.15
+
+epoch 822
+Train Loss 25.60
+
+epoch 823
+Train Loss 23.67
+
+epoch 824
+Train Loss 22.78
+
+epoch 825
+Train Loss 23.24
+
+epoch 826
+Train Loss 27.36
+
+epoch 827
+Train Loss 27.09
+
+epoch 828
+Train Loss 24.51
+
+epoch 829
+Train Loss 23.73
+
+epoch 830
+Train Loss 27.71
+
+epoch 831
+Train Loss 29.71
+
+epoch 832
+Train Loss 28.00
+
+epoch 833
+Train Loss 26.17
+
+epoch 834
+Train Loss 19.15
+
+epoch 835
+Train Loss 26.55
+
+epoch 836
+Train Loss 29.31
+
+epoch 837
+Train Loss 27.96
+
+epoch 838
+Train Loss 34.61
+
+epoch 839
+Train Loss 23.07
+
+epoch 840
+Train Loss 27.06
+
+epoch 841
+Train Loss 29.27
+
+epoch 842
+Train Loss 23.36
+
+epoch 843
+Train Loss 28.57
+
+epoch 844
+Train Loss 27.73
+
+epoch 845
+Train Loss 28.01
+
+epoch 846
+Train Loss 36.80
+
+epoch 847
+Train Loss 27.79
+
+epoch 848
+Train Loss 23.33
+
+epoch 849
+Train Loss 23.86
+
+epoch 850
+Train Loss 27.38
+
+epoch 851
+Train Loss 26.44
+
+epoch 852
+Train Loss 26.02
+
+epoch 853
+Train Loss 26.69
+
+epoch 854
+Train Loss 27.21
+
+epoch 855
+Train Loss 25.58
+
+epoch 856
+Train Loss 22.12
+
+epoch 857
+Train Loss 24.89
+
+epoch 858
+Train Loss 21.78
+
+epoch 859
+Train Loss 25.24
+
+epoch 860
+Train Loss 30.42
+
+epoch 861
+Train Loss 23.07
+
+epoch 862
+Train Loss 22.89
+
+epoch 863
+Train Loss 23.71
+
+epoch 864
+Train Loss 25.79
+
+epoch 865
+Train Loss 19.32
+
+epoch 866
+Train Loss 23.95
+
+epoch 867
+Train Loss 24.92
+
+epoch 868
+Train Loss 27.24
+
+epoch 869
+Train Loss 25.03
+
+epoch 870
+Train Loss 21.63
+
+epoch 871
+Train Loss 28.80
+
+epoch 872
+Train Loss 25.82
+
+epoch 873
+Train Loss 27.47
+
+epoch 874
+Train Loss 28.46
+
+epoch 875
+Train Loss 28.02
+
+epoch 876
+Train Loss 26.32
+
+epoch 877
+Train Loss 29.34
+
+epoch 878
+Train Loss 23.08
+
+epoch 879
+Train Loss 29.51
+
+epoch 880
+Train Loss 23.97
+
+epoch 881
+Train Loss 27.05
+
+epoch 882
+Train Loss 24.00
+
+epoch 883
+Train Loss 26.12
+
+epoch 884
+Train Loss 23.88
+
+epoch 885
+Train Loss 24.54
+
+epoch 886
+Train Loss 21.99
+
+epoch 887
+Train Loss 24.92
+
+epoch 888
+Train Loss 23.73
+
+epoch 889
+Train Loss 27.81
+
+epoch 890
+Train Loss 21.97
+
+epoch 891
+Train Loss 27.35
+
+epoch 892
+Train Loss 22.84
+
+epoch 893
+Train Loss 23.66
+
+epoch 894
+Train Loss 25.00
+
+epoch 895
+Train Loss 26.00
+
+epoch 896
+Train Loss 26.49
+
+epoch 897
+Train Loss 23.45
+
+epoch 898
+Train Loss 26.12
+
+epoch 899
+Train Loss 26.20
+epoch 899, Valid Loss 23.25
+
+epoch 900
+Train Loss 23.98
+
+epoch 901
+Train Loss 22.94
+
+epoch 902
+Train Loss 25.17
+
+epoch 903
+Train Loss 27.76
+
+epoch 904
+Train Loss 25.57
+
+epoch 905
+Train Loss 25.17
+
+epoch 906
+Train Loss 21.37
+
+epoch 907
+Train Loss 25.88
+
+epoch 908
+Train Loss 22.04
+
+epoch 909
+Train Loss 25.65
+
+epoch 910
+Train Loss 25.29
+
+epoch 911
+Train Loss 26.19
+
+epoch 912
+Train Loss 24.34
+
+epoch 913
+Train Loss 27.10
+
+epoch 914
+Train Loss 23.80
+
+epoch 915
+Train Loss 21.12
+
+epoch 916
+Train Loss 23.22
+
+epoch 917
+Train Loss 29.78
+
+epoch 918
+Train Loss 24.78
+
+epoch 919
+Train Loss 25.67
+
+epoch 920
+Train Loss 23.85
+
+epoch 921
+Train Loss 24.31
+
+epoch 922
+Train Loss 26.81
+
+epoch 923
+Train Loss 19.94
+
+epoch 924
+Train Loss 24.99
+
+epoch 925
+Train Loss 20.85
+
+epoch 926
+Train Loss 27.40
+
+epoch 927
+Train Loss 21.27
+
+epoch 928
+Train Loss 19.69
+
+epoch 929
+Train Loss 23.78
+
+epoch 930
+Train Loss 25.38
+
+epoch 931
+Train Loss 25.49
+
+epoch 932
+Train Loss 24.35
+
+epoch 933
+Train Loss 26.26
+
+epoch 934
+Train Loss 24.23
+
+epoch 935
+Train Loss 25.98
+
+epoch 936
+Train Loss 24.71
+
+epoch 937
+Train Loss 25.72
+
+epoch 938
+Train Loss 24.46
+
+epoch 939
+Train Loss 25.26
+
+epoch 940
+Train Loss 24.65
+
+epoch 941
+Train Loss 22.00
+
+epoch 942
+Train Loss 22.48
+
+epoch 943
+Train Loss 21.57
+
+epoch 944
+Train Loss 27.65
+
+epoch 945
+Train Loss 22.17

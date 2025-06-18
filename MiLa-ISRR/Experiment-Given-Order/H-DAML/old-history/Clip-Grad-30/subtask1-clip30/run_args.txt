@@ -1,0 +1,13 @@
+epoch = 50000
+seed = 1
+batch = 6
+save_name = subtask1
+device = cuda:0
+sample_size = 40
+down_sample_factor = 2
+interval = 6
+loss_factor = 100
+inner_lr = 0.01
+outer_lr = 0.001
+adaptation_steps = 1
+subtask = 0

@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb1637f5-b87c-4142-9f93-25d64e341ba2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2bsAZulWW6gJ99TBBP4gIbKbumC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.23June-tmp.executor": "Debug",
+    "Python.GC-MAML-clip-inner-grad.executor": "Debug",
+    "Python.GC-MAML-no-exploding.executor": "Debug",
+    "Python.GC-MAML.executor": "Debug",
+    "Python.GCSL-MAML-Model.executor": "Debug",
+    "Python.GCSL-traj-noSeg-searchTau-Novel-changed-goalImg.executor": "Debug",
+    "Python.GCSL-traj-noSeg-searchTau-Novel.executor": "Debug",
+    "Python.GCSL-traj-noSeg-searchTau-nonNovel.executor": "Debug",
+    "Python.GCSL-traj-noSeg-searchTau.executor": "Debug",
+    "Python.GCSL.executor": "Debug",
+    "Python.GCSLModel.executor": "Debug",
+    "Python.MAML.executor": "Debug",
+    "Python.MPPolicy.executor": "Debug",
+    "Python.MPclassifier.executor": "Debug",
+    "Python.Maml_Model.executor": "Debug",
+    "Python.Meta-GCSL.executor": "Debug",
+    "Python.Meta-traj-noSeg-searchTau.executor": "Debug",
+    "Python.MetaDataset.executor": "Run",
+    "Python.MetaGC-traj-noSeg-searchTau-Novel-continue-training.executor": "Debug",
+    "Python.MetaGC-traj-noSeg-searchTau-Novel.executor": "Debug",
+    "Python.MetaGC-traj-noSeg-searchTau-PreGoal-OptimAlpha-PreCompuPinv.executor": "Debug",
+    "Python.MetaGC-traj-noSeg-searchTau-PreGoal-OptimAlpha.executor": "Debug",
+    "Python.MetaGC-traj-noSeg-searchTau-PreGoalAlpha-KnowInnerOrder.executor": "Debug",
+    "Python.MetaGC-traj-noSeg-searchTau-PreGoalAlpha-NoGMM.executor": "Debug",
+    "Python.MetaGC-traj-noSeg-searchTau-PreGoalAlpha-Novel.executor": "Debug",
+    "Python.MetaGC-traj-noSeg-searchTau-PreGoalAlpha.executor": "Debug",
+    "Python.MetaGC-traj-noSeg-searchTau-PreGoalAlpha_adjust_cov.executor": "Debug",
+    "Python.MetaGC-traj-noSeg-searchTau.executor": "Debug",
+    "Python.Meta_load_dataset.executor": "Debug",
+    "Python.Meta_load_dataset_novelObj.executor": "Debug",
+    "Python.MiLa-MAML-Model.executor": "Debug",
+    "Python.MiLa-NoGMM-Novel.executor": "Debug",
+    "Python.MiLa-NoGMM.executor": "Run",
+    "Python.MiLa-PreGoalAlpha-PreCompuPinv-classifier-continue-Novel.executor": "Debug",
+    "Python.MiLa-PreGoalAlpha-PreCompuPinv-classifier-continue.executor": "Debug",
+    "Python.MiLa-PreGoalAlpha-PreCompuPinv-classifier.executor": "Debug",
+    "Python.MiLa-PreGoalAlpha-PreCompuPinv-develop-version.executor": "Debug",
+    "Python.MiLa-PreGoalAlpha-PreCompuPinv-policy.executor": "Debug",
+    "Python.MiLa-classifier-dt4-newGMM-ds3-GC-Classifier-noDuplicate.executor": "Debug",
+    "Python.MiLa-classifier-dt4-newGMM-ds3-GC-Classifier.executor": "Debug",
+    "Python.MiLa-classifier-dt4-newGMM-ds3-given-order-Novel.executor": "Debug",
+    "Python.MiLa-classifier-dt4-newGMM-ds3-given-order.executor": "Debug",
+    "Python.MiLa-classifier-dt4-newGMM-ds3.executor": "Debug",
+    "Python.MiLa-classifier-dt4-oldGMM-ds1.executor": "Run",
+    "Python.MiLa-classifier-new-network.executor": "Debug",
+    "Python.MiLa-exp1.executor": "Debug",
+    "Python.MiLa-given-order.executor": "Debug",
+    "Python.MiLa.executor": "Debug",
+    "Python.Model.executor": "Run",
+    "Python.MyCNN.executor": "Debug",
+    "Python.NoExplodingModel.executor": "Debug",
+    "Python.NotDivergeModel.executor": "Debug",
+    "Python.PyTorch2LibTorch.executor": "Debug",
+    "Python.compute-GCSL-traj.executor": "Debug",
+    "Python.compute_average_time.executor": "Run",
+    "Python.compute_mse.executor": "Run",
+    "Python.converter-GCSL.executor": "Run",
+    "Python.converter-MAML.executor": "Run",
+    "Python.converter-MiLa.executor": "Run",
+    "Python.cross-validation.executor": "Debug",
+    "Python.eval-GCSL.executor": "Run",
+    "Python.eval-MPclassifier.executor": "Run",
+    "Python.eval-MetaGC-traj-noSeg-searchTau-NovelDistractor.executor": "Run",
+    "Python.eval-MetaGC-traj-noSeg-searchTau-PreGoalAlpha-NoGMM.executor": "Run",
+    "Python.eval-MetaGC-traj-noSeg-searchTau-PreGoalAlpha-Novel.executor": "Run",
+    "Python.eval-MetaGC-traj-noSeg-searchTau-PreGoalAlpha.executor": "Run",
+    "Python.eval-MetaGC-traj-noSeg-searchTau.executor": "Debug",
+    "Python.eval-MiLa-NoGMM-Novel.executor": "Run",
+    "Python.eval-MiLa-NoGMM.executor": "Run",
+    "Python.eval-MiLa-Novel.executor": "Debug",
+    "Python.eval-MiLa-PreGoal-OptimSameAlpha-PreCompuPinv-Novel.executor": "Run",
+    "Python.eval-MiLa-PreGoalAlpha-PreCompuPinv-classifier-Novel.executor": "Run",
+    "Python.eval-MiLa-PreGoalAlpha-PreCompuPinv-classifier.executor": "Debug",
+    "Python.eval-MiLa-classifier-dt4-newGMM-ds3-given-order.executor": "Debug",
+    "Python.eval-MiLa.executor": "Debug",
+    "Python.eval-segTraj-Goal-Alpha.executor": "Run",
+    "Python.eval-traj-noSeg-searchTau-Novel-changed-goalImg.executor": "Run",
+    "Python.eval-traj-noSeg-searchTau-Novel-groundTruth.executor": "Run",
+    "Python.eval-traj-noSeg-searchTau-Novel.executor": "Debug",
+    "Python.eval-traj-noSeg-searchTau-nonNovel.executor": "Run",
+    "Python.eval-traj-noSeg-searchTau.executor": "Run",
+    "Python.eval.executor": "Run",
+    "Python.eval_novelObj.executor": "Debug",
+    "Python.eval_segTraj_Goal.executor": "Run",
+    "Python.get_dataset.executor": "Debug",
+    "Python.load_dataset.executor": "Debug",
+    "Python.load_dataset_goal.executor": "Debug",
+    "Python.plot-GCSL-traj.executor": "Debug",
+    "Python.pytorchModel_to_libtorchModel.executor": "Run",
+    "Python.save-MPclassifierModel-to-libtorch.executor": "Run",
+    "Python.save_crop_image.executor": "Run",
+    "Python.segment-traj.executor": "Run",
+    "Python.segmentTraToMP.executor": "Debug",
+    "Python.show_test_data.executor": "Debug",
+    "Python.show_test_traj.executor": "Run",
+    "Python.tmp.executor": "Run",
+    "Python.trainMPclassifier.executor": "Debug",
+    "Python.update-model-once-to-libtorch.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/robot-learn/Desktop/MAML-Imitation-Learning",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Experiment-Given-Order/H-DAML" />
+      <recent name="$PROJECT_DIR$/Model" />
+      <recent name="$PROJECT_DIR$/Experiment-Given-Order/MiLa" />
+      <recent name="$PROJECT_DIR$/Experiment-Given-Order/GCSL" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Experiment-Given-Order/MiLa/saved" />
+      <recent name="$PROJECT_DIR$/Experiment-Given-Order/MiLa/saved/old-history" />
+      <recent name="$PROJECT_DIR$/Experiment-Given-Order/GCSL/old-history/predict-next-state" />
+      <recent name="$PROJECT_DIR$/Experiment-Given-Order/GCSL" />
+      <recent name="$PROJECT_DIR$/Experiment-Given-Order/MiLa-ablation-NoGMM/saved" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.GC-MAML-no-exploding">
+    <configuration name="GC-MAML-clip-inner-grad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MiLa-ISRR" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment-Given-Order/H-DAML" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment-Given-Order/H-DAML/GC-MAML-clip-inner-grad.py" />
+      <option name="PARAMETERS" value="--epoch 50000 --batch 2 --save-name tmp --inner-lr 0.001 --outer-lr 0.01" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GC-MAML-no-exploding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MiLa-ISRR" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment-Given-Order/H-DAML" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment-Given-Order/H-DAML/GC-MAML-no-exploding.py" />
+      <option name="PARAMETERS" value="--epoch 50000 --batch 2 --save-name tmp --inner-lr 0.0001 --outer-lr 0.0001" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GC-MAML" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MiLa-ISRR" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment-Given-Order/H-DAML" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment-Given-Order/H-DAML/GC-MAML.py" />
+      <option name="PARAMETERS" value="--epoch 50000 --batch 2 --save-name tmp --inner-lr 0.001 --outer-lr 0.001" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NoExplodingModel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MiLa-ISRR" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Model/NoExplodingModel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eval-MiLa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MiLa-ISRR" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiment-Given-Order/MiLa" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiment-Given-Order/MiLa/eval-MiLa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.GC-MAML-no-exploding" />
+      <item itemvalue="Python.NoExplodingModel" />
+      <item itemvalue="Python.GC-MAML-clip-inner-grad" />
+      <item itemvalue="Python.eval-MiLa" />
+      <item itemvalue="Python.GC-MAML" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.GC-MAML-no-exploding" />
+        <item itemvalue="Python.NoExplodingModel" />
+        <item itemvalue="Python.GC-MAML-clip-inner-grad" />
+        <item itemvalue="Python.GC-MAML" />
+        <item itemvalue="Python.eval-MiLa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb1637f5-b87c-4142-9f93-25d64e341ba2" name="Changes" comment="" />
+      <created>1706993471206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706993471206</updated>
+      <workItem from="1706993472240" duration="33413000" />
+      <workItem from="1707840372003" duration="49392000" />
+      <workItem from="1709130183504" duration="1097000" />
+      <workItem from="1709131357515" duration="83589000" />
+      <workItem from="1709634767757" duration="7000" />
+      <workItem from="1709641448599" duration="96000" />
+      <workItem from="1709641555058" duration="3000" />
+      <workItem from="1709641667613" duration="795000" />
+      <workItem from="1709650882968" duration="32000" />
+      <workItem from="1709670187053" duration="2653000" />
+      <workItem from="1709733675165" duration="89678000" />
+      <workItem from="1710276169815" duration="95000" />
+      <workItem from="1710278273014" duration="2203000" />
+      <workItem from="1710324089076" duration="9000" />
+      <workItem from="1710329472399" duration="169000" />
+      <workItem from="1710332334491" duration="111000" />
+      <workItem from="1710336052677" duration="199000" />
+      <workItem from="1710339084882" duration="13589000" />
+      <workItem from="1710433111362" duration="57000" />
+      <workItem from="1710435788452" duration="12000" />
+      <workItem from="1710442599341" duration="616000" />
+      <workItem from="1710445416253" duration="99000" />
+      <workItem from="1710447176638" duration="103000" />
+      <workItem from="1710447288679" duration="58828000" />
+      <workItem from="1710939778680" duration="655000" />
+      <workItem from="1710940849210" duration="54000" />
+      <workItem from="1710943184758" duration="105000" />
+      <workItem from="1710952281711" duration="74547000" />
+      <workItem from="1711466753046" duration="5105000" />
+      <workItem from="1711489521291" duration="38000" />
+      <workItem from="1711491434254" duration="21804000" />
+      <workItem from="1711627137940" duration="18523000" />
+      <workItem from="1711998404317" duration="37000" />
+      <workItem from="1712005626632" duration="670000" />
+      <workItem from="1712047278830" duration="1260000" />
+      <workItem from="1712068405974" duration="5000" />
+      <workItem from="1712073399700" duration="563000" />
+      <workItem from="1712082110918" duration="7997000" />
+      <workItem from="1712150115456" duration="6485000" />
+      <workItem from="1712169875574" duration="5983000" />
+      <workItem from="1712239544740" duration="23729000" />
+      <workItem from="1712654982434" duration="11842000" />
+      <workItem from="1712833266118" duration="14000" />
+      <workItem from="1712835568010" duration="24000" />
+      <workItem from="1712844240919" duration="763000" />
+      <workItem from="1713206045355" duration="297000" />
+      <workItem from="1713207565552" duration="68359000" />
+      <workItem from="1713960432349" duration="58513000" />
+      <workItem from="1714564479153" duration="44403000" />
+      <workItem from="1714760998768" duration="1118000" />
+      <workItem from="1714767471011" duration="8728000" />
+      <workItem from="1714912783945" duration="674000" />
+      <workItem from="1715169401576" duration="26000" />
+      <workItem from="1715597126432" duration="11000" />
+      <workItem from="1715610255505" duration="5000" />
+      <workItem from="1715694492048" duration="26000" />
+      <workItem from="1715973399754" duration="36000" />
+      <workItem from="1715975751295" duration="4000" />
+      <workItem from="1716050585820" duration="24000" />
+      <workItem from="1717438965640" duration="1387000" />
+      <workItem from="1717445072668" duration="1069000" />
+      <workItem from="1717492309693" duration="25000" />
+      <workItem from="1717512643590" duration="11943000" />
+      <workItem from="1717693208419" duration="24069000" />
+      <workItem from="1717864878199" duration="4000" />
+      <workItem from="1717865774839" duration="40000" />
+      <workItem from="1717865838446" duration="50000" />
+      <workItem from="1717866127004" duration="16043000" />
+      <workItem from="1718032833969" duration="613000" />
+      <workItem from="1718190943582" duration="5643000" />
+      <workItem from="1718225571858" duration="573000" />
+      <workItem from="1718226323536" duration="13000" />
+      <workItem from="1718230511806" duration="1411000" />
+      <workItem from="1718388692332" duration="34000" />
+      <workItem from="1718388735979" duration="2000" />
+      <workItem from="1718388806530" duration="1000" />
+      <workItem from="1718388913223" duration="2203000" />
+      <workItem from="1718391968815" duration="230000" />
+      <workItem from="1718393100737" duration="3000" />
+      <workItem from="1718440129214" duration="578000" />
+      <workItem from="1718441491329" duration="6000" />
+      <workItem from="1718468260064" duration="713000" />
+      <workItem from="1718616382733" duration="36000" />
+      <workItem from="1718617791898" duration="38000" />
+      <workItem from="1718650780344" duration="37000" />
+      <workItem from="1718707702108" duration="2625000" />
+      <workItem from="1718723068955" duration="9361000" />
+      <workItem from="1718812504757" duration="34000" />
+      <workItem from="1718812605476" duration="23000" />
+      <workItem from="1718821802086" duration="623000" />
+      <workItem from="1718827384378" duration="352000" />
+      <workItem from="1718827769968" duration="5000" />
+      <workItem from="1718832850086" duration="6000" />
+      <workItem from="1718834091985" duration="18000" />
+      <workItem from="1718879402515" duration="7000" />
+      <workItem from="1718891139664" duration="880000" />
+      <workItem from="1718918545117" duration="677000" />
+      <workItem from="1718963731373" duration="42000" />
+      <workItem from="1718965254833" duration="40000" />
+      <workItem from="1719002914039" duration="26000" />
+      <workItem from="1719067116929" duration="27000" />
+      <workItem from="1719070928851" duration="15000" />
+      <workItem from="1719155013118" duration="4547000" />
+      <workItem from="1719161621442" duration="62000" />
+      <workItem from="1719161689592" duration="7000" />
+      <workItem from="1719163676776" duration="1068000" />
+      <workItem from="1719165028138" duration="1526000" />
+      <workItem from="1719173809641" duration="569000" />
+      <workItem from="1719176668782" duration="44000" />
+      <workItem from="1719177173549" duration="81000" />
+      <workItem from="1719178364416" duration="53000" />
+      <workItem from="1719215969818" duration="6000" />
+      <workItem from="1719217691524" duration="25000" />
+      <workItem from="1719225586898" duration="37000" />
+      <workItem from="1719230176763" duration="19000" />
+      <workItem from="1719230252955" duration="26000" />
+      <workItem from="1719238367465" duration="79000" />
+      <workItem from="1719247599501" duration="14000" />
+      <workItem from="1719247933209" duration="766000" />
+      <workItem from="1719256075804" duration="9000" />
+      <workItem from="1719256093536" duration="200000" />
+      <workItem from="1719259473394" duration="3335000" />
+      <workItem from="1719262980610" duration="8335000" />
+      <workItem from="1719313923621" duration="2214000" />
+      <workItem from="1719500222422" duration="58159000" />
+      <workItem from="1719944460255" duration="4241000" />
+      <workItem from="1720007728414" duration="122000" />
+      <workItem from="1720014646115" duration="4711000" />
+      <workItem from="1720025052177" duration="48000" />
+      <workItem from="1720028059346" duration="1857000" />
+      <workItem from="1720035005690" duration="76000" />
+      <workItem from="1720038253114" duration="5990000" />
+      <workItem from="1720088324879" duration="655000" />
+      <workItem from="1720089053144" duration="1132000" />
+      <workItem from="1720090500635" duration="6000" />
+      <workItem from="1720091380249" duration="42000" />
+      <workItem from="1720091478396" duration="72071000" />
+      <workItem from="1720462389280" duration="54623000" />
+      <workItem from="1720650492933" duration="46000" />
+      <workItem from="1720650545046" duration="15710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/old-history/eval-MiLa-PreGoalAlpha-PreCompuPinv-classifier-Novel.py</url>
+          <line>393</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eval-MiLa-PreGoalAlpha-PreCompuPinv-classifier.py</url>
+          <line>454</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/old-history/MiLa-PreGoalAlpha-PreCompuPinv-classifier.py</url>
+          <line>480</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Experiment-Given-Order/GCSL/old-history/predict-next-state/converter-GCSL.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Experiment-Given-Order/GCSL/GCSL.py</url>
+          <line>289</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Experiment-Given-Order/GCSL/plot-GCSL-traj.py</url>
+          <line>271</line>
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Experiment-Given-Order/GCSL/plot-GCSL-traj.py</url>
+          <line>237</line>
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Experiment-Given-Order/MiLa/MiLa-MAML-Model.py</url>
+          <line>446</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Experiment-Given-Order/MiLa/MiLa-MAML-Model.py</url>
+          <line>469</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Experiment-Given-Order/MiLa/MiLa.py</url>
+          <line>498</line>
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Experiment-Given-Order/H-DAML/MAML.py</url>
+          <line>325</line>
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Experiment-Given-Order/H-DAML/MAML.py</url>
+          <line>369</line>
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Model/Maml_Model.py</url>
+          <line>296</line>
+          <option name="timeStamp" value="372" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Experiment-Given-Order/H-DAML/GC-MAML-clip-inner-grad.py</url>
+          <line>315</line>
+          <option name="timeStamp" value="385" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Experiment-Given-Order/H-DAML/GC-MAML-no-exploding.py</url>
+          <line>293</line>
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Experiment-Given-Order/H-DAML/GC-MAML-no-exploding.py</url>
+          <line>346</line>
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Experiment-Given-Order/H-DAML/GC-MAML-no-exploding.py</url>
+          <line>322</line>
+          <option name="timeStamp" value="428" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison_down_sample_3$MiLa_classifier_dt4_newGMM_ds3_GC_Classifier_noDuplicate.coverage" NAME="MiLa-classifier-dt4-newGMM-ds3-GC-Classifier-noDuplicate Coverage Results" MODIFIED="1719505155769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$eval.coverage" NAME="eval Coverage Results" MODIFIED="1707134446194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$trainMPclassifier.coverage" NAME="trainMPclassifier Coverage Results" MODIFIED="1711033243823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$Meta_GCSL.coverage" NAME="Meta-GCSL Coverage Results" MODIFIED="1707131709009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$MiLa_PreGoalAlpha_PreCompuPinv_classifier_continue_Novel.coverage" NAME="MiLa-PreGoalAlpha-PreCompuPinv-classifier-continue-Novel Coverage Results" MODIFIED="1717876220352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$eval_MetaGC_traj_noSeg_searchTau.coverage" NAME="eval-MetaGC-traj-noSeg-searchTau Coverage Results" MODIFIED="1710688451977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$MiLa_MAML_Model.coverage" NAME="MiLa-MAML-Model Coverage Results" MODIFIED="1720462032726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/MiLa" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR_cuss$NoExplodingModel.coverage" NAME="NoExplodingModel Coverage Results" MODIFIED="1720703242284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison_down_sample_3$segment_traj.coverage" NAME="segment-traj Coverage Results" MODIFIED="1720015426673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison_down_sample_3$MiLa_classifier_dt4_oldGMM_ds1.coverage" NAME="MiLa-classifier-dt4-oldGMM-ds1 Coverage Results" MODIFIED="1719261913308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$GCSL_traj_noSeg_searchTau_Novel.coverage" NAME="GCSL-traj-noSeg-searchTau-Novel Coverage Results" MODIFIED="1709294236492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$Meta_load_dataset_novelObj.coverage" NAME="Meta_load_dataset_novelObj Coverage Results" MODIFIED="1707148110487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$MAML.coverage" NAME="MAML Coverage Results" MODIFIED="1720555240006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/H-DAML" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$MetaGC_traj_noSeg_searchTau_PreGoalAlpha.coverage" NAME="MetaGC-traj-noSeg-searchTau-PreGoalAlpha Coverage Results" MODIFIED="1713953444817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$MetaGC_traj_noSeg_searchTau_PreGoalAlpha_adjust_cov.coverage" NAME="MetaGC-traj-noSeg-searchTau-PreGoalAlpha_adjust_cov Coverage Results" MODIFIED="1712152872226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$eval_MiLa_PreGoal_OptimSameAlpha_PreCompuPinv_Novel.coverage" NAME="eval-MiLa-PreGoal-OptimSameAlpha-PreCompuPinv-Novel Coverage Results" MODIFIED="1717789745659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$Meta_load_dataset.coverage" NAME="Meta_load_dataset Coverage Results" MODIFIED="1707129192923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$MetaGC_traj_noSeg_searchTau.coverage" NAME="MetaGC-traj-noSeg-searchTau Coverage Results" MODIFIED="1709759065840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$eval_MPclassifier.coverage" NAME="eval-MPclassifier Coverage Results" MODIFIED="1711036291167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$MetaGC_traj_noSeg_searchTau_PreGoalAlpha_KnowInnerOrder.coverage" NAME="MetaGC-traj-noSeg-searchTau-PreGoalAlpha-KnowInnerOrder Coverage Results" MODIFIED="1710590374712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1712497033064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$MetaGC_traj_noSeg_searchTau_Novel_continue_training.coverage" NAME="MetaGC-traj-noSeg-searchTau-Novel-continue-training Coverage Results" MODIFIED="1710259753416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$eval_segTraj_Goal.coverage" NAME="eval_segTraj_Goal Coverage Results" MODIFIED="1707992993878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$GCSL_MAML_Model.coverage" NAME="GCSL-MAML-Model Coverage Results" MODIFIED="1720460570926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/GCSL" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$segmentTraToMP.coverage" NAME="segmentTraToMP Coverage Results" MODIFIED="1711027438423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$GCSL.coverage" NAME="GCSL Coverage Results" MODIFIED="1707134238708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$cross_validation.coverage" NAME="cross-validation Coverage Results" MODIFIED="1709587192311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$MiLa_PreGoalAlpha_PreCompuPinv_classifier_continue.coverage" NAME="MiLa-PreGoalAlpha-PreCompuPinv-classifier-continue Coverage Results" MODIFIED="1717876089260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison_down_sample_3$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1719566425114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison_down_sample_3$eval_MiLa_classifier_dt4_newGMM_ds3_given_order.coverage" NAME="eval Coverage Results" MODIFIED="1719829183770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$eval_MiLa_NoGMM.coverage" NAME="eval-MiLa-NoGMM Coverage Results" MODIFIED="1720171118016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/MiLa-ablation-NoGMM" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$MiLa_NoGMM_Novel.coverage" NAME="MiLa-NoGMM-Novel Coverage Results" MODIFIED="1720172623165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/MiLa-ablation-NoGMM" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$GCSLModel.coverage" NAME="GCSLModel Coverage Results" MODIFIED="1720460006317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$eval_traj_noSeg_searchTau.coverage" NAME="eval-traj-noSeg-searchTau-nonNovel Coverage Results" MODIFIED="1708338622211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$compute_mse.coverage" NAME="compute_mse Coverage Results" MODIFIED="1720095376650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$save_crop_image.coverage" NAME="save_crop_image Coverage Results" MODIFIED="1709294635607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1714141346221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$MiLa_PreGoalAlpha_PreCompuPinv_policy.coverage" NAME="MiLa-PreGoalAlpha-PreCompuPinv-policy Coverage Results" MODIFIED="1718805021476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$get_dataset.coverage" NAME="get_dataset Coverage Results" MODIFIED="1709585669375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$MiLa_PreGoalAlpha_PreCompuPinv_develop_version.coverage" NAME="MiLa-PreGoalAlpha-PreCompuPinv-classifier Coverage Results" MODIFIED="1714661125179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison_down_sample_3$MiLa_given_order.coverage" NAME="MiLa-given-order Coverage Results" MODIFIED="1719931753516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$show_test_traj.coverage" NAME="show_test_traj Coverage Results" MODIFIED="1720524578805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison_down_sample_3$MiLa_classifier_new_network.coverage" NAME="MiLa-classifier-new-network Coverage Results" MODIFIED="1719911764006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$eval_MiLa_Novel.coverage" NAME="eval-MiLa-Novel Coverage Results" MODIFIED="1720525718144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/MiLa" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$show_test_data.coverage" NAME="show_test_data Coverage Results" MODIFIED="1707142299430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$MetaGC_traj_noSeg_searchTau_PreGoalAlpha.coverage" NAME="MetaGC-traj-noSeg-searchTau-PreGoalAlpha Coverage Results" MODIFIED="1712654632230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$MetaGC_traj_noSeg_searchTau_PreGoalAlpha_NoGMM.coverage" NAME="MetaGC-traj-noSeg-searchTau-PreGoalAlpha-NoGMM Coverage Results" MODIFIED="1712170637958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$eval_GCSL.coverage" NAME="eval-GCSL Coverage Results" MODIFIED="1720274894756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/GCSL" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$compute_average_time.coverage" NAME="compute_average_time Coverage Results" MODIFIED="1712844281517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$eval_traj_noSeg_searchTau_Novel_groundTruth.coverage" NAME="eval-traj-noSeg-searchTau-Novel-groundTruth Coverage Results" MODIFIED="1709218778273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$MetaGC_traj_noSeg_searchTau_PreGoal_OptimAlpha.coverage" NAME="MetaGC-traj-noSeg-searchTau-PreGoal-OptimAlpha Coverage Results" MODIFIED="1714242976538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$MPclassifier.coverage" NAME="MPclassifier Coverage Results" MODIFIED="1711017994461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$update_model_once_to_libtorch.coverage" NAME="update-model-once-to-libtorch Coverage Results" MODIFIED="1710497862260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$eval_MiLa_NoGMM_Novel.coverage" NAME="eval-MiLa-NoGMM-Novel Coverage Results" MODIFIED="1720216820837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/MiLa-ablation-NoGMM" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$PyTorch2LibTorch.coverage" NAME="PyTorch2LibTorch Coverage Results" MODIFIED="1710089539685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$Model.coverage" NAME="Model Coverage Results" MODIFIED="1720461826996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$Meta_traj_noSeg_searchTau.coverage" NAME="Meta-traj-noSeg-searchTau Coverage Results" MODIFIED="1709758454255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$update_model_once_to_libtorch.coverage" NAME="update-model-once-to-libtorch Coverage Results" MODIFIED="1714144584107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison_down_sample_3$MiLa_classifier_dt4_newGMM_ds3_GC_Classifier.coverage" NAME="MiLa-classifier-dt4-newGMM-ds3-GC-Classifier Coverage Results" MODIFIED="1719594984421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$MiLa_exp1.coverage" NAME="MiLa-exp1 Coverage Results" MODIFIED="1714143540110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$MetaDataset.coverage" NAME="MetaDataset Coverage Results" MODIFIED="1710189566304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison_down_sample_3$NotDivergeModel.coverage" NAME="NotDivergeModel Coverage Results" MODIFIED="1719865214268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison_down_sample_3$MiLa.coverage" NAME="MiLa Coverage Results" MODIFIED="1720086901557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/MiLa" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$eval_novelObj.coverage" NAME="eval_novelObj Coverage Results" MODIFIED="1707140857099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison_down_sample_3$show_test_traj.coverage" NAME="show_test_traj Coverage Results" MODIFIED="1720086505665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$GCSL_traj_noSeg_searchTau.coverage" NAME="GCSL-traj-noSeg-searchTau-nonNovel Coverage Results" MODIFIED="1708105852050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$GC_MAML.coverage" NAME="GC-MAML Coverage Results" MODIFIED="1720648960762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/H-DAML" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$MiLa_PreGoalAlpha_PreCompuPinv_classifier.coverage" NAME="MiLa-PreGoalAlpha-PreCompuPinv-classifier Coverage Results" MODIFIED="1719155146229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$eval_MiLa_PreGoalAlpha_PreCompuPinv_classifier_Novel.coverage" NAME="eval-MiLa-PreGoalAlpha-PreCompuPinv-classifier-Novel Coverage Results" MODIFIED="1718891152378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$converter_MiLa.coverage" NAME="converter-MiLa Coverage Results" MODIFIED="1720559150877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/MiLa" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$converter_GCSL.coverage" NAME="converter-GCSL Coverage Results" MODIFIED="1720471886696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/GCSL" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$eval_MetaGC_traj_noSeg_searchTau_PreGoalAlpha.coverage" NAME="eval-MetaGC-traj-noSeg-searchTau-PreGoalAlpha Coverage Results" MODIFIED="1714070529911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR_cuss$GC_MAML_no_exploding.coverage" NAME="GC-MAML-no-exploding Coverage Results" MODIFIED="1720706253657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/H-DAML" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$eval_MetaGC_traj_noSeg_searchTau_PreGoalAlpha.coverage" NAME="eval-MetaGC-traj-noSeg-searchTau-PreGoalAlpha Coverage Results" MODIFIED="1712135906925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$GCSL.coverage" NAME="GCSL Coverage Results" MODIFIED="1720458363785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/GCSL" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$eval_MetaGC_traj_noSeg_searchTau_PreGoalAlpha_Novel.coverage" NAME="eval-MetaGC-traj-noSeg-searchTau-PreGoalAlpha-Novel Coverage Results" MODIFIED="1711104176662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$Maml_Model.coverage" NAME="Maml_Model Coverage Results" MODIFIED="1720647171148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$PyTorch2LibTorch.coverage" NAME="PyTorch2LibTorch Coverage Results" MODIFIED="1714662462269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison_down_sample_3$MiLa_classifier_dt4_newGMM_ds3_given_order_Novel.coverage" NAME="MiLa-classifier-dt4-newGMM-ds3-given-order-Novel Coverage Results" MODIFIED="1720038749114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$plot_GCSL_traj.coverage" NAME="plot-GCSL-traj Coverage Results" MODIFIED="1720383208263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/GCSL" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$MetaGC_traj_noSeg_searchTau_Novel.coverage" NAME="MetaGC-traj-noSeg-searchTau-Novel Coverage Results" MODIFIED="1710260186202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$show_test_traj.coverage" NAME="show_test_traj Coverage Results" MODIFIED="1712781029434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$load_dataset.coverage" NAME="load_dataset Coverage Results" MODIFIED="1709131196264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$eval_traj_noSeg_searchTau_Novel_changed_goalImg.coverage" NAME="eval-traj-noSeg-searchTau-Novel-changed-goalImg Coverage Results" MODIFIED="1709734418906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$MyCNN.coverage" NAME="MyCNN Coverage Results" MODIFIED="1709736551592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$eval_MetaGC_traj_noSeg_searchTau_PreGoalAlpha_Novel.coverage" NAME="eval-MetaGC-traj-noSeg-searchTau-PreGoalAlpha-Novel Coverage Results" MODIFIED="1714138718443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$eval_MetaGC_traj_noSeg_searchTau_PreGoalAlpha_NoGMM.coverage" NAME="eval-MetaGC-traj-noSeg-searchTau-PreGoalAlpha-NoGMM Coverage Results" MODIFIED="1712778595698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$MetaGC_traj_noSeg_searchTau_PreGoalAlpha_Novel.coverage" NAME="MetaGC-traj-noSeg-searchTau-PreGoalAlpha-Novel Coverage Results" MODIFIED="1711027299509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison_down_sample_3$MiLa_classifier_dt4_newGMM_ds3.coverage" NAME="MiLa-classifier-dt4-newGMM-ds3 Coverage Results" MODIFIED="1719306283365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$MPPolicy.coverage" NAME="MPPolicy Coverage Results" MODIFIED="1714666060425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR_cuss$GC_MAML_clip_inner_grad.coverage" NAME="GC-MAML-clip-inner-grad Coverage Results" MODIFIED="1720691520519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/H-DAML" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$MetaGC_traj_noSeg_searchTau_PreGoalAlpha_Novel.coverage" NAME="MetaGC-traj-noSeg-searchTau-PreGoalAlpha-Novel Coverage Results" MODIFIED="1714072352883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$eval_segTraj_Goal_Alpha.coverage" NAME="eval-segTraj-Goal-Alpha Coverage Results" MODIFIED="1707917725355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$eval_MetaGC_traj_noSeg_searchTau_NovelDistractor.coverage" NAME="eval-MetaGC-traj-noSeg-searchTau-NovelDistractor Coverage Results" MODIFIED="1710490864483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$pytorchModel_to_libtorchModel.coverage" NAME="pytorchModel_to_libtorchModel Coverage Results" MODIFIED="1709328280395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$converter_MAML.coverage" NAME="converter-MAML Coverage Results" MODIFIED="1720623894200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/H-DAML" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$GCSL_traj_noSeg_searchTau_Novel_changed_goalImg.coverage" NAME="GCSL-traj-noSeg-searchTau-Novel-changed-goalImg Coverage Results" MODIFIED="1709757771166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$eval_MiLa_PreGoalAlpha_PreCompuPinv_classifier.coverage" NAME="eval-MiLa-PreGoalAlpha-PreCompuPinv-classifier Coverage Results" MODIFIED="1719161630112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$compute_GCSL_traj.coverage" NAME="compute-GCSL-traj Coverage Results" MODIFIED="1720384026275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/GCSL" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$MiLa.coverage" NAME="MiLa Coverage Results" MODIFIED="1720462445488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/MiLa" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$show_test_traj.coverage" NAME="show_test_traj Coverage Results" MODIFIED="1718891373620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$23June_tmp.coverage" NAME="23June-tmp Coverage Results" MODIFIED="1719174271685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison_down_sample_3$MiLa_classifier_dt4_newGMM_ds3_given_order.coverage" NAME="MiLa-classifier-dt4-newGMM-ds3-given-order Coverage Results" MODIFIED="1719829046425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$save_MPclassifierModel_to_libtorch.coverage" NAME="save-MPclassifierModel-to-libtorch Coverage Results" MODIFIED="1711036664144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison_down_sample_3$eval.coverage" NAME="eval Coverage Results" MODIFIED="1720086003187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$eval_MiLa.coverage" NAME="eval-MiLa Coverage Results" MODIFIED="1720648249804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Experiment-Given-Order/MiLa" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$load_dataset_goal.coverage" NAME="load_dataset_goal Coverage Results" MODIFIED="1707065888018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/GCLHSkills_publish_verison$MetaGC_traj_noSeg_searchTau_PreGoal_OptimAlpha_PreCompuPinv.coverage" NAME="MetaGC-traj-noSeg-searchTau-PreGoal-OptimAlpha-PreCompuPinv Coverage Results" MODIFIED="1714242895454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/MiLa_ISRR$segment_traj.coverage" NAME="segment-traj Coverage Results" MODIFIED="1720125575788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GCLHSkills$eval_traj_noSeg_searchTau_Novel.coverage" NAME="eval-traj-noSeg-searchTau-Novel Coverage Results" MODIFIED="1709566070169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

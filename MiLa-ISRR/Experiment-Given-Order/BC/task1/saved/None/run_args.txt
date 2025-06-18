@@ -1,0 +1,12 @@
+epoch = 50000
+seed = 1
+batch = None
+save_name = None
+device = cuda:0
+sample_size = 40
+down_sample_factor = 2
+interval = 3
+loss_factor = 1
+multi_dt = None
+lr = 0.001
+subtask = None

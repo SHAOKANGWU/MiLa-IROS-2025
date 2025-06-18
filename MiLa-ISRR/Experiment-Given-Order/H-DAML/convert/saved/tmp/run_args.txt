@@ -1,0 +1,14 @@
+epoch = 50000
+seed = 1
+batch = 6
+save_name = tmp
+device = cpu
+sample_size = 40
+down_sample_factor = 2
+interval = 6
+loss_factor = 10000
+multi_dt = 6
+inner_lr = 0.0001
+outer_lr = 0.0001
+adaptation_steps = 1
+subtask = 2

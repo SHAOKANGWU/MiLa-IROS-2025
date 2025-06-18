@@ -1,0 +1,170 @@
+In real world, we can not fix the number of skills, rather we should add a penalty term in tau/skills
+    because we do not know how many skills the model will adopt on the new situations#
+
+
+when we collect our dataset, we should start saving data when the robot moving, and stop saving when the robot stopping
+    (add a function in cpp code to deal with the above requirements)
+
+
+# TODO: predict tau rather than match tau.
+# Given image, predict the mean and covariance of tau
+
+    mean, std = model(img)
+    sample = Gaussian_distribution
+    predict = mean + std * sample
+
+    or
+
+    z = x_var.sqrt() * torch.randn(x_mean.size()) + x_mean
+
+
+# 5 tasks (6 demos per task) datasets
+traj length from 0 to -90
+image
+(225, 10) left corner
+(437, 306) right corner
+weights: extract from task 5, demo 2 (first skill end at 8.36 seconds, second skill end at 15 seconds)
+
+TODO: tau cannot be too large
+
+Tianhe Yu experiments:
+
+meta train batch size: 8 (or 12, 10, 4, but 12 and 10 may exceed our GPU memory)
+
+meta train (inner update) update 5 times before do meta test update (outer update)
+
+
+TODO 22 Nov:
+    goal - initPos for x and y, max(z) - min(z) for z.
+        max(z) - min(z) is fixed after having the pick as place skill
+
+TODO: 23 Nov:
+    The robot configuration includes the joint angles and also the end effector position
+
+
+Long horizon task + DAML:
+
+for epoch:
+    # meta train
+    sample skills:
+    total_loss = 0
+        for batch:  # tasks
+            loss = mse()    # human demonstration
+            total_loss += loss
+
+    inner_update
+
+    # meta test
+    sample skills:
+    total_loss = 0
+        for batch:  # tasls
+            loss = mse()    # robot demonstration
+            total_loss += loss
+    outer_update
+
+
+meta-DMPs:
+
+for epoch:
+
+    # meta train
+    total_loss = 0
+    for batch:
+        loss = mse()
+        total_los += loss
+    inner_update
+
+    # meta test
+        total_loss = 0
+    for batch:
+        loss = mse()
+        total_los += loss
+    outer_update
+
+
+Verify my idea that use python and c++ to control the robot with the help of txt
+
+todo: Bias transformation and end effector have not implement yet
+    In meta-train, I randomly sample batch frames, in meta-test, I input the whole trajectory and also predict the whole trajectory
+
+    Even though we have predicted the goal correctly,
+        if the tau does not match the training data, the two sub-trajectory may still have a large gap
+
+    Also constraint the predicted goal (given a prior)
+
+
+TODO: collect data that pushing to the same end-point
+    1. find a method to reduce the memory usage of GPU.
+
+task 8, demo 4
+task 13, demo 1, 5
+task 14, *
+task 19, demo 1
+task 20, demo 1, 5
+task 21, demo 3, 4
+task 22, demo 2
+task 23, *
+task 24, demo 1, 3
+task 26, demo 5
+task 27, demo 3
+task 30, demo 3
+task 31, demo 2
+task 32, demo 5
+task 33, demo 2, 3
+task 35, demo 5
+task 36, *
+task 37, demo 1, 3
+task 42, demo 5
+task 43, demo 1, 4
+task 44, demo 1
+task 47, demo 5
+task 48, demo 3
+task 49, demo 2
+task 50, demo 1, 3
+task 52, demo 3
+task 55, demo 4
+task 57, demo 2
+task 59, demo 3
+task 60, *
+
+python main-3D-meta-dev-3skills-GMM.py --batch 3 --seed 1 --save-name resnet18-seed1 --device cuda:0 --inner-goal 0.0001
+
+    state_dict = torch.load("saved/resnet34-seed1-fixed-meta-test/model.pth")
+    tau_model.load_state_dict(state_dict["tau_model"])
+    logits_model.load_state_dict(state_dict["logits_model"])
+    goal_model.load_state_dict(state_dict["goal_model"])
+    optimizer_goal.load_state_dict(state_dict["goal_opt"])
+    optimizer_tau.load_state_dict(state_dict["tau_opt"])
+    optimizer_logits.load_state_dict(state_dict["logits_opt"])
+
+
+        batch = 1 # args.batch
+        batch_tasks, batch_demos = [3], [[4, 5]]# test_demos(batch)
+
+TODO:
+    The problem why our first skill fails is because the large loss in the second and third skill,
+        the NN may focus on the second and third skill rather than the first loss
+
+    Solutions: try to decrease the weights of third skills, or increase the weights of the first skill
+
+    1. Try to train a single skill network
+
+# todo: 27 January, 2024
+    1. down sample the image
+    2. try to use another NN model (i.e. your own network instead of pre-trained resnet18, you can refer to the NN in tianhe yu paper)
+    3. tune the parameters in MAML
+
+    The trjectory is fitted by DMP:
+        mycnn-2: MyCNN model, down sampling 2 times             fail
+        resnet18-2: resnet model down sampling 2 times          fail
+        resnet18-1: resnet model, do not down sample            fail
+        mycnn_2-1: MyCNN_2 model, do not down sample            hold on
+
+python train_goal_model.py --batch 30 --save-name goal --epoch 50000 --inner-goal 0.00001 --outer-goal 0.00001
+python train_goal_model_with_MAML.py --batch 30 --save-name goal-2 --epoch 50000 --inner-goal 0.00001 --outer-goal 0.0001
+
+
+# TODO: 1 Feb
+    The failure of my experiments may due to the wrong implementation of MAML.
+        Now I change my own implementation of MAML to a widely used meta-learning package learn2learn,
+            and achieve good performance

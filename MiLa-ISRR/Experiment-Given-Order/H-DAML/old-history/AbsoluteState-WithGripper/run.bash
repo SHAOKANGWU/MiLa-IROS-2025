@@ -1,0 +1,1 @@
+python train.py --epoch 50000 --batch 6 --save-name 18July --inner-lr 0.0001 --outer-lr 0.0005 --loss-factor 100 --adaptation-steps 1 --interval 3 --subtask 0

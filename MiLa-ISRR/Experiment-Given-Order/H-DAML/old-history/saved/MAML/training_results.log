@@ -1,0 +1,10230 @@
+
+epoch 0
+Meta Train Loss 276.33069
+
+epoch 1
+Meta Train Loss 121.11843
+
+epoch 2
+Meta Train Loss 79.10541
+
+epoch 3
+Meta Train Loss 44.84496
+
+epoch 4
+Meta Train Loss 11.39190
+
+epoch 5
+Meta Train Loss 9.64102
+
+epoch 6
+Meta Train Loss 33.58724
+
+epoch 7
+Meta Train Loss 15.13968
+
+epoch 8
+Meta Train Loss 8.05035
+
+epoch 9
+Meta Train Loss 5.92414
+
+epoch 10
+Meta Train Loss 8.04910
+
+epoch 11
+Meta Train Loss 7.88155
+
+epoch 12
+Meta Train Loss 6.16535
+
+epoch 13
+Meta Train Loss 2.88539
+
+epoch 14
+Meta Train Loss 4.79331
+
+epoch 15
+Meta Train Loss 3.79236
+
+epoch 16
+Meta Train Loss 5.52543
+
+epoch 17
+Meta Train Loss 3.57439
+
+epoch 18
+Meta Train Loss 2.13701
+
+epoch 19
+Meta Train Loss 2.00536
+
+epoch 20
+Meta Train Loss 2.14829
+
+epoch 21
+Meta Train Loss 3.28317
+
+epoch 22
+Meta Train Loss 2.81638
+
+epoch 23
+Meta Train Loss 1.65922
+
+epoch 24
+Meta Train Loss 1.74239
+
+epoch 25
+Meta Train Loss 0.91154
+
+epoch 26
+Meta Train Loss 1.14549
+
+epoch 27
+Meta Train Loss 1.09952
+
+epoch 28
+Meta Train Loss 1.24010
+
+epoch 29
+Meta Train Loss 1.73173
+
+epoch 30
+Meta Train Loss 1.04641
+
+epoch 31
+Meta Train Loss 1.01629
+
+epoch 32
+Meta Train Loss 0.63701
+
+epoch 33
+Meta Train Loss 0.69211
+
+epoch 34
+Meta Train Loss 1.42574
+
+epoch 35
+Meta Train Loss 0.96936
+
+epoch 36
+Meta Train Loss 0.92200
+
+epoch 37
+Meta Train Loss 0.68174
+
+epoch 38
+Meta Train Loss 0.72473
+
+epoch 39
+Meta Train Loss 0.48722
+
+epoch 40
+Meta Train Loss 0.93546
+
+epoch 41
+Meta Train Loss 0.71042
+
+epoch 42
+Meta Train Loss 0.67196
+
+epoch 43
+Meta Train Loss 0.58658
+
+epoch 44
+Meta Train Loss 0.53307
+
+epoch 45
+Meta Train Loss 0.37137
+
+epoch 46
+Meta Train Loss 0.56255
+
+epoch 47
+Meta Train Loss 0.45915
+
+epoch 48
+Meta Train Loss 0.52388
+
+epoch 49
+Meta Train Loss 0.50826
+
+epoch 50
+Meta Train Loss 0.56999
+
+epoch 51
+Meta Train Loss 0.79703
+
+epoch 52
+Meta Train Loss 0.43450
+
+epoch 53
+Meta Train Loss 0.38163
+
+epoch 54
+Meta Train Loss 0.65990
+
+epoch 55
+Meta Train Loss 0.77069
+
+epoch 56
+Meta Train Loss 0.84020
+
+epoch 57
+Meta Train Loss 0.38095
+
+epoch 58
+Meta Train Loss 0.62231
+
+epoch 59
+Meta Train Loss 0.97903
+
+epoch 60
+Meta Train Loss 0.83523
+
+epoch 61
+Meta Train Loss 0.52951
+
+epoch 62
+Meta Train Loss 0.67039
+
+epoch 63
+Meta Train Loss 0.64873
+
+epoch 64
+Meta Train Loss 0.58360
+
+epoch 65
+Meta Train Loss 0.45074
+
+epoch 66
+Meta Train Loss 0.49812
+
+epoch 67
+Meta Train Loss 0.57028
+
+epoch 68
+Meta Train Loss 0.45735
+
+epoch 69
+Meta Train Loss 0.59277
+
+epoch 70
+Meta Train Loss 0.44934
+
+epoch 71
+Meta Train Loss 0.50527
+
+epoch 72
+Meta Train Loss 0.66010
+
+epoch 73
+Meta Train Loss 0.44005
+
+epoch 74
+Meta Train Loss 0.51685
+
+epoch 75
+Meta Train Loss 0.48440
+
+epoch 76
+Meta Train Loss 0.44723
+
+epoch 77
+Meta Train Loss 0.73049
+
+epoch 78
+Meta Train Loss 0.58678
+
+epoch 79
+Meta Train Loss 0.68168
+
+epoch 80
+Meta Train Loss 0.44669
+
+epoch 81
+Meta Train Loss 0.51732
+
+epoch 82
+Meta Train Loss 0.81141
+
+epoch 83
+Meta Train Loss 0.43136
+
+epoch 84
+Meta Train Loss 0.49587
+
+epoch 85
+Meta Train Loss 0.45580
+
+epoch 86
+Meta Train Loss 0.51753
+
+epoch 87
+Meta Train Loss 0.40240
+
+epoch 88
+Meta Train Loss 0.46257
+
+epoch 89
+Meta Train Loss 0.39446
+
+epoch 90
+Meta Train Loss 0.30699
+
+epoch 91
+Meta Train Loss 0.33330
+
+epoch 92
+Meta Train Loss 0.60297
+
+epoch 93
+Meta Train Loss 0.54511
+
+epoch 94
+Meta Train Loss 0.35200
+
+epoch 95
+Meta Train Loss 0.48718
+
+epoch 96
+Meta Train Loss 0.55034
+
+epoch 97
+Meta Train Loss 0.48224
+
+epoch 98
+Meta Train Loss 0.31039
+epoch 99, Meta Valid Loss 0.38748
+
+epoch 99
+Meta Train Loss 0.46009
+
+epoch 100
+Meta Train Loss 0.51663
+
+epoch 101
+Meta Train Loss 0.85142
+
+epoch 102
+Meta Train Loss 0.39331
+
+epoch 103
+Meta Train Loss 0.38746
+
+epoch 104
+Meta Train Loss 0.57741
+
+epoch 105
+Meta Train Loss 0.54325
+
+epoch 106
+Meta Train Loss 0.47133
+
+epoch 107
+Meta Train Loss 0.33443
+
+epoch 108
+Meta Train Loss 0.44574
+
+epoch 109
+Meta Train Loss 0.41157
+
+epoch 110
+Meta Train Loss 0.71402
+
+epoch 111
+Meta Train Loss 0.37025
+
+epoch 112
+Meta Train Loss 0.33002
+
+epoch 113
+Meta Train Loss 0.59551
+
+epoch 114
+Meta Train Loss 0.56244
+
+epoch 115
+Meta Train Loss 0.31574
+
+epoch 116
+Meta Train Loss 0.53377
+
+epoch 117
+Meta Train Loss 0.55176
+
+epoch 118
+Meta Train Loss 0.38815
+
+epoch 119
+Meta Train Loss 0.54638
+
+epoch 120
+Meta Train Loss 0.40893
+
+epoch 121
+Meta Train Loss 0.40094
+
+epoch 122
+Meta Train Loss 0.49382
+
+epoch 123
+Meta Train Loss 0.43154
+
+epoch 124
+Meta Train Loss 0.45197
+
+epoch 125
+Meta Train Loss 0.59212
+
+epoch 126
+Meta Train Loss 0.32146
+
+epoch 127
+Meta Train Loss 0.55514
+
+epoch 128
+Meta Train Loss 0.52473
+
+epoch 129
+Meta Train Loss 0.51888
+
+epoch 130
+Meta Train Loss 0.49062
+
+epoch 131
+Meta Train Loss 0.29250
+
+epoch 132
+Meta Train Loss 0.38053
+
+epoch 133
+Meta Train Loss 0.48036
+
+epoch 134
+Meta Train Loss 0.42455
+
+epoch 135
+Meta Train Loss 0.36148
+
+epoch 136
+Meta Train Loss 0.32982
+
+epoch 137
+Meta Train Loss 0.35712
+
+epoch 138
+Meta Train Loss 0.34190
+
+epoch 139
+Meta Train Loss 0.52032
+
+epoch 140
+Meta Train Loss 0.48905
+
+epoch 141
+Meta Train Loss 0.36193
+
+epoch 142
+Meta Train Loss 0.32861
+
+epoch 143
+Meta Train Loss 0.35768
+
+epoch 144
+Meta Train Loss 0.42388
+
+epoch 145
+Meta Train Loss 0.35359
+
+epoch 146
+Meta Train Loss 0.44748
+
+epoch 147
+Meta Train Loss 0.38501
+
+epoch 148
+Meta Train Loss 0.37304
+
+epoch 149
+Meta Train Loss 0.40494
+
+epoch 150
+Meta Train Loss 0.39382
+
+epoch 151
+Meta Train Loss 0.32495
+
+epoch 152
+Meta Train Loss 0.45330
+
+epoch 153
+Meta Train Loss 0.35200
+
+epoch 154
+Meta Train Loss 0.37796
+
+epoch 155
+Meta Train Loss 0.30490
+
+epoch 156
+Meta Train Loss 0.34372
+
+epoch 157
+Meta Train Loss 0.36039
+
+epoch 158
+Meta Train Loss 0.36422
+
+epoch 159
+Meta Train Loss 0.45909
+
+epoch 160
+Meta Train Loss 0.27774
+
+epoch 161
+Meta Train Loss 0.45575
+
+epoch 162
+Meta Train Loss 0.48261
+
+epoch 163
+Meta Train Loss 0.38781
+
+epoch 164
+Meta Train Loss 0.35576
+
+epoch 165
+Meta Train Loss 0.32445
+
+epoch 166
+Meta Train Loss 0.36893
+
+epoch 167
+Meta Train Loss 0.39002
+
+epoch 168
+Meta Train Loss 0.33048
+
+epoch 169
+Meta Train Loss 0.46535
+
+epoch 170
+Meta Train Loss 0.37359
+
+epoch 171
+Meta Train Loss 0.31921
+
+epoch 172
+Meta Train Loss 0.37602
+
+epoch 173
+Meta Train Loss 0.32896
+
+epoch 174
+Meta Train Loss 0.35226
+
+epoch 175
+Meta Train Loss 0.27141
+
+epoch 176
+Meta Train Loss 0.27846
+
+epoch 177
+Meta Train Loss 0.37082
+
+epoch 178
+Meta Train Loss 0.32135
+
+epoch 179
+Meta Train Loss 0.43522
+
+epoch 180
+Meta Train Loss 0.36842
+
+epoch 181
+Meta Train Loss 0.31102
+
+epoch 182
+Meta Train Loss 0.30713
+
+epoch 183
+Meta Train Loss 0.46505
+
+epoch 184
+Meta Train Loss 0.42545
+
+epoch 185
+Meta Train Loss 0.48175
+
+epoch 186
+Meta Train Loss 0.33911
+
+epoch 187
+Meta Train Loss 0.41090
+
+epoch 188
+Meta Train Loss 0.30890
+
+epoch 189
+Meta Train Loss 0.45463
+
+epoch 190
+Meta Train Loss 0.54098
+
+epoch 191
+Meta Train Loss 0.34230
+
+epoch 192
+Meta Train Loss 0.36260
+
+epoch 193
+Meta Train Loss 0.41698
+
+epoch 194
+Meta Train Loss 0.39360
+
+epoch 195
+Meta Train Loss 0.54226
+
+epoch 196
+Meta Train Loss 0.28866
+
+epoch 197
+Meta Train Loss 0.43901
+
+epoch 198
+Meta Train Loss 0.39004
+epoch 199, Meta Valid Loss 0.35227
+
+epoch 199
+Meta Train Loss 0.44512
+
+epoch 200
+Meta Train Loss 0.38659
+
+epoch 201
+Meta Train Loss 0.31552
+
+epoch 202
+Meta Train Loss 0.36343
+
+epoch 203
+Meta Train Loss 0.31737
+
+epoch 204
+Meta Train Loss 0.25921
+
+epoch 205
+Meta Train Loss 0.24263
+
+epoch 206
+Meta Train Loss 0.34041
+
+epoch 207
+Meta Train Loss 0.29179
+
+epoch 208
+Meta Train Loss 0.28064
+
+epoch 209
+Meta Train Loss 0.27250
+
+epoch 210
+Meta Train Loss 0.36372
+
+epoch 211
+Meta Train Loss 0.38785
+
+epoch 212
+Meta Train Loss 0.32084
+
+epoch 213
+Meta Train Loss 0.40109
+
+epoch 214
+Meta Train Loss 0.34583
+
+epoch 215
+Meta Train Loss 0.38071
+
+epoch 216
+Meta Train Loss 0.29223
+
+epoch 217
+Meta Train Loss 0.32914
+
+epoch 218
+Meta Train Loss 0.27926
+
+epoch 219
+Meta Train Loss 0.32491
+
+epoch 220
+Meta Train Loss 0.38747
+
+epoch 221
+Meta Train Loss 0.39221
+
+epoch 222
+Meta Train Loss 0.29852
+
+epoch 223
+Meta Train Loss 0.58141
+
+epoch 224
+Meta Train Loss 0.33302
+
+epoch 225
+Meta Train Loss 0.35058
+
+epoch 226
+Meta Train Loss 0.31386
+
+epoch 227
+Meta Train Loss 0.25441
+
+epoch 228
+Meta Train Loss 0.26323
+
+epoch 229
+Meta Train Loss 0.45000
+
+epoch 230
+Meta Train Loss 0.26243
+
+epoch 231
+Meta Train Loss 0.29355
+
+epoch 232
+Meta Train Loss 0.40211
+
+epoch 233
+Meta Train Loss 0.33471
+
+epoch 234
+Meta Train Loss 0.26094
+
+epoch 235
+Meta Train Loss 0.29203
+
+epoch 236
+Meta Train Loss 0.58541
+
+epoch 237
+Meta Train Loss 0.30279
+
+epoch 238
+Meta Train Loss 0.28541
+
+epoch 239
+Meta Train Loss 0.34445
+
+epoch 240
+Meta Train Loss 0.40995
+
+epoch 241
+Meta Train Loss 0.49406
+
+epoch 242
+Meta Train Loss 0.35613
+
+epoch 243
+Meta Train Loss 0.37514
+
+epoch 244
+Meta Train Loss 0.42064
+
+epoch 245
+Meta Train Loss 0.34212
+
+epoch 246
+Meta Train Loss 0.33379
+
+epoch 247
+Meta Train Loss 0.36011
+
+epoch 248
+Meta Train Loss 0.27735
+
+epoch 249
+Meta Train Loss 0.32455
+
+epoch 250
+Meta Train Loss 0.33290
+
+epoch 251
+Meta Train Loss 0.27677
+
+epoch 252
+Meta Train Loss 0.27903
+
+epoch 253
+Meta Train Loss 0.32121
+
+epoch 254
+Meta Train Loss 0.33733
+
+epoch 255
+Meta Train Loss 0.32385
+
+epoch 256
+Meta Train Loss 0.28444
+
+epoch 257
+Meta Train Loss 0.27887
+
+epoch 258
+Meta Train Loss 0.27475
+
+epoch 259
+Meta Train Loss 0.38792
+
+epoch 260
+Meta Train Loss 0.27125
+
+epoch 261
+Meta Train Loss 0.32225
+
+epoch 262
+Meta Train Loss 0.27983
+
+epoch 263
+Meta Train Loss 0.27190
+
+epoch 264
+Meta Train Loss 0.34115
+
+epoch 265
+Meta Train Loss 0.43657
+
+epoch 266
+Meta Train Loss 0.33366
+
+epoch 267
+Meta Train Loss 0.32407
+
+epoch 268
+Meta Train Loss 0.32361
+
+epoch 269
+Meta Train Loss 0.27570
+
+epoch 270
+Meta Train Loss 0.26128
+
+epoch 271
+Meta Train Loss 0.25336
+
+epoch 272
+Meta Train Loss 0.35054
+
+epoch 273
+Meta Train Loss 0.25466
+
+epoch 274
+Meta Train Loss 0.44228
+
+epoch 275
+Meta Train Loss 0.42057
+
+epoch 276
+Meta Train Loss 0.28257
+
+epoch 277
+Meta Train Loss 0.49746
+
+epoch 278
+Meta Train Loss 0.47634
+
+epoch 279
+Meta Train Loss 0.34790
+
+epoch 280
+Meta Train Loss 0.22344
+
+epoch 281
+Meta Train Loss 0.42052
+
+epoch 282
+Meta Train Loss 0.30828
+
+epoch 283
+Meta Train Loss 0.32414
+
+epoch 284
+Meta Train Loss 0.36786
+
+epoch 285
+Meta Train Loss 0.30878
+
+epoch 286
+Meta Train Loss 0.27326
+
+epoch 287
+Meta Train Loss 0.28132
+
+epoch 288
+Meta Train Loss 0.27901
+
+epoch 289
+Meta Train Loss 0.32942
+
+epoch 290
+Meta Train Loss 0.47959
+
+epoch 291
+Meta Train Loss 0.29707
+
+epoch 292
+Meta Train Loss 0.41687
+
+epoch 293
+Meta Train Loss 0.31174
+
+epoch 294
+Meta Train Loss 0.42391
+
+epoch 295
+Meta Train Loss 0.36079
+
+epoch 296
+Meta Train Loss 0.17794
+
+epoch 297
+Meta Train Loss 0.25886
+
+epoch 298
+Meta Train Loss 0.31880
+epoch 299, Meta Valid Loss 0.25235
+
+epoch 299
+Meta Train Loss 0.27926
+
+epoch 300
+Meta Train Loss 0.25961
+
+epoch 301
+Meta Train Loss 0.32419
+
+epoch 302
+Meta Train Loss 0.29567
+
+epoch 303
+Meta Train Loss 0.30528
+
+epoch 304
+Meta Train Loss 0.31227
+
+epoch 305
+Meta Train Loss 0.27174
+
+epoch 306
+Meta Train Loss 0.27108
+
+epoch 307
+Meta Train Loss 0.39934
+
+epoch 308
+Meta Train Loss 0.29502
+
+epoch 309
+Meta Train Loss 0.22216
+
+epoch 310
+Meta Train Loss 0.35065
+
+epoch 311
+Meta Train Loss 0.35779
+
+epoch 312
+Meta Train Loss 0.24442
+
+epoch 313
+Meta Train Loss 0.65837
+
+epoch 314
+Meta Train Loss 0.31264
+
+epoch 315
+Meta Train Loss 0.29719
+
+epoch 316
+Meta Train Loss 0.34171
+
+epoch 317
+Meta Train Loss 0.27220
+
+epoch 318
+Meta Train Loss 0.29022
+
+epoch 319
+Meta Train Loss 0.38075
+
+epoch 320
+Meta Train Loss 0.31236
+
+epoch 321
+Meta Train Loss 0.22335
+
+epoch 322
+Meta Train Loss 0.30345
+
+epoch 323
+Meta Train Loss 0.34811
+
+epoch 324
+Meta Train Loss 0.34675
+
+epoch 325
+Meta Train Loss 0.35869
+
+epoch 326
+Meta Train Loss 0.26767
+
+epoch 327
+Meta Train Loss 0.25699
+
+epoch 328
+Meta Train Loss 0.29037
+
+epoch 329
+Meta Train Loss 0.30486
+
+epoch 330
+Meta Train Loss 0.27693
+
+epoch 331
+Meta Train Loss 0.25356
+
+epoch 332
+Meta Train Loss 0.25998
+
+epoch 333
+Meta Train Loss 0.30557
+
+epoch 334
+Meta Train Loss 0.39048
+
+epoch 335
+Meta Train Loss 0.38989
+
+epoch 336
+Meta Train Loss 0.25469
+
+epoch 337
+Meta Train Loss 0.32233
+
+epoch 338
+Meta Train Loss 0.50230
+
+epoch 339
+Meta Train Loss 0.27245
+
+epoch 340
+Meta Train Loss 0.27321
+
+epoch 341
+Meta Train Loss 0.49713
+
+epoch 342
+Meta Train Loss 0.47171
+
+epoch 343
+Meta Train Loss 0.24765
+
+epoch 344
+Meta Train Loss 0.24547
+
+epoch 345
+Meta Train Loss 0.29082
+
+epoch 346
+Meta Train Loss 0.27047
+
+epoch 347
+Meta Train Loss 0.33366
+
+epoch 348
+Meta Train Loss 0.28680
+
+epoch 349
+Meta Train Loss 0.35695
+
+epoch 350
+Meta Train Loss 0.28615
+
+epoch 351
+Meta Train Loss 0.30298
+
+epoch 352
+Meta Train Loss 0.20695
+
+epoch 353
+Meta Train Loss 0.23590
+
+epoch 354
+Meta Train Loss 0.23439
+
+epoch 355
+Meta Train Loss 0.25156
+
+epoch 356
+Meta Train Loss 0.30060
+
+epoch 357
+Meta Train Loss 0.33665
+
+epoch 358
+Meta Train Loss 0.24995
+
+epoch 359
+Meta Train Loss 0.25852
+
+epoch 360
+Meta Train Loss 0.21715
+
+epoch 361
+Meta Train Loss 0.25973
+
+epoch 362
+Meta Train Loss 0.21453
+
+epoch 363
+Meta Train Loss 0.26635
+
+epoch 364
+Meta Train Loss 0.28329
+
+epoch 365
+Meta Train Loss 0.28775
+
+epoch 366
+Meta Train Loss 0.25250
+
+epoch 367
+Meta Train Loss 0.25382
+
+epoch 368
+Meta Train Loss 0.26777
+
+epoch 369
+Meta Train Loss 0.25348
+
+epoch 370
+Meta Train Loss 0.24837
+
+epoch 371
+Meta Train Loss 0.20312
+
+epoch 372
+Meta Train Loss 0.30735
+
+epoch 373
+Meta Train Loss 0.26870
+
+epoch 374
+Meta Train Loss 0.26038
+
+epoch 375
+Meta Train Loss 0.22898
+
+epoch 376
+Meta Train Loss 0.28204
+
+epoch 377
+Meta Train Loss 0.28244
+
+epoch 378
+Meta Train Loss 0.20511
+
+epoch 379
+Meta Train Loss 0.19655
+
+epoch 380
+Meta Train Loss 0.24781
+
+epoch 381
+Meta Train Loss 0.27655
+
+epoch 382
+Meta Train Loss 0.26089
+
+epoch 383
+Meta Train Loss 0.26198
+
+epoch 384
+Meta Train Loss 0.26171
+
+epoch 385
+Meta Train Loss 0.28147
+
+epoch 386
+Meta Train Loss 0.26064
+
+epoch 387
+Meta Train Loss 0.20629
+
+epoch 388
+Meta Train Loss 0.29288
+
+epoch 389
+Meta Train Loss 0.25884
+
+epoch 390
+Meta Train Loss 0.29662
+
+epoch 391
+Meta Train Loss 0.28366
+
+epoch 392
+Meta Train Loss 0.27542
+
+epoch 393
+Meta Train Loss 0.21569
+
+epoch 394
+Meta Train Loss 0.28249
+
+epoch 395
+Meta Train Loss 0.25580
+
+epoch 396
+Meta Train Loss 0.20614
+
+epoch 397
+Meta Train Loss 0.22437
+
+epoch 398
+Meta Train Loss 0.17932
+epoch 399, Meta Valid Loss 0.24074
+
+epoch 399
+Meta Train Loss 0.24605
+
+epoch 400
+Meta Train Loss 0.30888
+
+epoch 401
+Meta Train Loss 0.31604
+
+epoch 402
+Meta Train Loss 0.22070
+
+epoch 403
+Meta Train Loss 0.21994
+
+epoch 404
+Meta Train Loss 0.25970
+
+epoch 405
+Meta Train Loss 0.25278
+
+epoch 406
+Meta Train Loss 0.17288
+
+epoch 407
+Meta Train Loss 0.27311
+
+epoch 408
+Meta Train Loss 0.19898
+
+epoch 409
+Meta Train Loss 0.21328
+
+epoch 410
+Meta Train Loss 0.24302
+
+epoch 411
+Meta Train Loss 0.18890
+
+epoch 412
+Meta Train Loss 0.17120
+
+epoch 413
+Meta Train Loss 0.23254
+
+epoch 414
+Meta Train Loss 0.26138
+
+epoch 415
+Meta Train Loss 0.26568
+
+epoch 416
+Meta Train Loss 0.21659
+
+epoch 417
+Meta Train Loss 0.30837
+
+epoch 418
+Meta Train Loss 0.26445
+
+epoch 419
+Meta Train Loss 0.23623
+
+epoch 420
+Meta Train Loss 0.21446
+
+epoch 421
+Meta Train Loss 0.21679
+
+epoch 422
+Meta Train Loss 0.22185
+
+epoch 423
+Meta Train Loss 0.20645
+
+epoch 424
+Meta Train Loss 0.18874
+
+epoch 425
+Meta Train Loss 0.32175
+
+epoch 426
+Meta Train Loss 0.24253
+
+epoch 427
+Meta Train Loss 0.25446
+
+epoch 428
+Meta Train Loss 0.28094
+
+epoch 429
+Meta Train Loss 0.23523
+
+epoch 430
+Meta Train Loss 0.33293
+
+epoch 431
+Meta Train Loss 0.21825
+
+epoch 432
+Meta Train Loss 0.24792
+
+epoch 433
+Meta Train Loss 0.27158
+
+epoch 434
+Meta Train Loss 0.22835
+
+epoch 435
+Meta Train Loss 0.20172
+
+epoch 436
+Meta Train Loss 0.33096
+
+epoch 437
+Meta Train Loss 0.27247
+
+epoch 438
+Meta Train Loss 0.30120
+
+epoch 439
+Meta Train Loss 0.30557
+
+epoch 440
+Meta Train Loss 0.20386
+
+epoch 441
+Meta Train Loss 0.28097
+
+epoch 442
+Meta Train Loss 0.30000
+
+epoch 443
+Meta Train Loss 0.19091
+
+epoch 444
+Meta Train Loss 0.26806
+
+epoch 445
+Meta Train Loss 0.36385
+
+epoch 446
+Meta Train Loss 0.19576
+
+epoch 447
+Meta Train Loss 0.19531
+
+epoch 448
+Meta Train Loss 0.26625
+
+epoch 449
+Meta Train Loss 0.30633
+
+epoch 450
+Meta Train Loss 0.20822
+
+epoch 451
+Meta Train Loss 0.37252
+
+epoch 452
+Meta Train Loss 0.26039
+
+epoch 453
+Meta Train Loss 0.28893
+
+epoch 454
+Meta Train Loss 0.25472
+
+epoch 455
+Meta Train Loss 0.21338
+
+epoch 456
+Meta Train Loss 0.21386
+
+epoch 457
+Meta Train Loss 0.18726
+
+epoch 458
+Meta Train Loss 0.18039
+
+epoch 459
+Meta Train Loss 0.28102
+
+epoch 460
+Meta Train Loss 0.20673
+
+epoch 461
+Meta Train Loss 0.19376
+
+epoch 462
+Meta Train Loss 0.35240
+
+epoch 463
+Meta Train Loss 0.22085
+
+epoch 464
+Meta Train Loss 0.22109
+
+epoch 465
+Meta Train Loss 0.30578
+
+epoch 466
+Meta Train Loss 0.26269
+
+epoch 467
+Meta Train Loss 0.17728
+
+epoch 468
+Meta Train Loss 0.23532
+
+epoch 469
+Meta Train Loss 0.41970
+
+epoch 470
+Meta Train Loss 0.35872
+
+epoch 471
+Meta Train Loss 0.21994
+
+epoch 472
+Meta Train Loss 0.67421
+
+epoch 473
+Meta Train Loss 0.30114
+
+epoch 474
+Meta Train Loss 0.19093
+
+epoch 475
+Meta Train Loss 0.33135
+
+epoch 476
+Meta Train Loss 0.28932
+
+epoch 477
+Meta Train Loss 0.28307
+
+epoch 478
+Meta Train Loss 0.34330
+
+epoch 479
+Meta Train Loss 0.33573
+
+epoch 480
+Meta Train Loss 0.23295
+
+epoch 481
+Meta Train Loss 0.24067
+
+epoch 482
+Meta Train Loss 0.25123
+
+epoch 483
+Meta Train Loss 0.26134
+
+epoch 484
+Meta Train Loss 0.20837
+
+epoch 485
+Meta Train Loss 0.24162
+
+epoch 486
+Meta Train Loss 0.53632
+
+epoch 487
+Meta Train Loss 0.27317
+
+epoch 488
+Meta Train Loss 0.28416
+
+epoch 489
+Meta Train Loss 0.24559
+
+epoch 490
+Meta Train Loss 0.30304
+
+epoch 491
+Meta Train Loss 0.39684
+
+epoch 492
+Meta Train Loss 0.23684
+
+epoch 493
+Meta Train Loss 0.32097
+
+epoch 494
+Meta Train Loss 0.29159
+
+epoch 495
+Meta Train Loss 0.19620
+
+epoch 496
+Meta Train Loss 0.20674
+
+epoch 497
+Meta Train Loss 0.23067
+
+epoch 498
+Meta Train Loss 0.34421
+epoch 499, Meta Valid Loss 0.19576
+
+epoch 499
+Meta Train Loss 0.18149
+
+epoch 500
+Meta Train Loss 0.24804
+
+epoch 501
+Meta Train Loss 0.27322
+
+epoch 502
+Meta Train Loss 0.30899
+
+epoch 503
+Meta Train Loss 0.28427
+
+epoch 504
+Meta Train Loss 0.17755
+
+epoch 505
+Meta Train Loss 0.44664
+
+epoch 506
+Meta Train Loss 0.41648
+
+epoch 507
+Meta Train Loss 0.25106
+
+epoch 508
+Meta Train Loss 0.29651
+
+epoch 509
+Meta Train Loss 0.53491
+
+epoch 510
+Meta Train Loss 0.28273
+
+epoch 511
+Meta Train Loss 0.20904
+
+epoch 512
+Meta Train Loss 0.28695
+
+epoch 513
+Meta Train Loss 0.44216
+
+epoch 514
+Meta Train Loss 0.21264
+
+epoch 515
+Meta Train Loss 0.17464
+
+epoch 516
+Meta Train Loss 0.24697
+
+epoch 517
+Meta Train Loss 0.24806
+
+epoch 518
+Meta Train Loss 0.22845
+
+epoch 519
+Meta Train Loss 0.18743
+
+epoch 520
+Meta Train Loss 0.21774
+
+epoch 521
+Meta Train Loss 0.19699
+
+epoch 522
+Meta Train Loss 0.24225
+
+epoch 523
+Meta Train Loss 0.19252
+
+epoch 524
+Meta Train Loss 0.28745
+
+epoch 525
+Meta Train Loss 0.22669
+
+epoch 526
+Meta Train Loss 0.23185
+
+epoch 527
+Meta Train Loss 0.20765
+
+epoch 528
+Meta Train Loss 0.24416
+
+epoch 529
+Meta Train Loss 0.17947
+
+epoch 530
+Meta Train Loss 0.18689
+
+epoch 531
+Meta Train Loss 0.14695
+
+epoch 532
+Meta Train Loss 0.28137
+
+epoch 533
+Meta Train Loss 0.22331
+
+epoch 534
+Meta Train Loss 0.20882
+
+epoch 535
+Meta Train Loss 0.22120
+
+epoch 536
+Meta Train Loss 0.18886
+
+epoch 537
+Meta Train Loss 0.22747
+
+epoch 538
+Meta Train Loss 0.15076
+
+epoch 539
+Meta Train Loss 0.13741
+
+epoch 540
+Meta Train Loss 0.18566
+
+epoch 541
+Meta Train Loss 0.20907
+
+epoch 542
+Meta Train Loss 0.18414
+
+epoch 543
+Meta Train Loss 0.13016
+
+epoch 544
+Meta Train Loss 0.17117
+
+epoch 545
+Meta Train Loss 0.20881
+
+epoch 546
+Meta Train Loss 0.15914
+
+epoch 547
+Meta Train Loss 0.20074
+
+epoch 548
+Meta Train Loss 0.17593
+
+epoch 549
+Meta Train Loss 0.16488
+
+epoch 550
+Meta Train Loss 0.16651
+
+epoch 551
+Meta Train Loss 0.14592
+
+epoch 552
+Meta Train Loss 0.14428
+
+epoch 553
+Meta Train Loss 0.18069
+
+epoch 554
+Meta Train Loss 0.16466
+
+epoch 555
+Meta Train Loss 0.20236
+
+epoch 556
+Meta Train Loss 0.20650
+
+epoch 557
+Meta Train Loss 0.15302
+
+epoch 558
+Meta Train Loss 0.16956
+
+epoch 559
+Meta Train Loss 0.17435
+
+epoch 560
+Meta Train Loss 0.14739
+
+epoch 561
+Meta Train Loss 0.23184
+
+epoch 562
+Meta Train Loss 0.15434
+
+epoch 563
+Meta Train Loss 0.22006
+
+epoch 564
+Meta Train Loss 0.18925
+
+epoch 565
+Meta Train Loss 0.18588
+
+epoch 566
+Meta Train Loss 0.28082
+
+epoch 567
+Meta Train Loss 0.19295
+
+epoch 568
+Meta Train Loss 0.22423
+
+epoch 569
+Meta Train Loss 0.20983
+
+epoch 570
+Meta Train Loss 0.18625
+
+epoch 571
+Meta Train Loss 0.17457
+
+epoch 572
+Meta Train Loss 0.13675
+
+epoch 573
+Meta Train Loss 0.15849
+
+epoch 574
+Meta Train Loss 0.17598
+
+epoch 575
+Meta Train Loss 0.16271
+
+epoch 576
+Meta Train Loss 0.15650
+
+epoch 577
+Meta Train Loss 0.18602
+
+epoch 578
+Meta Train Loss 0.16652
+
+epoch 579
+Meta Train Loss 0.16664
+
+epoch 580
+Meta Train Loss 0.17000
+
+epoch 581
+Meta Train Loss 0.15920
+
+epoch 582
+Meta Train Loss 0.14162
+
+epoch 583
+Meta Train Loss 0.17170
+
+epoch 584
+Meta Train Loss 0.16556
+
+epoch 585
+Meta Train Loss 0.18698
+
+epoch 586
+Meta Train Loss 0.12571
+
+epoch 587
+Meta Train Loss 0.18358
+
+epoch 588
+Meta Train Loss 0.16557
+
+epoch 589
+Meta Train Loss 0.14468
+
+epoch 590
+Meta Train Loss 0.21445
+
+epoch 591
+Meta Train Loss 0.16660
+
+epoch 592
+Meta Train Loss 0.14108
+
+epoch 593
+Meta Train Loss 0.16592
+
+epoch 594
+Meta Train Loss 0.15276
+
+epoch 595
+Meta Train Loss 0.14077
+
+epoch 596
+Meta Train Loss 0.13392
+
+epoch 597
+Meta Train Loss 0.13814
+
+epoch 598
+Meta Train Loss 0.15029
+epoch 599, Meta Valid Loss 0.13551
+
+epoch 599
+Meta Train Loss 0.20802
+
+epoch 600
+Meta Train Loss 0.17075
+
+epoch 601
+Meta Train Loss 0.14238
+
+epoch 602
+Meta Train Loss 0.13670
+
+epoch 603
+Meta Train Loss 0.14862
+
+epoch 604
+Meta Train Loss 0.18999
+
+epoch 605
+Meta Train Loss 0.12791
+
+epoch 606
+Meta Train Loss 0.13983
+
+epoch 607
+Meta Train Loss 0.15477
+
+epoch 608
+Meta Train Loss 0.15016
+
+epoch 609
+Meta Train Loss 0.12096
+
+epoch 610
+Meta Train Loss 0.17142
+
+epoch 611
+Meta Train Loss 0.12303
+
+epoch 612
+Meta Train Loss 0.14777
+
+epoch 613
+Meta Train Loss 0.12584
+
+epoch 614
+Meta Train Loss 0.13535
+
+epoch 615
+Meta Train Loss 0.19423
+
+epoch 616
+Meta Train Loss 0.13941
+
+epoch 617
+Meta Train Loss 0.14401
+
+epoch 618
+Meta Train Loss 0.11055
+
+epoch 619
+Meta Train Loss 0.17196
+
+epoch 620
+Meta Train Loss 0.17572
+
+epoch 621
+Meta Train Loss 0.18954
+
+epoch 622
+Meta Train Loss 0.13515
+
+epoch 623
+Meta Train Loss 0.14175
+
+epoch 624
+Meta Train Loss 0.14164
+
+epoch 625
+Meta Train Loss 0.15415
+
+epoch 626
+Meta Train Loss 0.14153
+
+epoch 627
+Meta Train Loss 0.13316
+
+epoch 628
+Meta Train Loss 0.14645
+
+epoch 629
+Meta Train Loss 0.13033
+
+epoch 630
+Meta Train Loss 0.14364
+
+epoch 631
+Meta Train Loss 0.13023
+
+epoch 632
+Meta Train Loss 0.18293
+
+epoch 633
+Meta Train Loss 0.13639
+
+epoch 634
+Meta Train Loss 0.16593
+
+epoch 635
+Meta Train Loss 0.13294
+
+epoch 636
+Meta Train Loss 0.14003
+
+epoch 637
+Meta Train Loss 0.24351
+
+epoch 638
+Meta Train Loss 0.19182
+
+epoch 639
+Meta Train Loss 0.16287
+
+epoch 640
+Meta Train Loss 0.18206
+
+epoch 641
+Meta Train Loss 0.16824
+
+epoch 642
+Meta Train Loss 0.16865
+
+epoch 643
+Meta Train Loss 0.18470
+
+epoch 644
+Meta Train Loss 0.19420
+
+epoch 645
+Meta Train Loss 0.15048
+
+epoch 646
+Meta Train Loss 0.29349
+
+epoch 647
+Meta Train Loss 0.20246
+
+epoch 648
+Meta Train Loss 0.15448
+
+epoch 649
+Meta Train Loss 0.21987
+
+epoch 650
+Meta Train Loss 0.27564
+
+epoch 651
+Meta Train Loss 0.17005
+
+epoch 652
+Meta Train Loss 0.23401
+
+epoch 653
+Meta Train Loss 0.28798
+
+epoch 654
+Meta Train Loss 0.20815
+
+epoch 655
+Meta Train Loss 0.22554
+
+epoch 656
+Meta Train Loss 0.16989
+
+epoch 657
+Meta Train Loss 0.15190
+
+epoch 658
+Meta Train Loss 0.17186
+
+epoch 659
+Meta Train Loss 0.16237
+
+epoch 660
+Meta Train Loss 0.19258
+
+epoch 661
+Meta Train Loss 0.15231
+
+epoch 662
+Meta Train Loss 0.15023
+
+epoch 663
+Meta Train Loss 0.16240
+
+epoch 664
+Meta Train Loss 0.13190
+
+epoch 665
+Meta Train Loss 0.16621
+
+epoch 666
+Meta Train Loss 0.12392
+
+epoch 667
+Meta Train Loss 0.17375
+
+epoch 668
+Meta Train Loss 0.12679
+
+epoch 669
+Meta Train Loss 0.20629
+
+epoch 670
+Meta Train Loss 0.14608
+
+epoch 671
+Meta Train Loss 0.16315
+
+epoch 672
+Meta Train Loss 0.13896
+
+epoch 673
+Meta Train Loss 0.16485
+
+epoch 674
+Meta Train Loss 0.12730
+
+epoch 675
+Meta Train Loss 0.17002
+
+epoch 676
+Meta Train Loss 0.18408
+
+epoch 677
+Meta Train Loss 0.15560
+
+epoch 678
+Meta Train Loss 0.23346
+
+epoch 679
+Meta Train Loss 0.19259
+
+epoch 680
+Meta Train Loss 0.18736
+
+epoch 681
+Meta Train Loss 0.14141
+
+epoch 682
+Meta Train Loss 0.14923
+
+epoch 683
+Meta Train Loss 0.14296
+
+epoch 684
+Meta Train Loss 0.12679
+
+epoch 685
+Meta Train Loss 0.12321
+
+epoch 686
+Meta Train Loss 0.17548
+
+epoch 687
+Meta Train Loss 0.15133
+
+epoch 688
+Meta Train Loss 0.16716
+
+epoch 689
+Meta Train Loss 0.26619
+
+epoch 690
+Meta Train Loss 0.15140
+
+epoch 691
+Meta Train Loss 0.14948
+
+epoch 692
+Meta Train Loss 0.19187
+
+epoch 693
+Meta Train Loss 0.13369
+
+epoch 694
+Meta Train Loss 0.11277
+
+epoch 695
+Meta Train Loss 0.18020
+
+epoch 696
+Meta Train Loss 0.12657
+
+epoch 697
+Meta Train Loss 0.17393
+
+epoch 698
+Meta Train Loss 0.14061
+epoch 699, Meta Valid Loss 0.12923
+
+epoch 699
+Meta Train Loss 0.15897
+
+epoch 700
+Meta Train Loss 0.14524
+
+epoch 701
+Meta Train Loss 0.19276
+
+epoch 702
+Meta Train Loss 0.12613
+
+epoch 703
+Meta Train Loss 0.26701
+
+epoch 704
+Meta Train Loss 0.19066
+
+epoch 705
+Meta Train Loss 0.13090
+
+epoch 706
+Meta Train Loss 0.29523
+
+epoch 707
+Meta Train Loss 0.13999
+
+epoch 708
+Meta Train Loss 0.16773
+
+epoch 709
+Meta Train Loss 0.20201
+
+epoch 710
+Meta Train Loss 0.16321
+
+epoch 711
+Meta Train Loss 0.14574
+
+epoch 712
+Meta Train Loss 0.15062
+
+epoch 713
+Meta Train Loss 0.14597
+
+epoch 714
+Meta Train Loss 0.18990
+
+epoch 715
+Meta Train Loss 0.17023
+
+epoch 716
+Meta Train Loss 0.14293
+
+epoch 717
+Meta Train Loss 0.10501
+
+epoch 718
+Meta Train Loss 0.15874
+
+epoch 719
+Meta Train Loss 0.17053
+
+epoch 720
+Meta Train Loss 0.14369
+
+epoch 721
+Meta Train Loss 0.15598
+
+epoch 722
+Meta Train Loss 0.14174
+
+epoch 723
+Meta Train Loss 0.26688
+
+epoch 724
+Meta Train Loss 0.24865
+
+epoch 725
+Meta Train Loss 0.15259
+
+epoch 726
+Meta Train Loss 0.16624
+
+epoch 727
+Meta Train Loss 0.19488
+
+epoch 728
+Meta Train Loss 0.17301
+
+epoch 729
+Meta Train Loss 0.20490
+
+epoch 730
+Meta Train Loss 0.25537
+
+epoch 731
+Meta Train Loss 0.11491
+
+epoch 732
+Meta Train Loss 0.17180
+
+epoch 733
+Meta Train Loss 0.14611
+
+epoch 734
+Meta Train Loss 0.12450
+
+epoch 735
+Meta Train Loss 0.17165
+
+epoch 736
+Meta Train Loss 0.12230
+
+epoch 737
+Meta Train Loss 0.12854
+
+epoch 738
+Meta Train Loss 0.22479
+
+epoch 739
+Meta Train Loss 0.12785
+
+epoch 740
+Meta Train Loss 0.13562
+
+epoch 741
+Meta Train Loss 0.23665
+
+epoch 742
+Meta Train Loss 0.11908
+
+epoch 743
+Meta Train Loss 0.22941
+
+epoch 744
+Meta Train Loss 0.15246
+
+epoch 745
+Meta Train Loss 0.12075
+
+epoch 746
+Meta Train Loss 0.14945
+
+epoch 747
+Meta Train Loss 0.14491
+
+epoch 748
+Meta Train Loss 0.14782
+
+epoch 749
+Meta Train Loss 0.16382
+
+epoch 750
+Meta Train Loss 0.17204
+
+epoch 751
+Meta Train Loss 0.12078
+
+epoch 752
+Meta Train Loss 0.18360
+
+epoch 753
+Meta Train Loss 0.15066
+
+epoch 754
+Meta Train Loss 0.13830
+
+epoch 755
+Meta Train Loss 0.22026
+
+epoch 756
+Meta Train Loss 0.10294
+
+epoch 757
+Meta Train Loss 0.12562
+
+epoch 758
+Meta Train Loss 0.13568
+
+epoch 759
+Meta Train Loss 0.15612
+
+epoch 760
+Meta Train Loss 0.13714
+
+epoch 761
+Meta Train Loss 0.12013
+
+epoch 762
+Meta Train Loss 0.15724
+
+epoch 763
+Meta Train Loss 0.12752
+
+epoch 764
+Meta Train Loss 0.13146
+
+epoch 765
+Meta Train Loss 0.12198
+
+epoch 766
+Meta Train Loss 0.12771
+
+epoch 767
+Meta Train Loss 0.12748
+
+epoch 768
+Meta Train Loss 0.13976
+
+epoch 769
+Meta Train Loss 0.12777
+
+epoch 770
+Meta Train Loss 0.13697
+
+epoch 771
+Meta Train Loss 0.14639
+
+epoch 772
+Meta Train Loss 0.13468
+
+epoch 773
+Meta Train Loss 0.14922
+
+epoch 774
+Meta Train Loss 0.13488
+
+epoch 775
+Meta Train Loss 0.15852
+
+epoch 776
+Meta Train Loss 0.12502
+
+epoch 777
+Meta Train Loss 0.12316
+
+epoch 778
+Meta Train Loss 0.11851
+
+epoch 779
+Meta Train Loss 0.14396
+
+epoch 780
+Meta Train Loss 0.11063
+
+epoch 781
+Meta Train Loss 0.15189
+
+epoch 782
+Meta Train Loss 0.13627
+
+epoch 783
+Meta Train Loss 0.14676
+
+epoch 784
+Meta Train Loss 0.13321
+
+epoch 785
+Meta Train Loss 0.18801
+
+epoch 786
+Meta Train Loss 0.15941
+
+epoch 787
+Meta Train Loss 0.18284
+
+epoch 788
+Meta Train Loss 0.10241
+
+epoch 789
+Meta Train Loss 0.12805
+
+epoch 790
+Meta Train Loss 0.10212
+
+epoch 791
+Meta Train Loss 0.12785
+
+epoch 792
+Meta Train Loss 0.11153
+
+epoch 793
+Meta Train Loss 0.12161
+
+epoch 794
+Meta Train Loss 0.15218
+
+epoch 795
+Meta Train Loss 0.16278
+
+epoch 796
+Meta Train Loss 0.13386
+
+epoch 797
+Meta Train Loss 0.13312
+
+epoch 798
+Meta Train Loss 0.15754
+epoch 799, Meta Valid Loss 0.18070
+
+epoch 799
+Meta Train Loss 0.15933
+
+epoch 800
+Meta Train Loss 0.17101
+
+epoch 801
+Meta Train Loss 0.27815
+
+epoch 802
+Meta Train Loss 0.21930
+
+epoch 803
+Meta Train Loss 0.15054
+
+epoch 804
+Meta Train Loss 0.18873
+
+epoch 805
+Meta Train Loss 0.17731
+
+epoch 806
+Meta Train Loss 0.16985
+
+epoch 807
+Meta Train Loss 0.19222
+
+epoch 808
+Meta Train Loss 0.10759
+
+epoch 809
+Meta Train Loss 0.16708
+
+epoch 810
+Meta Train Loss 0.18142
+
+epoch 811
+Meta Train Loss 0.15893
+
+epoch 812
+Meta Train Loss 0.14250
+
+epoch 813
+Meta Train Loss 0.18620
+
+epoch 814
+Meta Train Loss 0.16651
+
+epoch 815
+Meta Train Loss 0.13996
+
+epoch 816
+Meta Train Loss 0.17975
+
+epoch 817
+Meta Train Loss 0.25196
+
+epoch 818
+Meta Train Loss 0.14314
+
+epoch 819
+Meta Train Loss 0.17063
+
+epoch 820
+Meta Train Loss 0.28713
+
+epoch 821
+Meta Train Loss 0.15093
+
+epoch 822
+Meta Train Loss 0.13848
+
+epoch 823
+Meta Train Loss 0.11997
+
+epoch 824
+Meta Train Loss 0.14121
+
+epoch 825
+Meta Train Loss 0.15282
+
+epoch 826
+Meta Train Loss 0.12256
+
+epoch 827
+Meta Train Loss 0.13192
+
+epoch 828
+Meta Train Loss 0.14665
+
+epoch 829
+Meta Train Loss 0.16607
+
+epoch 830
+Meta Train Loss 0.15107
+
+epoch 831
+Meta Train Loss 0.12766
+
+epoch 832
+Meta Train Loss 0.13958
+
+epoch 833
+Meta Train Loss 0.11441
+
+epoch 834
+Meta Train Loss 0.13860
+
+epoch 835
+Meta Train Loss 0.15380
+
+epoch 836
+Meta Train Loss 0.13584
+
+epoch 837
+Meta Train Loss 0.10282
+
+epoch 838
+Meta Train Loss 0.16642
+
+epoch 839
+Meta Train Loss 0.12699
+
+epoch 840
+Meta Train Loss 0.10896
+
+epoch 841
+Meta Train Loss 0.11905
+
+epoch 842
+Meta Train Loss 0.10323
+
+epoch 843
+Meta Train Loss 0.15103
+
+epoch 844
+Meta Train Loss 0.13112
+
+epoch 845
+Meta Train Loss 0.14257
+
+epoch 846
+Meta Train Loss 0.11474
+
+epoch 847
+Meta Train Loss 0.16635
+
+epoch 848
+Meta Train Loss 0.11786
+
+epoch 849
+Meta Train Loss 0.12677
+
+epoch 850
+Meta Train Loss 0.18168
+
+epoch 851
+Meta Train Loss 0.16492
+
+epoch 852
+Meta Train Loss 0.13313
+
+epoch 853
+Meta Train Loss 0.13985
+
+epoch 854
+Meta Train Loss 0.17143
+
+epoch 855
+Meta Train Loss 0.17543
+
+epoch 856
+Meta Train Loss 0.13059
+
+epoch 857
+Meta Train Loss 0.14927
+
+epoch 858
+Meta Train Loss 0.12246
+
+epoch 859
+Meta Train Loss 0.14276
+
+epoch 860
+Meta Train Loss 0.11311
+
+epoch 861
+Meta Train Loss 0.13896
+
+epoch 862
+Meta Train Loss 0.12521
+
+epoch 863
+Meta Train Loss 0.13530
+
+epoch 864
+Meta Train Loss 0.15759
+
+epoch 865
+Meta Train Loss 0.12181
+
+epoch 866
+Meta Train Loss 0.13713
+
+epoch 867
+Meta Train Loss 0.17493
+
+epoch 868
+Meta Train Loss 0.12236
+
+epoch 869
+Meta Train Loss 0.14053
+
+epoch 870
+Meta Train Loss 0.13736
+
+epoch 871
+Meta Train Loss 0.12623
+
+epoch 872
+Meta Train Loss 0.17124
+
+epoch 873
+Meta Train Loss 0.14173
+
+epoch 874
+Meta Train Loss 0.17780
+
+epoch 875
+Meta Train Loss 0.15420
+
+epoch 876
+Meta Train Loss 0.12786
+
+epoch 877
+Meta Train Loss 0.11118
+
+epoch 878
+Meta Train Loss 0.18621
+
+epoch 879
+Meta Train Loss 0.21352
+
+epoch 880
+Meta Train Loss 0.16096
+
+epoch 881
+Meta Train Loss 0.14169
+
+epoch 882
+Meta Train Loss 0.13761
+
+epoch 883
+Meta Train Loss 0.12634
+
+epoch 884
+Meta Train Loss 0.20188
+
+epoch 885
+Meta Train Loss 0.12559
+
+epoch 886
+Meta Train Loss 0.13358
+
+epoch 887
+Meta Train Loss 0.11057
+
+epoch 888
+Meta Train Loss 0.10726
+
+epoch 889
+Meta Train Loss 0.16839
+
+epoch 890
+Meta Train Loss 0.16312
+
+epoch 891
+Meta Train Loss 0.13148
+
+epoch 892
+Meta Train Loss 0.13576
+
+epoch 893
+Meta Train Loss 0.13416
+
+epoch 894
+Meta Train Loss 0.16642
+
+epoch 895
+Meta Train Loss 0.09828
+
+epoch 896
+Meta Train Loss 0.13515
+
+epoch 897
+Meta Train Loss 0.13258
+
+epoch 898
+Meta Train Loss 0.14815
+epoch 899, Meta Valid Loss 0.13672
+
+epoch 899
+Meta Train Loss 0.18767
+
+epoch 900
+Meta Train Loss 0.18581
+
+epoch 901
+Meta Train Loss 0.12856
+
+epoch 902
+Meta Train Loss 0.10799
+
+epoch 903
+Meta Train Loss 0.19261
+
+epoch 904
+Meta Train Loss 0.23009
+
+epoch 905
+Meta Train Loss 0.18457
+
+epoch 906
+Meta Train Loss 0.15504
+
+epoch 907
+Meta Train Loss 0.25292
+
+epoch 908
+Meta Train Loss 0.16841
+
+epoch 909
+Meta Train Loss 0.09146
+
+epoch 910
+Meta Train Loss 0.12432
+
+epoch 911
+Meta Train Loss 0.14556
+
+epoch 912
+Meta Train Loss 0.14627
+
+epoch 913
+Meta Train Loss 0.11004
+
+epoch 914
+Meta Train Loss 0.24622
+
+epoch 915
+Meta Train Loss 0.17457
+
+epoch 916
+Meta Train Loss 0.11367
+
+epoch 917
+Meta Train Loss 0.32146
+
+epoch 918
+Meta Train Loss 0.17611
+
+epoch 919
+Meta Train Loss 0.15556
+
+epoch 920
+Meta Train Loss 0.16315
+
+epoch 921
+Meta Train Loss 0.27429
+
+epoch 922
+Meta Train Loss 0.12735
+
+epoch 923
+Meta Train Loss 0.15850
+
+epoch 924
+Meta Train Loss 0.17916
+
+epoch 925
+Meta Train Loss 0.12953
+
+epoch 926
+Meta Train Loss 0.11856
+
+epoch 927
+Meta Train Loss 0.14509
+
+epoch 928
+Meta Train Loss 0.13871
+
+epoch 929
+Meta Train Loss 0.12732
+
+epoch 930
+Meta Train Loss 0.14199
+
+epoch 931
+Meta Train Loss 0.09747
+
+epoch 932
+Meta Train Loss 0.14871
+
+epoch 933
+Meta Train Loss 0.11461
+
+epoch 934
+Meta Train Loss 0.10894
+
+epoch 935
+Meta Train Loss 0.09789
+
+epoch 936
+Meta Train Loss 0.12394
+
+epoch 937
+Meta Train Loss 0.09684
+
+epoch 938
+Meta Train Loss 0.12691
+
+epoch 939
+Meta Train Loss 0.12500
+
+epoch 940
+Meta Train Loss 0.12932
+
+epoch 941
+Meta Train Loss 0.13473
+
+epoch 942
+Meta Train Loss 0.09144
+
+epoch 943
+Meta Train Loss 0.12305
+
+epoch 944
+Meta Train Loss 0.15128
+
+epoch 945
+Meta Train Loss 0.15230
+
+epoch 946
+Meta Train Loss 0.16272
+
+epoch 947
+Meta Train Loss 0.14203
+
+epoch 948
+Meta Train Loss 0.11644
+
+epoch 949
+Meta Train Loss 0.17955
+
+epoch 950
+Meta Train Loss 0.11040
+
+epoch 951
+Meta Train Loss 0.11624
+
+epoch 952
+Meta Train Loss 0.14011
+
+epoch 953
+Meta Train Loss 0.16695
+
+epoch 954
+Meta Train Loss 0.10550
+
+epoch 955
+Meta Train Loss 0.21644
+
+epoch 956
+Meta Train Loss 0.12853
+
+epoch 957
+Meta Train Loss 0.10113
+
+epoch 958
+Meta Train Loss 0.16602
+
+epoch 959
+Meta Train Loss 0.13340
+
+epoch 960
+Meta Train Loss 0.12790
+
+epoch 961
+Meta Train Loss 0.13231
+
+epoch 962
+Meta Train Loss 0.13422
+
+epoch 963
+Meta Train Loss 0.13232
+
+epoch 964
+Meta Train Loss 0.15706
+
+epoch 965
+Meta Train Loss 0.13719
+
+epoch 966
+Meta Train Loss 0.12486
+
+epoch 967
+Meta Train Loss 0.10026
+
+epoch 968
+Meta Train Loss 0.18045
+
+epoch 969
+Meta Train Loss 0.16704
+
+epoch 970
+Meta Train Loss 0.11042
+
+epoch 971
+Meta Train Loss 0.21084
+
+epoch 972
+Meta Train Loss 0.17055
+
+epoch 973
+Meta Train Loss 0.11476
+
+epoch 974
+Meta Train Loss 0.18854
+
+epoch 975
+Meta Train Loss 0.19604
+
+epoch 976
+Meta Train Loss 0.13146
+
+epoch 977
+Meta Train Loss 0.18145
+
+epoch 978
+Meta Train Loss 0.14979
+
+epoch 979
+Meta Train Loss 0.15065
+
+epoch 980
+Meta Train Loss 0.11700
+
+epoch 981
+Meta Train Loss 0.18982
+
+epoch 982
+Meta Train Loss 0.14541
+
+epoch 983
+Meta Train Loss 0.16706
+
+epoch 984
+Meta Train Loss 0.14615
+
+epoch 985
+Meta Train Loss 0.10858
+
+epoch 986
+Meta Train Loss 0.15384
+
+epoch 987
+Meta Train Loss 0.09424
+
+epoch 988
+Meta Train Loss 0.12720
+
+epoch 989
+Meta Train Loss 0.13228
+
+epoch 990
+Meta Train Loss 0.11861
+
+epoch 991
+Meta Train Loss 0.15254
+
+epoch 992
+Meta Train Loss 0.09935
+
+epoch 993
+Meta Train Loss 0.13035
+
+epoch 994
+Meta Train Loss 0.13929
+
+epoch 995
+Meta Train Loss 0.12126
+
+epoch 996
+Meta Train Loss 0.13623
+
+epoch 997
+Meta Train Loss 0.11645
+
+epoch 998
+Meta Train Loss 0.15998
+epoch 999, Meta Valid Loss 0.13206
+
+epoch 999
+Meta Train Loss 0.12994
+
+epoch 1000
+Meta Train Loss 0.15390
+
+epoch 1001
+Meta Train Loss 0.12103
+
+epoch 1002
+Meta Train Loss 0.08873
+
+epoch 1003
+Meta Train Loss 0.14614
+
+epoch 1004
+Meta Train Loss 0.12912
+
+epoch 1005
+Meta Train Loss 0.15895
+
+epoch 1006
+Meta Train Loss 0.11792
+
+epoch 1007
+Meta Train Loss 0.16710
+
+epoch 1008
+Meta Train Loss 0.12285
+
+epoch 1009
+Meta Train Loss 0.13877
+
+epoch 1010
+Meta Train Loss 0.21448
+
+epoch 1011
+Meta Train Loss 0.12850
+
+epoch 1012
+Meta Train Loss 0.10702
+
+epoch 1013
+Meta Train Loss 0.12588
+
+epoch 1014
+Meta Train Loss 0.09263
+
+epoch 1015
+Meta Train Loss 0.11036
+
+epoch 1016
+Meta Train Loss 0.13086
+
+epoch 1017
+Meta Train Loss 0.12523
+
+epoch 1018
+Meta Train Loss 0.17824
+
+epoch 1019
+Meta Train Loss 0.08940
+
+epoch 1020
+Meta Train Loss 0.12314
+
+epoch 1021
+Meta Train Loss 0.12131
+
+epoch 1022
+Meta Train Loss 0.12464
+
+epoch 1023
+Meta Train Loss 0.08473
+
+epoch 1024
+Meta Train Loss 0.08178
+
+epoch 1025
+Meta Train Loss 0.14625
+
+epoch 1026
+Meta Train Loss 0.09941
+
+epoch 1027
+Meta Train Loss 0.07756
+
+epoch 1028
+Meta Train Loss 0.09929
+
+epoch 1029
+Meta Train Loss 0.12941
+
+epoch 1030
+Meta Train Loss 0.09228
+
+epoch 1031
+Meta Train Loss 0.13430
+
+epoch 1032
+Meta Train Loss 0.10387
+
+epoch 1033
+Meta Train Loss 0.10877
+
+epoch 1034
+Meta Train Loss 0.13231
+
+epoch 1035
+Meta Train Loss 0.13398
+
+epoch 1036
+Meta Train Loss 0.14802
+
+epoch 1037
+Meta Train Loss 0.11716
+
+epoch 1038
+Meta Train Loss 0.13274
+
+epoch 1039
+Meta Train Loss 0.12845
+
+epoch 1040
+Meta Train Loss 0.23624
+
+epoch 1041
+Meta Train Loss 0.08772
+
+epoch 1042
+Meta Train Loss 0.17838
+
+epoch 1043
+Meta Train Loss 0.15803
+
+epoch 1044
+Meta Train Loss 0.12801
+
+epoch 1045
+Meta Train Loss 0.11577
+
+epoch 1046
+Meta Train Loss 0.12730
+
+epoch 1047
+Meta Train Loss 0.13423
+
+epoch 1048
+Meta Train Loss 0.14822
+
+epoch 1049
+Meta Train Loss 0.22641
+
+epoch 1050
+Meta Train Loss 0.14693
+
+epoch 1051
+Meta Train Loss 0.15541
+
+epoch 1052
+Meta Train Loss 0.15742
+
+epoch 1053
+Meta Train Loss 0.08610
+
+epoch 1054
+Meta Train Loss 0.13572
+
+epoch 1055
+Meta Train Loss 0.21174
+
+epoch 1056
+Meta Train Loss 0.10245
+
+epoch 1057
+Meta Train Loss 0.12643
+
+epoch 1058
+Meta Train Loss 0.08622
+
+epoch 1059
+Meta Train Loss 0.11970
+
+epoch 1060
+Meta Train Loss 0.11468
+
+epoch 1061
+Meta Train Loss 0.11932
+
+epoch 1062
+Meta Train Loss 0.11989
+
+epoch 1063
+Meta Train Loss 0.11573
+
+epoch 1064
+Meta Train Loss 0.08854
+
+epoch 1065
+Meta Train Loss 0.10276
+
+epoch 1066
+Meta Train Loss 0.09597
+
+epoch 1067
+Meta Train Loss 0.08159
+
+epoch 1068
+Meta Train Loss 0.10684
+
+epoch 1069
+Meta Train Loss 0.10548
+
+epoch 1070
+Meta Train Loss 0.12677
+
+epoch 1071
+Meta Train Loss 0.09486
+
+epoch 1072
+Meta Train Loss 0.10458
+
+epoch 1073
+Meta Train Loss 0.09543
+
+epoch 1074
+Meta Train Loss 0.11809
+
+epoch 1075
+Meta Train Loss 0.10609
+
+epoch 1076
+Meta Train Loss 0.15736
+
+epoch 1077
+Meta Train Loss 0.12393
+
+epoch 1078
+Meta Train Loss 0.14157
+
+epoch 1079
+Meta Train Loss 0.12168
+
+epoch 1080
+Meta Train Loss 0.12775
+
+epoch 1081
+Meta Train Loss 0.18145
+
+epoch 1082
+Meta Train Loss 0.14229
+
+epoch 1083
+Meta Train Loss 0.11415
+
+epoch 1084
+Meta Train Loss 0.16211
+
+epoch 1085
+Meta Train Loss 0.10491
+
+epoch 1086
+Meta Train Loss 0.10980
+
+epoch 1087
+Meta Train Loss 0.09770
+
+epoch 1088
+Meta Train Loss 0.12127
+
+epoch 1089
+Meta Train Loss 0.18153
+
+epoch 1090
+Meta Train Loss 0.14196
+
+epoch 1091
+Meta Train Loss 0.09162
+
+epoch 1092
+Meta Train Loss 0.11605
+
+epoch 1093
+Meta Train Loss 0.10721
+
+epoch 1094
+Meta Train Loss 0.12750
+
+epoch 1095
+Meta Train Loss 0.15431
+
+epoch 1096
+Meta Train Loss 0.10565
+
+epoch 1097
+Meta Train Loss 0.12566
+
+epoch 1098
+Meta Train Loss 0.13655
+epoch 1099, Meta Valid Loss 0.09555
+
+epoch 1099
+Meta Train Loss 0.09675
+
+epoch 1100
+Meta Train Loss 0.15165
+
+epoch 1101
+Meta Train Loss 0.14777
+
+epoch 1102
+Meta Train Loss 0.07437
+
+epoch 1103
+Meta Train Loss 0.16034
+
+epoch 1104
+Meta Train Loss 0.15901
+
+epoch 1105
+Meta Train Loss 0.11472
+
+epoch 1106
+Meta Train Loss 0.26463
+
+epoch 1107
+Meta Train Loss 0.16769
+
+epoch 1108
+Meta Train Loss 0.08969
+
+epoch 1109
+Meta Train Loss 0.13784
+
+epoch 1110
+Meta Train Loss 0.15551
+
+epoch 1111
+Meta Train Loss 0.10501
+
+epoch 1112
+Meta Train Loss 0.09835
+
+epoch 1113
+Meta Train Loss 0.11627
+
+epoch 1114
+Meta Train Loss 0.09976
+
+epoch 1115
+Meta Train Loss 0.13718
+
+epoch 1116
+Meta Train Loss 0.12938
+
+epoch 1117
+Meta Train Loss 0.12489
+
+epoch 1118
+Meta Train Loss 0.16938
+
+epoch 1119
+Meta Train Loss 0.13917
+
+epoch 1120
+Meta Train Loss 0.09852
+
+epoch 1121
+Meta Train Loss 0.13467
+
+epoch 1122
+Meta Train Loss 0.13975
+
+epoch 1123
+Meta Train Loss 0.10932
+
+epoch 1124
+Meta Train Loss 0.11532
+
+epoch 1125
+Meta Train Loss 0.12713
+
+epoch 1126
+Meta Train Loss 0.13029
+
+epoch 1127
+Meta Train Loss 0.12631
+
+epoch 1128
+Meta Train Loss 0.15084
+
+epoch 1129
+Meta Train Loss 0.11476
+
+epoch 1130
+Meta Train Loss 0.11426
+
+epoch 1131
+Meta Train Loss 0.11414
+
+epoch 1132
+Meta Train Loss 0.09592
+
+epoch 1133
+Meta Train Loss 0.10491
+
+epoch 1134
+Meta Train Loss 0.12162
+
+epoch 1135
+Meta Train Loss 0.09612
+
+epoch 1136
+Meta Train Loss 0.10287
+
+epoch 1137
+Meta Train Loss 0.12892
+
+epoch 1138
+Meta Train Loss 0.13092
+
+epoch 1139
+Meta Train Loss 0.09030
+
+epoch 1140
+Meta Train Loss 0.14239
+
+epoch 1141
+Meta Train Loss 0.11351
+
+epoch 1142
+Meta Train Loss 0.11345
+
+epoch 1143
+Meta Train Loss 0.11717
+
+epoch 1144
+Meta Train Loss 0.09359
+
+epoch 1145
+Meta Train Loss 0.12037
+
+epoch 1146
+Meta Train Loss 0.13717
+
+epoch 1147
+Meta Train Loss 0.11489
+
+epoch 1148
+Meta Train Loss 0.14641
+
+epoch 1149
+Meta Train Loss 0.14837
+
+epoch 1150
+Meta Train Loss 0.12998
+
+epoch 1151
+Meta Train Loss 0.13846
+
+epoch 1152
+Meta Train Loss 0.15948
+
+epoch 1153
+Meta Train Loss 0.11839
+
+epoch 1154
+Meta Train Loss 0.14708
+
+epoch 1155
+Meta Train Loss 0.12837
+
+epoch 1156
+Meta Train Loss 0.15330
+
+epoch 1157
+Meta Train Loss 0.09785
+
+epoch 1158
+Meta Train Loss 0.11384
+
+epoch 1159
+Meta Train Loss 0.17335
+
+epoch 1160
+Meta Train Loss 0.15706
+
+epoch 1161
+Meta Train Loss 0.12571
+
+epoch 1162
+Meta Train Loss 0.13948
+
+epoch 1163
+Meta Train Loss 0.15638
+
+epoch 1164
+Meta Train Loss 0.14177
+
+epoch 1165
+Meta Train Loss 0.15060
+
+epoch 1166
+Meta Train Loss 0.31069
+
+epoch 1167
+Meta Train Loss 0.15098
+
+epoch 1168
+Meta Train Loss 0.15323
+
+epoch 1169
+Meta Train Loss 0.23325
+
+epoch 1170
+Meta Train Loss 0.12244
+
+epoch 1171
+Meta Train Loss 0.13100
+
+epoch 1172
+Meta Train Loss 0.19133
+
+epoch 1173
+Meta Train Loss 0.09677
+
+epoch 1174
+Meta Train Loss 0.10908
+
+epoch 1175
+Meta Train Loss 0.17353
+
+epoch 1176
+Meta Train Loss 0.16777
+
+epoch 1177
+Meta Train Loss 0.11335
+
+epoch 1178
+Meta Train Loss 0.11769
+
+epoch 1179
+Meta Train Loss 0.15525
+
+epoch 1180
+Meta Train Loss 0.12877
+
+epoch 1181
+Meta Train Loss 0.21300
+
+epoch 1182
+Meta Train Loss 0.09879
+
+epoch 1183
+Meta Train Loss 0.10959
+
+epoch 1184
+Meta Train Loss 0.18005
+
+epoch 1185
+Meta Train Loss 0.09472
+
+epoch 1186
+Meta Train Loss 0.11563
+
+epoch 1187
+Meta Train Loss 0.18399
+
+epoch 1188
+Meta Train Loss 0.09605
+
+epoch 1189
+Meta Train Loss 0.17798
+
+epoch 1190
+Meta Train Loss 0.12266
+
+epoch 1191
+Meta Train Loss 0.07319
+
+epoch 1192
+Meta Train Loss 0.12074
+
+epoch 1193
+Meta Train Loss 0.10137
+
+epoch 1194
+Meta Train Loss 0.10112
+
+epoch 1195
+Meta Train Loss 0.15553
+
+epoch 1196
+Meta Train Loss 0.13061
+
+epoch 1197
+Meta Train Loss 0.10809
+
+epoch 1198
+Meta Train Loss 0.13284
+epoch 1199, Meta Valid Loss 0.11463
+
+epoch 1199
+Meta Train Loss 0.16530
+
+epoch 1200
+Meta Train Loss 0.10675
+
+epoch 1201
+Meta Train Loss 0.22283
+
+epoch 1202
+Meta Train Loss 0.10275
+
+epoch 1203
+Meta Train Loss 0.12924
+
+epoch 1204
+Meta Train Loss 0.15410
+
+epoch 1205
+Meta Train Loss 0.10485
+
+epoch 1206
+Meta Train Loss 0.09719
+
+epoch 1207
+Meta Train Loss 0.13266
+
+epoch 1208
+Meta Train Loss 0.14049
+
+epoch 1209
+Meta Train Loss 0.09932
+
+epoch 1210
+Meta Train Loss 0.11491
+
+epoch 1211
+Meta Train Loss 0.10857
+
+epoch 1212
+Meta Train Loss 0.10617
+
+epoch 1213
+Meta Train Loss 0.10630
+
+epoch 1214
+Meta Train Loss 0.11088
+
+epoch 1215
+Meta Train Loss 0.12209
+
+epoch 1216
+Meta Train Loss 0.14489
+
+epoch 1217
+Meta Train Loss 0.11211
+
+epoch 1218
+Meta Train Loss 0.13234
+
+epoch 1219
+Meta Train Loss 0.07374
+
+epoch 1220
+Meta Train Loss 0.13260
+
+epoch 1221
+Meta Train Loss 0.10407
+
+epoch 1222
+Meta Train Loss 0.12546
+
+epoch 1223
+Meta Train Loss 0.14209
+
+epoch 1224
+Meta Train Loss 0.11684
+
+epoch 1225
+Meta Train Loss 0.11841
+
+epoch 1226
+Meta Train Loss 0.12724
+
+epoch 1227
+Meta Train Loss 0.10300
+
+epoch 1228
+Meta Train Loss 0.09890
+
+epoch 1229
+Meta Train Loss 0.17302
+
+epoch 1230
+Meta Train Loss 0.10308
+
+epoch 1231
+Meta Train Loss 0.08250
+
+epoch 1232
+Meta Train Loss 0.12148
+
+epoch 1233
+Meta Train Loss 0.13976
+
+epoch 1234
+Meta Train Loss 0.09822
+
+epoch 1235
+Meta Train Loss 0.12545
+
+epoch 1236
+Meta Train Loss 0.08325
+
+epoch 1237
+Meta Train Loss 0.09159
+
+epoch 1238
+Meta Train Loss 0.09925
+
+epoch 1239
+Meta Train Loss 0.07621
+
+epoch 1240
+Meta Train Loss 0.09913
+
+epoch 1241
+Meta Train Loss 0.10138
+
+epoch 1242
+Meta Train Loss 0.12318
+
+epoch 1243
+Meta Train Loss 0.09696
+
+epoch 1244
+Meta Train Loss 0.15998
+
+epoch 1245
+Meta Train Loss 0.14355
+
+epoch 1246
+Meta Train Loss 0.10047
+
+epoch 1247
+Meta Train Loss 0.12754
+
+epoch 1248
+Meta Train Loss 0.15608
+
+epoch 1249
+Meta Train Loss 0.10537
+
+epoch 1250
+Meta Train Loss 0.13129
+
+epoch 1251
+Meta Train Loss 0.15288
+
+epoch 1252
+Meta Train Loss 0.10991
+
+epoch 1253
+Meta Train Loss 0.11825
+
+epoch 1254
+Meta Train Loss 0.11170
+
+epoch 1255
+Meta Train Loss 0.10746
+
+epoch 1256
+Meta Train Loss 0.14744
+
+epoch 1257
+Meta Train Loss 0.13250
+
+epoch 1258
+Meta Train Loss 0.14216
+
+epoch 1259
+Meta Train Loss 0.10178
+
+epoch 1260
+Meta Train Loss 0.10818
+
+epoch 1261
+Meta Train Loss 0.21430
+
+epoch 1262
+Meta Train Loss 0.10296
+
+epoch 1263
+Meta Train Loss 0.10360
+
+epoch 1264
+Meta Train Loss 0.14946
+
+epoch 1265
+Meta Train Loss 0.15992
+
+epoch 1266
+Meta Train Loss 0.13694
+
+epoch 1267
+Meta Train Loss 0.26448
+
+epoch 1268
+Meta Train Loss 0.16292
+
+epoch 1269
+Meta Train Loss 0.18793
+
+epoch 1270
+Meta Train Loss 0.21412
+
+epoch 1271
+Meta Train Loss 0.21173
+
+epoch 1272
+Meta Train Loss 0.11021
+
+epoch 1273
+Meta Train Loss 0.23390
+
+epoch 1274
+Meta Train Loss 0.29087
+
+epoch 1275
+Meta Train Loss 0.11149
+
+epoch 1276
+Meta Train Loss 0.18493
+
+epoch 1277
+Meta Train Loss 0.15153
+
+epoch 1278
+Meta Train Loss 0.17994
+
+epoch 1279
+Meta Train Loss 0.16658
+
+epoch 1280
+Meta Train Loss 0.21491
+
+epoch 1281
+Meta Train Loss 0.09872
+
+epoch 1282
+Meta Train Loss 0.15977
+
+epoch 1283
+Meta Train Loss 0.09693
+
+epoch 1284
+Meta Train Loss 0.12749
+
+epoch 1285
+Meta Train Loss 0.12984
+
+epoch 1286
+Meta Train Loss 0.10197
+
+epoch 1287
+Meta Train Loss 0.13140
+
+epoch 1288
+Meta Train Loss 0.15762
+
+epoch 1289
+Meta Train Loss 0.17345
+
+epoch 1290
+Meta Train Loss 0.17407
+
+epoch 1291
+Meta Train Loss 0.11647
+
+epoch 1292
+Meta Train Loss 0.15334
+
+epoch 1293
+Meta Train Loss 0.07974
+
+epoch 1294
+Meta Train Loss 0.20587
+
+epoch 1295
+Meta Train Loss 0.13944
+
+epoch 1296
+Meta Train Loss 0.11176
+
+epoch 1297
+Meta Train Loss 0.16222
+
+epoch 1298
+Meta Train Loss 0.11694
+epoch 1299, Meta Valid Loss 0.10090
+
+epoch 1299
+Meta Train Loss 0.11740
+
+epoch 1300
+Meta Train Loss 0.15064
+
+epoch 1301
+Meta Train Loss 0.13600
+
+epoch 1302
+Meta Train Loss 0.10858
+
+epoch 1303
+Meta Train Loss 0.09117
+
+epoch 1304
+Meta Train Loss 0.11142
+
+epoch 1305
+Meta Train Loss 0.11739
+
+epoch 1306
+Meta Train Loss 0.10122
+
+epoch 1307
+Meta Train Loss 0.12199
+
+epoch 1308
+Meta Train Loss 0.12370
+
+epoch 1309
+Meta Train Loss 0.09614
+
+epoch 1310
+Meta Train Loss 0.12943
+
+epoch 1311
+Meta Train Loss 0.12368
+
+epoch 1312
+Meta Train Loss 0.09495
+
+epoch 1313
+Meta Train Loss 0.14273
+
+epoch 1314
+Meta Train Loss 0.12137
+
+epoch 1315
+Meta Train Loss 0.13871
+
+epoch 1316
+Meta Train Loss 0.10742
+
+epoch 1317
+Meta Train Loss 0.11555
+
+epoch 1318
+Meta Train Loss 0.10042
+
+epoch 1319
+Meta Train Loss 0.15926
+
+epoch 1320
+Meta Train Loss 0.13658
+
+epoch 1321
+Meta Train Loss 0.13160
+
+epoch 1322
+Meta Train Loss 0.12924
+
+epoch 1323
+Meta Train Loss 0.11771
+
+epoch 1324
+Meta Train Loss 0.11696
+
+epoch 1325
+Meta Train Loss 0.10662
+
+epoch 1326
+Meta Train Loss 0.08560
+
+epoch 1327
+Meta Train Loss 0.14566
+
+epoch 1328
+Meta Train Loss 0.13336
+
+epoch 1329
+Meta Train Loss 0.11161
+
+epoch 1330
+Meta Train Loss 0.25381
+
+epoch 1331
+Meta Train Loss 0.09024
+
+epoch 1332
+Meta Train Loss 0.12916
+
+epoch 1333
+Meta Train Loss 0.11878
+
+epoch 1334
+Meta Train Loss 0.12021
+
+epoch 1335
+Meta Train Loss 0.07956
+
+epoch 1336
+Meta Train Loss 0.09634
+
+epoch 1337
+Meta Train Loss 0.10487
+
+epoch 1338
+Meta Train Loss 0.11863
+
+epoch 1339
+Meta Train Loss 0.11165
+
+epoch 1340
+Meta Train Loss 0.16113
+
+epoch 1341
+Meta Train Loss 0.12916
+
+epoch 1342
+Meta Train Loss 0.08734
+
+epoch 1343
+Meta Train Loss 0.21143
+
+epoch 1344
+Meta Train Loss 0.13847
+
+epoch 1345
+Meta Train Loss 0.09922
+
+epoch 1346
+Meta Train Loss 0.14055
+
+epoch 1347
+Meta Train Loss 0.19506
+
+epoch 1348
+Meta Train Loss 0.10840
+
+epoch 1349
+Meta Train Loss 0.12725
+
+epoch 1350
+Meta Train Loss 0.15747
+
+epoch 1351
+Meta Train Loss 0.14674
+
+epoch 1352
+Meta Train Loss 0.13329
+
+epoch 1353
+Meta Train Loss 0.19837
+
+epoch 1354
+Meta Train Loss 0.14632
+
+epoch 1355
+Meta Train Loss 0.14719
+
+epoch 1356
+Meta Train Loss 0.11068
+
+epoch 1357
+Meta Train Loss 0.21505
+
+epoch 1358
+Meta Train Loss 0.22892
+
+epoch 1359
+Meta Train Loss 0.11395
+
+epoch 1360
+Meta Train Loss 0.17271
+
+epoch 1361
+Meta Train Loss 0.17574
+
+epoch 1362
+Meta Train Loss 0.14239
+
+epoch 1363
+Meta Train Loss 0.14141
+
+epoch 1364
+Meta Train Loss 0.22730
+
+epoch 1365
+Meta Train Loss 0.14721
+
+epoch 1366
+Meta Train Loss 0.12417
+
+epoch 1367
+Meta Train Loss 0.21625
+
+epoch 1368
+Meta Train Loss 0.14656
+
+epoch 1369
+Meta Train Loss 0.09499
+
+epoch 1370
+Meta Train Loss 0.12519
+
+epoch 1371
+Meta Train Loss 0.11387
+
+epoch 1372
+Meta Train Loss 0.11341
+
+epoch 1373
+Meta Train Loss 0.13712
+
+epoch 1374
+Meta Train Loss 0.09818
+
+epoch 1375
+Meta Train Loss 0.10175
+
+epoch 1376
+Meta Train Loss 0.10993
+
+epoch 1377
+Meta Train Loss 0.16182
+
+epoch 1378
+Meta Train Loss 0.09559
+
+epoch 1379
+Meta Train Loss 0.13035
+
+epoch 1380
+Meta Train Loss 0.11284
+
+epoch 1381
+Meta Train Loss 0.07678
+
+epoch 1382
+Meta Train Loss 0.12077
+
+epoch 1383
+Meta Train Loss 0.12309
+
+epoch 1384
+Meta Train Loss 0.09172
+
+epoch 1385
+Meta Train Loss 0.10716
+
+epoch 1386
+Meta Train Loss 0.11539
+
+epoch 1387
+Meta Train Loss 0.16253
+
+epoch 1388
+Meta Train Loss 0.08466
+
+epoch 1389
+Meta Train Loss 0.13980
+
+epoch 1390
+Meta Train Loss 0.13922
+
+epoch 1391
+Meta Train Loss 0.09170
+
+epoch 1392
+Meta Train Loss 0.09650
+
+epoch 1393
+Meta Train Loss 0.13625
+
+epoch 1394
+Meta Train Loss 0.09330
+
+epoch 1395
+Meta Train Loss 0.13476
+
+epoch 1396
+Meta Train Loss 0.09393
+
+epoch 1397
+Meta Train Loss 0.09211
+
+epoch 1398
+Meta Train Loss 0.10110
+epoch 1399, Meta Valid Loss 0.09664
+
+epoch 1399
+Meta Train Loss 0.10671
+
+epoch 1400
+Meta Train Loss 0.14242
+
+epoch 1401
+Meta Train Loss 0.12836
+
+epoch 1402
+Meta Train Loss 0.12690
+
+epoch 1403
+Meta Train Loss 0.12148
+
+epoch 1404
+Meta Train Loss 0.13065
+
+epoch 1405
+Meta Train Loss 0.08170
+
+epoch 1406
+Meta Train Loss 0.10013
+
+epoch 1407
+Meta Train Loss 0.09647
+
+epoch 1408
+Meta Train Loss 0.08885
+
+epoch 1409
+Meta Train Loss 0.09573
+
+epoch 1410
+Meta Train Loss 0.12183
+
+epoch 1411
+Meta Train Loss 0.12377
+
+epoch 1412
+Meta Train Loss 0.10521
+
+epoch 1413
+Meta Train Loss 0.09199
+
+epoch 1414
+Meta Train Loss 0.14161
+
+epoch 1415
+Meta Train Loss 0.09991
+
+epoch 1416
+Meta Train Loss 0.09918
+
+epoch 1417
+Meta Train Loss 0.09863
+
+epoch 1418
+Meta Train Loss 0.09396
+
+epoch 1419
+Meta Train Loss 0.09937
+
+epoch 1420
+Meta Train Loss 0.11233
+
+epoch 1421
+Meta Train Loss 0.09207
+
+epoch 1422
+Meta Train Loss 0.12893
+
+epoch 1423
+Meta Train Loss 0.13417
+
+epoch 1424
+Meta Train Loss 0.18788
+
+epoch 1425
+Meta Train Loss 0.18601
+
+epoch 1426
+Meta Train Loss 0.12157
+
+epoch 1427
+Meta Train Loss 0.12445
+
+epoch 1428
+Meta Train Loss 0.16708
+
+epoch 1429
+Meta Train Loss 0.10128
+
+epoch 1430
+Meta Train Loss 0.08752
+
+epoch 1431
+Meta Train Loss 0.15047
+
+epoch 1432
+Meta Train Loss 0.21894
+
+epoch 1433
+Meta Train Loss 0.10368
+
+epoch 1434
+Meta Train Loss 0.17974
+
+epoch 1435
+Meta Train Loss 0.14483
+
+epoch 1436
+Meta Train Loss 0.12702
+
+epoch 1437
+Meta Train Loss 0.14418
+
+epoch 1438
+Meta Train Loss 0.18695
+
+epoch 1439
+Meta Train Loss 0.08604
+
+epoch 1440
+Meta Train Loss 0.14451
+
+epoch 1441
+Meta Train Loss 0.10618
+
+epoch 1442
+Meta Train Loss 0.12394
+
+epoch 1443
+Meta Train Loss 0.10995
+
+epoch 1444
+Meta Train Loss 0.08566
+
+epoch 1445
+Meta Train Loss 0.10372
+
+epoch 1446
+Meta Train Loss 0.11727
+
+epoch 1447
+Meta Train Loss 0.07492
+
+epoch 1448
+Meta Train Loss 0.08910
+
+epoch 1449
+Meta Train Loss 0.10656
+
+epoch 1450
+Meta Train Loss 0.12899
+
+epoch 1451
+Meta Train Loss 0.13787
+
+epoch 1452
+Meta Train Loss 0.14227
+
+epoch 1453
+Meta Train Loss 0.09572
+
+epoch 1454
+Meta Train Loss 0.12034
+
+epoch 1455
+Meta Train Loss 0.12978
+
+epoch 1456
+Meta Train Loss 0.16946
+
+epoch 1457
+Meta Train Loss 0.11135
+
+epoch 1458
+Meta Train Loss 0.14466
+
+epoch 1459
+Meta Train Loss 0.14197
+
+epoch 1460
+Meta Train Loss 0.08722
+
+epoch 1461
+Meta Train Loss 0.13920
+
+epoch 1462
+Meta Train Loss 0.15614
+
+epoch 1463
+Meta Train Loss 0.11104
+
+epoch 1464
+Meta Train Loss 0.22524
+
+epoch 1465
+Meta Train Loss 0.16463
+
+epoch 1466
+Meta Train Loss 0.12664
+
+epoch 1467
+Meta Train Loss 0.11807
+
+epoch 1468
+Meta Train Loss 0.14083
+
+epoch 1469
+Meta Train Loss 0.11600
+
+epoch 1470
+Meta Train Loss 0.15060
+
+epoch 1471
+Meta Train Loss 0.22707
+
+epoch 1472
+Meta Train Loss 0.11563
+
+epoch 1473
+Meta Train Loss 0.13628
+
+epoch 1474
+Meta Train Loss 0.20221
+
+epoch 1475
+Meta Train Loss 0.09387
+
+epoch 1476
+Meta Train Loss 0.11248
+
+epoch 1477
+Meta Train Loss 0.20423
+
+epoch 1478
+Meta Train Loss 0.18374
+
+epoch 1479
+Meta Train Loss 0.08123
+
+epoch 1480
+Meta Train Loss 0.10931
+
+epoch 1481
+Meta Train Loss 0.12677
+
+epoch 1482
+Meta Train Loss 0.14358
+
+epoch 1483
+Meta Train Loss 0.10334
+
+epoch 1484
+Meta Train Loss 0.10121
+
+epoch 1485
+Meta Train Loss 0.08978
+
+epoch 1486
+Meta Train Loss 0.11949
+
+epoch 1487
+Meta Train Loss 0.12766
+
+epoch 1488
+Meta Train Loss 0.12936
+
+epoch 1489
+Meta Train Loss 0.08082
+
+epoch 1490
+Meta Train Loss 0.12375
+
+epoch 1491
+Meta Train Loss 0.16304
+
+epoch 1492
+Meta Train Loss 0.09980
+
+epoch 1493
+Meta Train Loss 0.09059
+
+epoch 1494
+Meta Train Loss 0.12391
+
+epoch 1495
+Meta Train Loss 0.12812
+
+epoch 1496
+Meta Train Loss 0.14390
+
+epoch 1497
+Meta Train Loss 0.12176
+
+epoch 1498
+Meta Train Loss 0.10837
+epoch 1499, Meta Valid Loss 0.14819
+
+epoch 1499
+Meta Train Loss 0.14561
+
+epoch 1500
+Meta Train Loss 0.10373
+
+epoch 1501
+Meta Train Loss 0.13550
+
+epoch 1502
+Meta Train Loss 0.11510
+
+epoch 1503
+Meta Train Loss 0.11304
+
+epoch 1504
+Meta Train Loss 0.08270
+
+epoch 1505
+Meta Train Loss 0.11022
+
+epoch 1506
+Meta Train Loss 0.13747
+
+epoch 1507
+Meta Train Loss 0.09643
+
+epoch 1508
+Meta Train Loss 0.11965
+
+epoch 1509
+Meta Train Loss 0.11573
+
+epoch 1510
+Meta Train Loss 0.08500
+
+epoch 1511
+Meta Train Loss 0.09291
+
+epoch 1512
+Meta Train Loss 0.08386
+
+epoch 1513
+Meta Train Loss 0.12164
+
+epoch 1514
+Meta Train Loss 0.08673
+
+epoch 1515
+Meta Train Loss 0.08168
+
+epoch 1516
+Meta Train Loss 0.09630
+
+epoch 1517
+Meta Train Loss 0.08857
+
+epoch 1518
+Meta Train Loss 0.15701
+
+epoch 1519
+Meta Train Loss 0.09222
+
+epoch 1520
+Meta Train Loss 0.10925
+
+epoch 1521
+Meta Train Loss 0.09301
+
+epoch 1522
+Meta Train Loss 0.09819
+
+epoch 1523
+Meta Train Loss 0.11838
+
+epoch 1524
+Meta Train Loss 0.09574
+
+epoch 1525
+Meta Train Loss 0.14474
+
+epoch 1526
+Meta Train Loss 0.10567
+
+epoch 1527
+Meta Train Loss 0.09453
+
+epoch 1528
+Meta Train Loss 0.12800
+
+epoch 1529
+Meta Train Loss 0.11824
+
+epoch 1530
+Meta Train Loss 0.09703
+
+epoch 1531
+Meta Train Loss 0.10471
+
+epoch 1532
+Meta Train Loss 0.11021
+
+epoch 1533
+Meta Train Loss 0.06752
+
+epoch 1534
+Meta Train Loss 0.15194
+
+epoch 1535
+Meta Train Loss 0.11963
+
+epoch 1536
+Meta Train Loss 0.16448
+
+epoch 1537
+Meta Train Loss 0.10513
+
+epoch 1538
+Meta Train Loss 0.10876
+
+epoch 1539
+Meta Train Loss 0.13798
+
+epoch 1540
+Meta Train Loss 0.09931
+
+epoch 1541
+Meta Train Loss 0.11230
+
+epoch 1542
+Meta Train Loss 0.10668
+
+epoch 1543
+Meta Train Loss 0.14088
+
+epoch 1544
+Meta Train Loss 0.13979
+
+epoch 1545
+Meta Train Loss 0.13484
+
+epoch 1546
+Meta Train Loss 0.13887
+
+epoch 1547
+Meta Train Loss 0.09727
+
+epoch 1548
+Meta Train Loss 0.09796
+
+epoch 1549
+Meta Train Loss 0.13188
+
+epoch 1550
+Meta Train Loss 0.22556
+
+epoch 1551
+Meta Train Loss 0.11086
+
+epoch 1552
+Meta Train Loss 0.08570
+
+epoch 1553
+Meta Train Loss 0.11371
+
+epoch 1554
+Meta Train Loss 0.16387
+
+epoch 1555
+Meta Train Loss 0.10121
+
+epoch 1556
+Meta Train Loss 0.09413
+
+epoch 1557
+Meta Train Loss 0.09975
+
+epoch 1558
+Meta Train Loss 0.12467
+
+epoch 1559
+Meta Train Loss 0.10736
+
+epoch 1560
+Meta Train Loss 0.09320
+
+epoch 1561
+Meta Train Loss 0.12809
+
+epoch 1562
+Meta Train Loss 0.11912
+
+epoch 1563
+Meta Train Loss 0.14600
+
+epoch 1564
+Meta Train Loss 0.11002
+
+epoch 1565
+Meta Train Loss 0.09185
+
+epoch 1566
+Meta Train Loss 0.09320
+
+epoch 1567
+Meta Train Loss 0.14125
+
+epoch 1568
+Meta Train Loss 0.09976
+
+epoch 1569
+Meta Train Loss 0.09151
+
+epoch 1570
+Meta Train Loss 0.09052
+
+epoch 1571
+Meta Train Loss 0.12952
+
+epoch 1572
+Meta Train Loss 0.07645
+
+epoch 1573
+Meta Train Loss 0.11889
+
+epoch 1574
+Meta Train Loss 0.09193
+
+epoch 1575
+Meta Train Loss 0.06177
+
+epoch 1576
+Meta Train Loss 0.08130
+
+epoch 1577
+Meta Train Loss 0.14156
+
+epoch 1578
+Meta Train Loss 0.09500
+
+epoch 1579
+Meta Train Loss 0.12477
+
+epoch 1580
+Meta Train Loss 0.10464
+
+epoch 1581
+Meta Train Loss 0.11628
+
+epoch 1582
+Meta Train Loss 0.09354
+
+epoch 1583
+Meta Train Loss 0.12504
+
+epoch 1584
+Meta Train Loss 0.11028
+
+epoch 1585
+Meta Train Loss 0.09704
+
+epoch 1586
+Meta Train Loss 0.13232
+
+epoch 1587
+Meta Train Loss 0.12847
+
+epoch 1588
+Meta Train Loss 0.20760
+
+epoch 1589
+Meta Train Loss 0.09551
+
+epoch 1590
+Meta Train Loss 0.10552
+
+epoch 1591
+Meta Train Loss 0.12240
+
+epoch 1592
+Meta Train Loss 0.28143
+
+epoch 1593
+Meta Train Loss 0.10645
+
+epoch 1594
+Meta Train Loss 0.13754
+
+epoch 1595
+Meta Train Loss 0.18551
+
+epoch 1596
+Meta Train Loss 0.14274
+
+epoch 1597
+Meta Train Loss 0.10745
+
+epoch 1598
+Meta Train Loss 0.15999
+epoch 1599, Meta Valid Loss 0.13972
+
+epoch 1599
+Meta Train Loss 0.17913
+
+epoch 1600
+Meta Train Loss 0.09497
+
+epoch 1601
+Meta Train Loss 0.12843
+
+epoch 1602
+Meta Train Loss 0.13895
+
+epoch 1603
+Meta Train Loss 0.11377
+
+epoch 1604
+Meta Train Loss 0.08635
+
+epoch 1605
+Meta Train Loss 0.12795
+
+epoch 1606
+Meta Train Loss 0.08291
+
+epoch 1607
+Meta Train Loss 0.08179
+
+epoch 1608
+Meta Train Loss 0.14315
+
+epoch 1609
+Meta Train Loss 0.11755
+
+epoch 1610
+Meta Train Loss 0.14650
+
+epoch 1611
+Meta Train Loss 0.07646
+
+epoch 1612
+Meta Train Loss 0.11200
+
+epoch 1613
+Meta Train Loss 0.14067
+
+epoch 1614
+Meta Train Loss 0.12795
+
+epoch 1615
+Meta Train Loss 0.08195
+
+epoch 1616
+Meta Train Loss 0.10451
+
+epoch 1617
+Meta Train Loss 0.14072
+
+epoch 1618
+Meta Train Loss 0.08485
+
+epoch 1619
+Meta Train Loss 0.09877
+
+epoch 1620
+Meta Train Loss 0.14279
+
+epoch 1621
+Meta Train Loss 0.14578
+
+epoch 1622
+Meta Train Loss 0.12014
+
+epoch 1623
+Meta Train Loss 0.08173
+
+epoch 1624
+Meta Train Loss 0.12830
+
+epoch 1625
+Meta Train Loss 0.11568
+
+epoch 1626
+Meta Train Loss 0.08277
+
+epoch 1627
+Meta Train Loss 0.09306
+
+epoch 1628
+Meta Train Loss 0.12739
+
+epoch 1629
+Meta Train Loss 0.11706
+
+epoch 1630
+Meta Train Loss 0.12314
+
+epoch 1631
+Meta Train Loss 0.12004
+
+epoch 1632
+Meta Train Loss 0.21665
+
+epoch 1633
+Meta Train Loss 0.11175
+
+epoch 1634
+Meta Train Loss 0.08805
+
+epoch 1635
+Meta Train Loss 0.08831
+
+epoch 1636
+Meta Train Loss 0.11975
+
+epoch 1637
+Meta Train Loss 0.18179
+
+epoch 1638
+Meta Train Loss 0.13578
+
+epoch 1639
+Meta Train Loss 0.13543
+
+epoch 1640
+Meta Train Loss 0.09821
+
+epoch 1641
+Meta Train Loss 0.09860
+
+epoch 1642
+Meta Train Loss 0.11117
+
+epoch 1643
+Meta Train Loss 0.10721
+
+epoch 1644
+Meta Train Loss 0.13454
+
+epoch 1645
+Meta Train Loss 0.08173
+
+epoch 1646
+Meta Train Loss 0.09161
+
+epoch 1647
+Meta Train Loss 0.08553
+
+epoch 1648
+Meta Train Loss 0.08035
+
+epoch 1649
+Meta Train Loss 0.08862
+
+epoch 1650
+Meta Train Loss 0.11447
+
+epoch 1651
+Meta Train Loss 0.09901
+
+epoch 1652
+Meta Train Loss 0.09506
+
+epoch 1653
+Meta Train Loss 0.08100
+
+epoch 1654
+Meta Train Loss 0.10326
+
+epoch 1655
+Meta Train Loss 0.09331
+
+epoch 1656
+Meta Train Loss 0.11025
+
+epoch 1657
+Meta Train Loss 0.06487
+
+epoch 1658
+Meta Train Loss 0.15514
+
+epoch 1659
+Meta Train Loss 0.08629
+
+epoch 1660
+Meta Train Loss 0.17231
+
+epoch 1661
+Meta Train Loss 0.09783
+
+epoch 1662
+Meta Train Loss 0.10136
+
+epoch 1663
+Meta Train Loss 0.17565
+
+epoch 1664
+Meta Train Loss 0.08744
+
+epoch 1665
+Meta Train Loss 0.10436
+
+epoch 1666
+Meta Train Loss 0.10893
+
+epoch 1667
+Meta Train Loss 0.07765
+
+epoch 1668
+Meta Train Loss 0.14659
+
+epoch 1669
+Meta Train Loss 0.09884
+
+epoch 1670
+Meta Train Loss 0.08376
+
+epoch 1671
+Meta Train Loss 0.08273
+
+epoch 1672
+Meta Train Loss 0.12738
+
+epoch 1673
+Meta Train Loss 0.10313
+
+epoch 1674
+Meta Train Loss 0.11681
+
+epoch 1675
+Meta Train Loss 0.08442
+
+epoch 1676
+Meta Train Loss 0.08843
+
+epoch 1677
+Meta Train Loss 0.08722
+
+epoch 1678
+Meta Train Loss 0.09440
+
+epoch 1679
+Meta Train Loss 0.09107
+
+epoch 1680
+Meta Train Loss 0.09100
+
+epoch 1681
+Meta Train Loss 0.07228
+
+epoch 1682
+Meta Train Loss 0.13835
+
+epoch 1683
+Meta Train Loss 0.13774
+
+epoch 1684
+Meta Train Loss 0.10815
+
+epoch 1685
+Meta Train Loss 0.11339
+
+epoch 1686
+Meta Train Loss 0.11307
+
+epoch 1687
+Meta Train Loss 0.10259
+
+epoch 1688
+Meta Train Loss 0.14080
+
+epoch 1689
+Meta Train Loss 0.10877
+
+epoch 1690
+Meta Train Loss 0.11240
+
+epoch 1691
+Meta Train Loss 0.06698
+
+epoch 1692
+Meta Train Loss 0.09892
+
+epoch 1693
+Meta Train Loss 0.11583
+
+epoch 1694
+Meta Train Loss 0.06220
+
+epoch 1695
+Meta Train Loss 0.10195
+
+epoch 1696
+Meta Train Loss 0.09321
+
+epoch 1697
+Meta Train Loss 0.08055
+
+epoch 1698
+Meta Train Loss 0.08022
+epoch 1699, Meta Valid Loss 0.10557
+
+epoch 1699
+Meta Train Loss 0.09219
+
+epoch 1700
+Meta Train Loss 0.16335
+
+epoch 1701
+Meta Train Loss 0.10670
+
+epoch 1702
+Meta Train Loss 0.07993
+
+epoch 1703
+Meta Train Loss 0.16167
+
+epoch 1704
+Meta Train Loss 0.13846
+
+epoch 1705
+Meta Train Loss 0.08103
+
+epoch 1706
+Meta Train Loss 0.11542
+
+epoch 1707
+Meta Train Loss 0.15370
+
+epoch 1708
+Meta Train Loss 0.08961
+
+epoch 1709
+Meta Train Loss 0.10892
+
+epoch 1710
+Meta Train Loss 0.11219
+
+epoch 1711
+Meta Train Loss 0.15153
+
+epoch 1712
+Meta Train Loss 0.11146
+
+epoch 1713
+Meta Train Loss 0.09728
+
+epoch 1714
+Meta Train Loss 0.16619
+
+epoch 1715
+Meta Train Loss 0.10925
+
+epoch 1716
+Meta Train Loss 0.08640
+
+epoch 1717
+Meta Train Loss 0.13636
+
+epoch 1718
+Meta Train Loss 0.08910
+
+epoch 1719
+Meta Train Loss 0.07994
+
+epoch 1720
+Meta Train Loss 0.07128
+
+epoch 1721
+Meta Train Loss 0.11593
+
+epoch 1722
+Meta Train Loss 0.08515
+
+epoch 1723
+Meta Train Loss 0.08096
+
+epoch 1724
+Meta Train Loss 0.09705
+
+epoch 1725
+Meta Train Loss 0.11970
+
+epoch 1726
+Meta Train Loss 0.08370
+
+epoch 1727
+Meta Train Loss 0.12694
+
+epoch 1728
+Meta Train Loss 0.13478
+
+epoch 1729
+Meta Train Loss 0.08386
+
+epoch 1730
+Meta Train Loss 0.07907
+
+epoch 1731
+Meta Train Loss 0.10420
+
+epoch 1732
+Meta Train Loss 0.08490
+
+epoch 1733
+Meta Train Loss 0.14755
+
+epoch 1734
+Meta Train Loss 0.07892
+
+epoch 1735
+Meta Train Loss 0.14432
+
+epoch 1736
+Meta Train Loss 0.12694
+
+epoch 1737
+Meta Train Loss 0.09752
+
+epoch 1738
+Meta Train Loss 0.08624
+
+epoch 1739
+Meta Train Loss 0.09557
+
+epoch 1740
+Meta Train Loss 0.11560
+
+epoch 1741
+Meta Train Loss 0.13333
+
+epoch 1742
+Meta Train Loss 0.08996
+
+epoch 1743
+Meta Train Loss 0.12707
+
+epoch 1744
+Meta Train Loss 0.17964
+
+epoch 1745
+Meta Train Loss 0.08595
+
+epoch 1746
+Meta Train Loss 0.10760
+
+epoch 1747
+Meta Train Loss 0.10513
+
+epoch 1748
+Meta Train Loss 0.14771
+
+epoch 1749
+Meta Train Loss 0.07475
+
+epoch 1750
+Meta Train Loss 0.14603
+
+epoch 1751
+Meta Train Loss 0.11110
+
+epoch 1752
+Meta Train Loss 0.10559
+
+epoch 1753
+Meta Train Loss 0.09227
+
+epoch 1754
+Meta Train Loss 0.09615
+
+epoch 1755
+Meta Train Loss 0.10985
+
+epoch 1756
+Meta Train Loss 0.09954
+
+epoch 1757
+Meta Train Loss 0.07597
+
+epoch 1758
+Meta Train Loss 0.08118
+
+epoch 1759
+Meta Train Loss 0.11397
+
+epoch 1760
+Meta Train Loss 0.13286
+
+epoch 1761
+Meta Train Loss 0.09678
+
+epoch 1762
+Meta Train Loss 0.13456
+
+epoch 1763
+Meta Train Loss 0.10201
+
+epoch 1764
+Meta Train Loss 0.11296
+
+epoch 1765
+Meta Train Loss 0.09742
+
+epoch 1766
+Meta Train Loss 0.08417
+
+epoch 1767
+Meta Train Loss 0.10534
+
+epoch 1768
+Meta Train Loss 0.11293
+
+epoch 1769
+Meta Train Loss 0.08675
+
+epoch 1770
+Meta Train Loss 0.14286
+
+epoch 1771
+Meta Train Loss 0.10646
+
+epoch 1772
+Meta Train Loss 0.08963
+
+epoch 1773
+Meta Train Loss 0.11234
+
+epoch 1774
+Meta Train Loss 0.10693
+
+epoch 1775
+Meta Train Loss 0.10711
+
+epoch 1776
+Meta Train Loss 0.13636
+
+epoch 1777
+Meta Train Loss 0.08177
+
+epoch 1778
+Meta Train Loss 0.08295
+
+epoch 1779
+Meta Train Loss 0.10610
+
+epoch 1780
+Meta Train Loss 0.11555
+
+epoch 1781
+Meta Train Loss 0.12287
+
+epoch 1782
+Meta Train Loss 0.11172
+
+epoch 1783
+Meta Train Loss 0.11404
+
+epoch 1784
+Meta Train Loss 0.15655
+
+epoch 1785
+Meta Train Loss 0.11423
+
+epoch 1786
+Meta Train Loss 0.11410
+
+epoch 1787
+Meta Train Loss 0.11389
+
+epoch 1788
+Meta Train Loss 0.08749
+
+epoch 1789
+Meta Train Loss 0.09216
+
+epoch 1790
+Meta Train Loss 0.08425
+
+epoch 1791
+Meta Train Loss 0.15867
+
+epoch 1792
+Meta Train Loss 0.09305
+
+epoch 1793
+Meta Train Loss 0.07818
+
+epoch 1794
+Meta Train Loss 0.09460
+
+epoch 1795
+Meta Train Loss 0.13324
+
+epoch 1796
+Meta Train Loss 0.09976
+
+epoch 1797
+Meta Train Loss 0.07421
+
+epoch 1798
+Meta Train Loss 0.09981
+epoch 1799, Meta Valid Loss 0.09103
+
+epoch 1799
+Meta Train Loss 0.08724
+
+epoch 1800
+Meta Train Loss 0.07834
+
+epoch 1801
+Meta Train Loss 0.07488
+
+epoch 1802
+Meta Train Loss 0.08706
+
+epoch 1803
+Meta Train Loss 0.08825
+
+epoch 1804
+Meta Train Loss 0.13748
+
+epoch 1805
+Meta Train Loss 0.07232
+
+epoch 1806
+Meta Train Loss 0.09965
+
+epoch 1807
+Meta Train Loss 0.09174
+
+epoch 1808
+Meta Train Loss 0.09255
+
+epoch 1809
+Meta Train Loss 0.14959
+
+epoch 1810
+Meta Train Loss 0.08074
+
+epoch 1811
+Meta Train Loss 0.08289
+
+epoch 1812
+Meta Train Loss 0.09947
+
+epoch 1813
+Meta Train Loss 0.10497
+
+epoch 1814
+Meta Train Loss 0.10629
+
+epoch 1815
+Meta Train Loss 0.11558
+
+epoch 1816
+Meta Train Loss 0.08706
+
+epoch 1817
+Meta Train Loss 0.08821
+
+epoch 1818
+Meta Train Loss 0.11234
+
+epoch 1819
+Meta Train Loss 0.09142
+
+epoch 1820
+Meta Train Loss 0.13774
+
+epoch 1821
+Meta Train Loss 0.09225
+
+epoch 1822
+Meta Train Loss 0.08248
+
+epoch 1823
+Meta Train Loss 0.09419
+
+epoch 1824
+Meta Train Loss 0.10572
+
+epoch 1825
+Meta Train Loss 0.10510
+
+epoch 1826
+Meta Train Loss 0.06919
+
+epoch 1827
+Meta Train Loss 0.08211
+
+epoch 1828
+Meta Train Loss 0.13566
+
+epoch 1829
+Meta Train Loss 0.13291
+
+epoch 1830
+Meta Train Loss 0.11959
+
+epoch 1831
+Meta Train Loss 0.15641
+
+epoch 1832
+Meta Train Loss 0.13312
+
+epoch 1833
+Meta Train Loss 0.08564
+
+epoch 1834
+Meta Train Loss 0.11366
+
+epoch 1835
+Meta Train Loss 0.17234
+
+epoch 1836
+Meta Train Loss 0.09140
+
+epoch 1837
+Meta Train Loss 0.11663
+
+epoch 1838
+Meta Train Loss 0.09847
+
+epoch 1839
+Meta Train Loss 0.10815
+
+epoch 1840
+Meta Train Loss 0.09857
+
+epoch 1841
+Meta Train Loss 0.09844
+
+epoch 1842
+Meta Train Loss 0.11028
+
+epoch 1843
+Meta Train Loss 0.10378
+
+epoch 1844
+Meta Train Loss 0.07648
+
+epoch 1845
+Meta Train Loss 0.11158
+
+epoch 1846
+Meta Train Loss 0.12334
+
+epoch 1847
+Meta Train Loss 0.08522
+
+epoch 1848
+Meta Train Loss 0.15101
+
+epoch 1849
+Meta Train Loss 0.07911
+
+epoch 1850
+Meta Train Loss 0.07256
+
+epoch 1851
+Meta Train Loss 0.09535
+
+epoch 1852
+Meta Train Loss 0.11557
+
+epoch 1853
+Meta Train Loss 0.08634
+
+epoch 1854
+Meta Train Loss 0.10399
+
+epoch 1855
+Meta Train Loss 0.14846
+
+epoch 1856
+Meta Train Loss 0.10779
+
+epoch 1857
+Meta Train Loss 0.12614
+
+epoch 1858
+Meta Train Loss 0.10699
+
+epoch 1859
+Meta Train Loss 0.12925
+
+epoch 1860
+Meta Train Loss 0.10121
+
+epoch 1861
+Meta Train Loss 0.08802
+
+epoch 1862
+Meta Train Loss 0.10963
+
+epoch 1863
+Meta Train Loss 0.12987
+
+epoch 1864
+Meta Train Loss 0.07591
+
+epoch 1865
+Meta Train Loss 0.11160
+
+epoch 1866
+Meta Train Loss 0.13453
+
+epoch 1867
+Meta Train Loss 0.11409
+
+epoch 1868
+Meta Train Loss 0.08392
+
+epoch 1869
+Meta Train Loss 0.10211
+
+epoch 1870
+Meta Train Loss 0.11596
+
+epoch 1871
+Meta Train Loss 0.08739
+
+epoch 1872
+Meta Train Loss 0.09100
+
+epoch 1873
+Meta Train Loss 0.14188
+
+epoch 1874
+Meta Train Loss 0.09739
+
+epoch 1875
+Meta Train Loss 0.08952
+
+epoch 1876
+Meta Train Loss 0.11002
+
+epoch 1877
+Meta Train Loss 0.11537
+
+epoch 1878
+Meta Train Loss 0.07957
+
+epoch 1879
+Meta Train Loss 0.06090
+
+epoch 1880
+Meta Train Loss 0.11978
+
+epoch 1881
+Meta Train Loss 0.08753
+
+epoch 1882
+Meta Train Loss 0.10068
+
+epoch 1883
+Meta Train Loss 0.10726
+
+epoch 1884
+Meta Train Loss 0.11870
+
+epoch 1885
+Meta Train Loss 0.10364
+
+epoch 1886
+Meta Train Loss 0.09101
+
+epoch 1887
+Meta Train Loss 0.09438
+
+epoch 1888
+Meta Train Loss 0.09105
+
+epoch 1889
+Meta Train Loss 0.07943
+
+epoch 1890
+Meta Train Loss 0.09278
+
+epoch 1891
+Meta Train Loss 0.08200
+
+epoch 1892
+Meta Train Loss 0.09899
+
+epoch 1893
+Meta Train Loss 0.09653
+
+epoch 1894
+Meta Train Loss 0.12447
+
+epoch 1895
+Meta Train Loss 0.08151
+
+epoch 1896
+Meta Train Loss 0.15388
+
+epoch 1897
+Meta Train Loss 0.08020
+
+epoch 1898
+Meta Train Loss 0.08290
+epoch 1899, Meta Valid Loss 0.10409
+
+epoch 1899
+Meta Train Loss 0.14541
+
+epoch 1900
+Meta Train Loss 0.09713
+
+epoch 1901
+Meta Train Loss 0.07519
+
+epoch 1902
+Meta Train Loss 0.09108
+
+epoch 1903
+Meta Train Loss 0.12471
+
+epoch 1904
+Meta Train Loss 0.08769
+
+epoch 1905
+Meta Train Loss 0.06276
+
+epoch 1906
+Meta Train Loss 0.12433
+
+epoch 1907
+Meta Train Loss 0.10675
+
+epoch 1908
+Meta Train Loss 0.09774
+
+epoch 1909
+Meta Train Loss 0.09847
+
+epoch 1910
+Meta Train Loss 0.08842
+
+epoch 1911
+Meta Train Loss 0.11154
+
+epoch 1912
+Meta Train Loss 0.12714
+
+epoch 1913
+Meta Train Loss 0.10546
+
+epoch 1914
+Meta Train Loss 0.09957
+
+epoch 1915
+Meta Train Loss 0.08068
+
+epoch 1916
+Meta Train Loss 0.10234
+
+epoch 1917
+Meta Train Loss 0.08035
+
+epoch 1918
+Meta Train Loss 0.07790
+
+epoch 1919
+Meta Train Loss 0.10849
+
+epoch 1920
+Meta Train Loss 0.06466
+
+epoch 1921
+Meta Train Loss 0.08352
+
+epoch 1922
+Meta Train Loss 0.06802
+
+epoch 1923
+Meta Train Loss 0.10434
+
+epoch 1924
+Meta Train Loss 0.12087
+
+epoch 1925
+Meta Train Loss 0.08739
+
+epoch 1926
+Meta Train Loss 0.07404
+
+epoch 1927
+Meta Train Loss 0.08622
+
+epoch 1928
+Meta Train Loss 0.11677
+
+epoch 1929
+Meta Train Loss 0.07192
+
+epoch 1930
+Meta Train Loss 0.08913
+
+epoch 1931
+Meta Train Loss 0.09851
+
+epoch 1932
+Meta Train Loss 0.07699
+
+epoch 1933
+Meta Train Loss 0.08571
+
+epoch 1934
+Meta Train Loss 0.07844
+
+epoch 1935
+Meta Train Loss 0.10582
+
+epoch 1936
+Meta Train Loss 0.09602
+
+epoch 1937
+Meta Train Loss 0.10921
+
+epoch 1938
+Meta Train Loss 0.12788
+
+epoch 1939
+Meta Train Loss 0.07624
+
+epoch 1940
+Meta Train Loss 0.09362
+
+epoch 1941
+Meta Train Loss 0.11387
+
+epoch 1942
+Meta Train Loss 0.11438
+
+epoch 1943
+Meta Train Loss 0.09787
+
+epoch 1944
+Meta Train Loss 0.08489
+
+epoch 1945
+Meta Train Loss 0.09136
+
+epoch 1946
+Meta Train Loss 0.10559
+
+epoch 1947
+Meta Train Loss 0.06350
+
+epoch 1948
+Meta Train Loss 0.07451
+
+epoch 1949
+Meta Train Loss 0.09426
+
+epoch 1950
+Meta Train Loss 0.07908
+
+epoch 1951
+Meta Train Loss 0.07591
+
+epoch 1952
+Meta Train Loss 0.10536
+
+epoch 1953
+Meta Train Loss 0.09986
+
+epoch 1954
+Meta Train Loss 0.12427
+
+epoch 1955
+Meta Train Loss 0.09132
+
+epoch 1956
+Meta Train Loss 0.12186
+
+epoch 1957
+Meta Train Loss 0.06983
+
+epoch 1958
+Meta Train Loss 0.08145
+
+epoch 1959
+Meta Train Loss 0.07862
+
+epoch 1960
+Meta Train Loss 0.07958
+
+epoch 1961
+Meta Train Loss 0.14078
+
+epoch 1962
+Meta Train Loss 0.09566
+
+epoch 1963
+Meta Train Loss 0.10948
+
+epoch 1964
+Meta Train Loss 0.13506
+
+epoch 1965
+Meta Train Loss 0.10064
+
+epoch 1966
+Meta Train Loss 0.11642
+
+epoch 1967
+Meta Train Loss 0.10497
+
+epoch 1968
+Meta Train Loss 0.12350
+
+epoch 1969
+Meta Train Loss 0.07024
+
+epoch 1970
+Meta Train Loss 0.08157
+
+epoch 1971
+Meta Train Loss 0.12139
+
+epoch 1972
+Meta Train Loss 0.08450
+
+epoch 1973
+Meta Train Loss 0.09610
+
+epoch 1974
+Meta Train Loss 0.11160
+
+epoch 1975
+Meta Train Loss 0.13933
+
+epoch 1976
+Meta Train Loss 0.11141
+
+epoch 1977
+Meta Train Loss 0.11869
+
+epoch 1978
+Meta Train Loss 0.09428
+
+epoch 1979
+Meta Train Loss 0.07414
+
+epoch 1980
+Meta Train Loss 0.08558
+
+epoch 1981
+Meta Train Loss 0.08323
+
+epoch 1982
+Meta Train Loss 0.10435
+
+epoch 1983
+Meta Train Loss 0.11527
+
+epoch 1984
+Meta Train Loss 0.07539
+
+epoch 1985
+Meta Train Loss 0.13030
+
+epoch 1986
+Meta Train Loss 0.10285
+
+epoch 1987
+Meta Train Loss 0.06856
+
+epoch 1988
+Meta Train Loss 0.09483
+
+epoch 1989
+Meta Train Loss 0.11192
+
+epoch 1990
+Meta Train Loss 0.09099
+
+epoch 1991
+Meta Train Loss 0.08694
+
+epoch 1992
+Meta Train Loss 0.09603
+
+epoch 1993
+Meta Train Loss 0.07155
+
+epoch 1994
+Meta Train Loss 0.07920
+
+epoch 1995
+Meta Train Loss 0.12865
+
+epoch 1996
+Meta Train Loss 0.10516
+
+epoch 1997
+Meta Train Loss 0.08758
+
+epoch 1998
+Meta Train Loss 0.07943
+epoch 1999, Meta Valid Loss 0.08846
+
+epoch 1999
+Meta Train Loss 0.08259
+
+epoch 2000
+Meta Train Loss 0.10920
+
+epoch 2001
+Meta Train Loss 0.08884
+
+epoch 2002
+Meta Train Loss 0.07233
+
+epoch 2003
+Meta Train Loss 0.08200
+
+epoch 2004
+Meta Train Loss 0.06609
+
+epoch 2005
+Meta Train Loss 0.08332
+
+epoch 2006
+Meta Train Loss 0.12581
+
+epoch 2007
+Meta Train Loss 0.06315
+
+epoch 2008
+Meta Train Loss 0.10936
+
+epoch 2009
+Meta Train Loss 0.09718
+
+epoch 2010
+Meta Train Loss 0.12766
+
+epoch 2011
+Meta Train Loss 0.10382
+
+epoch 2012
+Meta Train Loss 0.10717
+
+epoch 2013
+Meta Train Loss 0.05234
+
+epoch 2014
+Meta Train Loss 0.13956
+
+epoch 2015
+Meta Train Loss 0.09923
+
+epoch 2016
+Meta Train Loss 0.07396
+
+epoch 2017
+Meta Train Loss 0.09742
+
+epoch 2018
+Meta Train Loss 0.05974
+
+epoch 2019
+Meta Train Loss 0.10856
+
+epoch 2020
+Meta Train Loss 0.09139
+
+epoch 2021
+Meta Train Loss 0.10591
+
+epoch 2022
+Meta Train Loss 0.09634
+
+epoch 2023
+Meta Train Loss 0.10584
+
+epoch 2024
+Meta Train Loss 0.09973
+
+epoch 2025
+Meta Train Loss 0.06701
+
+epoch 2026
+Meta Train Loss 0.08708
+
+epoch 2027
+Meta Train Loss 0.10744
+
+epoch 2028
+Meta Train Loss 0.09152
+
+epoch 2029
+Meta Train Loss 0.12982
+
+epoch 2030
+Meta Train Loss 0.09084
+
+epoch 2031
+Meta Train Loss 0.09671
+
+epoch 2032
+Meta Train Loss 0.09711
+
+epoch 2033
+Meta Train Loss 0.08913
+
+epoch 2034
+Meta Train Loss 0.07626
+
+epoch 2035
+Meta Train Loss 0.12779
+
+epoch 2036
+Meta Train Loss 0.10394
+
+epoch 2037
+Meta Train Loss 0.13561
+
+epoch 2038
+Meta Train Loss 0.11194
+
+epoch 2039
+Meta Train Loss 0.09288
+
+epoch 2040
+Meta Train Loss 0.10032
+
+epoch 2041
+Meta Train Loss 0.08390
+
+epoch 2042
+Meta Train Loss 0.07536
+
+epoch 2043
+Meta Train Loss 0.12665
+
+epoch 2044
+Meta Train Loss 0.10836
+
+epoch 2045
+Meta Train Loss 0.08888
+
+epoch 2046
+Meta Train Loss 0.08974
+
+epoch 2047
+Meta Train Loss 0.09007
+
+epoch 2048
+Meta Train Loss 0.08160
+
+epoch 2049
+Meta Train Loss 0.09087
+
+epoch 2050
+Meta Train Loss 0.10844
+
+epoch 2051
+Meta Train Loss 0.10971
+
+epoch 2052
+Meta Train Loss 0.09131
+
+epoch 2053
+Meta Train Loss 0.10462
+
+epoch 2054
+Meta Train Loss 0.12383
+
+epoch 2055
+Meta Train Loss 0.09560
+
+epoch 2056
+Meta Train Loss 0.15440
+
+epoch 2057
+Meta Train Loss 0.07010
+
+epoch 2058
+Meta Train Loss 0.12844
+
+epoch 2059
+Meta Train Loss 0.15087
+
+epoch 2060
+Meta Train Loss 0.11846
+
+epoch 2061
+Meta Train Loss 0.09339
+
+epoch 2062
+Meta Train Loss 0.08570
+
+epoch 2063
+Meta Train Loss 0.12850
+
+epoch 2064
+Meta Train Loss 0.07509
+
+epoch 2065
+Meta Train Loss 0.12520
+
+epoch 2066
+Meta Train Loss 0.12811
+
+epoch 2067
+Meta Train Loss 0.10083
+
+epoch 2068
+Meta Train Loss 0.10208
+
+epoch 2069
+Meta Train Loss 0.11250
+
+epoch 2070
+Meta Train Loss 0.08610
+
+epoch 2071
+Meta Train Loss 0.09645
+
+epoch 2072
+Meta Train Loss 0.10528
+
+epoch 2073
+Meta Train Loss 0.09414
+
+epoch 2074
+Meta Train Loss 0.09997
+
+epoch 2075
+Meta Train Loss 0.10848
+
+epoch 2076
+Meta Train Loss 0.08407
+
+epoch 2077
+Meta Train Loss 0.12426
+
+epoch 2078
+Meta Train Loss 0.21247
+
+epoch 2079
+Meta Train Loss 0.12559
+
+epoch 2080
+Meta Train Loss 0.08830
+
+epoch 2081
+Meta Train Loss 0.12504
+
+epoch 2082
+Meta Train Loss 0.19415
+
+epoch 2083
+Meta Train Loss 0.12305
+
+epoch 2084
+Meta Train Loss 0.11266
+
+epoch 2085
+Meta Train Loss 0.14128
+
+epoch 2086
+Meta Train Loss 0.13746
+
+epoch 2087
+Meta Train Loss 0.11340
+
+epoch 2088
+Meta Train Loss 0.10989
+
+epoch 2089
+Meta Train Loss 0.14251
+
+epoch 2090
+Meta Train Loss 0.10989
+
+epoch 2091
+Meta Train Loss 0.10781
+
+epoch 2092
+Meta Train Loss 0.09843
+
+epoch 2093
+Meta Train Loss 0.12058
+
+epoch 2094
+Meta Train Loss 0.11875
+
+epoch 2095
+Meta Train Loss 0.09614
+
+epoch 2096
+Meta Train Loss 0.10296
+
+epoch 2097
+Meta Train Loss 0.12282
+
+epoch 2098
+Meta Train Loss 0.17475
+epoch 2099, Meta Valid Loss 0.09512
+
+epoch 2099
+Meta Train Loss 0.10664
+
+epoch 2100
+Meta Train Loss 0.08541
+
+epoch 2101
+Meta Train Loss 0.07828
+
+epoch 2102
+Meta Train Loss 0.09181
+
+epoch 2103
+Meta Train Loss 0.12315
+
+epoch 2104
+Meta Train Loss 0.08273
+
+epoch 2105
+Meta Train Loss 0.08997
+
+epoch 2106
+Meta Train Loss 0.11273
+
+epoch 2107
+Meta Train Loss 0.09846
+
+epoch 2108
+Meta Train Loss 0.10103
+
+epoch 2109
+Meta Train Loss 0.10673
+
+epoch 2110
+Meta Train Loss 0.09639
+
+epoch 2111
+Meta Train Loss 0.14829
+
+epoch 2112
+Meta Train Loss 0.09456
+
+epoch 2113
+Meta Train Loss 0.10878
+
+epoch 2114
+Meta Train Loss 0.09658
+
+epoch 2115
+Meta Train Loss 0.15844
+
+epoch 2116
+Meta Train Loss 0.16597
+
+epoch 2117
+Meta Train Loss 0.12043
+
+epoch 2118
+Meta Train Loss 0.10131
+
+epoch 2119
+Meta Train Loss 0.09091
+
+epoch 2120
+Meta Train Loss 0.14169
+
+epoch 2121
+Meta Train Loss 0.07076
+
+epoch 2122
+Meta Train Loss 0.09091
+
+epoch 2123
+Meta Train Loss 0.10359
+
+epoch 2124
+Meta Train Loss 0.10743
+
+epoch 2125
+Meta Train Loss 0.08007
+
+epoch 2126
+Meta Train Loss 0.08695
+
+epoch 2127
+Meta Train Loss 0.07082
+
+epoch 2128
+Meta Train Loss 0.10870
+
+epoch 2129
+Meta Train Loss 0.09133
+
+epoch 2130
+Meta Train Loss 0.10548
+
+epoch 2131
+Meta Train Loss 0.08930
+
+epoch 2132
+Meta Train Loss 0.08724
+
+epoch 2133
+Meta Train Loss 0.07181
+
+epoch 2134
+Meta Train Loss 0.06884
+
+epoch 2135
+Meta Train Loss 0.09040
+
+epoch 2136
+Meta Train Loss 0.15086
+
+epoch 2137
+Meta Train Loss 0.11623
+
+epoch 2138
+Meta Train Loss 0.08767
+
+epoch 2139
+Meta Train Loss 0.22678
+
+epoch 2140
+Meta Train Loss 0.08089
+
+epoch 2141
+Meta Train Loss 0.11899
+
+epoch 2142
+Meta Train Loss 0.09278
+
+epoch 2143
+Meta Train Loss 0.09191
+
+epoch 2144
+Meta Train Loss 0.07937
+
+epoch 2145
+Meta Train Loss 0.09892
+
+epoch 2146
+Meta Train Loss 0.09131
+
+epoch 2147
+Meta Train Loss 0.06492
+
+epoch 2148
+Meta Train Loss 0.08627
+
+epoch 2149
+Meta Train Loss 0.11435
+
+epoch 2150
+Meta Train Loss 0.10202
+
+epoch 2151
+Meta Train Loss 0.10060
+
+epoch 2152
+Meta Train Loss 0.12471
+
+epoch 2153
+Meta Train Loss 0.08358
+
+epoch 2154
+Meta Train Loss 0.08622
+
+epoch 2155
+Meta Train Loss 0.10823
+
+epoch 2156
+Meta Train Loss 0.12017
+
+epoch 2157
+Meta Train Loss 0.09171
+
+epoch 2158
+Meta Train Loss 0.11721
+
+epoch 2159
+Meta Train Loss 0.13987
+
+epoch 2160
+Meta Train Loss 0.12745
+
+epoch 2161
+Meta Train Loss 0.08470
+
+epoch 2162
+Meta Train Loss 0.07295
+
+epoch 2163
+Meta Train Loss 0.16393
+
+epoch 2164
+Meta Train Loss 0.10598
+
+epoch 2165
+Meta Train Loss 0.09876
+
+epoch 2166
+Meta Train Loss 0.10590
+
+epoch 2167
+Meta Train Loss 0.10589
+
+epoch 2168
+Meta Train Loss 0.09588
+
+epoch 2169
+Meta Train Loss 0.07949
+
+epoch 2170
+Meta Train Loss 0.11033
+
+epoch 2171
+Meta Train Loss 0.09809
+
+epoch 2172
+Meta Train Loss 0.08626
+
+epoch 2173
+Meta Train Loss 0.08759
+
+epoch 2174
+Meta Train Loss 0.07700
+
+epoch 2175
+Meta Train Loss 0.09447
+
+epoch 2176
+Meta Train Loss 0.08430
+
+epoch 2177
+Meta Train Loss 0.08942
+
+epoch 2178
+Meta Train Loss 0.09802
+
+epoch 2179
+Meta Train Loss 0.07816
+
+epoch 2180
+Meta Train Loss 0.11788
+
+epoch 2181
+Meta Train Loss 0.08182
+
+epoch 2182
+Meta Train Loss 0.07887
+
+epoch 2183
+Meta Train Loss 0.07093
+
+epoch 2184
+Meta Train Loss 0.08783
+
+epoch 2185
+Meta Train Loss 0.11501
+
+epoch 2186
+Meta Train Loss 0.08948
+
+epoch 2187
+Meta Train Loss 0.13429
+
+epoch 2188
+Meta Train Loss 0.08133
+
+epoch 2189
+Meta Train Loss 0.10616
+
+epoch 2190
+Meta Train Loss 0.11190
+
+epoch 2191
+Meta Train Loss 0.08876
+
+epoch 2192
+Meta Train Loss 0.08484
+
+epoch 2193
+Meta Train Loss 0.07741
+
+epoch 2194
+Meta Train Loss 0.07975
+
+epoch 2195
+Meta Train Loss 0.11659
+
+epoch 2196
+Meta Train Loss 0.07864
+
+epoch 2197
+Meta Train Loss 0.16347
+
+epoch 2198
+Meta Train Loss 0.11131
+epoch 2199, Meta Valid Loss 0.09811
+
+epoch 2199
+Meta Train Loss 0.07594
+
+epoch 2200
+Meta Train Loss 0.10257
+
+epoch 2201
+Meta Train Loss 0.08337
+
+epoch 2202
+Meta Train Loss 0.11154
+
+epoch 2203
+Meta Train Loss 0.10752
+
+epoch 2204
+Meta Train Loss 0.11783
+
+epoch 2205
+Meta Train Loss 0.12237
+
+epoch 2206
+Meta Train Loss 0.09585
+
+epoch 2207
+Meta Train Loss 0.09942
+
+epoch 2208
+Meta Train Loss 0.07531
+
+epoch 2209
+Meta Train Loss 0.11549
+
+epoch 2210
+Meta Train Loss 0.09674
+
+epoch 2211
+Meta Train Loss 0.08413
+
+epoch 2212
+Meta Train Loss 0.07740
+
+epoch 2213
+Meta Train Loss 0.10055
+
+epoch 2214
+Meta Train Loss 0.09990
+
+epoch 2215
+Meta Train Loss 0.09981
+
+epoch 2216
+Meta Train Loss 0.10552
+
+epoch 2217
+Meta Train Loss 0.08915
+
+epoch 2218
+Meta Train Loss 0.12596
+
+epoch 2219
+Meta Train Loss 0.09803
+
+epoch 2220
+Meta Train Loss 0.08677
+
+epoch 2221
+Meta Train Loss 0.10637
+
+epoch 2222
+Meta Train Loss 0.07173
+
+epoch 2223
+Meta Train Loss 0.08237
+
+epoch 2224
+Meta Train Loss 0.07255
+
+epoch 2225
+Meta Train Loss 0.08797
+
+epoch 2226
+Meta Train Loss 0.08446
+
+epoch 2227
+Meta Train Loss 0.10018
+
+epoch 2228
+Meta Train Loss 0.08203
+
+epoch 2229
+Meta Train Loss 0.07085
+
+epoch 2230
+Meta Train Loss 0.12645
+
+epoch 2231
+Meta Train Loss 0.11624
+
+epoch 2232
+Meta Train Loss 0.08927
+
+epoch 2233
+Meta Train Loss 0.08196
+
+epoch 2234
+Meta Train Loss 0.09353
+
+epoch 2235
+Meta Train Loss 0.10781
+
+epoch 2236
+Meta Train Loss 0.11734
+
+epoch 2237
+Meta Train Loss 0.09515
+
+epoch 2238
+Meta Train Loss 0.12135
+
+epoch 2239
+Meta Train Loss 0.09421
+
+epoch 2240
+Meta Train Loss 0.10746
+
+epoch 2241
+Meta Train Loss 0.08391
+
+epoch 2242
+Meta Train Loss 0.08018
+
+epoch 2243
+Meta Train Loss 0.10215
+
+epoch 2244
+Meta Train Loss 0.09850
+
+epoch 2245
+Meta Train Loss 0.10456
+
+epoch 2246
+Meta Train Loss 0.08285
+
+epoch 2247
+Meta Train Loss 0.11441
+
+epoch 2248
+Meta Train Loss 0.13566
+
+epoch 2249
+Meta Train Loss 0.14555
+
+epoch 2250
+Meta Train Loss 0.15394
+
+epoch 2251
+Meta Train Loss 0.08386
+
+epoch 2252
+Meta Train Loss 0.09050
+
+epoch 2253
+Meta Train Loss 0.11256
+
+epoch 2254
+Meta Train Loss 0.13514
+
+epoch 2255
+Meta Train Loss 0.07884
+
+epoch 2256
+Meta Train Loss 0.09564
+
+epoch 2257
+Meta Train Loss 0.17525
+
+epoch 2258
+Meta Train Loss 0.09370
+
+epoch 2259
+Meta Train Loss 0.07424
+
+epoch 2260
+Meta Train Loss 0.15329
+
+epoch 2261
+Meta Train Loss 0.11358
+
+epoch 2262
+Meta Train Loss 0.08587
+
+epoch 2263
+Meta Train Loss 0.11143
+
+epoch 2264
+Meta Train Loss 0.07640
+
+epoch 2265
+Meta Train Loss 0.07058
+
+epoch 2266
+Meta Train Loss 0.09955
+
+epoch 2267
+Meta Train Loss 0.09872
+
+epoch 2268
+Meta Train Loss 0.08707
+
+epoch 2269
+Meta Train Loss 0.15772
+
+epoch 2270
+Meta Train Loss 0.10318
+
+epoch 2271
+Meta Train Loss 0.10579
+
+epoch 2272
+Meta Train Loss 0.10468
+
+epoch 2273
+Meta Train Loss 0.09722
+
+epoch 2274
+Meta Train Loss 0.12188
+
+epoch 2275
+Meta Train Loss 0.10046
+
+epoch 2276
+Meta Train Loss 0.10540
+
+epoch 2277
+Meta Train Loss 0.09779
+
+epoch 2278
+Meta Train Loss 0.10342
+
+epoch 2279
+Meta Train Loss 0.08897
+
+epoch 2280
+Meta Train Loss 0.09574
+
+epoch 2281
+Meta Train Loss 0.09748
+
+epoch 2282
+Meta Train Loss 0.06333
+
+epoch 2283
+Meta Train Loss 0.10505
+
+epoch 2284
+Meta Train Loss 0.10390
+
+epoch 2285
+Meta Train Loss 0.11308
+
+epoch 2286
+Meta Train Loss 0.12514
+
+epoch 2287
+Meta Train Loss 0.09288
+
+epoch 2288
+Meta Train Loss 0.10126
+
+epoch 2289
+Meta Train Loss 0.11986
+
+epoch 2290
+Meta Train Loss 0.10384
+
+epoch 2291
+Meta Train Loss 0.11120
+
+epoch 2292
+Meta Train Loss 0.14513
+
+epoch 2293
+Meta Train Loss 0.25195
+
+epoch 2294
+Meta Train Loss 0.10514
+
+epoch 2295
+Meta Train Loss 0.11249
+
+epoch 2296
+Meta Train Loss 0.16767
+
+epoch 2297
+Meta Train Loss 0.18527
+
+epoch 2298
+Meta Train Loss 0.11883
+epoch 2299, Meta Valid Loss 0.12999
+
+epoch 2299
+Meta Train Loss 0.14072
+
+epoch 2300
+Meta Train Loss 0.13174
+
+epoch 2301
+Meta Train Loss 0.11917
+
+epoch 2302
+Meta Train Loss 0.11003
+
+epoch 2303
+Meta Train Loss 0.12950
+
+epoch 2304
+Meta Train Loss 0.13089
+
+epoch 2305
+Meta Train Loss 0.23193
+
+epoch 2306
+Meta Train Loss 0.11227
+
+epoch 2307
+Meta Train Loss 0.12507
+
+epoch 2308
+Meta Train Loss 0.11955
+
+epoch 2309
+Meta Train Loss 0.11849
+
+epoch 2310
+Meta Train Loss 0.14870
+
+epoch 2311
+Meta Train Loss 0.11554
+
+epoch 2312
+Meta Train Loss 0.09240
+
+epoch 2313
+Meta Train Loss 0.10332
+
+epoch 2314
+Meta Train Loss 0.16357
+
+epoch 2315
+Meta Train Loss 0.07999
+
+epoch 2316
+Meta Train Loss 0.11338
+
+epoch 2317
+Meta Train Loss 0.13802
+
+epoch 2318
+Meta Train Loss 0.14280
+
+epoch 2319
+Meta Train Loss 0.11029
+
+epoch 2320
+Meta Train Loss 0.10802
+
+epoch 2321
+Meta Train Loss 0.09865
+
+epoch 2322
+Meta Train Loss 0.14410
+
+epoch 2323
+Meta Train Loss 0.15419
+
+epoch 2324
+Meta Train Loss 0.10987
+
+epoch 2325
+Meta Train Loss 0.09057
+
+epoch 2326
+Meta Train Loss 0.08181
+
+epoch 2327
+Meta Train Loss 0.13171
+
+epoch 2328
+Meta Train Loss 0.11257
+
+epoch 2329
+Meta Train Loss 0.13998
+
+epoch 2330
+Meta Train Loss 0.10068
+
+epoch 2331
+Meta Train Loss 0.13195
+
+epoch 2332
+Meta Train Loss 0.13190
+
+epoch 2333
+Meta Train Loss 0.07733
+
+epoch 2334
+Meta Train Loss 0.10774
+
+epoch 2335
+Meta Train Loss 0.11623
+
+epoch 2336
+Meta Train Loss 0.11611
+
+epoch 2337
+Meta Train Loss 0.09253
+
+epoch 2338
+Meta Train Loss 0.08824
+
+epoch 2339
+Meta Train Loss 0.15531
+
+epoch 2340
+Meta Train Loss 0.16246
+
+epoch 2341
+Meta Train Loss 0.10810
+
+epoch 2342
+Meta Train Loss 0.12145
+
+epoch 2343
+Meta Train Loss 0.16187
+
+epoch 2344
+Meta Train Loss 0.10274
+
+epoch 2345
+Meta Train Loss 0.14580
+
+epoch 2346
+Meta Train Loss 0.15911
+
+epoch 2347
+Meta Train Loss 0.10717
+
+epoch 2348
+Meta Train Loss 0.10311
+
+epoch 2349
+Meta Train Loss 0.09514
+
+epoch 2350
+Meta Train Loss 0.14149
+
+epoch 2351
+Meta Train Loss 0.09237
+
+epoch 2352
+Meta Train Loss 0.13589
+
+epoch 2353
+Meta Train Loss 0.16030
+
+epoch 2354
+Meta Train Loss 0.09897
+
+epoch 2355
+Meta Train Loss 0.09514
+
+epoch 2356
+Meta Train Loss 0.08922
+
+epoch 2357
+Meta Train Loss 0.09105
+
+epoch 2358
+Meta Train Loss 0.08334
+
+epoch 2359
+Meta Train Loss 0.08670
+
+epoch 2360
+Meta Train Loss 0.08904
+
+epoch 2361
+Meta Train Loss 0.11714
+
+epoch 2362
+Meta Train Loss 0.11641
+
+epoch 2363
+Meta Train Loss 0.06957
+
+epoch 2364
+Meta Train Loss 0.10863
+
+epoch 2365
+Meta Train Loss 0.08861
+
+epoch 2366
+Meta Train Loss 0.11508
+
+epoch 2367
+Meta Train Loss 0.15022
+
+epoch 2368
+Meta Train Loss 0.11618
+
+epoch 2369
+Meta Train Loss 0.07142
+
+epoch 2370
+Meta Train Loss 0.11057
+
+epoch 2371
+Meta Train Loss 0.09257
+
+epoch 2372
+Meta Train Loss 0.07897
+
+epoch 2373
+Meta Train Loss 0.10022
+
+epoch 2374
+Meta Train Loss 0.09806
+
+epoch 2375
+Meta Train Loss 0.08821
+
+epoch 2376
+Meta Train Loss 0.12194
+
+epoch 2377
+Meta Train Loss 0.09196
+
+epoch 2378
+Meta Train Loss 0.08299
+
+epoch 2379
+Meta Train Loss 0.09150
+
+epoch 2380
+Meta Train Loss 0.09401
+
+epoch 2381
+Meta Train Loss 0.08564
+
+epoch 2382
+Meta Train Loss 0.11661
+
+epoch 2383
+Meta Train Loss 0.16265
+
+epoch 2384
+Meta Train Loss 0.10187
+
+epoch 2385
+Meta Train Loss 0.06367
+
+epoch 2386
+Meta Train Loss 0.09745
+
+epoch 2387
+Meta Train Loss 0.09195
+
+epoch 2388
+Meta Train Loss 0.11160
+
+epoch 2389
+Meta Train Loss 0.10720
+
+epoch 2390
+Meta Train Loss 0.09805
+
+epoch 2391
+Meta Train Loss 0.09264
+
+epoch 2392
+Meta Train Loss 0.06714
+
+epoch 2393
+Meta Train Loss 0.08648
+
+epoch 2394
+Meta Train Loss 0.08870
+
+epoch 2395
+Meta Train Loss 0.09836
+
+epoch 2396
+Meta Train Loss 0.07524
+
+epoch 2397
+Meta Train Loss 0.08995
+
+epoch 2398
+Meta Train Loss 0.08621
+epoch 2399, Meta Valid Loss 0.09697
+
+epoch 2399
+Meta Train Loss 0.10535
+
+epoch 2400
+Meta Train Loss 0.10597
+
+epoch 2401
+Meta Train Loss 0.10439
+
+epoch 2402
+Meta Train Loss 0.11899
+
+epoch 2403
+Meta Train Loss 0.08329
+
+epoch 2404
+Meta Train Loss 0.07658
+
+epoch 2405
+Meta Train Loss 0.12093
+
+epoch 2406
+Meta Train Loss 0.10245
+
+epoch 2407
+Meta Train Loss 0.06733
+
+epoch 2408
+Meta Train Loss 0.09587
+
+epoch 2409
+Meta Train Loss 0.10925
+
+epoch 2410
+Meta Train Loss 0.09103
+
+epoch 2411
+Meta Train Loss 0.10411
+
+epoch 2412
+Meta Train Loss 0.11698
+
+epoch 2413
+Meta Train Loss 0.09164
+
+epoch 2414
+Meta Train Loss 0.06950
+
+epoch 2415
+Meta Train Loss 0.11375
+
+epoch 2416
+Meta Train Loss 0.09822
+
+epoch 2417
+Meta Train Loss 0.10268
+
+epoch 2418
+Meta Train Loss 0.14944
+
+epoch 2419
+Meta Train Loss 0.07379
+
+epoch 2420
+Meta Train Loss 0.18514
+
+epoch 2421
+Meta Train Loss 0.11284
+
+epoch 2422
+Meta Train Loss 0.09332
+
+epoch 2423
+Meta Train Loss 0.11308
+
+epoch 2424
+Meta Train Loss 0.11312
+
+epoch 2425
+Meta Train Loss 0.08115
+
+epoch 2426
+Meta Train Loss 0.10495
+
+epoch 2427
+Meta Train Loss 0.09491
+
+epoch 2428
+Meta Train Loss 0.12062
+
+epoch 2429
+Meta Train Loss 0.12539
+
+epoch 2430
+Meta Train Loss 0.09528
+
+epoch 2431
+Meta Train Loss 0.08081
+
+epoch 2432
+Meta Train Loss 0.11718
+
+epoch 2433
+Meta Train Loss 0.16921
+
+epoch 2434
+Meta Train Loss 0.13604
+
+epoch 2435
+Meta Train Loss 0.10856
+
+epoch 2436
+Meta Train Loss 0.14324
+
+epoch 2437
+Meta Train Loss 0.14702
+
+epoch 2438
+Meta Train Loss 0.09684
+
+epoch 2439
+Meta Train Loss 0.09930
+
+epoch 2440
+Meta Train Loss 0.07027
+
+epoch 2441
+Meta Train Loss 0.12902
+
+epoch 2442
+Meta Train Loss 0.10089
+
+epoch 2443
+Meta Train Loss 0.11082
+
+epoch 2444
+Meta Train Loss 0.12727
+
+epoch 2445
+Meta Train Loss 0.10383
+
+epoch 2446
+Meta Train Loss 0.07828
+
+epoch 2447
+Meta Train Loss 0.07736
+
+epoch 2448
+Meta Train Loss 0.10690
+
+epoch 2449
+Meta Train Loss 0.11342
+
+epoch 2450
+Meta Train Loss 0.07672
+
+epoch 2451
+Meta Train Loss 0.12565
+
+epoch 2452
+Meta Train Loss 0.08461
+
+epoch 2453
+Meta Train Loss 0.08007
+
+epoch 2454
+Meta Train Loss 0.08499
+
+epoch 2455
+Meta Train Loss 0.09068
+
+epoch 2456
+Meta Train Loss 0.09973
+
+epoch 2457
+Meta Train Loss 0.08451
+
+epoch 2458
+Meta Train Loss 0.08512
+
+epoch 2459
+Meta Train Loss 0.08190
+
+epoch 2460
+Meta Train Loss 0.08730
+
+epoch 2461
+Meta Train Loss 0.06069
+
+epoch 2462
+Meta Train Loss 0.07972
+
+epoch 2463
+Meta Train Loss 0.10366
+
+epoch 2464
+Meta Train Loss 0.10379
+
+epoch 2465
+Meta Train Loss 0.06786
+
+epoch 2466
+Meta Train Loss 0.09569
+
+epoch 2467
+Meta Train Loss 0.11879
+
+epoch 2468
+Meta Train Loss 0.10229
+
+epoch 2469
+Meta Train Loss 0.09050
+
+epoch 2470
+Meta Train Loss 0.09689
+
+epoch 2471
+Meta Train Loss 0.10776
+
+epoch 2472
+Meta Train Loss 0.09472
+
+epoch 2473
+Meta Train Loss 0.08161
+
+epoch 2474
+Meta Train Loss 0.06306
+
+epoch 2475
+Meta Train Loss 0.08916
+
+epoch 2476
+Meta Train Loss 0.18410
+
+epoch 2477
+Meta Train Loss 0.09268
+
+epoch 2478
+Meta Train Loss 0.08957
+
+epoch 2479
+Meta Train Loss 0.15240
+
+epoch 2480
+Meta Train Loss 0.12132
+
+epoch 2481
+Meta Train Loss 0.06846
+
+epoch 2482
+Meta Train Loss 0.07640
+
+epoch 2483
+Meta Train Loss 0.07998
+
+epoch 2484
+Meta Train Loss 0.11088
+
+epoch 2485
+Meta Train Loss 0.12493
+
+epoch 2486
+Meta Train Loss 0.06688
+
+epoch 2487
+Meta Train Loss 0.14278
+
+epoch 2488
+Meta Train Loss 0.10105
+
+epoch 2489
+Meta Train Loss 0.11054
+
+epoch 2490
+Meta Train Loss 0.09222
+
+epoch 2491
+Meta Train Loss 0.08529
+
+epoch 2492
+Meta Train Loss 0.09132
+
+epoch 2493
+Meta Train Loss 0.11600
+
+epoch 2494
+Meta Train Loss 0.07948
+
+epoch 2495
+Meta Train Loss 0.07983
+
+epoch 2496
+Meta Train Loss 0.10447
+
+epoch 2497
+Meta Train Loss 0.12504
+
+epoch 2498
+Meta Train Loss 0.09151
+epoch 2499, Meta Valid Loss 0.09771
+
+epoch 2499
+Meta Train Loss 0.09620
+
+epoch 2500
+Meta Train Loss 0.10179
+
+epoch 2501
+Meta Train Loss 0.07100
+
+epoch 2502
+Meta Train Loss 0.10393
+
+epoch 2503
+Meta Train Loss 0.10802
+
+epoch 2504
+Meta Train Loss 0.10449
+
+epoch 2505
+Meta Train Loss 0.12298
+
+epoch 2506
+Meta Train Loss 0.11367
+
+epoch 2507
+Meta Train Loss 0.10886
+
+epoch 2508
+Meta Train Loss 0.10682
+
+epoch 2509
+Meta Train Loss 0.08806
+
+epoch 2510
+Meta Train Loss 0.09845
+
+epoch 2511
+Meta Train Loss 0.09103
+
+epoch 2512
+Meta Train Loss 0.08691
+
+epoch 2513
+Meta Train Loss 0.12610
+
+epoch 2514
+Meta Train Loss 0.08791
+
+epoch 2515
+Meta Train Loss 0.09540
+
+epoch 2516
+Meta Train Loss 0.10850
+
+epoch 2517
+Meta Train Loss 0.07839
+
+epoch 2518
+Meta Train Loss 0.09010
+
+epoch 2519
+Meta Train Loss 0.09132
+
+epoch 2520
+Meta Train Loss 0.10352
+
+epoch 2521
+Meta Train Loss 0.09148
+
+epoch 2522
+Meta Train Loss 0.08268
+
+epoch 2523
+Meta Train Loss 0.13166
+
+epoch 2524
+Meta Train Loss 0.08482
+
+epoch 2525
+Meta Train Loss 0.07117
+
+epoch 2526
+Meta Train Loss 0.06025
+
+epoch 2527
+Meta Train Loss 0.06085
+
+epoch 2528
+Meta Train Loss 0.11351
+
+epoch 2529
+Meta Train Loss 0.10350
+
+epoch 2530
+Meta Train Loss 0.08892
+
+epoch 2531
+Meta Train Loss 0.08892
+
+epoch 2532
+Meta Train Loss 0.09066
+
+epoch 2533
+Meta Train Loss 0.09119
+
+epoch 2534
+Meta Train Loss 0.08789
+
+epoch 2535
+Meta Train Loss 0.09575
+
+epoch 2536
+Meta Train Loss 0.06992
+
+epoch 2537
+Meta Train Loss 0.09979
+
+epoch 2538
+Meta Train Loss 0.07668
+
+epoch 2539
+Meta Train Loss 0.07575
+
+epoch 2540
+Meta Train Loss 0.10665
+
+epoch 2541
+Meta Train Loss 0.09301
+
+epoch 2542
+Meta Train Loss 0.09226
+
+epoch 2543
+Meta Train Loss 0.08071
+
+epoch 2544
+Meta Train Loss 0.08668
+
+epoch 2545
+Meta Train Loss 0.09847
+
+epoch 2546
+Meta Train Loss 0.09139
+
+epoch 2547
+Meta Train Loss 0.07910
+
+epoch 2548
+Meta Train Loss 0.10419
+
+epoch 2549
+Meta Train Loss 0.08936
+
+epoch 2550
+Meta Train Loss 0.09454
+
+epoch 2551
+Meta Train Loss 0.12509
+
+epoch 2552
+Meta Train Loss 0.08400
+
+epoch 2553
+Meta Train Loss 0.10195
+
+epoch 2554
+Meta Train Loss 0.07477
+
+epoch 2555
+Meta Train Loss 0.08186
+
+epoch 2556
+Meta Train Loss 0.07445
+
+epoch 2557
+Meta Train Loss 0.09514
+
+epoch 2558
+Meta Train Loss 0.09378
+
+epoch 2559
+Meta Train Loss 0.06911
+
+epoch 2560
+Meta Train Loss 0.07211
+
+epoch 2561
+Meta Train Loss 0.09840
+
+epoch 2562
+Meta Train Loss 0.09023
+
+epoch 2563
+Meta Train Loss 0.07663
+
+epoch 2564
+Meta Train Loss 0.12441
+
+epoch 2565
+Meta Train Loss 0.08781
+
+epoch 2566
+Meta Train Loss 0.08117
+
+epoch 2567
+Meta Train Loss 0.09437
+
+epoch 2568
+Meta Train Loss 0.08075
+
+epoch 2569
+Meta Train Loss 0.08496
+
+epoch 2570
+Meta Train Loss 0.09002
+
+epoch 2571
+Meta Train Loss 0.09946
+
+epoch 2572
+Meta Train Loss 0.09491
+
+epoch 2573
+Meta Train Loss 0.09950
+
+epoch 2574
+Meta Train Loss 0.13056
+
+epoch 2575
+Meta Train Loss 0.08047
+
+epoch 2576
+Meta Train Loss 0.09645
+
+epoch 2577
+Meta Train Loss 0.09085
+
+epoch 2578
+Meta Train Loss 0.10002
+
+epoch 2579
+Meta Train Loss 0.09497
+
+epoch 2580
+Meta Train Loss 0.09433
+
+epoch 2581
+Meta Train Loss 0.07993
+
+epoch 2582
+Meta Train Loss 0.09080
+
+epoch 2583
+Meta Train Loss 0.09109
+
+epoch 2584
+Meta Train Loss 0.08022
+
+epoch 2585
+Meta Train Loss 0.08130
+
+epoch 2586
+Meta Train Loss 0.07771
+
+epoch 2587
+Meta Train Loss 0.09380
+
+epoch 2588
+Meta Train Loss 0.12388
+
+epoch 2589
+Meta Train Loss 0.10204
+
+epoch 2590
+Meta Train Loss 0.09479
+
+epoch 2591
+Meta Train Loss 0.10657
+
+epoch 2592
+Meta Train Loss 0.08122
+
+epoch 2593
+Meta Train Loss 0.09276
+
+epoch 2594
+Meta Train Loss 0.06689
+
+epoch 2595
+Meta Train Loss 0.11394
+
+epoch 2596
+Meta Train Loss 0.12145
+
+epoch 2597
+Meta Train Loss 0.08899
+
+epoch 2598
+Meta Train Loss 0.08412
+epoch 2599, Meta Valid Loss 0.11174
+
+epoch 2599
+Meta Train Loss 0.09522
+
+epoch 2600
+Meta Train Loss 0.09590
+
+epoch 2601
+Meta Train Loss 0.10352
+
+epoch 2602
+Meta Train Loss 0.10112
+
+epoch 2603
+Meta Train Loss 0.10527
+
+epoch 2604
+Meta Train Loss 0.08710
+
+epoch 2605
+Meta Train Loss 0.09119
+
+epoch 2606
+Meta Train Loss 0.08047
+
+epoch 2607
+Meta Train Loss 0.09421
+
+epoch 2608
+Meta Train Loss 0.08076
+
+epoch 2609
+Meta Train Loss 0.07120
+
+epoch 2610
+Meta Train Loss 0.07043
+
+epoch 2611
+Meta Train Loss 0.09142
+
+epoch 2612
+Meta Train Loss 0.09555
+
+epoch 2613
+Meta Train Loss 0.08932
+
+epoch 2614
+Meta Train Loss 0.12333
+
+epoch 2615
+Meta Train Loss 0.11026
+
+epoch 2616
+Meta Train Loss 0.08892
+
+epoch 2617
+Meta Train Loss 0.09756
+
+epoch 2618
+Meta Train Loss 0.10324
+
+epoch 2619
+Meta Train Loss 0.13408
+
+epoch 2620
+Meta Train Loss 0.09063
+
+epoch 2621
+Meta Train Loss 0.12698
+
+epoch 2622
+Meta Train Loss 0.09978
+
+epoch 2623
+Meta Train Loss 0.08747
+
+epoch 2624
+Meta Train Loss 0.07061
+
+epoch 2625
+Meta Train Loss 0.10290
+
+epoch 2626
+Meta Train Loss 0.09486
+
+epoch 2627
+Meta Train Loss 0.10641
+
+epoch 2628
+Meta Train Loss 0.07042
+
+epoch 2629
+Meta Train Loss 0.09934
+
+epoch 2630
+Meta Train Loss 0.10516
+
+epoch 2631
+Meta Train Loss 0.07908
+
+epoch 2632
+Meta Train Loss 0.08857
+
+epoch 2633
+Meta Train Loss 0.10246
+
+epoch 2634
+Meta Train Loss 0.13252
+
+epoch 2635
+Meta Train Loss 0.11803
+
+epoch 2636
+Meta Train Loss 0.08566
+
+epoch 2637
+Meta Train Loss 0.10174
+
+epoch 2638
+Meta Train Loss 0.10382
+
+epoch 2639
+Meta Train Loss 0.10856
+
+epoch 2640
+Meta Train Loss 0.10600
+
+epoch 2641
+Meta Train Loss 0.07409
+
+epoch 2642
+Meta Train Loss 0.10359
+
+epoch 2643
+Meta Train Loss 0.09277
+
+epoch 2644
+Meta Train Loss 0.08257
+
+epoch 2645
+Meta Train Loss 0.10271
+
+epoch 2646
+Meta Train Loss 0.11398
+
+epoch 2647
+Meta Train Loss 0.15222
+
+epoch 2648
+Meta Train Loss 0.07697
+
+epoch 2649
+Meta Train Loss 0.07329
+
+epoch 2650
+Meta Train Loss 0.10168
+
+epoch 2651
+Meta Train Loss 0.08223
+
+epoch 2652
+Meta Train Loss 0.07748
+
+epoch 2653
+Meta Train Loss 0.10155
+
+epoch 2654
+Meta Train Loss 0.09349
+
+epoch 2655
+Meta Train Loss 0.09689
+
+epoch 2656
+Meta Train Loss 0.08806
+
+epoch 2657
+Meta Train Loss 0.07417
+
+epoch 2658
+Meta Train Loss 0.08631
+
+epoch 2659
+Meta Train Loss 0.08734
+
+epoch 2660
+Meta Train Loss 0.09112
+
+epoch 2661
+Meta Train Loss 0.08700
+
+epoch 2662
+Meta Train Loss 0.06734
+
+epoch 2663
+Meta Train Loss 0.08122
+
+epoch 2664
+Meta Train Loss 0.07313
+
+epoch 2665
+Meta Train Loss 0.07572
+
+epoch 2666
+Meta Train Loss 0.09852
+
+epoch 2667
+Meta Train Loss 0.12567
+
+epoch 2668
+Meta Train Loss 0.07897
+
+epoch 2669
+Meta Train Loss 0.11285
+
+epoch 2670
+Meta Train Loss 0.08193
+
+epoch 2671
+Meta Train Loss 0.07933
+
+epoch 2672
+Meta Train Loss 0.10707
+
+epoch 2673
+Meta Train Loss 0.07829
+
+epoch 2674
+Meta Train Loss 0.07889
+
+epoch 2675
+Meta Train Loss 0.08157
+
+epoch 2676
+Meta Train Loss 0.07894
+
+epoch 2677
+Meta Train Loss 0.09813
+
+epoch 2678
+Meta Train Loss 0.07875
+
+epoch 2679
+Meta Train Loss 0.08572
+
+epoch 2680
+Meta Train Loss 0.09089
+
+epoch 2681
+Meta Train Loss 0.10487
+
+epoch 2682
+Meta Train Loss 0.07878
+
+epoch 2683
+Meta Train Loss 0.09806
+
+epoch 2684
+Meta Train Loss 0.08551
+
+epoch 2685
+Meta Train Loss 0.09034
+
+epoch 2686
+Meta Train Loss 0.08754
+
+epoch 2687
+Meta Train Loss 0.10351
+
+epoch 2688
+Meta Train Loss 0.09097
+
+epoch 2689
+Meta Train Loss 0.09881
+
+epoch 2690
+Meta Train Loss 0.11135
+
+epoch 2691
+Meta Train Loss 0.09494
+
+epoch 2692
+Meta Train Loss 0.11848
+
+epoch 2693
+Meta Train Loss 0.11287
+
+epoch 2694
+Meta Train Loss 0.07501
+
+epoch 2695
+Meta Train Loss 0.08535
+
+epoch 2696
+Meta Train Loss 0.07988
+
+epoch 2697
+Meta Train Loss 0.16667
+
+epoch 2698
+Meta Train Loss 0.09374
+epoch 2699, Meta Valid Loss 0.08930
+
+epoch 2699
+Meta Train Loss 0.09152
+
+epoch 2700
+Meta Train Loss 0.09228
+
+epoch 2701
+Meta Train Loss 0.12178
+
+epoch 2702
+Meta Train Loss 0.11973
+
+epoch 2703
+Meta Train Loss 0.11217
+
+epoch 2704
+Meta Train Loss 0.14666
+
+epoch 2705
+Meta Train Loss 0.10435
+
+epoch 2706
+Meta Train Loss 0.09907
+
+epoch 2707
+Meta Train Loss 0.08821
+
+epoch 2708
+Meta Train Loss 0.11562
+
+epoch 2709
+Meta Train Loss 0.12809
+
+epoch 2710
+Meta Train Loss 0.08141
+
+epoch 2711
+Meta Train Loss 0.09493
+
+epoch 2712
+Meta Train Loss 0.11153
+
+epoch 2713
+Meta Train Loss 0.10363
+
+epoch 2714
+Meta Train Loss 0.11496
+
+epoch 2715
+Meta Train Loss 0.07380
+
+epoch 2716
+Meta Train Loss 0.10165
+
+epoch 2717
+Meta Train Loss 0.12028
+
+epoch 2718
+Meta Train Loss 0.11576
+
+epoch 2719
+Meta Train Loss 0.08493
+
+epoch 2720
+Meta Train Loss 0.10166
+
+epoch 2721
+Meta Train Loss 0.08904
+
+epoch 2722
+Meta Train Loss 0.14338
+
+epoch 2723
+Meta Train Loss 0.12263
+
+epoch 2724
+Meta Train Loss 0.08128
+
+epoch 2725
+Meta Train Loss 0.11170
+
+epoch 2726
+Meta Train Loss 0.11937
+
+epoch 2727
+Meta Train Loss 0.10016
+
+epoch 2728
+Meta Train Loss 0.07206
+
+epoch 2729
+Meta Train Loss 0.09080
+
+epoch 2730
+Meta Train Loss 0.16884
+
+epoch 2731
+Meta Train Loss 0.08807
+
+epoch 2732
+Meta Train Loss 0.10111
+
+epoch 2733
+Meta Train Loss 0.10476
+
+epoch 2734
+Meta Train Loss 0.15424
+
+epoch 2735
+Meta Train Loss 0.07413
+
+epoch 2736
+Meta Train Loss 0.08649
+
+epoch 2737
+Meta Train Loss 0.13373
+
+epoch 2738
+Meta Train Loss 0.11121
+
+epoch 2739
+Meta Train Loss 0.11969
+
+epoch 2740
+Meta Train Loss 0.12266
+
+epoch 2741
+Meta Train Loss 0.11270
+
+epoch 2742
+Meta Train Loss 0.11045
+
+epoch 2743
+Meta Train Loss 0.09914
+
+epoch 2744
+Meta Train Loss 0.07895
+
+epoch 2745
+Meta Train Loss 0.12008
+
+epoch 2746
+Meta Train Loss 0.16068
+
+epoch 2747
+Meta Train Loss 0.11188
+
+epoch 2748
+Meta Train Loss 0.08931
+
+epoch 2749
+Meta Train Loss 0.08678
+
+epoch 2750
+Meta Train Loss 0.10284
+
+epoch 2751
+Meta Train Loss 0.08044
+
+epoch 2752
+Meta Train Loss 0.09124
+
+epoch 2753
+Meta Train Loss 0.07921
+
+epoch 2754
+Meta Train Loss 0.09697
+
+epoch 2755
+Meta Train Loss 0.11827
+
+epoch 2756
+Meta Train Loss 0.09629
+
+epoch 2757
+Meta Train Loss 0.08663
+
+epoch 2758
+Meta Train Loss 0.11163
+
+epoch 2759
+Meta Train Loss 0.06841
+
+epoch 2760
+Meta Train Loss 0.08261
+
+epoch 2761
+Meta Train Loss 0.11088
+
+epoch 2762
+Meta Train Loss 0.10697
+
+epoch 2763
+Meta Train Loss 0.06789
+
+epoch 2764
+Meta Train Loss 0.07336
+
+epoch 2765
+Meta Train Loss 0.07343
+
+epoch 2766
+Meta Train Loss 0.07423
+
+epoch 2767
+Meta Train Loss 0.09409
+
+epoch 2768
+Meta Train Loss 0.08031
+
+epoch 2769
+Meta Train Loss 0.12774
+
+epoch 2770
+Meta Train Loss 0.06640
+
+epoch 2771
+Meta Train Loss 0.08301
+
+epoch 2772
+Meta Train Loss 0.10604
+
+epoch 2773
+Meta Train Loss 0.06497
+
+epoch 2774
+Meta Train Loss 0.09442
+
+epoch 2775
+Meta Train Loss 0.08961
+
+epoch 2776
+Meta Train Loss 0.12203
+
+epoch 2777
+Meta Train Loss 0.11788
+
+epoch 2778
+Meta Train Loss 0.06057
+
+epoch 2779
+Meta Train Loss 0.09123
+
+epoch 2780
+Meta Train Loss 0.07399
+
+epoch 2781
+Meta Train Loss 0.08446
+
+epoch 2782
+Meta Train Loss 0.09476
+
+epoch 2783
+Meta Train Loss 0.11339
+
+epoch 2784
+Meta Train Loss 0.07785
+
+epoch 2785
+Meta Train Loss 0.07965
+
+epoch 2786
+Meta Train Loss 0.06836
+
+epoch 2787
+Meta Train Loss 0.09215
+
+epoch 2788
+Meta Train Loss 0.07945
+
+epoch 2789
+Meta Train Loss 0.09807
+
+epoch 2790
+Meta Train Loss 0.10081
+
+epoch 2791
+Meta Train Loss 0.07795
+
+epoch 2792
+Meta Train Loss 0.07641
+
+epoch 2793
+Meta Train Loss 0.12753
+
+epoch 2794
+Meta Train Loss 0.10683
+
+epoch 2795
+Meta Train Loss 0.12328
+
+epoch 2796
+Meta Train Loss 0.08145
+
+epoch 2797
+Meta Train Loss 0.09383
+
+epoch 2798
+Meta Train Loss 0.14058
+epoch 2799, Meta Valid Loss 0.10442
+
+epoch 2799
+Meta Train Loss 0.07605
+
+epoch 2800
+Meta Train Loss 0.08861
+
+epoch 2801
+Meta Train Loss 0.11765
+
+epoch 2802
+Meta Train Loss 0.10637
+
+epoch 2803
+Meta Train Loss 0.10119
+
+epoch 2804
+Meta Train Loss 0.10894
+
+epoch 2805
+Meta Train Loss 0.09786
+
+epoch 2806
+Meta Train Loss 0.09625
+
+epoch 2807
+Meta Train Loss 0.07364
+
+epoch 2808
+Meta Train Loss 0.11333
+
+epoch 2809
+Meta Train Loss 0.09299
+
+epoch 2810
+Meta Train Loss 0.09472
+
+epoch 2811
+Meta Train Loss 0.06538
+
+epoch 2812
+Meta Train Loss 0.09651
+
+epoch 2813
+Meta Train Loss 0.15800
+
+epoch 2814
+Meta Train Loss 0.07466
+
+epoch 2815
+Meta Train Loss 0.07907
+
+epoch 2816
+Meta Train Loss 0.10913
+
+epoch 2817
+Meta Train Loss 0.10981
+
+epoch 2818
+Meta Train Loss 0.13599
+
+epoch 2819
+Meta Train Loss 0.10353
+
+epoch 2820
+Meta Train Loss 0.10072
+
+epoch 2821
+Meta Train Loss 0.11867
+
+epoch 2822
+Meta Train Loss 0.08556
+
+epoch 2823
+Meta Train Loss 0.14904
+
+epoch 2824
+Meta Train Loss 0.09939
+
+epoch 2825
+Meta Train Loss 0.10470
+
+epoch 2826
+Meta Train Loss 0.07452
+
+epoch 2827
+Meta Train Loss 0.10784
+
+epoch 2828
+Meta Train Loss 0.11249
+
+epoch 2829
+Meta Train Loss 0.11426
+
+epoch 2830
+Meta Train Loss 0.09841
+
+epoch 2831
+Meta Train Loss 0.07583
+
+epoch 2832
+Meta Train Loss 0.10034
+
+epoch 2833
+Meta Train Loss 0.10385
+
+epoch 2834
+Meta Train Loss 0.10512
+
+epoch 2835
+Meta Train Loss 0.10587
+
+epoch 2836
+Meta Train Loss 0.06369
+
+epoch 2837
+Meta Train Loss 0.08557
+
+epoch 2838
+Meta Train Loss 0.08874
+
+epoch 2839
+Meta Train Loss 0.15118
+
+epoch 2840
+Meta Train Loss 0.11123
+
+epoch 2841
+Meta Train Loss 0.06778
+
+epoch 2842
+Meta Train Loss 0.11511
+
+epoch 2843
+Meta Train Loss 0.09104
+
+epoch 2844
+Meta Train Loss 0.08829
+
+epoch 2845
+Meta Train Loss 0.07699
+
+epoch 2846
+Meta Train Loss 0.06658
+
+epoch 2847
+Meta Train Loss 0.12464
+
+epoch 2848
+Meta Train Loss 0.08446
+
+epoch 2849
+Meta Train Loss 0.11309
+
+epoch 2850
+Meta Train Loss 0.10531
+
+epoch 2851
+Meta Train Loss 0.09260
+
+epoch 2852
+Meta Train Loss 0.11543
+
+epoch 2853
+Meta Train Loss 0.11971
+
+epoch 2854
+Meta Train Loss 0.08400
+
+epoch 2855
+Meta Train Loss 0.13805
+
+epoch 2856
+Meta Train Loss 0.07288
+
+epoch 2857
+Meta Train Loss 0.07537
+
+epoch 2858
+Meta Train Loss 0.10336
+
+epoch 2859
+Meta Train Loss 0.06886
+
+epoch 2860
+Meta Train Loss 0.11176
+
+epoch 2861
+Meta Train Loss 0.10771
+
+epoch 2862
+Meta Train Loss 0.09820
+
+epoch 2863
+Meta Train Loss 0.14453
+
+epoch 2864
+Meta Train Loss 0.07124
+
+epoch 2865
+Meta Train Loss 0.12533
+
+epoch 2866
+Meta Train Loss 0.07955
+
+epoch 2867
+Meta Train Loss 0.10641
+
+epoch 2868
+Meta Train Loss 0.10003
+
+epoch 2869
+Meta Train Loss 0.06735
+
+epoch 2870
+Meta Train Loss 0.10298
+
+epoch 2871
+Meta Train Loss 0.10928
+
+epoch 2872
+Meta Train Loss 0.09459
+
+epoch 2873
+Meta Train Loss 0.06061
+
+epoch 2874
+Meta Train Loss 0.08734
+
+epoch 2875
+Meta Train Loss 0.10351
+
+epoch 2876
+Meta Train Loss 0.08149
+
+epoch 2877
+Meta Train Loss 0.10685
+
+epoch 2878
+Meta Train Loss 0.07757
+
+epoch 2879
+Meta Train Loss 0.09492
+
+epoch 2880
+Meta Train Loss 0.07824
+
+epoch 2881
+Meta Train Loss 0.11245
+
+epoch 2882
+Meta Train Loss 0.07656
+
+epoch 2883
+Meta Train Loss 0.09929
+
+epoch 2884
+Meta Train Loss 0.07306
+
+epoch 2885
+Meta Train Loss 0.08814
+
+epoch 2886
+Meta Train Loss 0.10787
+
+epoch 2887
+Meta Train Loss 0.08087
+
+epoch 2888
+Meta Train Loss 0.07373
+
+epoch 2889
+Meta Train Loss 0.09009
+
+epoch 2890
+Meta Train Loss 0.05489
+
+epoch 2891
+Meta Train Loss 0.06728
+
+epoch 2892
+Meta Train Loss 0.07064
+
+epoch 2893
+Meta Train Loss 0.07348
+
+epoch 2894
+Meta Train Loss 0.07824
+
+epoch 2895
+Meta Train Loss 0.09721
+
+epoch 2896
+Meta Train Loss 0.10236
+
+epoch 2897
+Meta Train Loss 0.08263
+
+epoch 2898
+Meta Train Loss 0.08888
+epoch 2899, Meta Valid Loss 0.08589
+
+epoch 2899
+Meta Train Loss 0.09097
+
+epoch 2900
+Meta Train Loss 0.08407
+
+epoch 2901
+Meta Train Loss 0.08860
+
+epoch 2902
+Meta Train Loss 0.09680
+
+epoch 2903
+Meta Train Loss 0.07761
+
+epoch 2904
+Meta Train Loss 0.10260
+
+epoch 2905
+Meta Train Loss 0.08134
+
+epoch 2906
+Meta Train Loss 0.07575
+
+epoch 2907
+Meta Train Loss 0.09086
+
+epoch 2908
+Meta Train Loss 0.07752
+
+epoch 2909
+Meta Train Loss 0.13423
+
+epoch 2910
+Meta Train Loss 0.09920
+
+epoch 2911
+Meta Train Loss 0.07555
+
+epoch 2912
+Meta Train Loss 0.08281
+
+epoch 2913
+Meta Train Loss 0.07967
+
+epoch 2914
+Meta Train Loss 0.10239
+
+epoch 2915
+Meta Train Loss 0.09399
+
+epoch 2916
+Meta Train Loss 0.08590
+
+epoch 2917
+Meta Train Loss 0.07422
+
+epoch 2918
+Meta Train Loss 0.07703
+
+epoch 2919
+Meta Train Loss 0.10524
+
+epoch 2920
+Meta Train Loss 0.08762
+
+epoch 2921
+Meta Train Loss 0.12794
+
+epoch 2922
+Meta Train Loss 0.08579
+
+epoch 2923
+Meta Train Loss 0.11473
+
+epoch 2924
+Meta Train Loss 0.06289
+
+epoch 2925
+Meta Train Loss 0.12262
+
+epoch 2926
+Meta Train Loss 0.08993
+
+epoch 2927
+Meta Train Loss 0.07437
+
+epoch 2928
+Meta Train Loss 0.09372
+
+epoch 2929
+Meta Train Loss 0.07787
+
+epoch 2930
+Meta Train Loss 0.08508
+
+epoch 2931
+Meta Train Loss 0.09132
+
+epoch 2932
+Meta Train Loss 0.12099
+
+epoch 2933
+Meta Train Loss 0.09964
+
+epoch 2934
+Meta Train Loss 0.08261
+
+epoch 2935
+Meta Train Loss 0.05423
+
+epoch 2936
+Meta Train Loss 0.07472
+
+epoch 2937
+Meta Train Loss 0.09662
+
+epoch 2938
+Meta Train Loss 0.08532
+
+epoch 2939
+Meta Train Loss 0.09103
+
+epoch 2940
+Meta Train Loss 0.06324
+
+epoch 2941
+Meta Train Loss 0.07992
+
+epoch 2942
+Meta Train Loss 0.09001
+
+epoch 2943
+Meta Train Loss 0.08622
+
+epoch 2944
+Meta Train Loss 0.08485
+
+epoch 2945
+Meta Train Loss 0.10568
+
+epoch 2946
+Meta Train Loss 0.06567
+
+epoch 2947
+Meta Train Loss 0.07024
+
+epoch 2948
+Meta Train Loss 0.10305
+
+epoch 2949
+Meta Train Loss 0.07217
+
+epoch 2950
+Meta Train Loss 0.11788
+
+epoch 2951
+Meta Train Loss 0.07328
+
+epoch 2952
+Meta Train Loss 0.12159
+
+epoch 2953
+Meta Train Loss 0.10638
+
+epoch 2954
+Meta Train Loss 0.08858
+
+epoch 2955
+Meta Train Loss 0.11564
+
+epoch 2956
+Meta Train Loss 0.10145
+
+epoch 2957
+Meta Train Loss 0.09783
+
+epoch 2958
+Meta Train Loss 0.07830
+
+epoch 2959
+Meta Train Loss 0.08876
+
+epoch 2960
+Meta Train Loss 0.07246
+
+epoch 2961
+Meta Train Loss 0.07897
+
+epoch 2962
+Meta Train Loss 0.11836
+
+epoch 2963
+Meta Train Loss 0.08835
+
+epoch 2964
+Meta Train Loss 0.06552
+
+epoch 2965
+Meta Train Loss 0.08768
+
+epoch 2966
+Meta Train Loss 0.07604
+
+epoch 2967
+Meta Train Loss 0.08217
+
+epoch 2968
+Meta Train Loss 0.13730
+
+epoch 2969
+Meta Train Loss 0.07545
+
+epoch 2970
+Meta Train Loss 0.07577
+
+epoch 2971
+Meta Train Loss 0.07778
+
+epoch 2972
+Meta Train Loss 0.08044
+
+epoch 2973
+Meta Train Loss 0.06992
+
+epoch 2974
+Meta Train Loss 0.10736
+
+epoch 2975
+Meta Train Loss 0.10843
+
+epoch 2976
+Meta Train Loss 0.11528
+
+epoch 2977
+Meta Train Loss 0.11511
+
+epoch 2978
+Meta Train Loss 0.08753
+
+epoch 2979
+Meta Train Loss 0.07224
+
+epoch 2980
+Meta Train Loss 0.08847
+
+epoch 2981
+Meta Train Loss 0.13436
+
+epoch 2982
+Meta Train Loss 0.10103
+
+epoch 2983
+Meta Train Loss 0.08162
+
+epoch 2984
+Meta Train Loss 0.09895
+
+epoch 2985
+Meta Train Loss 0.08052
+
+epoch 2986
+Meta Train Loss 0.09344
+
+epoch 2987
+Meta Train Loss 0.13021
+
+epoch 2988
+Meta Train Loss 0.07928
+
+epoch 2989
+Meta Train Loss 0.10147
+
+epoch 2990
+Meta Train Loss 0.14826
+
+epoch 2991
+Meta Train Loss 0.11041
+
+epoch 2992
+Meta Train Loss 0.10043
+
+epoch 2993
+Meta Train Loss 0.12584
+
+epoch 2994
+Meta Train Loss 0.06908
+
+epoch 2995
+Meta Train Loss 0.09408
+
+epoch 2996
+Meta Train Loss 0.12314
+
+epoch 2997
+Meta Train Loss 0.12184
+
+epoch 2998
+Meta Train Loss 0.09889
+epoch 2999, Meta Valid Loss 0.09806
+
+epoch 2999
+Meta Train Loss 0.08454
+
+epoch 3000
+Meta Train Loss 0.15226
+
+epoch 3001
+Meta Train Loss 0.13931
+
+epoch 3002
+Meta Train Loss 0.09329
+
+epoch 3003
+Meta Train Loss 0.10691
+
+epoch 3004
+Meta Train Loss 0.09878
+
+epoch 3005
+Meta Train Loss 0.10755
+
+epoch 3006
+Meta Train Loss 0.07654
+
+epoch 3007
+Meta Train Loss 0.14163
+
+epoch 3008
+Meta Train Loss 0.11010
+
+epoch 3009
+Meta Train Loss 0.08061
+
+epoch 3010
+Meta Train Loss 0.11425
+
+epoch 3011
+Meta Train Loss 0.08888
+
+epoch 3012
+Meta Train Loss 0.12725
+
+epoch 3013
+Meta Train Loss 0.10770
+
+epoch 3014
+Meta Train Loss 0.08600
+
+epoch 3015
+Meta Train Loss 0.08887
+
+epoch 3016
+Meta Train Loss 0.08948
+
+epoch 3017
+Meta Train Loss 0.08693
+
+epoch 3018
+Meta Train Loss 0.10955
+
+epoch 3019
+Meta Train Loss 0.13095
+
+epoch 3020
+Meta Train Loss 0.09868
+
+epoch 3021
+Meta Train Loss 0.13359
+
+epoch 3022
+Meta Train Loss 0.11648
+
+epoch 3023
+Meta Train Loss 0.08315
+
+epoch 3024
+Meta Train Loss 0.08301
+
+epoch 3025
+Meta Train Loss 0.16013
+
+epoch 3026
+Meta Train Loss 0.10070
+
+epoch 3027
+Meta Train Loss 0.09982
+
+epoch 3028
+Meta Train Loss 0.13130
+
+epoch 3029
+Meta Train Loss 0.09364
+
+epoch 3030
+Meta Train Loss 0.08484
+
+epoch 3031
+Meta Train Loss 0.17238
+
+epoch 3032
+Meta Train Loss 0.09589
+
+epoch 3033
+Meta Train Loss 0.10898
+
+epoch 3034
+Meta Train Loss 0.22651
+
+epoch 3035
+Meta Train Loss 0.16363
+
+epoch 3036
+Meta Train Loss 0.10042
+
+epoch 3037
+Meta Train Loss 0.10586
+
+epoch 3038
+Meta Train Loss 0.19206
+
+epoch 3039
+Meta Train Loss 0.11980
+
+epoch 3040
+Meta Train Loss 0.17635
+
+epoch 3041
+Meta Train Loss 0.11046
+
+epoch 3042
+Meta Train Loss 0.14374
+
+epoch 3043
+Meta Train Loss 0.25506
+
+epoch 3044
+Meta Train Loss 0.17958
+
+epoch 3045
+Meta Train Loss 0.14267
+
+epoch 3046
+Meta Train Loss 0.18094
+
+epoch 3047
+Meta Train Loss 0.21015
+
+epoch 3048
+Meta Train Loss 0.16700
+
+epoch 3049
+Meta Train Loss 0.14298
+
+epoch 3050
+Meta Train Loss 0.15195
+
+epoch 3051
+Meta Train Loss 0.15363
+
+epoch 3052
+Meta Train Loss 0.31378
+
+epoch 3053
+Meta Train Loss 0.14273
+
+epoch 3054
+Meta Train Loss 0.19793
+
+epoch 3055
+Meta Train Loss 0.14607
+
+epoch 3056
+Meta Train Loss 0.12528
+
+epoch 3057
+Meta Train Loss 0.15754
+
+epoch 3058
+Meta Train Loss 0.09911
+
+epoch 3059
+Meta Train Loss 0.18518
+
+epoch 3060
+Meta Train Loss 0.19172
+
+epoch 3061
+Meta Train Loss 0.12454
+
+epoch 3062
+Meta Train Loss 0.12019
+
+epoch 3063
+Meta Train Loss 0.11865
+
+epoch 3064
+Meta Train Loss 0.16719
+
+epoch 3065
+Meta Train Loss 0.15509
+
+epoch 3066
+Meta Train Loss 0.11525
+
+epoch 3067
+Meta Train Loss 0.11522
+
+epoch 3068
+Meta Train Loss 0.14032
+
+epoch 3069
+Meta Train Loss 0.10050
+
+epoch 3070
+Meta Train Loss 0.11019
+
+epoch 3071
+Meta Train Loss 0.11330
+
+epoch 3072
+Meta Train Loss 0.09722
+
+epoch 3073
+Meta Train Loss 0.07158
+
+epoch 3074
+Meta Train Loss 0.06907
+
+epoch 3075
+Meta Train Loss 0.12459
+
+epoch 3076
+Meta Train Loss 0.11630
+
+epoch 3077
+Meta Train Loss 0.10049
+
+epoch 3078
+Meta Train Loss 0.08089
+
+epoch 3079
+Meta Train Loss 0.07107
+
+epoch 3080
+Meta Train Loss 0.09781
+
+epoch 3081
+Meta Train Loss 0.10909
+
+epoch 3082
+Meta Train Loss 0.12440
+
+epoch 3083
+Meta Train Loss 0.07511
+
+epoch 3084
+Meta Train Loss 0.10179
+
+epoch 3085
+Meta Train Loss 0.09530
+
+epoch 3086
+Meta Train Loss 0.09485
+
+epoch 3087
+Meta Train Loss 0.09638
+
+epoch 3088
+Meta Train Loss 0.12864
+
+epoch 3089
+Meta Train Loss 0.08687
+
+epoch 3090
+Meta Train Loss 0.06874
+
+epoch 3091
+Meta Train Loss 0.07682
+
+epoch 3092
+Meta Train Loss 0.06985
+
+epoch 3093
+Meta Train Loss 0.11803
+
+epoch 3094
+Meta Train Loss 0.09539
+
+epoch 3095
+Meta Train Loss 0.09564
+
+epoch 3096
+Meta Train Loss 0.09319
+
+epoch 3097
+Meta Train Loss 0.07672
+
+epoch 3098
+Meta Train Loss 0.09146
+epoch 3099, Meta Valid Loss 0.09047
+
+epoch 3099
+Meta Train Loss 0.08087
+
+epoch 3100
+Meta Train Loss 0.09182
+
+epoch 3101
+Meta Train Loss 0.08008
+
+epoch 3102
+Meta Train Loss 0.09394
+
+epoch 3103
+Meta Train Loss 0.09324
+
+epoch 3104
+Meta Train Loss 0.06709
+
+epoch 3105
+Meta Train Loss 0.10069
+
+epoch 3106
+Meta Train Loss 0.09039
+
+epoch 3107
+Meta Train Loss 0.07732
+
+epoch 3108
+Meta Train Loss 0.09329
+
+epoch 3109
+Meta Train Loss 0.11452
+
+epoch 3110
+Meta Train Loss 0.07969
+
+epoch 3111
+Meta Train Loss 0.09312
+
+epoch 3112
+Meta Train Loss 0.12237
+
+epoch 3113
+Meta Train Loss 0.09737
+
+epoch 3114
+Meta Train Loss 0.11763
+
+epoch 3115
+Meta Train Loss 0.06952
+
+epoch 3116
+Meta Train Loss 0.10242
+
+epoch 3117
+Meta Train Loss 0.11252
+
+epoch 3118
+Meta Train Loss 0.07534
+
+epoch 3119
+Meta Train Loss 0.10093
+
+epoch 3120
+Meta Train Loss 0.11747
+
+epoch 3121
+Meta Train Loss 0.10825
+
+epoch 3122
+Meta Train Loss 0.11242
+
+epoch 3123
+Meta Train Loss 0.08491
+
+epoch 3124
+Meta Train Loss 0.10337
+
+epoch 3125
+Meta Train Loss 0.13665
+
+epoch 3126
+Meta Train Loss 0.08371
+
+epoch 3127
+Meta Train Loss 0.07462
+
+epoch 3128
+Meta Train Loss 0.09467
+
+epoch 3129
+Meta Train Loss 0.09350
+
+epoch 3130
+Meta Train Loss 0.09075
+
+epoch 3131
+Meta Train Loss 0.10070
+
+epoch 3132
+Meta Train Loss 0.08771
+
+epoch 3133
+Meta Train Loss 0.11886
+
+epoch 3134
+Meta Train Loss 0.07389
+
+epoch 3135
+Meta Train Loss 0.11257
+
+epoch 3136
+Meta Train Loss 0.09233
+
+epoch 3137
+Meta Train Loss 0.06662
+
+epoch 3138
+Meta Train Loss 0.09575
+
+epoch 3139
+Meta Train Loss 0.09351
+
+epoch 3140
+Meta Train Loss 0.06973
+
+epoch 3141
+Meta Train Loss 0.13664
+
+epoch 3142
+Meta Train Loss 0.08842
+
+epoch 3143
+Meta Train Loss 0.10874
+
+epoch 3144
+Meta Train Loss 0.12036
+
+epoch 3145
+Meta Train Loss 0.07973
+
+epoch 3146
+Meta Train Loss 0.08274
+
+epoch 3147
+Meta Train Loss 0.10161
+
+epoch 3148
+Meta Train Loss 0.10085
+
+epoch 3149
+Meta Train Loss 0.11152
+
+epoch 3150
+Meta Train Loss 0.08248
+
+epoch 3151
+Meta Train Loss 0.08089
+
+epoch 3152
+Meta Train Loss 0.10408
+
+epoch 3153
+Meta Train Loss 0.12892
+
+epoch 3154
+Meta Train Loss 0.09530
+
+epoch 3155
+Meta Train Loss 0.13863
+
+epoch 3156
+Meta Train Loss 0.10150
+
+epoch 3157
+Meta Train Loss 0.08261
+
+epoch 3158
+Meta Train Loss 0.06869
+
+epoch 3159
+Meta Train Loss 0.10039
+
+epoch 3160
+Meta Train Loss 0.07930
+
+epoch 3161
+Meta Train Loss 0.09300
+
+epoch 3162
+Meta Train Loss 0.14578
+
+epoch 3163
+Meta Train Loss 0.09158
+
+epoch 3164
+Meta Train Loss 0.07374
+
+epoch 3165
+Meta Train Loss 0.09994
+
+epoch 3166
+Meta Train Loss 0.09540
+
+epoch 3167
+Meta Train Loss 0.10201
+
+epoch 3168
+Meta Train Loss 0.09583
+
+epoch 3169
+Meta Train Loss 0.08377
+
+epoch 3170
+Meta Train Loss 0.08689
+
+epoch 3171
+Meta Train Loss 0.10678
+
+epoch 3172
+Meta Train Loss 0.07302
+
+epoch 3173
+Meta Train Loss 0.08925
+
+epoch 3174
+Meta Train Loss 0.07173
+
+epoch 3175
+Meta Train Loss 0.07998
+
+epoch 3176
+Meta Train Loss 0.12763
+
+epoch 3177
+Meta Train Loss 0.08827
+
+epoch 3178
+Meta Train Loss 0.06682
+
+epoch 3179
+Meta Train Loss 0.09419
+
+epoch 3180
+Meta Train Loss 0.09419
+
+epoch 3181
+Meta Train Loss 0.08547
+
+epoch 3182
+Meta Train Loss 0.09424
+
+epoch 3183
+Meta Train Loss 0.08487
+
+epoch 3184
+Meta Train Loss 0.06730
+
+epoch 3185
+Meta Train Loss 0.08228
+
+epoch 3186
+Meta Train Loss 0.08622
+
+epoch 3187
+Meta Train Loss 0.08224
+
+epoch 3188
+Meta Train Loss 0.09338
+
+epoch 3189
+Meta Train Loss 0.07341
+
+epoch 3190
+Meta Train Loss 0.06904
+
+epoch 3191
+Meta Train Loss 0.07189
+
+epoch 3192
+Meta Train Loss 0.06090
+
+epoch 3193
+Meta Train Loss 0.09361
+
+epoch 3194
+Meta Train Loss 0.06824
+
+epoch 3195
+Meta Train Loss 0.08336
+
+epoch 3196
+Meta Train Loss 0.07828
+
+epoch 3197
+Meta Train Loss 0.10724
+
+epoch 3198
+Meta Train Loss 0.06535
+epoch 3199, Meta Valid Loss 0.08520
+
+epoch 3199
+Meta Train Loss 0.06701
+
+epoch 3200
+Meta Train Loss 0.06744
+
+epoch 3201
+Meta Train Loss 0.10013
+
+epoch 3202
+Meta Train Loss 0.06602
+
+epoch 3203
+Meta Train Loss 0.07320
+
+epoch 3204
+Meta Train Loss 0.10267
+
+epoch 3205
+Meta Train Loss 0.06466
+
+epoch 3206
+Meta Train Loss 0.09224
+
+epoch 3207
+Meta Train Loss 0.08171
+
+epoch 3208
+Meta Train Loss 0.07785
+
+epoch 3209
+Meta Train Loss 0.12309
+
+epoch 3210
+Meta Train Loss 0.10485
+
+epoch 3211
+Meta Train Loss 0.07362
+
+epoch 3212
+Meta Train Loss 0.08602
+
+epoch 3213
+Meta Train Loss 0.11720
+
+epoch 3214
+Meta Train Loss 0.14411
+
+epoch 3215
+Meta Train Loss 0.07245
+
+epoch 3216
+Meta Train Loss 0.07717
+
+epoch 3217
+Meta Train Loss 0.16331
+
+epoch 3218
+Meta Train Loss 0.08672
+
+epoch 3219
+Meta Train Loss 0.10277
+
+epoch 3220
+Meta Train Loss 0.12587
+
+epoch 3221
+Meta Train Loss 0.07999
+
+epoch 3222
+Meta Train Loss 0.06838
+
+epoch 3223
+Meta Train Loss 0.06855
+
+epoch 3224
+Meta Train Loss 0.10775
+
+epoch 3225
+Meta Train Loss 0.08307
+
+epoch 3226
+Meta Train Loss 0.09150
+
+epoch 3227
+Meta Train Loss 0.10135
+
+epoch 3228
+Meta Train Loss 0.09781
+
+epoch 3229
+Meta Train Loss 0.07205
+
+epoch 3230
+Meta Train Loss 0.07179
+
+epoch 3231
+Meta Train Loss 0.07873
+
+epoch 3232
+Meta Train Loss 0.10937
+
+epoch 3233
+Meta Train Loss 0.09439
+
+epoch 3234
+Meta Train Loss 0.11662
+
+epoch 3235
+Meta Train Loss 0.08891
+
+epoch 3236
+Meta Train Loss 0.14522
+
+epoch 3237
+Meta Train Loss 0.09944
+
+epoch 3238
+Meta Train Loss 0.08540
+
+epoch 3239
+Meta Train Loss 0.13632
+
+epoch 3240
+Meta Train Loss 0.12262
+
+epoch 3241
+Meta Train Loss 0.07723
+
+epoch 3242
+Meta Train Loss 0.09398
+
+epoch 3243
+Meta Train Loss 0.06197
+
+epoch 3244
+Meta Train Loss 0.08213
+
+epoch 3245
+Meta Train Loss 0.08220
+
+epoch 3246
+Meta Train Loss 0.09235
+
+epoch 3247
+Meta Train Loss 0.08630
+
+epoch 3248
+Meta Train Loss 0.07070
+
+epoch 3249
+Meta Train Loss 0.09063
+
+epoch 3250
+Meta Train Loss 0.09612
+
+epoch 3251
+Meta Train Loss 0.08039
+
+epoch 3252
+Meta Train Loss 0.10919
+
+epoch 3253
+Meta Train Loss 0.10044
+
+epoch 3254
+Meta Train Loss 0.16784
+
+epoch 3255
+Meta Train Loss 0.09451
+
+epoch 3256
+Meta Train Loss 0.10312
+
+epoch 3257
+Meta Train Loss 0.11845
+
+epoch 3258
+Meta Train Loss 0.11982
+
+epoch 3259
+Meta Train Loss 0.11927
+
+epoch 3260
+Meta Train Loss 0.12746
+
+epoch 3261
+Meta Train Loss 0.06833
+
+epoch 3262
+Meta Train Loss 0.08168
+
+epoch 3263
+Meta Train Loss 0.11497
+
+epoch 3264
+Meta Train Loss 0.10549
+
+epoch 3265
+Meta Train Loss 0.09047
+
+epoch 3266
+Meta Train Loss 0.12030
+
+epoch 3267
+Meta Train Loss 0.11679
+
+epoch 3268
+Meta Train Loss 0.09083
+
+epoch 3269
+Meta Train Loss 0.09311
+
+epoch 3270
+Meta Train Loss 0.10742
+
+epoch 3271
+Meta Train Loss 0.08437
+
+epoch 3272
+Meta Train Loss 0.08922
+
+epoch 3273
+Meta Train Loss 0.10226
+
+epoch 3274
+Meta Train Loss 0.09390
+
+epoch 3275
+Meta Train Loss 0.08616
+
+epoch 3276
+Meta Train Loss 0.11203
+
+epoch 3277
+Meta Train Loss 0.09149
+
+epoch 3278
+Meta Train Loss 0.09877
+
+epoch 3279
+Meta Train Loss 0.13862
+
+epoch 3280
+Meta Train Loss 0.07461
+
+epoch 3281
+Meta Train Loss 0.10436
+
+epoch 3282
+Meta Train Loss 0.07137
+
+epoch 3283
+Meta Train Loss 0.11383
+
+epoch 3284
+Meta Train Loss 0.07887
+
+epoch 3285
+Meta Train Loss 0.06479
+
+epoch 3286
+Meta Train Loss 0.08366
+
+epoch 3287
+Meta Train Loss 0.07117
+
+epoch 3288
+Meta Train Loss 0.07261
+
+epoch 3289
+Meta Train Loss 0.09028
+
+epoch 3290
+Meta Train Loss 0.11461
+
+epoch 3291
+Meta Train Loss 0.11011
+
+epoch 3292
+Meta Train Loss 0.14082
+
+epoch 3293
+Meta Train Loss 0.09264
+
+epoch 3294
+Meta Train Loss 0.06118
+
+epoch 3295
+Meta Train Loss 0.11490
+
+epoch 3296
+Meta Train Loss 0.12990
+
+epoch 3297
+Meta Train Loss 0.11569
+
+epoch 3298
+Meta Train Loss 0.10389
+epoch 3299, Meta Valid Loss 0.11494
+
+epoch 3299
+Meta Train Loss 0.11665
+
+epoch 3300
+Meta Train Loss 0.09495
+
+epoch 3301
+Meta Train Loss 0.08622
+
+epoch 3302
+Meta Train Loss 0.10367
+
+epoch 3303
+Meta Train Loss 0.11965
+
+epoch 3304
+Meta Train Loss 0.14208
+
+epoch 3305
+Meta Train Loss 0.09196
+
+epoch 3306
+Meta Train Loss 0.09465
+
+epoch 3307
+Meta Train Loss 0.09146
+
+epoch 3308
+Meta Train Loss 0.12866
+
+epoch 3309
+Meta Train Loss 0.12519
+
+epoch 3310
+Meta Train Loss 0.10155
+
+epoch 3311
+Meta Train Loss 0.08845
+
+epoch 3312
+Meta Train Loss 0.06373
+
+epoch 3313
+Meta Train Loss 0.08769
+
+epoch 3314
+Meta Train Loss 0.08189
+
+epoch 3315
+Meta Train Loss 0.10113
+
+epoch 3316
+Meta Train Loss 0.10808
+
+epoch 3317
+Meta Train Loss 0.07400
+
+epoch 3318
+Meta Train Loss 0.12416
+
+epoch 3319
+Meta Train Loss 0.07973
+
+epoch 3320
+Meta Train Loss 0.10653
+
+epoch 3321
+Meta Train Loss 0.12138
+
+epoch 3322
+Meta Train Loss 0.07855
+
+epoch 3323
+Meta Train Loss 0.07902
+
+epoch 3324
+Meta Train Loss 0.10344
+
+epoch 3325
+Meta Train Loss 0.08467
+
+epoch 3326
+Meta Train Loss 0.08956
+
+epoch 3327
+Meta Train Loss 0.09392
+
+epoch 3328
+Meta Train Loss 0.08914
+
+epoch 3329
+Meta Train Loss 0.08500
+
+epoch 3330
+Meta Train Loss 0.09119
+
+epoch 3331
+Meta Train Loss 0.08501
+
+epoch 3332
+Meta Train Loss 0.11530
+
+epoch 3333
+Meta Train Loss 0.07549
+
+epoch 3334
+Meta Train Loss 0.09918
+
+epoch 3335
+Meta Train Loss 0.10031
+
+epoch 3336
+Meta Train Loss 0.07267
+
+epoch 3337
+Meta Train Loss 0.08677
+
+epoch 3338
+Meta Train Loss 0.08087
+
+epoch 3339
+Meta Train Loss 0.09525
+
+epoch 3340
+Meta Train Loss 0.08721
+
+epoch 3341
+Meta Train Loss 0.08627
+
+epoch 3342
+Meta Train Loss 0.07091
+
+epoch 3343
+Meta Train Loss 0.09478
+
+epoch 3344
+Meta Train Loss 0.08775
+
+epoch 3345
+Meta Train Loss 0.11557
+
+epoch 3346
+Meta Train Loss 0.07828
+
+epoch 3347
+Meta Train Loss 0.09806
+
+epoch 3348
+Meta Train Loss 0.07661
+
+epoch 3349
+Meta Train Loss 0.07873
+
+epoch 3350
+Meta Train Loss 0.09067
+
+epoch 3351
+Meta Train Loss 0.08006
+
+epoch 3352
+Meta Train Loss 0.06474
+
+epoch 3353
+Meta Train Loss 0.07155
+
+epoch 3354
+Meta Train Loss 0.09023
+
+epoch 3355
+Meta Train Loss 0.07470
+
+epoch 3356
+Meta Train Loss 0.07909
+
+epoch 3357
+Meta Train Loss 0.07382
+
+epoch 3358
+Meta Train Loss 0.07181
+
+epoch 3359
+Meta Train Loss 0.06433
+
+epoch 3360
+Meta Train Loss 0.07980
+
+epoch 3361
+Meta Train Loss 0.09266
+
+epoch 3362
+Meta Train Loss 0.06778
+
+epoch 3363
+Meta Train Loss 0.07682
+
+epoch 3364
+Meta Train Loss 0.07559
+
+epoch 3365
+Meta Train Loss 0.08977
+
+epoch 3366
+Meta Train Loss 0.08936
+
+epoch 3367
+Meta Train Loss 0.08943
+
+epoch 3368
+Meta Train Loss 0.06801
+
+epoch 3369
+Meta Train Loss 0.10047
+
+epoch 3370
+Meta Train Loss 0.14799
+
+epoch 3371
+Meta Train Loss 0.11141
+
+epoch 3372
+Meta Train Loss 0.09791
+
+epoch 3373
+Meta Train Loss 0.10901
+
+epoch 3374
+Meta Train Loss 0.08265
+
+epoch 3375
+Meta Train Loss 0.11817
+
+epoch 3376
+Meta Train Loss 0.11163
+
+epoch 3377
+Meta Train Loss 0.09010
+
+epoch 3378
+Meta Train Loss 0.09075
+
+epoch 3379
+Meta Train Loss 0.07481
+
+epoch 3380
+Meta Train Loss 0.06356
+
+epoch 3381
+Meta Train Loss 0.07361
+
+epoch 3382
+Meta Train Loss 0.07840
+
+epoch 3383
+Meta Train Loss 0.11032
+
+epoch 3384
+Meta Train Loss 0.07652
+
+epoch 3385
+Meta Train Loss 0.09586
+
+epoch 3386
+Meta Train Loss 0.09692
+
+epoch 3387
+Meta Train Loss 0.10127
+
+epoch 3388
+Meta Train Loss 0.07350
+
+epoch 3389
+Meta Train Loss 0.07475
+
+epoch 3390
+Meta Train Loss 0.06717
+
+epoch 3391
+Meta Train Loss 0.08308
+
+epoch 3392
+Meta Train Loss 0.12250
+
+epoch 3393
+Meta Train Loss 0.10211
+
+epoch 3394
+Meta Train Loss 0.10646
+
+epoch 3395
+Meta Train Loss 0.08234
+
+epoch 3396
+Meta Train Loss 0.06778
+
+epoch 3397
+Meta Train Loss 0.07872
+
+epoch 3398
+Meta Train Loss 0.12737

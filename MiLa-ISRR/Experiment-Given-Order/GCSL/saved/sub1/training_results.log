@@ -1,0 +1,16943 @@
+
+epoch 0
+Train Loss 181.46294
+
+epoch 1
+Train Loss 174.81787
+
+epoch 2
+Train Loss 170.26372
+
+epoch 3
+Train Loss 165.93568
+
+epoch 4
+Train Loss 159.19481
+
+epoch 5
+Train Loss 152.03304
+
+epoch 6
+Train Loss 148.18682
+
+epoch 7
+Train Loss 143.84006
+
+epoch 8
+Train Loss 137.07799
+
+epoch 9
+Train Loss 131.41652
+
+epoch 10
+Train Loss 125.80350
+
+epoch 11
+Train Loss 115.32099
+
+epoch 12
+Train Loss 111.16819
+
+epoch 13
+Train Loss 101.00756
+
+epoch 14
+Train Loss 98.98575
+
+epoch 15
+Train Loss 93.49918
+
+epoch 16
+Train Loss 86.87657
+
+epoch 17
+Train Loss 78.85667
+
+epoch 18
+Train Loss 71.30583
+
+epoch 19
+Train Loss 69.76152
+
+epoch 20
+Train Loss 59.59648
+
+epoch 21
+Train Loss 52.03542
+
+epoch 22
+Train Loss 45.33551
+
+epoch 23
+Train Loss 40.25410
+
+epoch 24
+Train Loss 32.12493
+
+epoch 25
+Train Loss 31.60461
+
+epoch 26
+Train Loss 25.75383
+
+epoch 27
+Train Loss 20.39899
+
+epoch 28
+Train Loss 15.52022
+
+epoch 29
+Train Loss 15.09335
+
+epoch 30
+Train Loss 11.48990
+
+epoch 31
+Train Loss 9.75171
+
+epoch 32
+Train Loss 7.46553
+
+epoch 33
+Train Loss 6.32906
+
+epoch 34
+Train Loss 4.35672
+
+epoch 35
+Train Loss 3.37440
+
+epoch 36
+Train Loss 2.48168
+
+epoch 37
+Train Loss 1.42631
+
+epoch 38
+Train Loss 1.67089
+
+epoch 39
+Train Loss 0.99516
+
+epoch 40
+Train Loss 0.90189
+
+epoch 41
+Train Loss 0.99327
+
+epoch 42
+Train Loss 0.78386
+
+epoch 43
+Train Loss 0.66198
+
+epoch 44
+Train Loss 1.27754
+
+epoch 45
+Train Loss 2.14642
+
+epoch 46
+Train Loss 1.96591
+
+epoch 47
+Train Loss 1.34284
+
+epoch 48
+Train Loss 1.26738
+
+epoch 49
+Train Loss 2.01475
+
+epoch 50
+Train Loss 2.53659
+
+epoch 51
+Train Loss 1.12271
+
+epoch 52
+Train Loss 0.97312
+
+epoch 53
+Train Loss 0.68773
+
+epoch 54
+Train Loss 0.81648
+
+epoch 55
+Train Loss 1.11821
+
+epoch 56
+Train Loss 1.69444
+
+epoch 57
+Train Loss 0.52866
+
+epoch 58
+Train Loss 0.68232
+
+epoch 59
+Train Loss 0.40476
+
+epoch 60
+Train Loss 0.67967
+
+epoch 61
+Train Loss 0.56021
+
+epoch 62
+Train Loss 0.64443
+
+epoch 63
+Train Loss 0.53000
+
+epoch 64
+Train Loss 0.29910
+
+epoch 65
+Train Loss 0.67693
+
+epoch 66
+Train Loss 0.39610
+
+epoch 67
+Train Loss 0.34688
+
+epoch 68
+Train Loss 0.76157
+
+epoch 69
+Train Loss 0.67638
+
+epoch 70
+Train Loss 0.47795
+
+epoch 71
+Train Loss 0.35850
+
+epoch 72
+Train Loss 0.44362
+
+epoch 73
+Train Loss 0.38933
+
+epoch 74
+Train Loss 0.32370
+
+epoch 75
+Train Loss 0.49437
+
+epoch 76
+Train Loss 0.54895
+
+epoch 77
+Train Loss 0.27095
+
+epoch 78
+Train Loss 0.46720
+
+epoch 79
+Train Loss 0.75728
+
+epoch 80
+Train Loss 0.62790
+
+epoch 81
+Train Loss 0.39378
+
+epoch 82
+Train Loss 0.37853
+
+epoch 83
+Train Loss 0.43870
+
+epoch 84
+Train Loss 0.45416
+
+epoch 85
+Train Loss 0.53400
+
+epoch 86
+Train Loss 0.37438
+
+epoch 87
+Train Loss 0.34643
+
+epoch 88
+Train Loss 0.31479
+
+epoch 89
+Train Loss 0.38124
+
+epoch 90
+Train Loss 0.32424
+
+epoch 91
+Train Loss 0.40092
+
+epoch 92
+Train Loss 0.33516
+
+epoch 93
+Train Loss 0.33189
+
+epoch 94
+Train Loss 0.34311
+
+epoch 95
+Train Loss 0.41404
+
+epoch 96
+Train Loss 0.33794
+
+epoch 97
+Train Loss 0.32679
+
+epoch 98
+Train Loss 0.35001
+epoch 99, Valid Loss 0.26102
+
+epoch 99
+Train Loss 0.34072
+
+epoch 100
+Train Loss 0.87863
+
+epoch 101
+Train Loss 0.44231
+
+epoch 102
+Train Loss 0.27677
+
+epoch 103
+Train Loss 0.40134
+
+epoch 104
+Train Loss 0.36294
+
+epoch 105
+Train Loss 0.33992
+
+epoch 106
+Train Loss 0.26717
+
+epoch 107
+Train Loss 0.28508
+
+epoch 108
+Train Loss 0.43314
+
+epoch 109
+Train Loss 0.38405
+
+epoch 110
+Train Loss 0.30590
+
+epoch 111
+Train Loss 0.38720
+
+epoch 112
+Train Loss 0.33097
+
+epoch 113
+Train Loss 0.43295
+
+epoch 114
+Train Loss 0.24457
+
+epoch 115
+Train Loss 0.21955
+
+epoch 116
+Train Loss 0.29046
+
+epoch 117
+Train Loss 0.36555
+
+epoch 118
+Train Loss 0.32683
+
+epoch 119
+Train Loss 0.29228
+
+epoch 120
+Train Loss 0.35887
+
+epoch 121
+Train Loss 0.27082
+
+epoch 122
+Train Loss 0.30131
+
+epoch 123
+Train Loss 0.29500
+
+epoch 124
+Train Loss 0.28321
+
+epoch 125
+Train Loss 0.27496
+
+epoch 126
+Train Loss 0.30711
+
+epoch 127
+Train Loss 0.27030
+
+epoch 128
+Train Loss 0.35447
+
+epoch 129
+Train Loss 0.27628
+
+epoch 130
+Train Loss 0.34448
+
+epoch 131
+Train Loss 0.25810
+
+epoch 132
+Train Loss 0.29247
+
+epoch 133
+Train Loss 0.32457
+
+epoch 134
+Train Loss 0.35072
+
+epoch 135
+Train Loss 0.22824
+
+epoch 136
+Train Loss 0.26819
+
+epoch 137
+Train Loss 0.32982
+
+epoch 138
+Train Loss 0.33168
+
+epoch 139
+Train Loss 0.32240
+
+epoch 140
+Train Loss 0.36153
+
+epoch 141
+Train Loss 0.31161
+
+epoch 142
+Train Loss 0.30399
+
+epoch 143
+Train Loss 0.27253
+
+epoch 144
+Train Loss 0.29212
+
+epoch 145
+Train Loss 0.27381
+
+epoch 146
+Train Loss 0.27298
+
+epoch 147
+Train Loss 0.25258
+
+epoch 148
+Train Loss 0.29703
+
+epoch 149
+Train Loss 0.31251
+
+epoch 150
+Train Loss 0.25931
+
+epoch 151
+Train Loss 0.30038
+
+epoch 152
+Train Loss 0.25386
+
+epoch 153
+Train Loss 0.26487
+
+epoch 154
+Train Loss 0.27527
+
+epoch 155
+Train Loss 0.33377
+
+epoch 156
+Train Loss 0.28911
+
+epoch 157
+Train Loss 0.27630
+
+epoch 158
+Train Loss 0.27293
+
+epoch 159
+Train Loss 0.25068
+
+epoch 160
+Train Loss 0.32197
+
+epoch 161
+Train Loss 0.27691
+
+epoch 162
+Train Loss 0.31137
+
+epoch 163
+Train Loss 0.35233
+
+epoch 164
+Train Loss 0.31658
+
+epoch 165
+Train Loss 0.31702
+
+epoch 166
+Train Loss 0.22898
+
+epoch 167
+Train Loss 0.30752
+
+epoch 168
+Train Loss 0.27587
+
+epoch 169
+Train Loss 0.25681
+
+epoch 170
+Train Loss 0.27187
+
+epoch 171
+Train Loss 0.30095
+
+epoch 172
+Train Loss 0.27554
+
+epoch 173
+Train Loss 0.28852
+
+epoch 174
+Train Loss 0.38359
+
+epoch 175
+Train Loss 0.27392
+
+epoch 176
+Train Loss 0.24415
+
+epoch 177
+Train Loss 0.19431
+
+epoch 178
+Train Loss 0.29723
+
+epoch 179
+Train Loss 0.28350
+
+epoch 180
+Train Loss 0.26916
+
+epoch 181
+Train Loss 0.25252
+
+epoch 182
+Train Loss 0.28652
+
+epoch 183
+Train Loss 0.25599
+
+epoch 184
+Train Loss 0.26835
+
+epoch 185
+Train Loss 0.29686
+
+epoch 186
+Train Loss 0.31449
+
+epoch 187
+Train Loss 0.25067
+
+epoch 188
+Train Loss 0.22142
+
+epoch 189
+Train Loss 0.24881
+
+epoch 190
+Train Loss 0.27385
+
+epoch 191
+Train Loss 0.31454
+
+epoch 192
+Train Loss 0.30650
+
+epoch 193
+Train Loss 0.33113
+
+epoch 194
+Train Loss 0.19803
+
+epoch 195
+Train Loss 0.25290
+
+epoch 196
+Train Loss 0.27974
+
+epoch 197
+Train Loss 0.26432
+
+epoch 198
+Train Loss 0.23746
+epoch 199, Valid Loss 0.22704
+
+epoch 199
+Train Loss 0.25749
+
+epoch 200
+Train Loss 0.26657
+
+epoch 201
+Train Loss 0.30577
+
+epoch 202
+Train Loss 0.25362
+
+epoch 203
+Train Loss 0.32542
+
+epoch 204
+Train Loss 0.22643
+
+epoch 205
+Train Loss 0.29615
+
+epoch 206
+Train Loss 0.22913
+
+epoch 207
+Train Loss 0.28203
+
+epoch 208
+Train Loss 0.28395
+
+epoch 209
+Train Loss 0.21957
+
+epoch 210
+Train Loss 0.23659
+
+epoch 211
+Train Loss 0.25318
+
+epoch 212
+Train Loss 0.25089
+
+epoch 213
+Train Loss 0.24253
+
+epoch 214
+Train Loss 0.27926
+
+epoch 215
+Train Loss 0.19507
+
+epoch 216
+Train Loss 0.25066
+
+epoch 217
+Train Loss 0.32003
+
+epoch 218
+Train Loss 0.22294
+
+epoch 219
+Train Loss 0.26013
+
+epoch 220
+Train Loss 0.29404
+
+epoch 221
+Train Loss 0.24180
+
+epoch 222
+Train Loss 0.22095
+
+epoch 223
+Train Loss 0.23202
+
+epoch 224
+Train Loss 0.27703
+
+epoch 225
+Train Loss 0.28114
+
+epoch 226
+Train Loss 0.29198
+
+epoch 227
+Train Loss 0.26511
+
+epoch 228
+Train Loss 0.24240
+
+epoch 229
+Train Loss 0.29522
+
+epoch 230
+Train Loss 0.26391
+
+epoch 231
+Train Loss 0.22613
+
+epoch 232
+Train Loss 0.23832
+
+epoch 233
+Train Loss 0.24185
+
+epoch 234
+Train Loss 0.28344
+
+epoch 235
+Train Loss 0.27346
+
+epoch 236
+Train Loss 0.22934
+
+epoch 237
+Train Loss 0.27027
+
+epoch 238
+Train Loss 0.23376
+
+epoch 239
+Train Loss 0.28302
+
+epoch 240
+Train Loss 0.29985
+
+epoch 241
+Train Loss 0.34366
+
+epoch 242
+Train Loss 0.24305
+
+epoch 243
+Train Loss 0.26198
+
+epoch 244
+Train Loss 0.29710
+
+epoch 245
+Train Loss 0.26884
+
+epoch 246
+Train Loss 0.25979
+
+epoch 247
+Train Loss 0.26209
+
+epoch 248
+Train Loss 0.27643
+
+epoch 249
+Train Loss 0.26147
+
+epoch 250
+Train Loss 0.25229
+
+epoch 251
+Train Loss 0.28794
+
+epoch 252
+Train Loss 0.23390
+
+epoch 253
+Train Loss 0.24998
+
+epoch 254
+Train Loss 0.23984
+
+epoch 255
+Train Loss 0.25961
+
+epoch 256
+Train Loss 0.22294
+
+epoch 257
+Train Loss 0.26594
+
+epoch 258
+Train Loss 0.27503
+
+epoch 259
+Train Loss 0.28296
+
+epoch 260
+Train Loss 0.21327
+
+epoch 261
+Train Loss 0.23825
+
+epoch 262
+Train Loss 0.22822
+
+epoch 263
+Train Loss 0.23346
+
+epoch 264
+Train Loss 0.28649
+
+epoch 265
+Train Loss 0.23136
+
+epoch 266
+Train Loss 0.29007
+
+epoch 267
+Train Loss 0.25399
+
+epoch 268
+Train Loss 0.25365
+
+epoch 269
+Train Loss 0.18525
+
+epoch 270
+Train Loss 0.32446
+
+epoch 271
+Train Loss 0.25497
+
+epoch 272
+Train Loss 0.22123
+
+epoch 273
+Train Loss 0.23192
+
+epoch 274
+Train Loss 0.25109
+
+epoch 275
+Train Loss 0.27308
+
+epoch 276
+Train Loss 0.19818
+
+epoch 277
+Train Loss 0.22675
+
+epoch 278
+Train Loss 0.25825
+
+epoch 279
+Train Loss 0.23127
+
+epoch 280
+Train Loss 0.21587
+
+epoch 281
+Train Loss 0.27293
+
+epoch 282
+Train Loss 0.19322
+
+epoch 283
+Train Loss 0.30416
+
+epoch 284
+Train Loss 0.27269
+
+epoch 285
+Train Loss 0.27121
+
+epoch 286
+Train Loss 0.32399
+
+epoch 287
+Train Loss 0.23761
+
+epoch 288
+Train Loss 0.22077
+
+epoch 289
+Train Loss 0.24939
+
+epoch 290
+Train Loss 0.25664
+
+epoch 291
+Train Loss 0.21506
+
+epoch 292
+Train Loss 0.27748
+
+epoch 293
+Train Loss 0.28903
+
+epoch 294
+Train Loss 0.23460
+
+epoch 295
+Train Loss 0.23530
+
+epoch 296
+Train Loss 0.24098
+
+epoch 297
+Train Loss 0.28647
+
+epoch 298
+Train Loss 0.24532
+epoch 299, Valid Loss 0.21870
+
+epoch 299
+Train Loss 0.26622
+
+epoch 300
+Train Loss 0.25893
+
+epoch 301
+Train Loss 0.24555
+
+epoch 302
+Train Loss 0.20461
+
+epoch 303
+Train Loss 0.22690
+
+epoch 304
+Train Loss 0.24317
+
+epoch 305
+Train Loss 0.27911
+
+epoch 306
+Train Loss 0.25113
+
+epoch 307
+Train Loss 0.25489
+
+epoch 308
+Train Loss 0.26761
+
+epoch 309
+Train Loss 0.26279
+
+epoch 310
+Train Loss 0.25144
+
+epoch 311
+Train Loss 0.18868
+
+epoch 312
+Train Loss 0.23043
+
+epoch 313
+Train Loss 0.31800
+
+epoch 314
+Train Loss 0.24097
+
+epoch 315
+Train Loss 0.26712
+
+epoch 316
+Train Loss 0.22088
+
+epoch 317
+Train Loss 0.21075
+
+epoch 318
+Train Loss 0.26541
+
+epoch 319
+Train Loss 0.26076
+
+epoch 320
+Train Loss 0.26556
+
+epoch 321
+Train Loss 0.19752
+
+epoch 322
+Train Loss 0.26364
+
+epoch 323
+Train Loss 0.25604
+
+epoch 324
+Train Loss 0.23654
+
+epoch 325
+Train Loss 0.26824
+
+epoch 326
+Train Loss 0.22321
+
+epoch 327
+Train Loss 0.19993
+
+epoch 328
+Train Loss 0.26728
+
+epoch 329
+Train Loss 0.21426
+
+epoch 330
+Train Loss 0.30616
+
+epoch 331
+Train Loss 0.22183
+
+epoch 332
+Train Loss 0.25520
+
+epoch 333
+Train Loss 0.22367
+
+epoch 334
+Train Loss 0.21125
+
+epoch 335
+Train Loss 0.20531
+
+epoch 336
+Train Loss 0.24430
+
+epoch 337
+Train Loss 0.27138
+
+epoch 338
+Train Loss 0.20729
+
+epoch 339
+Train Loss 0.19889
+
+epoch 340
+Train Loss 0.19199
+
+epoch 341
+Train Loss 0.24188
+
+epoch 342
+Train Loss 0.28321
+
+epoch 343
+Train Loss 0.25092
+
+epoch 344
+Train Loss 0.23905
+
+epoch 345
+Train Loss 0.22128
+
+epoch 346
+Train Loss 0.18797
+
+epoch 347
+Train Loss 0.27333
+
+epoch 348
+Train Loss 0.20692
+
+epoch 349
+Train Loss 0.22032
+
+epoch 350
+Train Loss 0.23862
+
+epoch 351
+Train Loss 0.26421
+
+epoch 352
+Train Loss 0.23658
+
+epoch 353
+Train Loss 0.14317
+
+epoch 354
+Train Loss 0.23167
+
+epoch 355
+Train Loss 0.22735
+
+epoch 356
+Train Loss 0.18764
+
+epoch 357
+Train Loss 0.23218
+
+epoch 358
+Train Loss 0.22154
+
+epoch 359
+Train Loss 0.31227
+
+epoch 360
+Train Loss 0.22799
+
+epoch 361
+Train Loss 0.19575
+
+epoch 362
+Train Loss 0.23380
+
+epoch 363
+Train Loss 0.25190
+
+epoch 364
+Train Loss 0.24652
+
+epoch 365
+Train Loss 0.24660
+
+epoch 366
+Train Loss 0.20257
+
+epoch 367
+Train Loss 0.18625
+
+epoch 368
+Train Loss 0.21365
+
+epoch 369
+Train Loss 0.21691
+
+epoch 370
+Train Loss 0.23674
+
+epoch 371
+Train Loss 0.25294
+
+epoch 372
+Train Loss 0.30229
+
+epoch 373
+Train Loss 0.21086
+
+epoch 374
+Train Loss 0.23644
+
+epoch 375
+Train Loss 0.22251
+
+epoch 376
+Train Loss 0.29357
+
+epoch 377
+Train Loss 0.24305
+
+epoch 378
+Train Loss 0.23202
+
+epoch 379
+Train Loss 0.21745
+
+epoch 380
+Train Loss 0.23385
+
+epoch 381
+Train Loss 0.23344
+
+epoch 382
+Train Loss 0.30094
+
+epoch 383
+Train Loss 0.23092
+
+epoch 384
+Train Loss 0.24828
+
+epoch 385
+Train Loss 0.21364
+
+epoch 386
+Train Loss 0.25034
+
+epoch 387
+Train Loss 0.19635
+
+epoch 388
+Train Loss 0.22021
+
+epoch 389
+Train Loss 0.22210
+
+epoch 390
+Train Loss 0.27458
+
+epoch 391
+Train Loss 0.21581
+
+epoch 392
+Train Loss 0.20449
+
+epoch 393
+Train Loss 0.24162
+
+epoch 394
+Train Loss 0.20340
+
+epoch 395
+Train Loss 0.25198
+
+epoch 396
+Train Loss 0.24837
+
+epoch 397
+Train Loss 0.23200
+
+epoch 398
+Train Loss 0.22160
+epoch 399, Valid Loss 0.18297
+
+epoch 399
+Train Loss 0.24316
+
+epoch 400
+Train Loss 0.22171
+
+epoch 401
+Train Loss 0.22402
+
+epoch 402
+Train Loss 0.19925
+
+epoch 403
+Train Loss 0.24573
+
+epoch 404
+Train Loss 0.23629
+
+epoch 405
+Train Loss 0.23519
+
+epoch 406
+Train Loss 0.21405
+
+epoch 407
+Train Loss 0.24227
+
+epoch 408
+Train Loss 0.24803
+
+epoch 409
+Train Loss 0.22476
+
+epoch 410
+Train Loss 0.30073
+
+epoch 411
+Train Loss 0.16459
+
+epoch 412
+Train Loss 0.22605
+
+epoch 413
+Train Loss 0.23000
+
+epoch 414
+Train Loss 0.20369
+
+epoch 415
+Train Loss 0.19852
+
+epoch 416
+Train Loss 0.25636
+
+epoch 417
+Train Loss 0.21600
+
+epoch 418
+Train Loss 0.21425
+
+epoch 419
+Train Loss 0.23695
+
+epoch 420
+Train Loss 0.22772
+
+epoch 421
+Train Loss 0.24122
+
+epoch 422
+Train Loss 0.24554
+
+epoch 423
+Train Loss 0.22952
+
+epoch 424
+Train Loss 0.19206
+
+epoch 425
+Train Loss 0.22929
+
+epoch 426
+Train Loss 0.18776
+
+epoch 427
+Train Loss 0.17433
+
+epoch 428
+Train Loss 0.21195
+
+epoch 429
+Train Loss 0.23226
+
+epoch 430
+Train Loss 0.21671
+
+epoch 431
+Train Loss 0.22398
+
+epoch 432
+Train Loss 0.16550
+
+epoch 433
+Train Loss 0.21902
+
+epoch 434
+Train Loss 0.22358
+
+epoch 435
+Train Loss 0.20244
+
+epoch 436
+Train Loss 0.14944
+
+epoch 437
+Train Loss 0.19559
+
+epoch 438
+Train Loss 0.20324
+
+epoch 439
+Train Loss 0.24289
+
+epoch 440
+Train Loss 0.19507
+
+epoch 441
+Train Loss 0.20077
+
+epoch 442
+Train Loss 0.21543
+
+epoch 443
+Train Loss 0.23345
+
+epoch 444
+Train Loss 0.23505
+
+epoch 445
+Train Loss 0.15697
+
+epoch 446
+Train Loss 0.19403
+
+epoch 447
+Train Loss 0.20228
+
+epoch 448
+Train Loss 0.23222
+
+epoch 449
+Train Loss 0.22994
+
+epoch 450
+Train Loss 0.24564
+
+epoch 451
+Train Loss 0.19185
+
+epoch 452
+Train Loss 0.20609
+
+epoch 453
+Train Loss 0.22334
+
+epoch 454
+Train Loss 0.22516
+
+epoch 455
+Train Loss 0.23596
+
+epoch 456
+Train Loss 0.15364
+
+epoch 457
+Train Loss 0.22716
+
+epoch 458
+Train Loss 0.24319
+
+epoch 459
+Train Loss 0.22925
+
+epoch 460
+Train Loss 0.15188
+
+epoch 461
+Train Loss 0.22993
+
+epoch 462
+Train Loss 0.20955
+
+epoch 463
+Train Loss 0.21481
+
+epoch 464
+Train Loss 0.25119
+
+epoch 465
+Train Loss 0.19291
+
+epoch 466
+Train Loss 0.18160
+
+epoch 467
+Train Loss 0.23631
+
+epoch 468
+Train Loss 0.25190
+
+epoch 469
+Train Loss 0.18429
+
+epoch 470
+Train Loss 0.25407
+
+epoch 471
+Train Loss 0.20811
+
+epoch 472
+Train Loss 0.20750
+
+epoch 473
+Train Loss 0.17697
+
+epoch 474
+Train Loss 0.21769
+
+epoch 475
+Train Loss 0.19855
+
+epoch 476
+Train Loss 0.17425
+
+epoch 477
+Train Loss 0.17741
+
+epoch 478
+Train Loss 0.19435
+
+epoch 479
+Train Loss 0.24785
+
+epoch 480
+Train Loss 0.17885
+
+epoch 481
+Train Loss 0.17820
+
+epoch 482
+Train Loss 0.23129
+
+epoch 483
+Train Loss 0.22268
+
+epoch 484
+Train Loss 0.25017
+
+epoch 485
+Train Loss 0.16934
+
+epoch 486
+Train Loss 0.22589
+
+epoch 487
+Train Loss 0.17009
+
+epoch 488
+Train Loss 0.19956
+
+epoch 489
+Train Loss 0.22560
+
+epoch 490
+Train Loss 0.19366
+
+epoch 491
+Train Loss 0.24545
+
+epoch 492
+Train Loss 0.22313
+
+epoch 493
+Train Loss 0.20014
+
+epoch 494
+Train Loss 0.21746
+
+epoch 495
+Train Loss 0.20196
+
+epoch 496
+Train Loss 0.20958
+
+epoch 497
+Train Loss 0.17469
+
+epoch 498
+Train Loss 0.23442
+epoch 499, Valid Loss 0.18284
+
+epoch 499
+Train Loss 0.21776
+
+epoch 500
+Train Loss 0.18480
+
+epoch 501
+Train Loss 0.19834
+
+epoch 502
+Train Loss 0.21184
+
+epoch 503
+Train Loss 0.24540
+
+epoch 504
+Train Loss 0.18793
+
+epoch 505
+Train Loss 0.19288
+
+epoch 506
+Train Loss 0.18034
+
+epoch 507
+Train Loss 0.25119
+
+epoch 508
+Train Loss 0.19694
+
+epoch 509
+Train Loss 0.18650
+
+epoch 510
+Train Loss 0.20841
+
+epoch 511
+Train Loss 0.25083
+
+epoch 512
+Train Loss 0.19156
+
+epoch 513
+Train Loss 0.24241
+
+epoch 514
+Train Loss 0.22569
+
+epoch 515
+Train Loss 0.19889
+
+epoch 516
+Train Loss 0.19334
+
+epoch 517
+Train Loss 0.26865
+
+epoch 518
+Train Loss 0.28887
+
+epoch 519
+Train Loss 0.20482
+
+epoch 520
+Train Loss 0.21157
+
+epoch 521
+Train Loss 0.18225
+
+epoch 522
+Train Loss 0.26633
+
+epoch 523
+Train Loss 0.18312
+
+epoch 524
+Train Loss 0.22432
+
+epoch 525
+Train Loss 0.18903
+
+epoch 526
+Train Loss 0.23024
+
+epoch 527
+Train Loss 0.19099
+
+epoch 528
+Train Loss 0.19775
+
+epoch 529
+Train Loss 0.22110
+
+epoch 530
+Train Loss 0.22101
+
+epoch 531
+Train Loss 0.18751
+
+epoch 532
+Train Loss 0.19412
+
+epoch 533
+Train Loss 0.23929
+
+epoch 534
+Train Loss 0.19111
+
+epoch 535
+Train Loss 0.30088
+
+epoch 536
+Train Loss 0.16297
+
+epoch 537
+Train Loss 0.18332
+
+epoch 538
+Train Loss 0.18230
+
+epoch 539
+Train Loss 0.19425
+
+epoch 540
+Train Loss 0.18749
+
+epoch 541
+Train Loss 0.25449
+
+epoch 542
+Train Loss 0.17554
+
+epoch 543
+Train Loss 0.14890
+
+epoch 544
+Train Loss 0.21081
+
+epoch 545
+Train Loss 0.17449
+
+epoch 546
+Train Loss 0.19046
+
+epoch 547
+Train Loss 0.18303
+
+epoch 548
+Train Loss 0.20241
+
+epoch 549
+Train Loss 0.18016
+
+epoch 550
+Train Loss 0.22135
+
+epoch 551
+Train Loss 0.16241
+
+epoch 552
+Train Loss 0.16050
+
+epoch 553
+Train Loss 0.17940
+
+epoch 554
+Train Loss 0.19344
+
+epoch 555
+Train Loss 0.18464
+
+epoch 556
+Train Loss 0.21139
+
+epoch 557
+Train Loss 0.16294
+
+epoch 558
+Train Loss 0.20291
+
+epoch 559
+Train Loss 0.25869
+
+epoch 560
+Train Loss 0.17713
+
+epoch 561
+Train Loss 0.24585
+
+epoch 562
+Train Loss 0.19238
+
+epoch 563
+Train Loss 0.17381
+
+epoch 564
+Train Loss 0.16383
+
+epoch 565
+Train Loss 0.17499
+
+epoch 566
+Train Loss 0.18375
+
+epoch 567
+Train Loss 0.18527
+
+epoch 568
+Train Loss 0.17465
+
+epoch 569
+Train Loss 0.16285
+
+epoch 570
+Train Loss 0.16799
+
+epoch 571
+Train Loss 0.24668
+
+epoch 572
+Train Loss 0.25296
+
+epoch 573
+Train Loss 0.18984
+
+epoch 574
+Train Loss 0.18929
+
+epoch 575
+Train Loss 0.23009
+
+epoch 576
+Train Loss 0.17977
+
+epoch 577
+Train Loss 0.19481
+
+epoch 578
+Train Loss 0.17219
+
+epoch 579
+Train Loss 0.17804
+
+epoch 580
+Train Loss 0.14627
+
+epoch 581
+Train Loss 0.19654
+
+epoch 582
+Train Loss 0.18582
+
+epoch 583
+Train Loss 0.22334
+
+epoch 584
+Train Loss 0.20556
+
+epoch 585
+Train Loss 0.21979
+
+epoch 586
+Train Loss 0.24923
+
+epoch 587
+Train Loss 0.18144
+
+epoch 588
+Train Loss 0.20742
+
+epoch 589
+Train Loss 0.29872
+
+epoch 590
+Train Loss 0.22157
+
+epoch 591
+Train Loss 0.18540
+
+epoch 592
+Train Loss 0.21120
+
+epoch 593
+Train Loss 0.21640
+
+epoch 594
+Train Loss 0.17692
+
+epoch 595
+Train Loss 0.19558
+
+epoch 596
+Train Loss 0.22637
+
+epoch 597
+Train Loss 0.21360
+
+epoch 598
+Train Loss 0.16349
+epoch 599, Valid Loss 0.16682
+
+epoch 599
+Train Loss 0.21500
+
+epoch 600
+Train Loss 0.25174
+
+epoch 601
+Train Loss 0.20020
+
+epoch 602
+Train Loss 0.21130
+
+epoch 603
+Train Loss 0.19290
+
+epoch 604
+Train Loss 0.24930
+
+epoch 605
+Train Loss 0.18486
+
+epoch 606
+Train Loss 0.15948
+
+epoch 607
+Train Loss 0.21793
+
+epoch 608
+Train Loss 0.22399
+
+epoch 609
+Train Loss 0.17971
+
+epoch 610
+Train Loss 0.17488
+
+epoch 611
+Train Loss 0.26538
+
+epoch 612
+Train Loss 0.19564
+
+epoch 613
+Train Loss 0.16082
+
+epoch 614
+Train Loss 0.21107
+
+epoch 615
+Train Loss 0.16956
+
+epoch 616
+Train Loss 0.18475
+
+epoch 617
+Train Loss 0.18161
+
+epoch 618
+Train Loss 0.17201
+
+epoch 619
+Train Loss 0.23458
+
+epoch 620
+Train Loss 0.20960
+
+epoch 621
+Train Loss 0.25122
+
+epoch 622
+Train Loss 0.17473
+
+epoch 623
+Train Loss 0.19771
+
+epoch 624
+Train Loss 0.20586
+
+epoch 625
+Train Loss 0.19634
+
+epoch 626
+Train Loss 0.19670
+
+epoch 627
+Train Loss 0.16508
+
+epoch 628
+Train Loss 0.26747
+
+epoch 629
+Train Loss 0.15746
+
+epoch 630
+Train Loss 0.19184
+
+epoch 631
+Train Loss 0.20555
+
+epoch 632
+Train Loss 0.18165
+
+epoch 633
+Train Loss 0.20114
+
+epoch 634
+Train Loss 0.19496
+
+epoch 635
+Train Loss 0.22686
+
+epoch 636
+Train Loss 0.23905
+
+epoch 637
+Train Loss 0.20364
+
+epoch 638
+Train Loss 0.14996
+
+epoch 639
+Train Loss 0.18426
+
+epoch 640
+Train Loss 0.19424
+
+epoch 641
+Train Loss 0.17491
+
+epoch 642
+Train Loss 0.21537
+
+epoch 643
+Train Loss 0.19308
+
+epoch 644
+Train Loss 0.16346
+
+epoch 645
+Train Loss 0.21922
+
+epoch 646
+Train Loss 0.17130
+
+epoch 647
+Train Loss 0.17718
+
+epoch 648
+Train Loss 0.15222
+
+epoch 649
+Train Loss 0.18244
+
+epoch 650
+Train Loss 0.15964
+
+epoch 651
+Train Loss 0.18872
+
+epoch 652
+Train Loss 0.17740
+
+epoch 653
+Train Loss 0.16348
+
+epoch 654
+Train Loss 0.16687
+
+epoch 655
+Train Loss 0.17506
+
+epoch 656
+Train Loss 0.20461
+
+epoch 657
+Train Loss 0.19312
+
+epoch 658
+Train Loss 0.20634
+
+epoch 659
+Train Loss 0.16970
+
+epoch 660
+Train Loss 0.15214
+
+epoch 661
+Train Loss 0.19451
+
+epoch 662
+Train Loss 0.19456
+
+epoch 663
+Train Loss 0.18386
+
+epoch 664
+Train Loss 0.13387
+
+epoch 665
+Train Loss 0.18213
+
+epoch 666
+Train Loss 0.18633
+
+epoch 667
+Train Loss 0.19965
+
+epoch 668
+Train Loss 0.15027
+
+epoch 669
+Train Loss 0.17870
+
+epoch 670
+Train Loss 0.17680
+
+epoch 671
+Train Loss 0.19336
+
+epoch 672
+Train Loss 0.16929
+
+epoch 673
+Train Loss 0.18013
+
+epoch 674
+Train Loss 0.13674
+
+epoch 675
+Train Loss 0.16164
+
+epoch 676
+Train Loss 0.16856
+
+epoch 677
+Train Loss 0.18577
+
+epoch 678
+Train Loss 0.24062
+
+epoch 679
+Train Loss 0.18650
+
+epoch 680
+Train Loss 0.20504
+
+epoch 681
+Train Loss 0.16678
+
+epoch 682
+Train Loss 0.15897
+
+epoch 683
+Train Loss 0.17468
+
+epoch 684
+Train Loss 0.15989
+
+epoch 685
+Train Loss 0.20476
+
+epoch 686
+Train Loss 0.15983
+
+epoch 687
+Train Loss 0.21120
+
+epoch 688
+Train Loss 0.17150
+
+epoch 689
+Train Loss 0.16905
+
+epoch 690
+Train Loss 0.20176
+
+epoch 691
+Train Loss 0.19335
+
+epoch 692
+Train Loss 0.18924
+
+epoch 693
+Train Loss 0.18352
+
+epoch 694
+Train Loss 0.17289
+
+epoch 695
+Train Loss 0.16694
+
+epoch 696
+Train Loss 0.19249
+
+epoch 697
+Train Loss 0.16935
+
+epoch 698
+Train Loss 0.20124
+epoch 699, Valid Loss 0.15744
+
+epoch 699
+Train Loss 0.17854
+
+epoch 700
+Train Loss 0.15478
+
+epoch 701
+Train Loss 0.20157
+
+epoch 702
+Train Loss 0.16757
+
+epoch 703
+Train Loss 0.20332
+
+epoch 704
+Train Loss 0.17475
+
+epoch 705
+Train Loss 0.16684
+
+epoch 706
+Train Loss 0.16920
+
+epoch 707
+Train Loss 0.17611
+
+epoch 708
+Train Loss 0.17334
+
+epoch 709
+Train Loss 0.16917
+
+epoch 710
+Train Loss 0.19751
+
+epoch 711
+Train Loss 0.19183
+
+epoch 712
+Train Loss 0.17458
+
+epoch 713
+Train Loss 0.17272
+
+epoch 714
+Train Loss 0.17860
+
+epoch 715
+Train Loss 0.14374
+
+epoch 716
+Train Loss 0.21401
+
+epoch 717
+Train Loss 0.16367
+
+epoch 718
+Train Loss 0.17549
+
+epoch 719
+Train Loss 0.20629
+
+epoch 720
+Train Loss 0.17455
+
+epoch 721
+Train Loss 0.16550
+
+epoch 722
+Train Loss 0.15170
+
+epoch 723
+Train Loss 0.25420
+
+epoch 724
+Train Loss 0.19246
+
+epoch 725
+Train Loss 0.16875
+
+epoch 726
+Train Loss 0.13958
+
+epoch 727
+Train Loss 0.19959
+
+epoch 728
+Train Loss 0.20578
+
+epoch 729
+Train Loss 0.19187
+
+epoch 730
+Train Loss 0.17344
+
+epoch 731
+Train Loss 0.17086
+
+epoch 732
+Train Loss 0.19125
+
+epoch 733
+Train Loss 0.19891
+
+epoch 734
+Train Loss 0.15393
+
+epoch 735
+Train Loss 0.20193
+
+epoch 736
+Train Loss 0.21808
+
+epoch 737
+Train Loss 0.15602
+
+epoch 738
+Train Loss 0.14862
+
+epoch 739
+Train Loss 0.19672
+
+epoch 740
+Train Loss 0.18756
+
+epoch 741
+Train Loss 0.16443
+
+epoch 742
+Train Loss 0.14172
+
+epoch 743
+Train Loss 0.15028
+
+epoch 744
+Train Loss 0.17354
+
+epoch 745
+Train Loss 0.16683
+
+epoch 746
+Train Loss 0.15294
+
+epoch 747
+Train Loss 0.23569
+
+epoch 748
+Train Loss 0.19740
+
+epoch 749
+Train Loss 0.19196
+
+epoch 750
+Train Loss 0.18528
+
+epoch 751
+Train Loss 0.17444
+
+epoch 752
+Train Loss 0.16934
+
+epoch 753
+Train Loss 0.18108
+
+epoch 754
+Train Loss 0.16668
+
+epoch 755
+Train Loss 0.19655
+
+epoch 756
+Train Loss 0.20048
+
+epoch 757
+Train Loss 0.14088
+
+epoch 758
+Train Loss 0.14791
+
+epoch 759
+Train Loss 0.22337
+
+epoch 760
+Train Loss 0.21888
+
+epoch 761
+Train Loss 0.17147
+
+epoch 762
+Train Loss 0.18629
+
+epoch 763
+Train Loss 0.17726
+
+epoch 764
+Train Loss 0.17895
+
+epoch 765
+Train Loss 0.15020
+
+epoch 766
+Train Loss 0.15890
+
+epoch 767
+Train Loss 0.16573
+
+epoch 768
+Train Loss 0.14420
+
+epoch 769
+Train Loss 0.19545
+
+epoch 770
+Train Loss 0.20785
+
+epoch 771
+Train Loss 0.16408
+
+epoch 772
+Train Loss 0.16323
+
+epoch 773
+Train Loss 0.19181
+
+epoch 774
+Train Loss 0.16421
+
+epoch 775
+Train Loss 0.15242
+
+epoch 776
+Train Loss 0.17096
+
+epoch 777
+Train Loss 0.16541
+
+epoch 778
+Train Loss 0.17947
+
+epoch 779
+Train Loss 0.17486
+
+epoch 780
+Train Loss 0.20050
+
+epoch 781
+Train Loss 0.17081
+
+epoch 782
+Train Loss 0.17128
+
+epoch 783
+Train Loss 0.19254
+
+epoch 784
+Train Loss 0.14905
+
+epoch 785
+Train Loss 0.18288
+
+epoch 786
+Train Loss 0.14816
+
+epoch 787
+Train Loss 0.19087
+
+epoch 788
+Train Loss 0.19640
+
+epoch 789
+Train Loss 0.16322
+
+epoch 790
+Train Loss 0.18781
+
+epoch 791
+Train Loss 0.15728
+
+epoch 792
+Train Loss 0.17873
+
+epoch 793
+Train Loss 0.20616
+
+epoch 794
+Train Loss 0.18620
+
+epoch 795
+Train Loss 0.13956
+
+epoch 796
+Train Loss 0.14921
+
+epoch 797
+Train Loss 0.18533
+
+epoch 798
+Train Loss 0.16911
+epoch 799, Valid Loss 0.16095
+
+epoch 799
+Train Loss 0.14443
+
+epoch 800
+Train Loss 0.20769
+
+epoch 801
+Train Loss 0.17652
+
+epoch 802
+Train Loss 0.19228
+
+epoch 803
+Train Loss 0.20604
+
+epoch 804
+Train Loss 0.14283
+
+epoch 805
+Train Loss 0.17116
+
+epoch 806
+Train Loss 0.13392
+
+epoch 807
+Train Loss 0.18388
+
+epoch 808
+Train Loss 0.19977
+
+epoch 809
+Train Loss 0.14540
+
+epoch 810
+Train Loss 0.15872
+
+epoch 811
+Train Loss 0.16747
+
+epoch 812
+Train Loss 0.19789
+
+epoch 813
+Train Loss 0.15548
+
+epoch 814
+Train Loss 0.16595
+
+epoch 815
+Train Loss 0.17637
+
+epoch 816
+Train Loss 0.14278
+
+epoch 817
+Train Loss 0.15985
+
+epoch 818
+Train Loss 0.14019
+
+epoch 819
+Train Loss 0.12741
+
+epoch 820
+Train Loss 0.14234
+
+epoch 821
+Train Loss 0.19768
+
+epoch 822
+Train Loss 0.14998
+
+epoch 823
+Train Loss 0.12652
+
+epoch 824
+Train Loss 0.14629
+
+epoch 825
+Train Loss 0.18735
+
+epoch 826
+Train Loss 0.20335
+
+epoch 827
+Train Loss 0.14953
+
+epoch 828
+Train Loss 0.18426
+
+epoch 829
+Train Loss 0.16182
+
+epoch 830
+Train Loss 0.16072
+
+epoch 831
+Train Loss 0.19248
+
+epoch 832
+Train Loss 0.16468
+
+epoch 833
+Train Loss 0.17941
+
+epoch 834
+Train Loss 0.16781
+
+epoch 835
+Train Loss 0.14285
+
+epoch 836
+Train Loss 0.13344
+
+epoch 837
+Train Loss 0.20290
+
+epoch 838
+Train Loss 0.12477
+
+epoch 839
+Train Loss 0.19347
+
+epoch 840
+Train Loss 0.15974
+
+epoch 841
+Train Loss 0.15961
+
+epoch 842
+Train Loss 0.18620
+
+epoch 843
+Train Loss 0.14911
+
+epoch 844
+Train Loss 0.13662
+
+epoch 845
+Train Loss 0.17201
+
+epoch 846
+Train Loss 0.14262
+
+epoch 847
+Train Loss 0.15699
+
+epoch 848
+Train Loss 0.18014
+
+epoch 849
+Train Loss 0.14567
+
+epoch 850
+Train Loss 0.14117
+
+epoch 851
+Train Loss 0.19300
+
+epoch 852
+Train Loss 0.16425
+
+epoch 853
+Train Loss 0.14896
+
+epoch 854
+Train Loss 0.15980
+
+epoch 855
+Train Loss 0.14020
+
+epoch 856
+Train Loss 0.16573
+
+epoch 857
+Train Loss 0.17178
+
+epoch 858
+Train Loss 0.14950
+
+epoch 859
+Train Loss 0.19135
+
+epoch 860
+Train Loss 0.18784
+
+epoch 861
+Train Loss 0.15826
+
+epoch 862
+Train Loss 0.13761
+
+epoch 863
+Train Loss 0.17249
+
+epoch 864
+Train Loss 0.13998
+
+epoch 865
+Train Loss 0.17139
+
+epoch 866
+Train Loss 0.14901
+
+epoch 867
+Train Loss 0.14169
+
+epoch 868
+Train Loss 0.13583
+
+epoch 869
+Train Loss 0.16973
+
+epoch 870
+Train Loss 0.14331
+
+epoch 871
+Train Loss 0.15550
+
+epoch 872
+Train Loss 0.18211
+
+epoch 873
+Train Loss 0.19636
+
+epoch 874
+Train Loss 0.16958
+
+epoch 875
+Train Loss 0.14427
+
+epoch 876
+Train Loss 0.17380
+
+epoch 877
+Train Loss 0.12435
+
+epoch 878
+Train Loss 0.14338
+
+epoch 879
+Train Loss 0.16584
+
+epoch 880
+Train Loss 0.19120
+
+epoch 881
+Train Loss 0.16650
+
+epoch 882
+Train Loss 0.16834
+
+epoch 883
+Train Loss 0.18630
+
+epoch 884
+Train Loss 0.15999
+
+epoch 885
+Train Loss 0.15683
+
+epoch 886
+Train Loss 0.16317
+
+epoch 887
+Train Loss 0.16756
+
+epoch 888
+Train Loss 0.15586
+
+epoch 889
+Train Loss 0.12883
+
+epoch 890
+Train Loss 0.14427
+
+epoch 891
+Train Loss 0.15560
+
+epoch 892
+Train Loss 0.13918
+
+epoch 893
+Train Loss 0.14177
+
+epoch 894
+Train Loss 0.16847
+
+epoch 895
+Train Loss 0.15081
+
+epoch 896
+Train Loss 0.16275
+
+epoch 897
+Train Loss 0.16249
+
+epoch 898
+Train Loss 0.13795
+epoch 899, Valid Loss 0.14782
+
+epoch 899
+Train Loss 0.13088
+
+epoch 900
+Train Loss 0.14688
+
+epoch 901
+Train Loss 0.17883
+
+epoch 902
+Train Loss 0.16288
+
+epoch 903
+Train Loss 0.17353
+
+epoch 904
+Train Loss 0.09983
+
+epoch 905
+Train Loss 0.15375
+
+epoch 906
+Train Loss 0.15738
+
+epoch 907
+Train Loss 0.14466
+
+epoch 908
+Train Loss 0.14995
+
+epoch 909
+Train Loss 0.18546
+
+epoch 910
+Train Loss 0.15902
+
+epoch 911
+Train Loss 0.15795
+
+epoch 912
+Train Loss 0.12535
+
+epoch 913
+Train Loss 0.15438
+
+epoch 914
+Train Loss 0.19629
+
+epoch 915
+Train Loss 0.14482
+
+epoch 916
+Train Loss 0.15842
+
+epoch 917
+Train Loss 0.14435
+
+epoch 918
+Train Loss 0.18515
+
+epoch 919
+Train Loss 0.17526
+
+epoch 920
+Train Loss 0.17086
+
+epoch 921
+Train Loss 0.20411
+
+epoch 922
+Train Loss 0.13399
+
+epoch 923
+Train Loss 0.15571
+
+epoch 924
+Train Loss 0.16682
+
+epoch 925
+Train Loss 0.16241
+
+epoch 926
+Train Loss 0.15576
+
+epoch 927
+Train Loss 0.14525
+
+epoch 928
+Train Loss 0.20009
+
+epoch 929
+Train Loss 0.18604
+
+epoch 930
+Train Loss 0.13388
+
+epoch 931
+Train Loss 0.11754
+
+epoch 932
+Train Loss 0.14661
+
+epoch 933
+Train Loss 0.14985
+
+epoch 934
+Train Loss 0.17419
+
+epoch 935
+Train Loss 0.11891
+
+epoch 936
+Train Loss 0.13722
+
+epoch 937
+Train Loss 0.16027
+
+epoch 938
+Train Loss 0.16090
+
+epoch 939
+Train Loss 0.16354
+
+epoch 940
+Train Loss 0.15089
+
+epoch 941
+Train Loss 0.14444
+
+epoch 942
+Train Loss 0.15942
+
+epoch 943
+Train Loss 0.13049
+
+epoch 944
+Train Loss 0.16740
+
+epoch 945
+Train Loss 0.15740
+
+epoch 946
+Train Loss 0.14146
+
+epoch 947
+Train Loss 0.15188
+
+epoch 948
+Train Loss 0.15354
+
+epoch 949
+Train Loss 0.18288
+
+epoch 950
+Train Loss 0.12870
+
+epoch 951
+Train Loss 0.17395
+
+epoch 952
+Train Loss 0.16575
+
+epoch 953
+Train Loss 0.15923
+
+epoch 954
+Train Loss 0.16594
+
+epoch 955
+Train Loss 0.16997
+
+epoch 956
+Train Loss 0.15992
+
+epoch 957
+Train Loss 0.16636
+
+epoch 958
+Train Loss 0.19592
+
+epoch 959
+Train Loss 0.18331
+
+epoch 960
+Train Loss 0.16065
+
+epoch 961
+Train Loss 0.13876
+
+epoch 962
+Train Loss 0.13669
+
+epoch 963
+Train Loss 0.17609
+
+epoch 964
+Train Loss 0.16380
+
+epoch 965
+Train Loss 0.15381
+
+epoch 966
+Train Loss 0.13608
+
+epoch 967
+Train Loss 0.16220
+
+epoch 968
+Train Loss 0.15558
+
+epoch 969
+Train Loss 0.14418
+
+epoch 970
+Train Loss 0.14825
+
+epoch 971
+Train Loss 0.15729
+
+epoch 972
+Train Loss 0.15732
+
+epoch 973
+Train Loss 0.14360
+
+epoch 974
+Train Loss 0.15600
+
+epoch 975
+Train Loss 0.18655
+
+epoch 976
+Train Loss 0.17960
+
+epoch 977
+Train Loss 0.15188
+
+epoch 978
+Train Loss 0.13212
+
+epoch 979
+Train Loss 0.16015
+
+epoch 980
+Train Loss 0.14266
+
+epoch 981
+Train Loss 0.16646
+
+epoch 982
+Train Loss 0.17285
+
+epoch 983
+Train Loss 0.17820
+
+epoch 984
+Train Loss 0.15116
+
+epoch 985
+Train Loss 0.15319
+
+epoch 986
+Train Loss 0.16161
+
+epoch 987
+Train Loss 0.16613
+
+epoch 988
+Train Loss 0.18171
+
+epoch 989
+Train Loss 0.15013
+
+epoch 990
+Train Loss 0.15948
+
+epoch 991
+Train Loss 0.12262
+
+epoch 992
+Train Loss 0.16678
+
+epoch 993
+Train Loss 0.18250
+
+epoch 994
+Train Loss 0.12849
+
+epoch 995
+Train Loss 0.15915
+
+epoch 996
+Train Loss 0.14409
+
+epoch 997
+Train Loss 0.14811
+
+epoch 998
+Train Loss 0.16388
+epoch 999, Valid Loss 0.13966
+
+epoch 999
+Train Loss 0.12098
+
+epoch 1000
+Train Loss 0.14827
+
+epoch 1001
+Train Loss 0.12892
+
+epoch 1002
+Train Loss 0.18922
+
+epoch 1003
+Train Loss 0.16107
+
+epoch 1004
+Train Loss 0.14758
+
+epoch 1005
+Train Loss 0.15363
+
+epoch 1006
+Train Loss 0.14470
+
+epoch 1007
+Train Loss 0.15652
+
+epoch 1008
+Train Loss 0.18515
+
+epoch 1009
+Train Loss 0.17562
+
+epoch 1010
+Train Loss 0.16302
+
+epoch 1011
+Train Loss 0.15117
+
+epoch 1012
+Train Loss 0.14330
+
+epoch 1013
+Train Loss 0.13181
+
+epoch 1014
+Train Loss 0.13895
+
+epoch 1015
+Train Loss 0.14960
+
+epoch 1016
+Train Loss 0.16157
+
+epoch 1017
+Train Loss 0.13279
+
+epoch 1018
+Train Loss 0.17922
+
+epoch 1019
+Train Loss 0.12856
+
+epoch 1020
+Train Loss 0.14225
+
+epoch 1021
+Train Loss 0.14986
+
+epoch 1022
+Train Loss 0.16273
+
+epoch 1023
+Train Loss 0.17165
+
+epoch 1024
+Train Loss 0.15476
+
+epoch 1025
+Train Loss 0.16064
+
+epoch 1026
+Train Loss 0.14180
+
+epoch 1027
+Train Loss 0.13315
+
+epoch 1028
+Train Loss 0.16178
+
+epoch 1029
+Train Loss 0.12268
+
+epoch 1030
+Train Loss 0.16006
+
+epoch 1031
+Train Loss 0.12460
+
+epoch 1032
+Train Loss 0.12096
+
+epoch 1033
+Train Loss 0.11367
+
+epoch 1034
+Train Loss 0.14001
+
+epoch 1035
+Train Loss 0.17184
+
+epoch 1036
+Train Loss 0.10691
+
+epoch 1037
+Train Loss 0.14200
+
+epoch 1038
+Train Loss 0.13577
+
+epoch 1039
+Train Loss 0.17083
+
+epoch 1040
+Train Loss 0.12296
+
+epoch 1041
+Train Loss 0.12134
+
+epoch 1042
+Train Loss 0.13584
+
+epoch 1043
+Train Loss 0.17107
+
+epoch 1044
+Train Loss 0.14416
+
+epoch 1045
+Train Loss 0.14483
+
+epoch 1046
+Train Loss 0.12037
+
+epoch 1047
+Train Loss 0.14425
+
+epoch 1048
+Train Loss 0.14403
+
+epoch 1049
+Train Loss 0.14943
+
+epoch 1050
+Train Loss 0.11515
+
+epoch 1051
+Train Loss 0.14297
+
+epoch 1052
+Train Loss 0.13915
+
+epoch 1053
+Train Loss 0.15751
+
+epoch 1054
+Train Loss 0.13484
+
+epoch 1055
+Train Loss 0.13124
+
+epoch 1056
+Train Loss 0.10536
+
+epoch 1057
+Train Loss 0.12618
+
+epoch 1058
+Train Loss 0.17899
+
+epoch 1059
+Train Loss 0.16371
+
+epoch 1060
+Train Loss 0.16326
+
+epoch 1061
+Train Loss 0.15488
+
+epoch 1062
+Train Loss 0.17403
+
+epoch 1063
+Train Loss 0.13892
+
+epoch 1064
+Train Loss 0.14461
+
+epoch 1065
+Train Loss 0.13274
+
+epoch 1066
+Train Loss 0.14192
+
+epoch 1067
+Train Loss 0.13239
+
+epoch 1068
+Train Loss 0.18390
+
+epoch 1069
+Train Loss 0.16708
+
+epoch 1070
+Train Loss 0.13200
+
+epoch 1071
+Train Loss 0.11414
+
+epoch 1072
+Train Loss 0.12394
+
+epoch 1073
+Train Loss 0.15664
+
+epoch 1074
+Train Loss 0.16168
+
+epoch 1075
+Train Loss 0.11335
+
+epoch 1076
+Train Loss 0.12979
+
+epoch 1077
+Train Loss 0.14682
+
+epoch 1078
+Train Loss 0.17263
+
+epoch 1079
+Train Loss 0.14696
+
+epoch 1080
+Train Loss 0.14628
+
+epoch 1081
+Train Loss 0.13320
+
+epoch 1082
+Train Loss 0.16978
+
+epoch 1083
+Train Loss 0.12460
+
+epoch 1084
+Train Loss 0.15222
+
+epoch 1085
+Train Loss 0.15832
+
+epoch 1086
+Train Loss 0.13842
+
+epoch 1087
+Train Loss 0.17036
+
+epoch 1088
+Train Loss 0.12903
+
+epoch 1089
+Train Loss 0.13935
+
+epoch 1090
+Train Loss 0.12358
+
+epoch 1091
+Train Loss 0.13169
+
+epoch 1092
+Train Loss 0.12680
+
+epoch 1093
+Train Loss 0.14049
+
+epoch 1094
+Train Loss 0.14492
+
+epoch 1095
+Train Loss 0.14665
+
+epoch 1096
+Train Loss 0.13206
+
+epoch 1097
+Train Loss 0.15944
+
+epoch 1098
+Train Loss 0.15705
+epoch 1099, Valid Loss 0.12600
+
+epoch 1099
+Train Loss 0.12422
+
+epoch 1100
+Train Loss 0.12753
+
+epoch 1101
+Train Loss 0.13530
+
+epoch 1102
+Train Loss 0.14083
+
+epoch 1103
+Train Loss 0.15519
+
+epoch 1104
+Train Loss 0.16597
+
+epoch 1105
+Train Loss 0.14123
+
+epoch 1106
+Train Loss 0.11384
+
+epoch 1107
+Train Loss 0.13278
+
+epoch 1108
+Train Loss 0.13549
+
+epoch 1109
+Train Loss 0.12496
+
+epoch 1110
+Train Loss 0.15038
+
+epoch 1111
+Train Loss 0.15323
+
+epoch 1112
+Train Loss 0.14962
+
+epoch 1113
+Train Loss 0.13801
+
+epoch 1114
+Train Loss 0.11971
+
+epoch 1115
+Train Loss 0.13146
+
+epoch 1116
+Train Loss 0.16176
+
+epoch 1117
+Train Loss 0.15314
+
+epoch 1118
+Train Loss 0.12227
+
+epoch 1119
+Train Loss 0.15059
+
+epoch 1120
+Train Loss 0.12341
+
+epoch 1121
+Train Loss 0.13681
+
+epoch 1122
+Train Loss 0.12860
+
+epoch 1123
+Train Loss 0.16328
+
+epoch 1124
+Train Loss 0.15317
+
+epoch 1125
+Train Loss 0.13652
+
+epoch 1126
+Train Loss 0.10796
+
+epoch 1127
+Train Loss 0.12966
+
+epoch 1128
+Train Loss 0.10937
+
+epoch 1129
+Train Loss 0.13300
+
+epoch 1130
+Train Loss 0.12884
+
+epoch 1131
+Train Loss 0.13434
+
+epoch 1132
+Train Loss 0.14283
+
+epoch 1133
+Train Loss 0.13234
+
+epoch 1134
+Train Loss 0.14634
+
+epoch 1135
+Train Loss 0.15408
+
+epoch 1136
+Train Loss 0.11876
+
+epoch 1137
+Train Loss 0.13211
+
+epoch 1138
+Train Loss 0.16465
+
+epoch 1139
+Train Loss 0.14302
+
+epoch 1140
+Train Loss 0.14437
+
+epoch 1141
+Train Loss 0.12270
+
+epoch 1142
+Train Loss 0.12987
+
+epoch 1143
+Train Loss 0.13592
+
+epoch 1144
+Train Loss 0.15111
+
+epoch 1145
+Train Loss 0.12806
+
+epoch 1146
+Train Loss 0.13480
+
+epoch 1147
+Train Loss 0.13022
+
+epoch 1148
+Train Loss 0.15891
+
+epoch 1149
+Train Loss 0.10642
+
+epoch 1150
+Train Loss 0.10801
+
+epoch 1151
+Train Loss 0.15301
+
+epoch 1152
+Train Loss 0.14313
+
+epoch 1153
+Train Loss 0.16629
+
+epoch 1154
+Train Loss 0.13333
+
+epoch 1155
+Train Loss 0.11352
+
+epoch 1156
+Train Loss 0.12808
+
+epoch 1157
+Train Loss 0.11602
+
+epoch 1158
+Train Loss 0.10705
+
+epoch 1159
+Train Loss 0.13202
+
+epoch 1160
+Train Loss 0.14341
+
+epoch 1161
+Train Loss 0.12176
+
+epoch 1162
+Train Loss 0.16487
+
+epoch 1163
+Train Loss 0.13338
+
+epoch 1164
+Train Loss 0.14731
+
+epoch 1165
+Train Loss 0.13413
+
+epoch 1166
+Train Loss 0.12294
+
+epoch 1167
+Train Loss 0.10700
+
+epoch 1168
+Train Loss 0.14218
+
+epoch 1169
+Train Loss 0.15121
+
+epoch 1170
+Train Loss 0.13541
+
+epoch 1171
+Train Loss 0.14860
+
+epoch 1172
+Train Loss 0.11111
+
+epoch 1173
+Train Loss 0.10665
+
+epoch 1174
+Train Loss 0.13542
+
+epoch 1175
+Train Loss 0.16858
+
+epoch 1176
+Train Loss 0.10708
+
+epoch 1177
+Train Loss 0.12355
+
+epoch 1178
+Train Loss 0.14220
+
+epoch 1179
+Train Loss 0.14007
+
+epoch 1180
+Train Loss 0.13179
+
+epoch 1181
+Train Loss 0.12178
+
+epoch 1182
+Train Loss 0.12575
+
+epoch 1183
+Train Loss 0.14024
+
+epoch 1184
+Train Loss 0.17421
+
+epoch 1185
+Train Loss 0.11793
+
+epoch 1186
+Train Loss 0.08950
+
+epoch 1187
+Train Loss 0.14672
+
+epoch 1188
+Train Loss 0.14051
+
+epoch 1189
+Train Loss 0.15334
+
+epoch 1190
+Train Loss 0.11779
+
+epoch 1191
+Train Loss 0.11701
+
+epoch 1192
+Train Loss 0.12132
+
+epoch 1193
+Train Loss 0.11374
+
+epoch 1194
+Train Loss 0.17259
+
+epoch 1195
+Train Loss 0.13237
+
+epoch 1196
+Train Loss 0.12634
+
+epoch 1197
+Train Loss 0.11392
+
+epoch 1198
+Train Loss 0.10950
+epoch 1199, Valid Loss 0.11578
+
+epoch 1199
+Train Loss 0.09890
+
+epoch 1200
+Train Loss 0.13022
+
+epoch 1201
+Train Loss 0.15509
+
+epoch 1202
+Train Loss 0.14009
+
+epoch 1203
+Train Loss 0.17708
+
+epoch 1204
+Train Loss 0.12033
+
+epoch 1205
+Train Loss 0.12689
+
+epoch 1206
+Train Loss 0.12362
+
+epoch 1207
+Train Loss 0.17151
+
+epoch 1208
+Train Loss 0.12603
+
+epoch 1209
+Train Loss 0.12039
+
+epoch 1210
+Train Loss 0.15748
+
+epoch 1211
+Train Loss 0.12604
+
+epoch 1212
+Train Loss 0.11637
+
+epoch 1213
+Train Loss 0.12267
+
+epoch 1214
+Train Loss 0.10221
+
+epoch 1215
+Train Loss 0.13477
+
+epoch 1216
+Train Loss 0.12289
+
+epoch 1217
+Train Loss 0.12813
+
+epoch 1218
+Train Loss 0.16692
+
+epoch 1219
+Train Loss 0.09617
+
+epoch 1220
+Train Loss 0.12699
+
+epoch 1221
+Train Loss 0.11100
+
+epoch 1222
+Train Loss 0.13396
+
+epoch 1223
+Train Loss 0.15454
+
+epoch 1224
+Train Loss 0.12968
+
+epoch 1225
+Train Loss 0.12564
+
+epoch 1226
+Train Loss 0.11824
+
+epoch 1227
+Train Loss 0.12826
+
+epoch 1228
+Train Loss 0.11612
+
+epoch 1229
+Train Loss 0.14559
+
+epoch 1230
+Train Loss 0.15863
+
+epoch 1231
+Train Loss 0.12946
+
+epoch 1232
+Train Loss 0.13545
+
+epoch 1233
+Train Loss 0.14131
+
+epoch 1234
+Train Loss 0.11618
+
+epoch 1235
+Train Loss 0.11886
+
+epoch 1236
+Train Loss 0.14504
+
+epoch 1237
+Train Loss 0.13045
+
+epoch 1238
+Train Loss 0.10072
+
+epoch 1239
+Train Loss 0.13567
+
+epoch 1240
+Train Loss 0.13630
+
+epoch 1241
+Train Loss 0.10154
+
+epoch 1242
+Train Loss 0.11745
+
+epoch 1243
+Train Loss 0.20846
+
+epoch 1244
+Train Loss 0.11445
+
+epoch 1245
+Train Loss 0.14167
+
+epoch 1246
+Train Loss 0.10931
+
+epoch 1247
+Train Loss 0.11398
+
+epoch 1248
+Train Loss 0.13513
+
+epoch 1249
+Train Loss 0.15082
+
+epoch 1250
+Train Loss 0.11721
+
+epoch 1251
+Train Loss 0.13372
+
+epoch 1252
+Train Loss 0.10483
+
+epoch 1253
+Train Loss 0.12137
+
+epoch 1254
+Train Loss 0.13733
+
+epoch 1255
+Train Loss 0.09947
+
+epoch 1256
+Train Loss 0.13811
+
+epoch 1257
+Train Loss 0.13103
+
+epoch 1258
+Train Loss 0.14098
+
+epoch 1259
+Train Loss 0.12135
+
+epoch 1260
+Train Loss 0.13419
+
+epoch 1261
+Train Loss 0.11738
+
+epoch 1262
+Train Loss 0.15486
+
+epoch 1263
+Train Loss 0.15029
+
+epoch 1264
+Train Loss 0.14497
+
+epoch 1265
+Train Loss 0.10305
+
+epoch 1266
+Train Loss 0.13303
+
+epoch 1267
+Train Loss 0.14508
+
+epoch 1268
+Train Loss 0.12403
+
+epoch 1269
+Train Loss 0.16680
+
+epoch 1270
+Train Loss 0.12041
+
+epoch 1271
+Train Loss 0.17659
+
+epoch 1272
+Train Loss 0.14756
+
+epoch 1273
+Train Loss 0.11044
+
+epoch 1274
+Train Loss 0.12418
+
+epoch 1275
+Train Loss 0.17279
+
+epoch 1276
+Train Loss 0.14720
+
+epoch 1277
+Train Loss 0.10868
+
+epoch 1278
+Train Loss 0.11648
+
+epoch 1279
+Train Loss 0.12961
+
+epoch 1280
+Train Loss 0.15376
+
+epoch 1281
+Train Loss 0.12748
+
+epoch 1282
+Train Loss 0.13225
+
+epoch 1283
+Train Loss 0.13604
+
+epoch 1284
+Train Loss 0.10154
+
+epoch 1285
+Train Loss 0.13950
+
+epoch 1286
+Train Loss 0.12441
+
+epoch 1287
+Train Loss 0.12505
+
+epoch 1288
+Train Loss 0.14078
+
+epoch 1289
+Train Loss 0.15905
+
+epoch 1290
+Train Loss 0.12297
+
+epoch 1291
+Train Loss 0.11298
+
+epoch 1292
+Train Loss 0.12658
+
+epoch 1293
+Train Loss 0.14454
+
+epoch 1294
+Train Loss 0.11862
+
+epoch 1295
+Train Loss 0.10637
+
+epoch 1296
+Train Loss 0.13883
+
+epoch 1297
+Train Loss 0.14236
+
+epoch 1298
+Train Loss 0.11455
+epoch 1299, Valid Loss 0.11323
+
+epoch 1299
+Train Loss 0.11627
+
+epoch 1300
+Train Loss 0.11760
+
+epoch 1301
+Train Loss 0.11338
+
+epoch 1302
+Train Loss 0.13296
+
+epoch 1303
+Train Loss 0.11634
+
+epoch 1304
+Train Loss 0.10641
+
+epoch 1305
+Train Loss 0.14795
+
+epoch 1306
+Train Loss 0.12067
+
+epoch 1307
+Train Loss 0.14416
+
+epoch 1308
+Train Loss 0.14360
+
+epoch 1309
+Train Loss 0.11968
+
+epoch 1310
+Train Loss 0.11912
+
+epoch 1311
+Train Loss 0.11545
+
+epoch 1312
+Train Loss 0.12322
+
+epoch 1313
+Train Loss 0.12240
+
+epoch 1314
+Train Loss 0.13226
+
+epoch 1315
+Train Loss 0.13639
+
+epoch 1316
+Train Loss 0.11701
+
+epoch 1317
+Train Loss 0.10311
+
+epoch 1318
+Train Loss 0.10032
+
+epoch 1319
+Train Loss 0.10564
+
+epoch 1320
+Train Loss 0.12556
+
+epoch 1321
+Train Loss 0.10402
+
+epoch 1322
+Train Loss 0.11573
+
+epoch 1323
+Train Loss 0.11790
+
+epoch 1324
+Train Loss 0.11799
+
+epoch 1325
+Train Loss 0.11325
+
+epoch 1326
+Train Loss 0.11524
+
+epoch 1327
+Train Loss 0.11206
+
+epoch 1328
+Train Loss 0.12004
+
+epoch 1329
+Train Loss 0.10110
+
+epoch 1330
+Train Loss 0.12987
+
+epoch 1331
+Train Loss 0.15283
+
+epoch 1332
+Train Loss 0.11979
+
+epoch 1333
+Train Loss 0.13765
+
+epoch 1334
+Train Loss 0.10628
+
+epoch 1335
+Train Loss 0.14901
+
+epoch 1336
+Train Loss 0.12558
+
+epoch 1337
+Train Loss 0.10927
+
+epoch 1338
+Train Loss 0.13716
+
+epoch 1339
+Train Loss 0.16065
+
+epoch 1340
+Train Loss 0.11573
+
+epoch 1341
+Train Loss 0.12527
+
+epoch 1342
+Train Loss 0.11028
+
+epoch 1343
+Train Loss 0.10559
+
+epoch 1344
+Train Loss 0.12773
+
+epoch 1345
+Train Loss 0.13199
+
+epoch 1346
+Train Loss 0.17815
+
+epoch 1347
+Train Loss 0.10784
+
+epoch 1348
+Train Loss 0.12316
+
+epoch 1349
+Train Loss 0.11057
+
+epoch 1350
+Train Loss 0.12049
+
+epoch 1351
+Train Loss 0.13737
+
+epoch 1352
+Train Loss 0.11854
+
+epoch 1353
+Train Loss 0.10629
+
+epoch 1354
+Train Loss 0.12813
+
+epoch 1355
+Train Loss 0.12711
+
+epoch 1356
+Train Loss 0.13073
+
+epoch 1357
+Train Loss 0.13046
+
+epoch 1358
+Train Loss 0.11198
+
+epoch 1359
+Train Loss 0.12746
+
+epoch 1360
+Train Loss 0.11447
+
+epoch 1361
+Train Loss 0.10149
+
+epoch 1362
+Train Loss 0.11157
+
+epoch 1363
+Train Loss 0.11479
+
+epoch 1364
+Train Loss 0.09229
+
+epoch 1365
+Train Loss 0.12944
+
+epoch 1366
+Train Loss 0.11763
+
+epoch 1367
+Train Loss 0.13894
+
+epoch 1368
+Train Loss 0.11106
+
+epoch 1369
+Train Loss 0.13340
+
+epoch 1370
+Train Loss 0.13854
+
+epoch 1371
+Train Loss 0.13491
+
+epoch 1372
+Train Loss 0.12103
+
+epoch 1373
+Train Loss 0.11807
+
+epoch 1374
+Train Loss 0.11582
+
+epoch 1375
+Train Loss 0.09807
+
+epoch 1376
+Train Loss 0.10110
+
+epoch 1377
+Train Loss 0.11917
+
+epoch 1378
+Train Loss 0.13017
+
+epoch 1379
+Train Loss 0.10909
+
+epoch 1380
+Train Loss 0.12928
+
+epoch 1381
+Train Loss 0.12447
+
+epoch 1382
+Train Loss 0.13380
+
+epoch 1383
+Train Loss 0.11104
+
+epoch 1384
+Train Loss 0.11645
+
+epoch 1385
+Train Loss 0.10802
+
+epoch 1386
+Train Loss 0.12731
+
+epoch 1387
+Train Loss 0.12214
+
+epoch 1388
+Train Loss 0.11533
+
+epoch 1389
+Train Loss 0.12306
+
+epoch 1390
+Train Loss 0.15515
+
+epoch 1391
+Train Loss 0.11714
+
+epoch 1392
+Train Loss 0.11008
+
+epoch 1393
+Train Loss 0.13385
+
+epoch 1394
+Train Loss 0.15172
+
+epoch 1395
+Train Loss 0.13673
+
+epoch 1396
+Train Loss 0.12948
+
+epoch 1397
+Train Loss 0.11896
+
+epoch 1398
+Train Loss 0.14019
+epoch 1399, Valid Loss 0.10406
+
+epoch 1399
+Train Loss 0.12565
+
+epoch 1400
+Train Loss 0.12193
+
+epoch 1401
+Train Loss 0.12031
+
+epoch 1402
+Train Loss 0.07926
+
+epoch 1403
+Train Loss 0.12512
+
+epoch 1404
+Train Loss 0.10135
+
+epoch 1405
+Train Loss 0.15004
+
+epoch 1406
+Train Loss 0.11647
+
+epoch 1407
+Train Loss 0.10659
+
+epoch 1408
+Train Loss 0.13227
+
+epoch 1409
+Train Loss 0.12336
+
+epoch 1410
+Train Loss 0.11808
+
+epoch 1411
+Train Loss 0.13643
+
+epoch 1412
+Train Loss 0.10504
+
+epoch 1413
+Train Loss 0.11797
+
+epoch 1414
+Train Loss 0.14045
+
+epoch 1415
+Train Loss 0.11033
+
+epoch 1416
+Train Loss 0.15178
+
+epoch 1417
+Train Loss 0.10779
+
+epoch 1418
+Train Loss 0.12982
+
+epoch 1419
+Train Loss 0.15412
+
+epoch 1420
+Train Loss 0.13001
+
+epoch 1421
+Train Loss 0.10685
+
+epoch 1422
+Train Loss 0.11481
+
+epoch 1423
+Train Loss 0.11688
+
+epoch 1424
+Train Loss 0.13257
+
+epoch 1425
+Train Loss 0.11866
+
+epoch 1426
+Train Loss 0.11699
+
+epoch 1427
+Train Loss 0.14470
+
+epoch 1428
+Train Loss 0.11110
+
+epoch 1429
+Train Loss 0.14295
+
+epoch 1430
+Train Loss 0.10844
+
+epoch 1431
+Train Loss 0.11408
+
+epoch 1432
+Train Loss 0.10613
+
+epoch 1433
+Train Loss 0.11612
+
+epoch 1434
+Train Loss 0.12104
+
+epoch 1435
+Train Loss 0.11735
+
+epoch 1436
+Train Loss 0.09864
+
+epoch 1437
+Train Loss 0.11590
+
+epoch 1438
+Train Loss 0.10864
+
+epoch 1439
+Train Loss 0.14151
+
+epoch 1440
+Train Loss 0.12308
+
+epoch 1441
+Train Loss 0.11941
+
+epoch 1442
+Train Loss 0.11104
+
+epoch 1443
+Train Loss 0.11454
+
+epoch 1444
+Train Loss 0.11501
+
+epoch 1445
+Train Loss 0.09126
+
+epoch 1446
+Train Loss 0.11182
+
+epoch 1447
+Train Loss 0.14623
+
+epoch 1448
+Train Loss 0.13548
+
+epoch 1449
+Train Loss 0.12696
+
+epoch 1450
+Train Loss 0.11861
+
+epoch 1451
+Train Loss 0.09417
+
+epoch 1452
+Train Loss 0.10920
+
+epoch 1453
+Train Loss 0.14715
+
+epoch 1454
+Train Loss 0.11979
+
+epoch 1455
+Train Loss 0.13515
+
+epoch 1456
+Train Loss 0.12093
+
+epoch 1457
+Train Loss 0.11226
+
+epoch 1458
+Train Loss 0.12847
+
+epoch 1459
+Train Loss 0.12355
+
+epoch 1460
+Train Loss 0.09751
+
+epoch 1461
+Train Loss 0.11237
+
+epoch 1462
+Train Loss 0.11125
+
+epoch 1463
+Train Loss 0.11944
+
+epoch 1464
+Train Loss 0.12641
+
+epoch 1465
+Train Loss 0.09899
+
+epoch 1466
+Train Loss 0.12899
+
+epoch 1467
+Train Loss 0.11012
+
+epoch 1468
+Train Loss 0.10484
+
+epoch 1469
+Train Loss 0.10163
+
+epoch 1470
+Train Loss 0.14955
+
+epoch 1471
+Train Loss 0.13637
+
+epoch 1472
+Train Loss 0.11359
+
+epoch 1473
+Train Loss 0.09840
+
+epoch 1474
+Train Loss 0.12022
+
+epoch 1475
+Train Loss 0.11456
+
+epoch 1476
+Train Loss 0.10444
+
+epoch 1477
+Train Loss 0.12899
+
+epoch 1478
+Train Loss 0.09915
+
+epoch 1479
+Train Loss 0.12216
+
+epoch 1480
+Train Loss 0.10353
+
+epoch 1481
+Train Loss 0.11265
+
+epoch 1482
+Train Loss 0.14599
+
+epoch 1483
+Train Loss 0.11173
+
+epoch 1484
+Train Loss 0.12012
+
+epoch 1485
+Train Loss 0.11689
+
+epoch 1486
+Train Loss 0.13035
+
+epoch 1487
+Train Loss 0.11393
+
+epoch 1488
+Train Loss 0.09191
+
+epoch 1489
+Train Loss 0.12096
+
+epoch 1490
+Train Loss 0.11963
+
+epoch 1491
+Train Loss 0.10009
+
+epoch 1492
+Train Loss 0.10699
+
+epoch 1493
+Train Loss 0.11703
+
+epoch 1494
+Train Loss 0.12673
+
+epoch 1495
+Train Loss 0.11053
+
+epoch 1496
+Train Loss 0.11261
+
+epoch 1497
+Train Loss 0.11577
+
+epoch 1498
+Train Loss 0.09949
+epoch 1499, Valid Loss 0.10799
+
+epoch 1499
+Train Loss 0.12343
+
+epoch 1500
+Train Loss 0.11591
+
+epoch 1501
+Train Loss 0.09770
+
+epoch 1502
+Train Loss 0.13174
+
+epoch 1503
+Train Loss 0.12060
+
+epoch 1504
+Train Loss 0.12017
+
+epoch 1505
+Train Loss 0.14886
+
+epoch 1506
+Train Loss 0.10026
+
+epoch 1507
+Train Loss 0.11519
+
+epoch 1508
+Train Loss 0.10867
+
+epoch 1509
+Train Loss 0.11266
+
+epoch 1510
+Train Loss 0.12425
+
+epoch 1511
+Train Loss 0.10989
+
+epoch 1512
+Train Loss 0.10972
+
+epoch 1513
+Train Loss 0.11093
+
+epoch 1514
+Train Loss 0.10245
+
+epoch 1515
+Train Loss 0.10464
+
+epoch 1516
+Train Loss 0.13424
+
+epoch 1517
+Train Loss 0.11305
+
+epoch 1518
+Train Loss 0.10073
+
+epoch 1519
+Train Loss 0.09667
+
+epoch 1520
+Train Loss 0.13459
+
+epoch 1521
+Train Loss 0.11397
+
+epoch 1522
+Train Loss 0.17026
+
+epoch 1523
+Train Loss 0.10964
+
+epoch 1524
+Train Loss 0.11181
+
+epoch 1525
+Train Loss 0.16896
+
+epoch 1526
+Train Loss 0.12216
+
+epoch 1527
+Train Loss 0.11178
+
+epoch 1528
+Train Loss 0.12212
+
+epoch 1529
+Train Loss 0.12955
+
+epoch 1530
+Train Loss 0.14035
+
+epoch 1531
+Train Loss 0.11017
+
+epoch 1532
+Train Loss 0.11796
+
+epoch 1533
+Train Loss 0.12891
+
+epoch 1534
+Train Loss 0.09537
+
+epoch 1535
+Train Loss 0.12571
+
+epoch 1536
+Train Loss 0.10559
+
+epoch 1537
+Train Loss 0.09888
+
+epoch 1538
+Train Loss 0.10832
+
+epoch 1539
+Train Loss 0.13680
+
+epoch 1540
+Train Loss 0.11052
+
+epoch 1541
+Train Loss 0.09335
+
+epoch 1542
+Train Loss 0.12520
+
+epoch 1543
+Train Loss 0.11667
+
+epoch 1544
+Train Loss 0.11685
+
+epoch 1545
+Train Loss 0.11036
+
+epoch 1546
+Train Loss 0.10694
+
+epoch 1547
+Train Loss 0.11571
+
+epoch 1548
+Train Loss 0.09099
+
+epoch 1549
+Train Loss 0.10976
+
+epoch 1550
+Train Loss 0.12982
+
+epoch 1551
+Train Loss 0.08541
+
+epoch 1552
+Train Loss 0.10120
+
+epoch 1553
+Train Loss 0.14369
+
+epoch 1554
+Train Loss 0.09557
+
+epoch 1555
+Train Loss 0.11086
+
+epoch 1556
+Train Loss 0.13465
+
+epoch 1557
+Train Loss 0.11951
+
+epoch 1558
+Train Loss 0.14176
+
+epoch 1559
+Train Loss 0.09561
+
+epoch 1560
+Train Loss 0.10482
+
+epoch 1561
+Train Loss 0.11578
+
+epoch 1562
+Train Loss 0.10952
+
+epoch 1563
+Train Loss 0.12078
+
+epoch 1564
+Train Loss 0.09685
+
+epoch 1565
+Train Loss 0.10196
+
+epoch 1566
+Train Loss 0.10492
+
+epoch 1567
+Train Loss 0.12230
+
+epoch 1568
+Train Loss 0.09646
+
+epoch 1569
+Train Loss 0.09241
+
+epoch 1570
+Train Loss 0.09758
+
+epoch 1571
+Train Loss 0.10280
+
+epoch 1572
+Train Loss 0.12925
+
+epoch 1573
+Train Loss 0.10440
+
+epoch 1574
+Train Loss 0.10039
+
+epoch 1575
+Train Loss 0.07986
+
+epoch 1576
+Train Loss 0.12152
+
+epoch 1577
+Train Loss 0.09154
+
+epoch 1578
+Train Loss 0.13761
+
+epoch 1579
+Train Loss 0.11437
+
+epoch 1580
+Train Loss 0.10607
+
+epoch 1581
+Train Loss 0.10185
+
+epoch 1582
+Train Loss 0.10267
+
+epoch 1583
+Train Loss 0.10652
+
+epoch 1584
+Train Loss 0.10403
+
+epoch 1585
+Train Loss 0.09920
+
+epoch 1586
+Train Loss 0.09179
+
+epoch 1587
+Train Loss 0.11305
+
+epoch 1588
+Train Loss 0.11237
+
+epoch 1589
+Train Loss 0.09130
+
+epoch 1590
+Train Loss 0.11349
+
+epoch 1591
+Train Loss 0.10720
+
+epoch 1592
+Train Loss 0.12112
+
+epoch 1593
+Train Loss 0.11044
+
+epoch 1594
+Train Loss 0.09306
+
+epoch 1595
+Train Loss 0.10632
+
+epoch 1596
+Train Loss 0.13481
+
+epoch 1597
+Train Loss 0.10352
+
+epoch 1598
+Train Loss 0.10303
+epoch 1599, Valid Loss 0.09501
+
+epoch 1599
+Train Loss 0.09947
+
+epoch 1600
+Train Loss 0.13197
+
+epoch 1601
+Train Loss 0.09661
+
+epoch 1602
+Train Loss 0.14540
+
+epoch 1603
+Train Loss 0.12568
+
+epoch 1604
+Train Loss 0.11919
+
+epoch 1605
+Train Loss 0.09797
+
+epoch 1606
+Train Loss 0.12134
+
+epoch 1607
+Train Loss 0.10525
+
+epoch 1608
+Train Loss 0.13777
+
+epoch 1609
+Train Loss 0.12452
+
+epoch 1610
+Train Loss 0.10576
+
+epoch 1611
+Train Loss 0.11418
+
+epoch 1612
+Train Loss 0.11584
+
+epoch 1613
+Train Loss 0.08599
+
+epoch 1614
+Train Loss 0.15453
+
+epoch 1615
+Train Loss 0.12390
+
+epoch 1616
+Train Loss 0.10694
+
+epoch 1617
+Train Loss 0.11019
+
+epoch 1618
+Train Loss 0.08291
+
+epoch 1619
+Train Loss 0.13956
+
+epoch 1620
+Train Loss 0.08685
+
+epoch 1621
+Train Loss 0.12035
+
+epoch 1622
+Train Loss 0.11310
+
+epoch 1623
+Train Loss 0.10893
+
+epoch 1624
+Train Loss 0.10246
+
+epoch 1625
+Train Loss 0.09577
+
+epoch 1626
+Train Loss 0.08932
+
+epoch 1627
+Train Loss 0.09589
+
+epoch 1628
+Train Loss 0.08820
+
+epoch 1629
+Train Loss 0.11582
+
+epoch 1630
+Train Loss 0.14881
+
+epoch 1631
+Train Loss 0.14247
+
+epoch 1632
+Train Loss 0.10191
+
+epoch 1633
+Train Loss 0.11772
+
+epoch 1634
+Train Loss 0.09949
+
+epoch 1635
+Train Loss 0.11776
+
+epoch 1636
+Train Loss 0.12627
+
+epoch 1637
+Train Loss 0.07862
+
+epoch 1638
+Train Loss 0.08920
+
+epoch 1639
+Train Loss 0.11325
+
+epoch 1640
+Train Loss 0.14522
+
+epoch 1641
+Train Loss 0.11500
+
+epoch 1642
+Train Loss 0.10280
+
+epoch 1643
+Train Loss 0.17933
+
+epoch 1644
+Train Loss 0.14784
+
+epoch 1645
+Train Loss 0.10550
+
+epoch 1646
+Train Loss 0.10866
+
+epoch 1647
+Train Loss 0.11300
+
+epoch 1648
+Train Loss 0.10779
+
+epoch 1649
+Train Loss 0.07898
+
+epoch 1650
+Train Loss 0.10283
+
+epoch 1651
+Train Loss 0.11196
+
+epoch 1652
+Train Loss 0.12247
+
+epoch 1653
+Train Loss 0.10793
+
+epoch 1654
+Train Loss 0.10808
+
+epoch 1655
+Train Loss 0.09371
+
+epoch 1656
+Train Loss 0.12490
+
+epoch 1657
+Train Loss 0.12764
+
+epoch 1658
+Train Loss 0.11281
+
+epoch 1659
+Train Loss 0.11918
+
+epoch 1660
+Train Loss 0.10464
+
+epoch 1661
+Train Loss 0.08881
+
+epoch 1662
+Train Loss 0.11041
+
+epoch 1663
+Train Loss 0.10326
+
+epoch 1664
+Train Loss 0.11211
+
+epoch 1665
+Train Loss 0.09215
+
+epoch 1666
+Train Loss 0.12576
+
+epoch 1667
+Train Loss 0.09532
+
+epoch 1668
+Train Loss 0.08615
+
+epoch 1669
+Train Loss 0.12040
+
+epoch 1670
+Train Loss 0.10104
+
+epoch 1671
+Train Loss 0.11856
+
+epoch 1672
+Train Loss 0.07869
+
+epoch 1673
+Train Loss 0.08624
+
+epoch 1674
+Train Loss 0.12719
+
+epoch 1675
+Train Loss 0.10011
+
+epoch 1676
+Train Loss 0.11632
+
+epoch 1677
+Train Loss 0.10392
+
+epoch 1678
+Train Loss 0.08322
+
+epoch 1679
+Train Loss 0.10661
+
+epoch 1680
+Train Loss 0.09986
+
+epoch 1681
+Train Loss 0.10183
+
+epoch 1682
+Train Loss 0.12014
+
+epoch 1683
+Train Loss 0.11386
+
+epoch 1684
+Train Loss 0.09548
+
+epoch 1685
+Train Loss 0.10232
+
+epoch 1686
+Train Loss 0.10199
+
+epoch 1687
+Train Loss 0.11414
+
+epoch 1688
+Train Loss 0.11357
+
+epoch 1689
+Train Loss 0.09443
+
+epoch 1690
+Train Loss 0.10417
+
+epoch 1691
+Train Loss 0.09479
+
+epoch 1692
+Train Loss 0.09186
+
+epoch 1693
+Train Loss 0.09627
+
+epoch 1694
+Train Loss 0.11644
+
+epoch 1695
+Train Loss 0.12588
+
+epoch 1696
+Train Loss 0.11317
+
+epoch 1697
+Train Loss 0.11692
+
+epoch 1698
+Train Loss 0.09117
+epoch 1699, Valid Loss 0.09460
+
+epoch 1699
+Train Loss 0.09524
+
+epoch 1700
+Train Loss 0.07643
+
+epoch 1701
+Train Loss 0.08773
+
+epoch 1702
+Train Loss 0.10672
+
+epoch 1703
+Train Loss 0.09120
+
+epoch 1704
+Train Loss 0.09949
+
+epoch 1705
+Train Loss 0.09604
+
+epoch 1706
+Train Loss 0.08832
+
+epoch 1707
+Train Loss 0.10452
+
+epoch 1708
+Train Loss 0.09769
+
+epoch 1709
+Train Loss 0.10886
+
+epoch 1710
+Train Loss 0.11440
+
+epoch 1711
+Train Loss 0.09518
+
+epoch 1712
+Train Loss 0.11938
+
+epoch 1713
+Train Loss 0.09946
+
+epoch 1714
+Train Loss 0.10921
+
+epoch 1715
+Train Loss 0.15357
+
+epoch 1716
+Train Loss 0.10599
+
+epoch 1717
+Train Loss 0.10064
+
+epoch 1718
+Train Loss 0.08779
+
+epoch 1719
+Train Loss 0.11136
+
+epoch 1720
+Train Loss 0.14545
+
+epoch 1721
+Train Loss 0.11207
+
+epoch 1722
+Train Loss 0.11337
+
+epoch 1723
+Train Loss 0.13473
+
+epoch 1724
+Train Loss 0.10770
+
+epoch 1725
+Train Loss 0.12199
+
+epoch 1726
+Train Loss 0.10411
+
+epoch 1727
+Train Loss 0.12076
+
+epoch 1728
+Train Loss 0.09163
+
+epoch 1729
+Train Loss 0.12546
+
+epoch 1730
+Train Loss 0.09856
+
+epoch 1731
+Train Loss 0.08484
+
+epoch 1732
+Train Loss 0.13812
+
+epoch 1733
+Train Loss 0.11697
+
+epoch 1734
+Train Loss 0.08893
+
+epoch 1735
+Train Loss 0.10709
+
+epoch 1736
+Train Loss 0.08470
+
+epoch 1737
+Train Loss 0.10762
+
+epoch 1738
+Train Loss 0.08430
+
+epoch 1739
+Train Loss 0.09613
+
+epoch 1740
+Train Loss 0.14273
+
+epoch 1741
+Train Loss 0.08858
+
+epoch 1742
+Train Loss 0.10380
+
+epoch 1743
+Train Loss 0.09572
+
+epoch 1744
+Train Loss 0.10210
+
+epoch 1745
+Train Loss 0.09838
+
+epoch 1746
+Train Loss 0.12289
+
+epoch 1747
+Train Loss 0.12663
+
+epoch 1748
+Train Loss 0.11115
+
+epoch 1749
+Train Loss 0.12529
+
+epoch 1750
+Train Loss 0.09666
+
+epoch 1751
+Train Loss 0.12023
+
+epoch 1752
+Train Loss 0.08323
+
+epoch 1753
+Train Loss 0.12922
+
+epoch 1754
+Train Loss 0.13391
+
+epoch 1755
+Train Loss 0.08716
+
+epoch 1756
+Train Loss 0.13319
+
+epoch 1757
+Train Loss 0.16700
+
+epoch 1758
+Train Loss 0.10971
+
+epoch 1759
+Train Loss 0.10561
+
+epoch 1760
+Train Loss 0.10939
+
+epoch 1761
+Train Loss 0.15644
+
+epoch 1762
+Train Loss 0.08241
+
+epoch 1763
+Train Loss 0.11328
+
+epoch 1764
+Train Loss 0.11290
+
+epoch 1765
+Train Loss 0.10775
+
+epoch 1766
+Train Loss 0.08322
+
+epoch 1767
+Train Loss 0.11781
+
+epoch 1768
+Train Loss 0.08172
+
+epoch 1769
+Train Loss 0.11254
+
+epoch 1770
+Train Loss 0.09559
+
+epoch 1771
+Train Loss 0.10613
+
+epoch 1772
+Train Loss 0.08540
+
+epoch 1773
+Train Loss 0.11931
+
+epoch 1774
+Train Loss 0.11421
+
+epoch 1775
+Train Loss 0.09177
+
+epoch 1776
+Train Loss 0.10701
+
+epoch 1777
+Train Loss 0.09928
+
+epoch 1778
+Train Loss 0.12074
+
+epoch 1779
+Train Loss 0.10808
+
+epoch 1780
+Train Loss 0.08765
+
+epoch 1781
+Train Loss 0.13825
+
+epoch 1782
+Train Loss 0.11252
+
+epoch 1783
+Train Loss 0.09821
+
+epoch 1784
+Train Loss 0.10950
+
+epoch 1785
+Train Loss 0.11491
+
+epoch 1786
+Train Loss 0.12248
+
+epoch 1787
+Train Loss 0.11012
+
+epoch 1788
+Train Loss 0.12684
+
+epoch 1789
+Train Loss 0.10657
+
+epoch 1790
+Train Loss 0.10623
+
+epoch 1791
+Train Loss 0.10347
+
+epoch 1792
+Train Loss 0.09997
+
+epoch 1793
+Train Loss 0.11724
+
+epoch 1794
+Train Loss 0.10706
+
+epoch 1795
+Train Loss 0.13236
+
+epoch 1796
+Train Loss 0.11491
+
+epoch 1797
+Train Loss 0.09447
+
+epoch 1798
+Train Loss 0.10503
+epoch 1799, Valid Loss 0.08862
+
+epoch 1799
+Train Loss 0.10830
+
+epoch 1800
+Train Loss 0.11329
+
+epoch 1801
+Train Loss 0.09346
+
+epoch 1802
+Train Loss 0.10189
+
+epoch 1803
+Train Loss 0.10339
+
+epoch 1804
+Train Loss 0.11409
+
+epoch 1805
+Train Loss 0.09780
+
+epoch 1806
+Train Loss 0.10791
+
+epoch 1807
+Train Loss 0.11202
+
+epoch 1808
+Train Loss 0.11147
+
+epoch 1809
+Train Loss 0.08299
+
+epoch 1810
+Train Loss 0.12212
+
+epoch 1811
+Train Loss 0.11190
+
+epoch 1812
+Train Loss 0.08502
+
+epoch 1813
+Train Loss 0.10506
+
+epoch 1814
+Train Loss 0.08618
+
+epoch 1815
+Train Loss 0.11365
+
+epoch 1816
+Train Loss 0.11381
+
+epoch 1817
+Train Loss 0.08220
+
+epoch 1818
+Train Loss 0.09339
+
+epoch 1819
+Train Loss 0.09945
+
+epoch 1820
+Train Loss 0.09837
+
+epoch 1821
+Train Loss 0.08205
+
+epoch 1822
+Train Loss 0.10375
+
+epoch 1823
+Train Loss 0.10003
+
+epoch 1824
+Train Loss 0.12033
+
+epoch 1825
+Train Loss 0.10949
+
+epoch 1826
+Train Loss 0.10566
+
+epoch 1827
+Train Loss 0.11231
+
+epoch 1828
+Train Loss 0.08352
+
+epoch 1829
+Train Loss 0.10114
+
+epoch 1830
+Train Loss 0.09754
+
+epoch 1831
+Train Loss 0.11347
+
+epoch 1832
+Train Loss 0.12399
+
+epoch 1833
+Train Loss 0.13115
+
+epoch 1834
+Train Loss 0.08650
+
+epoch 1835
+Train Loss 0.08960
+
+epoch 1836
+Train Loss 0.09969
+
+epoch 1837
+Train Loss 0.09501
+
+epoch 1838
+Train Loss 0.10991
+
+epoch 1839
+Train Loss 0.13098
+
+epoch 1840
+Train Loss 0.08469
+
+epoch 1841
+Train Loss 0.08967
+
+epoch 1842
+Train Loss 0.09947
+
+epoch 1843
+Train Loss 0.09413
+
+epoch 1844
+Train Loss 0.09412
+
+epoch 1845
+Train Loss 0.12593
+
+epoch 1846
+Train Loss 0.08724
+
+epoch 1847
+Train Loss 0.08302
+
+epoch 1848
+Train Loss 0.09492
+
+epoch 1849
+Train Loss 0.09140
+
+epoch 1850
+Train Loss 0.10559
+
+epoch 1851
+Train Loss 0.07727
+
+epoch 1852
+Train Loss 0.10325
+
+epoch 1853
+Train Loss 0.09656
+
+epoch 1854
+Train Loss 0.11842
+
+epoch 1855
+Train Loss 0.11647
+
+epoch 1856
+Train Loss 0.08743
+
+epoch 1857
+Train Loss 0.08808
+
+epoch 1858
+Train Loss 0.10544
+
+epoch 1859
+Train Loss 0.09371
+
+epoch 1860
+Train Loss 0.09838
+
+epoch 1861
+Train Loss 0.09733
+
+epoch 1862
+Train Loss 0.11483
+
+epoch 1863
+Train Loss 0.10487
+
+epoch 1864
+Train Loss 0.09424
+
+epoch 1865
+Train Loss 0.08747
+
+epoch 1866
+Train Loss 0.08598
+
+epoch 1867
+Train Loss 0.09944
+
+epoch 1868
+Train Loss 0.11401
+
+epoch 1869
+Train Loss 0.10793
+
+epoch 1870
+Train Loss 0.10305
+
+epoch 1871
+Train Loss 0.06648
+
+epoch 1872
+Train Loss 0.07309
+
+epoch 1873
+Train Loss 0.07899
+
+epoch 1874
+Train Loss 0.09976
+
+epoch 1875
+Train Loss 0.10606
+
+epoch 1876
+Train Loss 0.08281
+
+epoch 1877
+Train Loss 0.10572
+
+epoch 1878
+Train Loss 0.08246
+
+epoch 1879
+Train Loss 0.08629
+
+epoch 1880
+Train Loss 0.12361
+
+epoch 1881
+Train Loss 0.08470
+
+epoch 1882
+Train Loss 0.07426
+
+epoch 1883
+Train Loss 0.09517
+
+epoch 1884
+Train Loss 0.08317
+
+epoch 1885
+Train Loss 0.09068
+
+epoch 1886
+Train Loss 0.09747
+
+epoch 1887
+Train Loss 0.10395
+
+epoch 1888
+Train Loss 0.10815
+
+epoch 1889
+Train Loss 0.11171
+
+epoch 1890
+Train Loss 0.08531
+
+epoch 1891
+Train Loss 0.09006
+
+epoch 1892
+Train Loss 0.10303
+
+epoch 1893
+Train Loss 0.09471
+
+epoch 1894
+Train Loss 0.08869
+
+epoch 1895
+Train Loss 0.11144
+
+epoch 1896
+Train Loss 0.10451
+
+epoch 1897
+Train Loss 0.11063
+
+epoch 1898
+Train Loss 0.12039
+epoch 1899, Valid Loss 0.08810
+
+epoch 1899
+Train Loss 0.11011
+
+epoch 1900
+Train Loss 0.11615
+
+epoch 1901
+Train Loss 0.09861
+
+epoch 1902
+Train Loss 0.08450
+
+epoch 1903
+Train Loss 0.08055
+
+epoch 1904
+Train Loss 0.09871
+
+epoch 1905
+Train Loss 0.09750
+
+epoch 1906
+Train Loss 0.09339
+
+epoch 1907
+Train Loss 0.08609
+
+epoch 1908
+Train Loss 0.10169
+
+epoch 1909
+Train Loss 0.11540
+
+epoch 1910
+Train Loss 0.08233
+
+epoch 1911
+Train Loss 0.10231
+
+epoch 1912
+Train Loss 0.10262
+
+epoch 1913
+Train Loss 0.09921
+
+epoch 1914
+Train Loss 0.08850
+
+epoch 1915
+Train Loss 0.10347
+
+epoch 1916
+Train Loss 0.11149
+
+epoch 1917
+Train Loss 0.10648
+
+epoch 1918
+Train Loss 0.11046
+
+epoch 1919
+Train Loss 0.11251
+
+epoch 1920
+Train Loss 0.10172
+
+epoch 1921
+Train Loss 0.10888
+
+epoch 1922
+Train Loss 0.10638
+
+epoch 1923
+Train Loss 0.09167
+
+epoch 1924
+Train Loss 0.09211
+
+epoch 1925
+Train Loss 0.08804
+
+epoch 1926
+Train Loss 0.10083
+
+epoch 1927
+Train Loss 0.09486
+
+epoch 1928
+Train Loss 0.11438
+
+epoch 1929
+Train Loss 0.11962
+
+epoch 1930
+Train Loss 0.11862
+
+epoch 1931
+Train Loss 0.09552
+
+epoch 1932
+Train Loss 0.08756
+
+epoch 1933
+Train Loss 0.09374
+
+epoch 1934
+Train Loss 0.11854
+
+epoch 1935
+Train Loss 0.10281
+
+epoch 1936
+Train Loss 0.09208
+
+epoch 1937
+Train Loss 0.09491
+
+epoch 1938
+Train Loss 0.10576
+
+epoch 1939
+Train Loss 0.10159
+
+epoch 1940
+Train Loss 0.09611
+
+epoch 1941
+Train Loss 0.08591
+
+epoch 1942
+Train Loss 0.08610
+
+epoch 1943
+Train Loss 0.09611
+
+epoch 1944
+Train Loss 0.10380
+
+epoch 1945
+Train Loss 0.13010
+
+epoch 1946
+Train Loss 0.10123
+
+epoch 1947
+Train Loss 0.11890
+
+epoch 1948
+Train Loss 0.08155
+
+epoch 1949
+Train Loss 0.09450
+
+epoch 1950
+Train Loss 0.11188
+
+epoch 1951
+Train Loss 0.09664
+
+epoch 1952
+Train Loss 0.09162
+
+epoch 1953
+Train Loss 0.08455
+
+epoch 1954
+Train Loss 0.10543
+
+epoch 1955
+Train Loss 0.10276
+
+epoch 1956
+Train Loss 0.09838
+
+epoch 1957
+Train Loss 0.09546
+
+epoch 1958
+Train Loss 0.09011
+
+epoch 1959
+Train Loss 0.10770
+
+epoch 1960
+Train Loss 0.07947
+
+epoch 1961
+Train Loss 0.11108
+
+epoch 1962
+Train Loss 0.09496
+
+epoch 1963
+Train Loss 0.09137
+
+epoch 1964
+Train Loss 0.09739
+
+epoch 1965
+Train Loss 0.10792
+
+epoch 1966
+Train Loss 0.09337
+
+epoch 1967
+Train Loss 0.10681
+
+epoch 1968
+Train Loss 0.11639
+
+epoch 1969
+Train Loss 0.09673
+
+epoch 1970
+Train Loss 0.11402
+
+epoch 1971
+Train Loss 0.10619
+
+epoch 1972
+Train Loss 0.11739
+
+epoch 1973
+Train Loss 0.08602
+
+epoch 1974
+Train Loss 0.12604
+
+epoch 1975
+Train Loss 0.12177
+
+epoch 1976
+Train Loss 0.09247
+
+epoch 1977
+Train Loss 0.11528
+
+epoch 1978
+Train Loss 0.10869
+
+epoch 1979
+Train Loss 0.08783
+
+epoch 1980
+Train Loss 0.07543
+
+epoch 1981
+Train Loss 0.10130
+
+epoch 1982
+Train Loss 0.10128
+
+epoch 1983
+Train Loss 0.11080
+
+epoch 1984
+Train Loss 0.10951
+
+epoch 1985
+Train Loss 0.07234
+
+epoch 1986
+Train Loss 0.09985
+
+epoch 1987
+Train Loss 0.10283
+
+epoch 1988
+Train Loss 0.11625
+
+epoch 1989
+Train Loss 0.10135
+
+epoch 1990
+Train Loss 0.10204
+
+epoch 1991
+Train Loss 0.09941
+
+epoch 1992
+Train Loss 0.09561
+
+epoch 1993
+Train Loss 0.12341
+
+epoch 1994
+Train Loss 0.09447
+
+epoch 1995
+Train Loss 0.08844
+
+epoch 1996
+Train Loss 0.11010
+
+epoch 1997
+Train Loss 0.09913
+
+epoch 1998
+Train Loss 0.07870
+epoch 1999, Valid Loss 0.08968
+
+epoch 1999
+Train Loss 0.08402
+
+epoch 2000
+Train Loss 0.09776
+
+epoch 2001
+Train Loss 0.08737
+
+epoch 2002
+Train Loss 0.08972
+
+epoch 2003
+Train Loss 0.09974
+
+epoch 2004
+Train Loss 0.09328
+
+epoch 2005
+Train Loss 0.10528
+
+epoch 2006
+Train Loss 0.08156
+
+epoch 2007
+Train Loss 0.11036
+
+epoch 2008
+Train Loss 0.11176
+
+epoch 2009
+Train Loss 0.09405
+
+epoch 2010
+Train Loss 0.08791
+
+epoch 2011
+Train Loss 0.09518
+
+epoch 2012
+Train Loss 0.09705
+
+epoch 2013
+Train Loss 0.09012
+
+epoch 2014
+Train Loss 0.09012
+
+epoch 2015
+Train Loss 0.09797
+
+epoch 2016
+Train Loss 0.11121
+
+epoch 2017
+Train Loss 0.08865
+
+epoch 2018
+Train Loss 0.09546
+
+epoch 2019
+Train Loss 0.08681
+
+epoch 2020
+Train Loss 0.10776
+
+epoch 2021
+Train Loss 0.09329
+
+epoch 2022
+Train Loss 0.08113
+
+epoch 2023
+Train Loss 0.10004
+
+epoch 2024
+Train Loss 0.09806
+
+epoch 2025
+Train Loss 0.08346
+
+epoch 2026
+Train Loss 0.10379
+
+epoch 2027
+Train Loss 0.10565
+
+epoch 2028
+Train Loss 0.08638
+
+epoch 2029
+Train Loss 0.10219
+
+epoch 2030
+Train Loss 0.09191
+
+epoch 2031
+Train Loss 0.08727
+
+epoch 2032
+Train Loss 0.11516
+
+epoch 2033
+Train Loss 0.08884
+
+epoch 2034
+Train Loss 0.08841
+
+epoch 2035
+Train Loss 0.08839
+
+epoch 2036
+Train Loss 0.09694
+
+epoch 2037
+Train Loss 0.08085
+
+epoch 2038
+Train Loss 0.10391
+
+epoch 2039
+Train Loss 0.09337
+
+epoch 2040
+Train Loss 0.09698
+
+epoch 2041
+Train Loss 0.09944
+
+epoch 2042
+Train Loss 0.09541
+
+epoch 2043
+Train Loss 0.08675
+
+epoch 2044
+Train Loss 0.08692
+
+epoch 2045
+Train Loss 0.10615
+
+epoch 2046
+Train Loss 0.08139
+
+epoch 2047
+Train Loss 0.09456
+
+epoch 2048
+Train Loss 0.07319
+
+epoch 2049
+Train Loss 0.11056
+
+epoch 2050
+Train Loss 0.09192
+
+epoch 2051
+Train Loss 0.12234
+
+epoch 2052
+Train Loss 0.08370
+
+epoch 2053
+Train Loss 0.11084
+
+epoch 2054
+Train Loss 0.12849
+
+epoch 2055
+Train Loss 0.14964
+
+epoch 2056
+Train Loss 0.12767
+
+epoch 2057
+Train Loss 0.09303
+
+epoch 2058
+Train Loss 0.08548
+
+epoch 2059
+Train Loss 0.10687
+
+epoch 2060
+Train Loss 0.11253
+
+epoch 2061
+Train Loss 0.08380
+
+epoch 2062
+Train Loss 0.11396
+
+epoch 2063
+Train Loss 0.10246
+
+epoch 2064
+Train Loss 0.11540
+
+epoch 2065
+Train Loss 0.08258
+
+epoch 2066
+Train Loss 0.08806
+
+epoch 2067
+Train Loss 0.09351
+
+epoch 2068
+Train Loss 0.10302
+
+epoch 2069
+Train Loss 0.08720
+
+epoch 2070
+Train Loss 0.09600
+
+epoch 2071
+Train Loss 0.08966
+
+epoch 2072
+Train Loss 0.11789
+
+epoch 2073
+Train Loss 0.10640
+
+epoch 2074
+Train Loss 0.09514
+
+epoch 2075
+Train Loss 0.08708
+
+epoch 2076
+Train Loss 0.09820
+
+epoch 2077
+Train Loss 0.08843
+
+epoch 2078
+Train Loss 0.10186
+
+epoch 2079
+Train Loss 0.09837
+
+epoch 2080
+Train Loss 0.09738
+
+epoch 2081
+Train Loss 0.10050
+
+epoch 2082
+Train Loss 0.09816
+
+epoch 2083
+Train Loss 0.09228
+
+epoch 2084
+Train Loss 0.09473
+
+epoch 2085
+Train Loss 0.10106
+
+epoch 2086
+Train Loss 0.10435
+
+epoch 2087
+Train Loss 0.09277
+
+epoch 2088
+Train Loss 0.09425
+
+epoch 2089
+Train Loss 0.09332
+
+epoch 2090
+Train Loss 0.09475
+
+epoch 2091
+Train Loss 0.06590
+
+epoch 2092
+Train Loss 0.07557
+
+epoch 2093
+Train Loss 0.11647
+
+epoch 2094
+Train Loss 0.09688
+
+epoch 2095
+Train Loss 0.09093
+
+epoch 2096
+Train Loss 0.09920
+
+epoch 2097
+Train Loss 0.11383
+
+epoch 2098
+Train Loss 0.10142
+epoch 2099, Valid Loss 0.08329
+
+epoch 2099
+Train Loss 0.08347
+
+epoch 2100
+Train Loss 0.08834
+
+epoch 2101
+Train Loss 0.09978
+
+epoch 2102
+Train Loss 0.08062
+
+epoch 2103
+Train Loss 0.07860
+
+epoch 2104
+Train Loss 0.09701
+
+epoch 2105
+Train Loss 0.08912
+
+epoch 2106
+Train Loss 0.08345
+
+epoch 2107
+Train Loss 0.10166
+
+epoch 2108
+Train Loss 0.12803
+
+epoch 2109
+Train Loss 0.08084
+
+epoch 2110
+Train Loss 0.06887
+
+epoch 2111
+Train Loss 0.09150
+
+epoch 2112
+Train Loss 0.09012
+
+epoch 2113
+Train Loss 0.09366
+
+epoch 2114
+Train Loss 0.08927
+
+epoch 2115
+Train Loss 0.09162
+
+epoch 2116
+Train Loss 0.09422
+
+epoch 2117
+Train Loss 0.10580
+
+epoch 2118
+Train Loss 0.09877
+
+epoch 2119
+Train Loss 0.09755
+
+epoch 2120
+Train Loss 0.09399
+
+epoch 2121
+Train Loss 0.09771
+
+epoch 2122
+Train Loss 0.09909
+
+epoch 2123
+Train Loss 0.07507
+
+epoch 2124
+Train Loss 0.09701
+
+epoch 2125
+Train Loss 0.09792
+
+epoch 2126
+Train Loss 0.09095
+
+epoch 2127
+Train Loss 0.08440
+
+epoch 2128
+Train Loss 0.08523
+
+epoch 2129
+Train Loss 0.09316
+
+epoch 2130
+Train Loss 0.07702
+
+epoch 2131
+Train Loss 0.07949
+
+epoch 2132
+Train Loss 0.08770
+
+epoch 2133
+Train Loss 0.08298
+
+epoch 2134
+Train Loss 0.10066
+
+epoch 2135
+Train Loss 0.08797
+
+epoch 2136
+Train Loss 0.09882
+
+epoch 2137
+Train Loss 0.08995
+
+epoch 2138
+Train Loss 0.10726
+
+epoch 2139
+Train Loss 0.10797
+
+epoch 2140
+Train Loss 0.07261
+
+epoch 2141
+Train Loss 0.08906
+
+epoch 2142
+Train Loss 0.11016
+
+epoch 2143
+Train Loss 0.09804
+
+epoch 2144
+Train Loss 0.08888
+
+epoch 2145
+Train Loss 0.08523
+
+epoch 2146
+Train Loss 0.08249
+
+epoch 2147
+Train Loss 0.09250
+
+epoch 2148
+Train Loss 0.10063
+
+epoch 2149
+Train Loss 0.09591
+
+epoch 2150
+Train Loss 0.10207
+
+epoch 2151
+Train Loss 0.08207
+
+epoch 2152
+Train Loss 0.10716
+
+epoch 2153
+Train Loss 0.07303
+
+epoch 2154
+Train Loss 0.08951
+
+epoch 2155
+Train Loss 0.12417
+
+epoch 2156
+Train Loss 0.10276
+
+epoch 2157
+Train Loss 0.10467
+
+epoch 2158
+Train Loss 0.10190
+
+epoch 2159
+Train Loss 0.12029
+
+epoch 2160
+Train Loss 0.09634
+
+epoch 2161
+Train Loss 0.08342
+
+epoch 2162
+Train Loss 0.10640
+
+epoch 2163
+Train Loss 0.09965
+
+epoch 2164
+Train Loss 0.07437
+
+epoch 2165
+Train Loss 0.08880
+
+epoch 2166
+Train Loss 0.11058
+
+epoch 2167
+Train Loss 0.09475
+
+epoch 2168
+Train Loss 0.08862
+
+epoch 2169
+Train Loss 0.08715
+
+epoch 2170
+Train Loss 0.10422
+
+epoch 2171
+Train Loss 0.09974
+
+epoch 2172
+Train Loss 0.09085
+
+epoch 2173
+Train Loss 0.07424
+
+epoch 2174
+Train Loss 0.09379
+
+epoch 2175
+Train Loss 0.08398
+
+epoch 2176
+Train Loss 0.08143
+
+epoch 2177
+Train Loss 0.07867
+
+epoch 2178
+Train Loss 0.10067
+
+epoch 2179
+Train Loss 0.10634
+
+epoch 2180
+Train Loss 0.07498
+
+epoch 2181
+Train Loss 0.09414
+
+epoch 2182
+Train Loss 0.08877
+
+epoch 2183
+Train Loss 0.09470
+
+epoch 2184
+Train Loss 0.08698
+
+epoch 2185
+Train Loss 0.10900
+
+epoch 2186
+Train Loss 0.07841
+
+epoch 2187
+Train Loss 0.09899
+
+epoch 2188
+Train Loss 0.08944
+
+epoch 2189
+Train Loss 0.13248
+
+epoch 2190
+Train Loss 0.08679
+
+epoch 2191
+Train Loss 0.09691
+
+epoch 2192
+Train Loss 0.07567
+
+epoch 2193
+Train Loss 0.08782
+
+epoch 2194
+Train Loss 0.09882
+
+epoch 2195
+Train Loss 0.09069
+
+epoch 2196
+Train Loss 0.08389
+
+epoch 2197
+Train Loss 0.08763
+
+epoch 2198
+Train Loss 0.09938
+epoch 2199, Valid Loss 0.09009
+
+epoch 2199
+Train Loss 0.08472
+
+epoch 2200
+Train Loss 0.07548
+
+epoch 2201
+Train Loss 0.07774
+
+epoch 2202
+Train Loss 0.09138
+
+epoch 2203
+Train Loss 0.12059
+
+epoch 2204
+Train Loss 0.09774
+
+epoch 2205
+Train Loss 0.09529
+
+epoch 2206
+Train Loss 0.08729
+
+epoch 2207
+Train Loss 0.09046
+
+epoch 2208
+Train Loss 0.08522
+
+epoch 2209
+Train Loss 0.07195
+
+epoch 2210
+Train Loss 0.09618
+
+epoch 2211
+Train Loss 0.10738
+
+epoch 2212
+Train Loss 0.07550
+
+epoch 2213
+Train Loss 0.07605
+
+epoch 2214
+Train Loss 0.08817
+
+epoch 2215
+Train Loss 0.08247
+
+epoch 2216
+Train Loss 0.09569
+
+epoch 2217
+Train Loss 0.07585
+
+epoch 2218
+Train Loss 0.11861
+
+epoch 2219
+Train Loss 0.11743
+
+epoch 2220
+Train Loss 0.11428
+
+epoch 2221
+Train Loss 0.11518
+
+epoch 2222
+Train Loss 0.08822
+
+epoch 2223
+Train Loss 0.09194
+
+epoch 2224
+Train Loss 0.08814
+
+epoch 2225
+Train Loss 0.08722
+
+epoch 2226
+Train Loss 0.09086
+
+epoch 2227
+Train Loss 0.09031
+
+epoch 2228
+Train Loss 0.09009
+
+epoch 2229
+Train Loss 0.08932
+
+epoch 2230
+Train Loss 0.09093
+
+epoch 2231
+Train Loss 0.10327
+
+epoch 2232
+Train Loss 0.07061
+
+epoch 2233
+Train Loss 0.08964
+
+epoch 2234
+Train Loss 0.07903
+
+epoch 2235
+Train Loss 0.08948
+
+epoch 2236
+Train Loss 0.08178
+
+epoch 2237
+Train Loss 0.07067
+
+epoch 2238
+Train Loss 0.08228
+
+epoch 2239
+Train Loss 0.10505
+
+epoch 2240
+Train Loss 0.07491
+
+epoch 2241
+Train Loss 0.09219
+
+epoch 2242
+Train Loss 0.08145
+
+epoch 2243
+Train Loss 0.09644
+
+epoch 2244
+Train Loss 0.07322
+
+epoch 2245
+Train Loss 0.09604
+
+epoch 2246
+Train Loss 0.10462
+
+epoch 2247
+Train Loss 0.10649
+
+epoch 2248
+Train Loss 0.08324
+
+epoch 2249
+Train Loss 0.10992
+
+epoch 2250
+Train Loss 0.09308
+
+epoch 2251
+Train Loss 0.08990
+
+epoch 2252
+Train Loss 0.11497
+
+epoch 2253
+Train Loss 0.10292
+
+epoch 2254
+Train Loss 0.06997
+
+epoch 2255
+Train Loss 0.09181
+
+epoch 2256
+Train Loss 0.10257
+
+epoch 2257
+Train Loss 0.08276
+
+epoch 2258
+Train Loss 0.09670
+
+epoch 2259
+Train Loss 0.09161
+
+epoch 2260
+Train Loss 0.09660
+
+epoch 2261
+Train Loss 0.09714
+
+epoch 2262
+Train Loss 0.09331
+
+epoch 2263
+Train Loss 0.08431
+
+epoch 2264
+Train Loss 0.08784
+
+epoch 2265
+Train Loss 0.08213
+
+epoch 2266
+Train Loss 0.09547
+
+epoch 2267
+Train Loss 0.09246
+
+epoch 2268
+Train Loss 0.10399
+
+epoch 2269
+Train Loss 0.08439
+
+epoch 2270
+Train Loss 0.09576
+
+epoch 2271
+Train Loss 0.08688
+
+epoch 2272
+Train Loss 0.09679
+
+epoch 2273
+Train Loss 0.08559
+
+epoch 2274
+Train Loss 0.08516
+
+epoch 2275
+Train Loss 0.09525
+
+epoch 2276
+Train Loss 0.10655
+
+epoch 2277
+Train Loss 0.08823
+
+epoch 2278
+Train Loss 0.06867
+
+epoch 2279
+Train Loss 0.09438
+
+epoch 2280
+Train Loss 0.10683
+
+epoch 2281
+Train Loss 0.10366
+
+epoch 2282
+Train Loss 0.08653
+
+epoch 2283
+Train Loss 0.07639
+
+epoch 2284
+Train Loss 0.10088
+
+epoch 2285
+Train Loss 0.08855
+
+epoch 2286
+Train Loss 0.06727
+
+epoch 2287
+Train Loss 0.10592
+
+epoch 2288
+Train Loss 0.07929
+
+epoch 2289
+Train Loss 0.09013
+
+epoch 2290
+Train Loss 0.07734
+
+epoch 2291
+Train Loss 0.08838
+
+epoch 2292
+Train Loss 0.07024
+
+epoch 2293
+Train Loss 0.13261
+
+epoch 2294
+Train Loss 0.10683
+
+epoch 2295
+Train Loss 0.10110
+
+epoch 2296
+Train Loss 0.09505
+
+epoch 2297
+Train Loss 0.11578
+
+epoch 2298
+Train Loss 0.11549
+epoch 2299, Valid Loss 0.08329
+
+epoch 2299
+Train Loss 0.10542
+
+epoch 2300
+Train Loss 0.08658
+
+epoch 2301
+Train Loss 0.07692
+
+epoch 2302
+Train Loss 0.08289
+
+epoch 2303
+Train Loss 0.09344
+
+epoch 2304
+Train Loss 0.08050
+
+epoch 2305
+Train Loss 0.10086
+
+epoch 2306
+Train Loss 0.08647
+
+epoch 2307
+Train Loss 0.08813
+
+epoch 2308
+Train Loss 0.09506
+
+epoch 2309
+Train Loss 0.07188
+
+epoch 2310
+Train Loss 0.06746
+
+epoch 2311
+Train Loss 0.10115
+
+epoch 2312
+Train Loss 0.10672
+
+epoch 2313
+Train Loss 0.09633
+
+epoch 2314
+Train Loss 0.07487
+
+epoch 2315
+Train Loss 0.09035
+
+epoch 2316
+Train Loss 0.08157
+
+epoch 2317
+Train Loss 0.08560
+
+epoch 2318
+Train Loss 0.08122
+
+epoch 2319
+Train Loss 0.10021
+
+epoch 2320
+Train Loss 0.08682
+
+epoch 2321
+Train Loss 0.09738
+
+epoch 2322
+Train Loss 0.09528
+
+epoch 2323
+Train Loss 0.09232
+
+epoch 2324
+Train Loss 0.08442
+
+epoch 2325
+Train Loss 0.10190
+
+epoch 2326
+Train Loss 0.08318
+
+epoch 2327
+Train Loss 0.08176
+
+epoch 2328
+Train Loss 0.07910
+
+epoch 2329
+Train Loss 0.08808
+
+epoch 2330
+Train Loss 0.08385
+
+epoch 2331
+Train Loss 0.11021
+
+epoch 2332
+Train Loss 0.06904
+
+epoch 2333
+Train Loss 0.08212
+
+epoch 2334
+Train Loss 0.10604
+
+epoch 2335
+Train Loss 0.08115
+
+epoch 2336
+Train Loss 0.10929
+
+epoch 2337
+Train Loss 0.08868
+
+epoch 2338
+Train Loss 0.08705
+
+epoch 2339
+Train Loss 0.11033
+
+epoch 2340
+Train Loss 0.07405
+
+epoch 2341
+Train Loss 0.08145
+
+epoch 2342
+Train Loss 0.10015
+
+epoch 2343
+Train Loss 0.10485
+
+epoch 2344
+Train Loss 0.08996
+
+epoch 2345
+Train Loss 0.08702
+
+epoch 2346
+Train Loss 0.08736
+
+epoch 2347
+Train Loss 0.07297
+
+epoch 2348
+Train Loss 0.09341
+
+epoch 2349
+Train Loss 0.09298
+
+epoch 2350
+Train Loss 0.08681
+
+epoch 2351
+Train Loss 0.15235
+
+epoch 2352
+Train Loss 0.08827
+
+epoch 2353
+Train Loss 0.10462
+
+epoch 2354
+Train Loss 0.09155
+
+epoch 2355
+Train Loss 0.11432
+
+epoch 2356
+Train Loss 0.09450
+
+epoch 2357
+Train Loss 0.07321
+
+epoch 2358
+Train Loss 0.08914
+
+epoch 2359
+Train Loss 0.07867
+
+epoch 2360
+Train Loss 0.08949
+
+epoch 2361
+Train Loss 0.07635
+
+epoch 2362
+Train Loss 0.06254
+
+epoch 2363
+Train Loss 0.09141
+
+epoch 2364
+Train Loss 0.07819
+
+epoch 2365
+Train Loss 0.08627
+
+epoch 2366
+Train Loss 0.09160
+
+epoch 2367
+Train Loss 0.08974
+
+epoch 2368
+Train Loss 0.07410
+
+epoch 2369
+Train Loss 0.11265
+
+epoch 2370
+Train Loss 0.08974
+
+epoch 2371
+Train Loss 0.08641
+
+epoch 2372
+Train Loss 0.08636
+
+epoch 2373
+Train Loss 0.08710
+
+epoch 2374
+Train Loss 0.07861
+
+epoch 2375
+Train Loss 0.10929
+
+epoch 2376
+Train Loss 0.08957
+
+epoch 2377
+Train Loss 0.08283
+
+epoch 2378
+Train Loss 0.09171
+
+epoch 2379
+Train Loss 0.12279
+
+epoch 2380
+Train Loss 0.10157
+
+epoch 2381
+Train Loss 0.10092
+
+epoch 2382
+Train Loss 0.09977
+
+epoch 2383
+Train Loss 0.11035
+
+epoch 2384
+Train Loss 0.09184
+
+epoch 2385
+Train Loss 0.08921
+
+epoch 2386
+Train Loss 0.09133
+
+epoch 2387
+Train Loss 0.08466
+
+epoch 2388
+Train Loss 0.08711
+
+epoch 2389
+Train Loss 0.08924
+
+epoch 2390
+Train Loss 0.07805
+
+epoch 2391
+Train Loss 0.09133
+
+epoch 2392
+Train Loss 0.07830
+
+epoch 2393
+Train Loss 0.08560
+
+epoch 2394
+Train Loss 0.08264
+
+epoch 2395
+Train Loss 0.08664
+
+epoch 2396
+Train Loss 0.09493
+
+epoch 2397
+Train Loss 0.07363
+
+epoch 2398
+Train Loss 0.10311
+epoch 2399, Valid Loss 0.07607
+
+epoch 2399
+Train Loss 0.08774
+
+epoch 2400
+Train Loss 0.07711
+
+epoch 2401
+Train Loss 0.07749
+
+epoch 2402
+Train Loss 0.09965
+
+epoch 2403
+Train Loss 0.07597
+
+epoch 2404
+Train Loss 0.07088
+
+epoch 2405
+Train Loss 0.09518
+
+epoch 2406
+Train Loss 0.08185
+
+epoch 2407
+Train Loss 0.09557
+
+epoch 2408
+Train Loss 0.09612
+
+epoch 2409
+Train Loss 0.11249
+
+epoch 2410
+Train Loss 0.08953
+
+epoch 2411
+Train Loss 0.09456
+
+epoch 2412
+Train Loss 0.08736
+
+epoch 2413
+Train Loss 0.08444
+
+epoch 2414
+Train Loss 0.07743
+
+epoch 2415
+Train Loss 0.11119
+
+epoch 2416
+Train Loss 0.08231
+
+epoch 2417
+Train Loss 0.08263
+
+epoch 2418
+Train Loss 0.09817
+
+epoch 2419
+Train Loss 0.07774
+
+epoch 2420
+Train Loss 0.07731
+
+epoch 2421
+Train Loss 0.08336
+
+epoch 2422
+Train Loss 0.07454
+
+epoch 2423
+Train Loss 0.10133
+
+epoch 2424
+Train Loss 0.08405
+
+epoch 2425
+Train Loss 0.11020
+
+epoch 2426
+Train Loss 0.08249
+
+epoch 2427
+Train Loss 0.09431
+
+epoch 2428
+Train Loss 0.07931
+
+epoch 2429
+Train Loss 0.07876
+
+epoch 2430
+Train Loss 0.08928
+
+epoch 2431
+Train Loss 0.07918
+
+epoch 2432
+Train Loss 0.08683
+
+epoch 2433
+Train Loss 0.07664
+
+epoch 2434
+Train Loss 0.09118
+
+epoch 2435
+Train Loss 0.09010
+
+epoch 2436
+Train Loss 0.10117
+
+epoch 2437
+Train Loss 0.08495
+
+epoch 2438
+Train Loss 0.09426
+
+epoch 2439
+Train Loss 0.10533
+
+epoch 2440
+Train Loss 0.08928
+
+epoch 2441
+Train Loss 0.09776
+
+epoch 2442
+Train Loss 0.08782
+
+epoch 2443
+Train Loss 0.09420
+
+epoch 2444
+Train Loss 0.09698
+
+epoch 2445
+Train Loss 0.08679
+
+epoch 2446
+Train Loss 0.09156
+
+epoch 2447
+Train Loss 0.08183
+
+epoch 2448
+Train Loss 0.08970
+
+epoch 2449
+Train Loss 0.10250
+
+epoch 2450
+Train Loss 0.08524
+
+epoch 2451
+Train Loss 0.09958
+
+epoch 2452
+Train Loss 0.08333
+
+epoch 2453
+Train Loss 0.08306
+
+epoch 2454
+Train Loss 0.09968
+
+epoch 2455
+Train Loss 0.10443
+
+epoch 2456
+Train Loss 0.10035
+
+epoch 2457
+Train Loss 0.09329
+
+epoch 2458
+Train Loss 0.08471
+
+epoch 2459
+Train Loss 0.09650
+
+epoch 2460
+Train Loss 0.10706
+
+epoch 2461
+Train Loss 0.09185
+
+epoch 2462
+Train Loss 0.09951
+
+epoch 2463
+Train Loss 0.09398
+
+epoch 2464
+Train Loss 0.06941
+
+epoch 2465
+Train Loss 0.10226
+
+epoch 2466
+Train Loss 0.07954
+
+epoch 2467
+Train Loss 0.08116
+
+epoch 2468
+Train Loss 0.08482
+
+epoch 2469
+Train Loss 0.07461
+
+epoch 2470
+Train Loss 0.11220
+
+epoch 2471
+Train Loss 0.12365
+
+epoch 2472
+Train Loss 0.08014
+
+epoch 2473
+Train Loss 0.07014
+
+epoch 2474
+Train Loss 0.11441
+
+epoch 2475
+Train Loss 0.09930
+
+epoch 2476
+Train Loss 0.07681
+
+epoch 2477
+Train Loss 0.11775
+
+epoch 2478
+Train Loss 0.10430
+
+epoch 2479
+Train Loss 0.12863
+
+epoch 2480
+Train Loss 0.08234
+
+epoch 2481
+Train Loss 0.10059
+
+epoch 2482
+Train Loss 0.09856
+
+epoch 2483
+Train Loss 0.07775
+
+epoch 2484
+Train Loss 0.10267
+
+epoch 2485
+Train Loss 0.08302
+
+epoch 2486
+Train Loss 0.10910
+
+epoch 2487
+Train Loss 0.08851
+
+epoch 2488
+Train Loss 0.08380
+
+epoch 2489
+Train Loss 0.09319
+
+epoch 2490
+Train Loss 0.13409
+
+epoch 2491
+Train Loss 0.07678
+
+epoch 2492
+Train Loss 0.08588
+
+epoch 2493
+Train Loss 0.11125
+
+epoch 2494
+Train Loss 0.10313
+
+epoch 2495
+Train Loss 0.08725
+
+epoch 2496
+Train Loss 0.09410
+
+epoch 2497
+Train Loss 0.10610
+
+epoch 2498
+Train Loss 0.08661
+epoch 2499, Valid Loss 0.08459
+
+epoch 2499
+Train Loss 0.09624
+
+epoch 2500
+Train Loss 0.08754
+
+epoch 2501
+Train Loss 0.09459
+
+epoch 2502
+Train Loss 0.09639
+
+epoch 2503
+Train Loss 0.09069
+
+epoch 2504
+Train Loss 0.09905
+
+epoch 2505
+Train Loss 0.09206
+
+epoch 2506
+Train Loss 0.09243
+
+epoch 2507
+Train Loss 0.09468
+
+epoch 2508
+Train Loss 0.09508
+
+epoch 2509
+Train Loss 0.07785
+
+epoch 2510
+Train Loss 0.08725
+
+epoch 2511
+Train Loss 0.09719
+
+epoch 2512
+Train Loss 0.07498
+
+epoch 2513
+Train Loss 0.07847
+
+epoch 2514
+Train Loss 0.10032
+
+epoch 2515
+Train Loss 0.12656
+
+epoch 2516
+Train Loss 0.08603
+
+epoch 2517
+Train Loss 0.08126
+
+epoch 2518
+Train Loss 0.08901
+
+epoch 2519
+Train Loss 0.08709
+
+epoch 2520
+Train Loss 0.08404
+
+epoch 2521
+Train Loss 0.06901
+
+epoch 2522
+Train Loss 0.07661
+
+epoch 2523
+Train Loss 0.07053
+
+epoch 2524
+Train Loss 0.07160
+
+epoch 2525
+Train Loss 0.06555
+
+epoch 2526
+Train Loss 0.09209
+
+epoch 2527
+Train Loss 0.06693
+
+epoch 2528
+Train Loss 0.06984
+
+epoch 2529
+Train Loss 0.08415
+
+epoch 2530
+Train Loss 0.07621
+
+epoch 2531
+Train Loss 0.07687
+
+epoch 2532
+Train Loss 0.08440
+
+epoch 2533
+Train Loss 0.11592
+
+epoch 2534
+Train Loss 0.12785
+
+epoch 2535
+Train Loss 0.10303
+
+epoch 2536
+Train Loss 0.07951
+
+epoch 2537
+Train Loss 0.08784
+
+epoch 2538
+Train Loss 0.09240
+
+epoch 2539
+Train Loss 0.08746
+
+epoch 2540
+Train Loss 0.09725
+
+epoch 2541
+Train Loss 0.08676
+
+epoch 2542
+Train Loss 0.08386
+
+epoch 2543
+Train Loss 0.07452
+
+epoch 2544
+Train Loss 0.10043
+
+epoch 2545
+Train Loss 0.09957
+
+epoch 2546
+Train Loss 0.10572
+
+epoch 2547
+Train Loss 0.07843
+
+epoch 2548
+Train Loss 0.09835
+
+epoch 2549
+Train Loss 0.09290
+
+epoch 2550
+Train Loss 0.12784
+
+epoch 2551
+Train Loss 0.10142
+
+epoch 2552
+Train Loss 0.11061
+
+epoch 2553
+Train Loss 0.08967
+
+epoch 2554
+Train Loss 0.07425
+
+epoch 2555
+Train Loss 0.09194
+
+epoch 2556
+Train Loss 0.09441
+
+epoch 2557
+Train Loss 0.09972
+
+epoch 2558
+Train Loss 0.07641
+
+epoch 2559
+Train Loss 0.07821
+
+epoch 2560
+Train Loss 0.06711
+
+epoch 2561
+Train Loss 0.08965
+
+epoch 2562
+Train Loss 0.10137
+
+epoch 2563
+Train Loss 0.08518
+
+epoch 2564
+Train Loss 0.11059
+
+epoch 2565
+Train Loss 0.09249
+
+epoch 2566
+Train Loss 0.07381
+
+epoch 2567
+Train Loss 0.06870
+
+epoch 2568
+Train Loss 0.08776
+
+epoch 2569
+Train Loss 0.08088
+
+epoch 2570
+Train Loss 0.07396
+
+epoch 2571
+Train Loss 0.09034
+
+epoch 2572
+Train Loss 0.07428
+
+epoch 2573
+Train Loss 0.07485
+
+epoch 2574
+Train Loss 0.07851
+
+epoch 2575
+Train Loss 0.10444
+
+epoch 2576
+Train Loss 0.07486
+
+epoch 2577
+Train Loss 0.08793
+
+epoch 2578
+Train Loss 0.08216
+
+epoch 2579
+Train Loss 0.09600
+
+epoch 2580
+Train Loss 0.08764
+
+epoch 2581
+Train Loss 0.08501
+
+epoch 2582
+Train Loss 0.08068
+
+epoch 2583
+Train Loss 0.08564
+
+epoch 2584
+Train Loss 0.09723
+
+epoch 2585
+Train Loss 0.07874
+
+epoch 2586
+Train Loss 0.07082
+
+epoch 2587
+Train Loss 0.08778
+
+epoch 2588
+Train Loss 0.07387
+
+epoch 2589
+Train Loss 0.08122
+
+epoch 2590
+Train Loss 0.08887
+
+epoch 2591
+Train Loss 0.08207
+
+epoch 2592
+Train Loss 0.08880
+
+epoch 2593
+Train Loss 0.08466
+
+epoch 2594
+Train Loss 0.08704
+
+epoch 2595
+Train Loss 0.07709
+
+epoch 2596
+Train Loss 0.11463
+
+epoch 2597
+Train Loss 0.08771
+
+epoch 2598
+Train Loss 0.10599
+epoch 2599, Valid Loss 0.08823
+
+epoch 2599
+Train Loss 0.10215
+
+epoch 2600
+Train Loss 0.08518
+
+epoch 2601
+Train Loss 0.09613
+
+epoch 2602
+Train Loss 0.06788
+
+epoch 2603
+Train Loss 0.13381
+
+epoch 2604
+Train Loss 0.07520
+
+epoch 2605
+Train Loss 0.08387
+
+epoch 2606
+Train Loss 0.09277
+
+epoch 2607
+Train Loss 0.08050
+
+epoch 2608
+Train Loss 0.08520
+
+epoch 2609
+Train Loss 0.09205
+
+epoch 2610
+Train Loss 0.07241
+
+epoch 2611
+Train Loss 0.09884
+
+epoch 2612
+Train Loss 0.10433
+
+epoch 2613
+Train Loss 0.07054
+
+epoch 2614
+Train Loss 0.08521
+
+epoch 2615
+Train Loss 0.09529
+
+epoch 2616
+Train Loss 0.09927
+
+epoch 2617
+Train Loss 0.09915
+
+epoch 2618
+Train Loss 0.07336
+
+epoch 2619
+Train Loss 0.08218
+
+epoch 2620
+Train Loss 0.09114
+
+epoch 2621
+Train Loss 0.11289
+
+epoch 2622
+Train Loss 0.07913
+
+epoch 2623
+Train Loss 0.10091
+
+epoch 2624
+Train Loss 0.08682
+
+epoch 2625
+Train Loss 0.08674
+
+epoch 2626
+Train Loss 0.09764
+
+epoch 2627
+Train Loss 0.08769
+
+epoch 2628
+Train Loss 0.08999
+
+epoch 2629
+Train Loss 0.09961
+
+epoch 2630
+Train Loss 0.08028
+
+epoch 2631
+Train Loss 0.08924
+
+epoch 2632
+Train Loss 0.07173
+
+epoch 2633
+Train Loss 0.11042
+
+epoch 2634
+Train Loss 0.08326
+
+epoch 2635
+Train Loss 0.09727
+
+epoch 2636
+Train Loss 0.10212
+
+epoch 2637
+Train Loss 0.10582
+
+epoch 2638
+Train Loss 0.07199
+
+epoch 2639
+Train Loss 0.11486
+
+epoch 2640
+Train Loss 0.09021
+
+epoch 2641
+Train Loss 0.08516
+
+epoch 2642
+Train Loss 0.09225
+
+epoch 2643
+Train Loss 0.09806
+
+epoch 2644
+Train Loss 0.08914
+
+epoch 2645
+Train Loss 0.08985
+
+epoch 2646
+Train Loss 0.10258
+
+epoch 2647
+Train Loss 0.09264
+
+epoch 2648
+Train Loss 0.10311
+
+epoch 2649
+Train Loss 0.09684
+
+epoch 2650
+Train Loss 0.09789
+
+epoch 2651
+Train Loss 0.08123
+
+epoch 2652
+Train Loss 0.07050
+
+epoch 2653
+Train Loss 0.08548
+
+epoch 2654
+Train Loss 0.07723
+
+epoch 2655
+Train Loss 0.08123
+
+epoch 2656
+Train Loss 0.08320
+
+epoch 2657
+Train Loss 0.08430
+
+epoch 2658
+Train Loss 0.08846
+
+epoch 2659
+Train Loss 0.08659
+
+epoch 2660
+Train Loss 0.06864
+
+epoch 2661
+Train Loss 0.10173
+
+epoch 2662
+Train Loss 0.08707
+
+epoch 2663
+Train Loss 0.11923
+
+epoch 2664
+Train Loss 0.07450
+
+epoch 2665
+Train Loss 0.07341
+
+epoch 2666
+Train Loss 0.06918
+
+epoch 2667
+Train Loss 0.09703
+
+epoch 2668
+Train Loss 0.07754
+
+epoch 2669
+Train Loss 0.07965
+
+epoch 2670
+Train Loss 0.08514
+
+epoch 2671
+Train Loss 0.09667
+
+epoch 2672
+Train Loss 0.08367
+
+epoch 2673
+Train Loss 0.07108
+
+epoch 2674
+Train Loss 0.09694
+
+epoch 2675
+Train Loss 0.08188
+
+epoch 2676
+Train Loss 0.09047
+
+epoch 2677
+Train Loss 0.08234
+
+epoch 2678
+Train Loss 0.10457
+
+epoch 2679
+Train Loss 0.09001
+
+epoch 2680
+Train Loss 0.07459
+
+epoch 2681
+Train Loss 0.07482
+
+epoch 2682
+Train Loss 0.05407
+
+epoch 2683
+Train Loss 0.09175
+
+epoch 2684
+Train Loss 0.08800
+
+epoch 2685
+Train Loss 0.08310
+
+epoch 2686
+Train Loss 0.07581
+
+epoch 2687
+Train Loss 0.08162
+
+epoch 2688
+Train Loss 0.08576
+
+epoch 2689
+Train Loss 0.07323
+
+epoch 2690
+Train Loss 0.07398
+
+epoch 2691
+Train Loss 0.08339
+
+epoch 2692
+Train Loss 0.06366
+
+epoch 2693
+Train Loss 0.08920
+
+epoch 2694
+Train Loss 0.09123
+
+epoch 2695
+Train Loss 0.09411
+
+epoch 2696
+Train Loss 0.07808
+
+epoch 2697
+Train Loss 0.07669
+
+epoch 2698
+Train Loss 0.09083
+epoch 2699, Valid Loss 0.07480
+
+epoch 2699
+Train Loss 0.08297
+
+epoch 2700
+Train Loss 0.07833
+
+epoch 2701
+Train Loss 0.07477
+
+epoch 2702
+Train Loss 0.08341
+
+epoch 2703
+Train Loss 0.10443
+
+epoch 2704
+Train Loss 0.09504
+
+epoch 2705
+Train Loss 0.09078
+
+epoch 2706
+Train Loss 0.07724
+
+epoch 2707
+Train Loss 0.08665
+
+epoch 2708
+Train Loss 0.07495
+
+epoch 2709
+Train Loss 0.10081
+
+epoch 2710
+Train Loss 0.14458
+
+epoch 2711
+Train Loss 0.07389
+
+epoch 2712
+Train Loss 0.08184
+
+epoch 2713
+Train Loss 0.08772
+
+epoch 2714
+Train Loss 0.09292
+
+epoch 2715
+Train Loss 0.09463
+
+epoch 2716
+Train Loss 0.09774
+
+epoch 2717
+Train Loss 0.09653
+
+epoch 2718
+Train Loss 0.10115
+
+epoch 2719
+Train Loss 0.08735
+
+epoch 2720
+Train Loss 0.08243
+
+epoch 2721
+Train Loss 0.10644
+
+epoch 2722
+Train Loss 0.09983
+
+epoch 2723
+Train Loss 0.08206
+
+epoch 2724
+Train Loss 0.09134
+
+epoch 2725
+Train Loss 0.07297
+
+epoch 2726
+Train Loss 0.07491
+
+epoch 2727
+Train Loss 0.09105
+
+epoch 2728
+Train Loss 0.07327
+
+epoch 2729
+Train Loss 0.11379
+
+epoch 2730
+Train Loss 0.12624
+
+epoch 2731
+Train Loss 0.11631
+
+epoch 2732
+Train Loss 0.06419
+
+epoch 2733
+Train Loss 0.08766
+
+epoch 2734
+Train Loss 0.09032
+
+epoch 2735
+Train Loss 0.09494
+
+epoch 2736
+Train Loss 0.10144
+
+epoch 2737
+Train Loss 0.09173
+
+epoch 2738
+Train Loss 0.09662
+
+epoch 2739
+Train Loss 0.08160
+
+epoch 2740
+Train Loss 0.07837
+
+epoch 2741
+Train Loss 0.08267
+
+epoch 2742
+Train Loss 0.08285
+
+epoch 2743
+Train Loss 0.08841
+
+epoch 2744
+Train Loss 0.08624
+
+epoch 2745
+Train Loss 0.08765
+
+epoch 2746
+Train Loss 0.09659
+
+epoch 2747
+Train Loss 0.09291
+
+epoch 2748
+Train Loss 0.08065
+
+epoch 2749
+Train Loss 0.08851
+
+epoch 2750
+Train Loss 0.06603
+
+epoch 2751
+Train Loss 0.07695
+
+epoch 2752
+Train Loss 0.07962
+
+epoch 2753
+Train Loss 0.08449
+
+epoch 2754
+Train Loss 0.08627
+
+epoch 2755
+Train Loss 0.08835
+
+epoch 2756
+Train Loss 0.07210
+
+epoch 2757
+Train Loss 0.07866
+
+epoch 2758
+Train Loss 0.08732
+
+epoch 2759
+Train Loss 0.10460
+
+epoch 2760
+Train Loss 0.08249
+
+epoch 2761
+Train Loss 0.07763
+
+epoch 2762
+Train Loss 0.10213
+
+epoch 2763
+Train Loss 0.07924
+
+epoch 2764
+Train Loss 0.07699
+
+epoch 2765
+Train Loss 0.07807
+
+epoch 2766
+Train Loss 0.07965
+
+epoch 2767
+Train Loss 0.07352
+
+epoch 2768
+Train Loss 0.08984
+
+epoch 2769
+Train Loss 0.08307
+
+epoch 2770
+Train Loss 0.07557
+
+epoch 2771
+Train Loss 0.07890
+
+epoch 2772
+Train Loss 0.08818
+
+epoch 2773
+Train Loss 0.08474
+
+epoch 2774
+Train Loss 0.08483
+
+epoch 2775
+Train Loss 0.10351
+
+epoch 2776
+Train Loss 0.09527
+
+epoch 2777
+Train Loss 0.08550
+
+epoch 2778
+Train Loss 0.09420
+
+epoch 2779
+Train Loss 0.07349
+
+epoch 2780
+Train Loss 0.07879
+
+epoch 2781
+Train Loss 0.08093
+
+epoch 2782
+Train Loss 0.09713
+
+epoch 2783
+Train Loss 0.07850
+
+epoch 2784
+Train Loss 0.06852
+
+epoch 2785
+Train Loss 0.09131
+
+epoch 2786
+Train Loss 0.09516
+
+epoch 2787
+Train Loss 0.07268
+
+epoch 2788
+Train Loss 0.07512
+
+epoch 2789
+Train Loss 0.09114
+
+epoch 2790
+Train Loss 0.08093
+
+epoch 2791
+Train Loss 0.08941
+
+epoch 2792
+Train Loss 0.07188
+
+epoch 2793
+Train Loss 0.08857
+
+epoch 2794
+Train Loss 0.06644
+
+epoch 2795
+Train Loss 0.08903
+
+epoch 2796
+Train Loss 0.08770
+
+epoch 2797
+Train Loss 0.09206
+
+epoch 2798
+Train Loss 0.08484
+epoch 2799, Valid Loss 0.08093
+
+epoch 2799
+Train Loss 0.07854
+
+epoch 2800
+Train Loss 0.06965
+
+epoch 2801
+Train Loss 0.09845
+
+epoch 2802
+Train Loss 0.07570
+
+epoch 2803
+Train Loss 0.07723
+
+epoch 2804
+Train Loss 0.09007
+
+epoch 2805
+Train Loss 0.07522
+
+epoch 2806
+Train Loss 0.08994
+
+epoch 2807
+Train Loss 0.07786
+
+epoch 2808
+Train Loss 0.08850
+
+epoch 2809
+Train Loss 0.08370
+
+epoch 2810
+Train Loss 0.08744
+
+epoch 2811
+Train Loss 0.07084
+
+epoch 2812
+Train Loss 0.07226
+
+epoch 2813
+Train Loss 0.08971
+
+epoch 2814
+Train Loss 0.09636
+
+epoch 2815
+Train Loss 0.08300
+
+epoch 2816
+Train Loss 0.07168
+
+epoch 2817
+Train Loss 0.06916
+
+epoch 2818
+Train Loss 0.08192
+
+epoch 2819
+Train Loss 0.09695
+
+epoch 2820
+Train Loss 0.08362
+
+epoch 2821
+Train Loss 0.07975
+
+epoch 2822
+Train Loss 0.08148
+
+epoch 2823
+Train Loss 0.09340
+
+epoch 2824
+Train Loss 0.08440
+
+epoch 2825
+Train Loss 0.09808
+
+epoch 2826
+Train Loss 0.09000
+
+epoch 2827
+Train Loss 0.07491
+
+epoch 2828
+Train Loss 0.10528
+
+epoch 2829
+Train Loss 0.10430
+
+epoch 2830
+Train Loss 0.08814
+
+epoch 2831
+Train Loss 0.09424
+
+epoch 2832
+Train Loss 0.10308
+
+epoch 2833
+Train Loss 0.08728
+
+epoch 2834
+Train Loss 0.07235
+
+epoch 2835
+Train Loss 0.08605
+
+epoch 2836
+Train Loss 0.07027
+
+epoch 2837
+Train Loss 0.07633
+
+epoch 2838
+Train Loss 0.09348
+
+epoch 2839
+Train Loss 0.09567
+
+epoch 2840
+Train Loss 0.08120
+
+epoch 2841
+Train Loss 0.08515
+
+epoch 2842
+Train Loss 0.07363
+
+epoch 2843
+Train Loss 0.07101
+
+epoch 2844
+Train Loss 0.07861
+
+epoch 2845
+Train Loss 0.07561
+
+epoch 2846
+Train Loss 0.09211
+
+epoch 2847
+Train Loss 0.08868
+
+epoch 2848
+Train Loss 0.09122
+
+epoch 2849
+Train Loss 0.08007
+
+epoch 2850
+Train Loss 0.09343
+
+epoch 2851
+Train Loss 0.09474
+
+epoch 2852
+Train Loss 0.09667
+
+epoch 2853
+Train Loss 0.07713
+
+epoch 2854
+Train Loss 0.08017
+
+epoch 2855
+Train Loss 0.09846
+
+epoch 2856
+Train Loss 0.09422
+
+epoch 2857
+Train Loss 0.07231
+
+epoch 2858
+Train Loss 0.06828
+
+epoch 2859
+Train Loss 0.08180
+
+epoch 2860
+Train Loss 0.08487
+
+epoch 2861
+Train Loss 0.07609
+
+epoch 2862
+Train Loss 0.07813
+
+epoch 2863
+Train Loss 0.09204
+
+epoch 2864
+Train Loss 0.08452
+
+epoch 2865
+Train Loss 0.07394
+
+epoch 2866
+Train Loss 0.07217
+
+epoch 2867
+Train Loss 0.06710
+
+epoch 2868
+Train Loss 0.08127
+
+epoch 2869
+Train Loss 0.09613
+
+epoch 2870
+Train Loss 0.08183
+
+epoch 2871
+Train Loss 0.07348
+
+epoch 2872
+Train Loss 0.08119
+
+epoch 2873
+Train Loss 0.07821
+
+epoch 2874
+Train Loss 0.09241
+
+epoch 2875
+Train Loss 0.07765
+
+epoch 2876
+Train Loss 0.08355
+
+epoch 2877
+Train Loss 0.08764
+
+epoch 2878
+Train Loss 0.09934
+
+epoch 2879
+Train Loss 0.08725
+
+epoch 2880
+Train Loss 0.11158
+
+epoch 2881
+Train Loss 0.09800
+
+epoch 2882
+Train Loss 0.08702
+
+epoch 2883
+Train Loss 0.09775
+
+epoch 2884
+Train Loss 0.08469
+
+epoch 2885
+Train Loss 0.05986
+
+epoch 2886
+Train Loss 0.10289
+
+epoch 2887
+Train Loss 0.08650
+
+epoch 2888
+Train Loss 0.09202
+
+epoch 2889
+Train Loss 0.08163
+
+epoch 2890
+Train Loss 0.08202
+
+epoch 2891
+Train Loss 0.11061
+
+epoch 2892
+Train Loss 0.07309
+
+epoch 2893
+Train Loss 0.07787
+
+epoch 2894
+Train Loss 0.09800
+
+epoch 2895
+Train Loss 0.08313
+
+epoch 2896
+Train Loss 0.09985
+
+epoch 2897
+Train Loss 0.08936
+
+epoch 2898
+Train Loss 0.09442
+epoch 2899, Valid Loss 0.07783
+
+epoch 2899
+Train Loss 0.08595
+
+epoch 2900
+Train Loss 0.08635
+
+epoch 2901
+Train Loss 0.09859
+
+epoch 2902
+Train Loss 0.08911
+
+epoch 2903
+Train Loss 0.08785
+
+epoch 2904
+Train Loss 0.08166
+
+epoch 2905
+Train Loss 0.08876
+
+epoch 2906
+Train Loss 0.08220
+
+epoch 2907
+Train Loss 0.06891
+
+epoch 2908
+Train Loss 0.09585
+
+epoch 2909
+Train Loss 0.12520
+
+epoch 2910
+Train Loss 0.08970
+
+epoch 2911
+Train Loss 0.11927
+
+epoch 2912
+Train Loss 0.09018
+
+epoch 2913
+Train Loss 0.09625
+
+epoch 2914
+Train Loss 0.06139
+
+epoch 2915
+Train Loss 0.11382
+
+epoch 2916
+Train Loss 0.08987
+
+epoch 2917
+Train Loss 0.09703
+
+epoch 2918
+Train Loss 0.09686
+
+epoch 2919
+Train Loss 0.09514
+
+epoch 2920
+Train Loss 0.06964
+
+epoch 2921
+Train Loss 0.06980
+
+epoch 2922
+Train Loss 0.08844
+
+epoch 2923
+Train Loss 0.08984
+
+epoch 2924
+Train Loss 0.07215
+
+epoch 2925
+Train Loss 0.10142
+
+epoch 2926
+Train Loss 0.08089
+
+epoch 2927
+Train Loss 0.08269
+
+epoch 2928
+Train Loss 0.07392
+
+epoch 2929
+Train Loss 0.07827
+
+epoch 2930
+Train Loss 0.08882
+
+epoch 2931
+Train Loss 0.08586
+
+epoch 2932
+Train Loss 0.08254
+
+epoch 2933
+Train Loss 0.06133
+
+epoch 2934
+Train Loss 0.07010
+
+epoch 2935
+Train Loss 0.12142
+
+epoch 2936
+Train Loss 0.08815
+
+epoch 2937
+Train Loss 0.08619
+
+epoch 2938
+Train Loss 0.07616
+
+epoch 2939
+Train Loss 0.09867
+
+epoch 2940
+Train Loss 0.08354
+
+epoch 2941
+Train Loss 0.10963
+
+epoch 2942
+Train Loss 0.09436
+
+epoch 2943
+Train Loss 0.09209
+
+epoch 2944
+Train Loss 0.08925
+
+epoch 2945
+Train Loss 0.06314
+
+epoch 2946
+Train Loss 0.09369
+
+epoch 2947
+Train Loss 0.07937
+
+epoch 2948
+Train Loss 0.08427
+
+epoch 2949
+Train Loss 0.07121
+
+epoch 2950
+Train Loss 0.10909
+
+epoch 2951
+Train Loss 0.10250
+
+epoch 2952
+Train Loss 0.09322
+
+epoch 2953
+Train Loss 0.08928
+
+epoch 2954
+Train Loss 0.09363
+
+epoch 2955
+Train Loss 0.10050
+
+epoch 2956
+Train Loss 0.10569
+
+epoch 2957
+Train Loss 0.07429
+
+epoch 2958
+Train Loss 0.09010
+
+epoch 2959
+Train Loss 0.08085
+
+epoch 2960
+Train Loss 0.09329
+
+epoch 2961
+Train Loss 0.11033
+
+epoch 2962
+Train Loss 0.07628
+
+epoch 2963
+Train Loss 0.09251
+
+epoch 2964
+Train Loss 0.08726
+
+epoch 2965
+Train Loss 0.08963
+
+epoch 2966
+Train Loss 0.08933
+
+epoch 2967
+Train Loss 0.10565
+
+epoch 2968
+Train Loss 0.10994
+
+epoch 2969
+Train Loss 0.07699
+
+epoch 2970
+Train Loss 0.08268
+
+epoch 2971
+Train Loss 0.07452
+
+epoch 2972
+Train Loss 0.07820
+
+epoch 2973
+Train Loss 0.07658
+
+epoch 2974
+Train Loss 0.07507
+
+epoch 2975
+Train Loss 0.10027
+
+epoch 2976
+Train Loss 0.07091
+
+epoch 2977
+Train Loss 0.12831
+
+epoch 2978
+Train Loss 0.07943
+
+epoch 2979
+Train Loss 0.09715
+
+epoch 2980
+Train Loss 0.07401
+
+epoch 2981
+Train Loss 0.07142
+
+epoch 2982
+Train Loss 0.08645
+
+epoch 2983
+Train Loss 0.08299
+
+epoch 2984
+Train Loss 0.09402
+
+epoch 2985
+Train Loss 0.08403
+
+epoch 2986
+Train Loss 0.08093
+
+epoch 2987
+Train Loss 0.10760
+
+epoch 2988
+Train Loss 0.07426
+
+epoch 2989
+Train Loss 0.06288
+
+epoch 2990
+Train Loss 0.08288
+
+epoch 2991
+Train Loss 0.08088
+
+epoch 2992
+Train Loss 0.07284
+
+epoch 2993
+Train Loss 0.08313
+
+epoch 2994
+Train Loss 0.07435
+
+epoch 2995
+Train Loss 0.08891
+
+epoch 2996
+Train Loss 0.08572
+
+epoch 2997
+Train Loss 0.07508
+
+epoch 2998
+Train Loss 0.08013
+epoch 2999, Valid Loss 0.08279
+
+epoch 2999
+Train Loss 0.07288
+
+epoch 3000
+Train Loss 0.06914
+
+epoch 3001
+Train Loss 0.07868
+
+epoch 3002
+Train Loss 0.08724
+
+epoch 3003
+Train Loss 0.08272
+
+epoch 3004
+Train Loss 0.08308
+
+epoch 3005
+Train Loss 0.07419
+
+epoch 3006
+Train Loss 0.10298
+
+epoch 3007
+Train Loss 0.08771
+
+epoch 3008
+Train Loss 0.09142
+
+epoch 3009
+Train Loss 0.09519
+
+epoch 3010
+Train Loss 0.06198
+
+epoch 3011
+Train Loss 0.08618
+
+epoch 3012
+Train Loss 0.08508
+
+epoch 3013
+Train Loss 0.07247
+
+epoch 3014
+Train Loss 0.07286
+
+epoch 3015
+Train Loss 0.10151
+
+epoch 3016
+Train Loss 0.06945
+
+epoch 3017
+Train Loss 0.07537
+
+epoch 3018
+Train Loss 0.09115
+
+epoch 3019
+Train Loss 0.09026
+
+epoch 3020
+Train Loss 0.08100
+
+epoch 3021
+Train Loss 0.10156
+
+epoch 3022
+Train Loss 0.08985
+
+epoch 3023
+Train Loss 0.07878
+
+epoch 3024
+Train Loss 0.08534
+
+epoch 3025
+Train Loss 0.08685
+
+epoch 3026
+Train Loss 0.07582
+
+epoch 3027
+Train Loss 0.07383
+
+epoch 3028
+Train Loss 0.08663
+
+epoch 3029
+Train Loss 0.07385
+
+epoch 3030
+Train Loss 0.08783
+
+epoch 3031
+Train Loss 0.08749
+
+epoch 3032
+Train Loss 0.06689
+
+epoch 3033
+Train Loss 0.07157
+
+epoch 3034
+Train Loss 0.10993
+
+epoch 3035
+Train Loss 0.07758
+
+epoch 3036
+Train Loss 0.11346
+
+epoch 3037
+Train Loss 0.09196
+
+epoch 3038
+Train Loss 0.10648
+
+epoch 3039
+Train Loss 0.09357
+
+epoch 3040
+Train Loss 0.09218
+
+epoch 3041
+Train Loss 0.08661
+
+epoch 3042
+Train Loss 0.08021
+
+epoch 3043
+Train Loss 0.07771
+
+epoch 3044
+Train Loss 0.09482
+
+epoch 3045
+Train Loss 0.06055
+
+epoch 3046
+Train Loss 0.07694
+
+epoch 3047
+Train Loss 0.11206
+
+epoch 3048
+Train Loss 0.08784
+
+epoch 3049
+Train Loss 0.08572
+
+epoch 3050
+Train Loss 0.07839
+
+epoch 3051
+Train Loss 0.10353
+
+epoch 3052
+Train Loss 0.10244
+
+epoch 3053
+Train Loss 0.10138
+
+epoch 3054
+Train Loss 0.08418
+
+epoch 3055
+Train Loss 0.07038
+
+epoch 3056
+Train Loss 0.08867
+
+epoch 3057
+Train Loss 0.08301
+
+epoch 3058
+Train Loss 0.08937
+
+epoch 3059
+Train Loss 0.07630
+
+epoch 3060
+Train Loss 0.10376
+
+epoch 3061
+Train Loss 0.09120
+
+epoch 3062
+Train Loss 0.06271
+
+epoch 3063
+Train Loss 0.07651
+
+epoch 3064
+Train Loss 0.08441
+
+epoch 3065
+Train Loss 0.10131
+
+epoch 3066
+Train Loss 0.07298
+
+epoch 3067
+Train Loss 0.10163
+
+epoch 3068
+Train Loss 0.09168
+
+epoch 3069
+Train Loss 0.07112
+
+epoch 3070
+Train Loss 0.07994
+
+epoch 3071
+Train Loss 0.08204
+
+epoch 3072
+Train Loss 0.08622
+
+epoch 3073
+Train Loss 0.07825
+
+epoch 3074
+Train Loss 0.07285
+
+epoch 3075
+Train Loss 0.09974
+
+epoch 3076
+Train Loss 0.08277
+
+epoch 3077
+Train Loss 0.07691
+
+epoch 3078
+Train Loss 0.08561
+
+epoch 3079
+Train Loss 0.08181
+
+epoch 3080
+Train Loss 0.08237
+
+epoch 3081
+Train Loss 0.06444
+
+epoch 3082
+Train Loss 0.09810
+
+epoch 3083
+Train Loss 0.06874
+
+epoch 3084
+Train Loss 0.09137
+
+epoch 3085
+Train Loss 0.08464
+
+epoch 3086
+Train Loss 0.07701
+
+epoch 3087
+Train Loss 0.06034
+
+epoch 3088
+Train Loss 0.08819
+
+epoch 3089
+Train Loss 0.08502
+
+epoch 3090
+Train Loss 0.08346
+
+epoch 3091
+Train Loss 0.07950
+
+epoch 3092
+Train Loss 0.08057
+
+epoch 3093
+Train Loss 0.07363
+
+epoch 3094
+Train Loss 0.09414
+
+epoch 3095
+Train Loss 0.05885
+
+epoch 3096
+Train Loss 0.08186
+
+epoch 3097
+Train Loss 0.07102
+
+epoch 3098
+Train Loss 0.09286
+epoch 3099, Valid Loss 0.07054
+
+epoch 3099
+Train Loss 0.08915
+
+epoch 3100
+Train Loss 0.09092
+
+epoch 3101
+Train Loss 0.07002
+
+epoch 3102
+Train Loss 0.08810
+
+epoch 3103
+Train Loss 0.07414
+
+epoch 3104
+Train Loss 0.08242
+
+epoch 3105
+Train Loss 0.08619
+
+epoch 3106
+Train Loss 0.09726
+
+epoch 3107
+Train Loss 0.07076
+
+epoch 3108
+Train Loss 0.07983
+
+epoch 3109
+Train Loss 0.08924
+
+epoch 3110
+Train Loss 0.09549
+
+epoch 3111
+Train Loss 0.07911
+
+epoch 3112
+Train Loss 0.07428
+
+epoch 3113
+Train Loss 0.07646
+
+epoch 3114
+Train Loss 0.09323
+
+epoch 3115
+Train Loss 0.08923
+
+epoch 3116
+Train Loss 0.08696
+
+epoch 3117
+Train Loss 0.09042
+
+epoch 3118
+Train Loss 0.08415
+
+epoch 3119
+Train Loss 0.10758
+
+epoch 3120
+Train Loss 0.08213
+
+epoch 3121
+Train Loss 0.09311
+
+epoch 3122
+Train Loss 0.07630
+
+epoch 3123
+Train Loss 0.07761
+
+epoch 3124
+Train Loss 0.06546
+
+epoch 3125
+Train Loss 0.09089
+
+epoch 3126
+Train Loss 0.07974
+
+epoch 3127
+Train Loss 0.08152
+
+epoch 3128
+Train Loss 0.07791
+
+epoch 3129
+Train Loss 0.06323
+
+epoch 3130
+Train Loss 0.07676
+
+epoch 3131
+Train Loss 0.09189
+
+epoch 3132
+Train Loss 0.08138
+
+epoch 3133
+Train Loss 0.10893
+
+epoch 3134
+Train Loss 0.10150
+
+epoch 3135
+Train Loss 0.08497
+
+epoch 3136
+Train Loss 0.08305
+
+epoch 3137
+Train Loss 0.08330
+
+epoch 3138
+Train Loss 0.07526
+
+epoch 3139
+Train Loss 0.07667
+
+epoch 3140
+Train Loss 0.08508
+
+epoch 3141
+Train Loss 0.08102
+
+epoch 3142
+Train Loss 0.08597
+
+epoch 3143
+Train Loss 0.08056
+
+epoch 3144
+Train Loss 0.08134
+
+epoch 3145
+Train Loss 0.08258
+
+epoch 3146
+Train Loss 0.08098
+
+epoch 3147
+Train Loss 0.07292
+
+epoch 3148
+Train Loss 0.09745
+
+epoch 3149
+Train Loss 0.10111
+
+epoch 3150
+Train Loss 0.07778
+
+epoch 3151
+Train Loss 0.09986
+
+epoch 3152
+Train Loss 0.10494
+
+epoch 3153
+Train Loss 0.08952
+
+epoch 3154
+Train Loss 0.08542
+
+epoch 3155
+Train Loss 0.07332
+
+epoch 3156
+Train Loss 0.08125
+
+epoch 3157
+Train Loss 0.08989
+
+epoch 3158
+Train Loss 0.08455
+
+epoch 3159
+Train Loss 0.07564
+
+epoch 3160
+Train Loss 0.07906
+
+epoch 3161
+Train Loss 0.06658
+
+epoch 3162
+Train Loss 0.07910
+
+epoch 3163
+Train Loss 0.07612
+
+epoch 3164
+Train Loss 0.08435
+
+epoch 3165
+Train Loss 0.08651
+
+epoch 3166
+Train Loss 0.08849
+
+epoch 3167
+Train Loss 0.09527
+
+epoch 3168
+Train Loss 0.08276
+
+epoch 3169
+Train Loss 0.08143
+
+epoch 3170
+Train Loss 0.09392
+
+epoch 3171
+Train Loss 0.07516
+
+epoch 3172
+Train Loss 0.07827
+
+epoch 3173
+Train Loss 0.08206
+
+epoch 3174
+Train Loss 0.08595
+
+epoch 3175
+Train Loss 0.08226
+
+epoch 3176
+Train Loss 0.08466
+
+epoch 3177
+Train Loss 0.06911
+
+epoch 3178
+Train Loss 0.07501
+
+epoch 3179
+Train Loss 0.07787
+
+epoch 3180
+Train Loss 0.07913
+
+epoch 3181
+Train Loss 0.08210
+
+epoch 3182
+Train Loss 0.08185
+
+epoch 3183
+Train Loss 0.07298
+
+epoch 3184
+Train Loss 0.07076
+
+epoch 3185
+Train Loss 0.07655
+
+epoch 3186
+Train Loss 0.07383
+
+epoch 3187
+Train Loss 0.08993
+
+epoch 3188
+Train Loss 0.09871
+
+epoch 3189
+Train Loss 0.09106
+
+epoch 3190
+Train Loss 0.07037
+
+epoch 3191
+Train Loss 0.10044
+
+epoch 3192
+Train Loss 0.07588
+
+epoch 3193
+Train Loss 0.09922
+
+epoch 3194
+Train Loss 0.09423
+
+epoch 3195
+Train Loss 0.09749
+
+epoch 3196
+Train Loss 0.09421
+
+epoch 3197
+Train Loss 0.08963
+
+epoch 3198
+Train Loss 0.08216
+epoch 3199, Valid Loss 0.08040
+
+epoch 3199
+Train Loss 0.07332
+
+epoch 3200
+Train Loss 0.09802
+
+epoch 3201
+Train Loss 0.06903
+
+epoch 3202
+Train Loss 0.09758
+
+epoch 3203
+Train Loss 0.06324
+
+epoch 3204
+Train Loss 0.07268
+
+epoch 3205
+Train Loss 0.09757
+
+epoch 3206
+Train Loss 0.07045
+
+epoch 3207
+Train Loss 0.07888
+
+epoch 3208
+Train Loss 0.07264
+
+epoch 3209
+Train Loss 0.06758
+
+epoch 3210
+Train Loss 0.07867
+
+epoch 3211
+Train Loss 0.07390
+
+epoch 3212
+Train Loss 0.09389
+
+epoch 3213
+Train Loss 0.07244
+
+epoch 3214
+Train Loss 0.07716
+
+epoch 3215
+Train Loss 0.09904
+
+epoch 3216
+Train Loss 0.07309
+
+epoch 3217
+Train Loss 0.07297
+
+epoch 3218
+Train Loss 0.07511
+
+epoch 3219
+Train Loss 0.07769
+
+epoch 3220
+Train Loss 0.06670
+
+epoch 3221
+Train Loss 0.07896
+
+epoch 3222
+Train Loss 0.07769
+
+epoch 3223
+Train Loss 0.08324
+
+epoch 3224
+Train Loss 0.08431
+
+epoch 3225
+Train Loss 0.09130
+
+epoch 3226
+Train Loss 0.10752
+
+epoch 3227
+Train Loss 0.08148
+
+epoch 3228
+Train Loss 0.08666
+
+epoch 3229
+Train Loss 0.08131
+
+epoch 3230
+Train Loss 0.07283
+
+epoch 3231
+Train Loss 0.09728
+
+epoch 3232
+Train Loss 0.07401
+
+epoch 3233
+Train Loss 0.07690
+
+epoch 3234
+Train Loss 0.09390
+
+epoch 3235
+Train Loss 0.07930
+
+epoch 3236
+Train Loss 0.08095
+
+epoch 3237
+Train Loss 0.08840
+
+epoch 3238
+Train Loss 0.07528
+
+epoch 3239
+Train Loss 0.09326
+
+epoch 3240
+Train Loss 0.08025
+
+epoch 3241
+Train Loss 0.09879
+
+epoch 3242
+Train Loss 0.08803
+
+epoch 3243
+Train Loss 0.10139
+
+epoch 3244
+Train Loss 0.08490
+
+epoch 3245
+Train Loss 0.08787
+
+epoch 3246
+Train Loss 0.08888
+
+epoch 3247
+Train Loss 0.07513
+
+epoch 3248
+Train Loss 0.09319
+
+epoch 3249
+Train Loss 0.09024
+
+epoch 3250
+Train Loss 0.09087
+
+epoch 3251
+Train Loss 0.09568
+
+epoch 3252
+Train Loss 0.09541
+
+epoch 3253
+Train Loss 0.08667
+
+epoch 3254
+Train Loss 0.08288
+
+epoch 3255
+Train Loss 0.08021
+
+epoch 3256
+Train Loss 0.06920
+
+epoch 3257
+Train Loss 0.09861
+
+epoch 3258
+Train Loss 0.10201
+
+epoch 3259
+Train Loss 0.07917
+
+epoch 3260
+Train Loss 0.06987
+
+epoch 3261
+Train Loss 0.08025
+
+epoch 3262
+Train Loss 0.07198
+
+epoch 3263
+Train Loss 0.06393
+
+epoch 3264
+Train Loss 0.07794
+
+epoch 3265
+Train Loss 0.07634
+
+epoch 3266
+Train Loss 0.06542
+
+epoch 3267
+Train Loss 0.08388
+
+epoch 3268
+Train Loss 0.08486
+
+epoch 3269
+Train Loss 0.06145
+
+epoch 3270
+Train Loss 0.09996
+
+epoch 3271
+Train Loss 0.08371
+
+epoch 3272
+Train Loss 0.09666
+
+epoch 3273
+Train Loss 0.06855
+
+epoch 3274
+Train Loss 0.07541
+
+epoch 3275
+Train Loss 0.08475
+
+epoch 3276
+Train Loss 0.09240
+
+epoch 3277
+Train Loss 0.09269
+
+epoch 3278
+Train Loss 0.07395
+
+epoch 3279
+Train Loss 0.07420
+
+epoch 3280
+Train Loss 0.08198
+
+epoch 3281
+Train Loss 0.07909
+
+epoch 3282
+Train Loss 0.07726
+
+epoch 3283
+Train Loss 0.09147
+
+epoch 3284
+Train Loss 0.08142
+
+epoch 3285
+Train Loss 0.06134
+
+epoch 3286
+Train Loss 0.09349
+
+epoch 3287
+Train Loss 0.09231
+
+epoch 3288
+Train Loss 0.08576
+
+epoch 3289
+Train Loss 0.08598
+
+epoch 3290
+Train Loss 0.10228
+
+epoch 3291
+Train Loss 0.07527
+
+epoch 3292
+Train Loss 0.06879
+
+epoch 3293
+Train Loss 0.06916
+
+epoch 3294
+Train Loss 0.06271
+
+epoch 3295
+Train Loss 0.07267
+
+epoch 3296
+Train Loss 0.07307
+
+epoch 3297
+Train Loss 0.07949
+
+epoch 3298
+Train Loss 0.06437
+epoch 3299, Valid Loss 0.07172
+
+epoch 3299
+Train Loss 0.09915
+
+epoch 3300
+Train Loss 0.08498
+
+epoch 3301
+Train Loss 0.08076
+
+epoch 3302
+Train Loss 0.07777
+
+epoch 3303
+Train Loss 0.07825
+
+epoch 3304
+Train Loss 0.08069
+
+epoch 3305
+Train Loss 0.07589
+
+epoch 3306
+Train Loss 0.07745
+
+epoch 3307
+Train Loss 0.07123
+
+epoch 3308
+Train Loss 0.09252
+
+epoch 3309
+Train Loss 0.06875
+
+epoch 3310
+Train Loss 0.08314
+
+epoch 3311
+Train Loss 0.08134
+
+epoch 3312
+Train Loss 0.08479
+
+epoch 3313
+Train Loss 0.06592
+
+epoch 3314
+Train Loss 0.07447
+
+epoch 3315
+Train Loss 0.07861
+
+epoch 3316
+Train Loss 0.08113
+
+epoch 3317
+Train Loss 0.08492
+
+epoch 3318
+Train Loss 0.08361
+
+epoch 3319
+Train Loss 0.08704
+
+epoch 3320
+Train Loss 0.08008
+
+epoch 3321
+Train Loss 0.06892
+
+epoch 3322
+Train Loss 0.10808
+
+epoch 3323
+Train Loss 0.05531
+
+epoch 3324
+Train Loss 0.09345
+
+epoch 3325
+Train Loss 0.06173
+
+epoch 3326
+Train Loss 0.08059
+
+epoch 3327
+Train Loss 0.06483
+
+epoch 3328
+Train Loss 0.09794
+
+epoch 3329
+Train Loss 0.07248
+
+epoch 3330
+Train Loss 0.07658
+
+epoch 3331
+Train Loss 0.08247
+
+epoch 3332
+Train Loss 0.08171
+
+epoch 3333
+Train Loss 0.06966
+
+epoch 3334
+Train Loss 0.07605
+
+epoch 3335
+Train Loss 0.07781
+
+epoch 3336
+Train Loss 0.07181
+
+epoch 3337
+Train Loss 0.10156
+
+epoch 3338
+Train Loss 0.07600
+
+epoch 3339
+Train Loss 0.06864
+
+epoch 3340
+Train Loss 0.05280
+
+epoch 3341
+Train Loss 0.08985
+
+epoch 3342
+Train Loss 0.07903
+
+epoch 3343
+Train Loss 0.06375
+
+epoch 3344
+Train Loss 0.09328
+
+epoch 3345
+Train Loss 0.07565
+
+epoch 3346
+Train Loss 0.08057
+
+epoch 3347
+Train Loss 0.06956
+
+epoch 3348
+Train Loss 0.08742
+
+epoch 3349
+Train Loss 0.07892
+
+epoch 3350
+Train Loss 0.07406
+
+epoch 3351
+Train Loss 0.07345
+
+epoch 3352
+Train Loss 0.07665
+
+epoch 3353
+Train Loss 0.07791
+
+epoch 3354
+Train Loss 0.08758
+
+epoch 3355
+Train Loss 0.07430
+
+epoch 3356
+Train Loss 0.07578
+
+epoch 3357
+Train Loss 0.09815
+
+epoch 3358
+Train Loss 0.09188
+
+epoch 3359
+Train Loss 0.07681
+
+epoch 3360
+Train Loss 0.09181
+
+epoch 3361
+Train Loss 0.07975
+
+epoch 3362
+Train Loss 0.08355
+
+epoch 3363
+Train Loss 0.07283
+
+epoch 3364
+Train Loss 0.06806
+
+epoch 3365
+Train Loss 0.08623
+
+epoch 3366
+Train Loss 0.08727
+
+epoch 3367
+Train Loss 0.08592
+
+epoch 3368
+Train Loss 0.07710
+
+epoch 3369
+Train Loss 0.08177
+
+epoch 3370
+Train Loss 0.08237
+
+epoch 3371
+Train Loss 0.08352
+
+epoch 3372
+Train Loss 0.08109
+
+epoch 3373
+Train Loss 0.06519
+
+epoch 3374
+Train Loss 0.07050
+
+epoch 3375
+Train Loss 0.09396
+
+epoch 3376
+Train Loss 0.06627
+
+epoch 3377
+Train Loss 0.10170
+
+epoch 3378
+Train Loss 0.08559
+
+epoch 3379
+Train Loss 0.08108
+
+epoch 3380
+Train Loss 0.09286
+
+epoch 3381
+Train Loss 0.08905
+
+epoch 3382
+Train Loss 0.09301
+
+epoch 3383
+Train Loss 0.08499
+
+epoch 3384
+Train Loss 0.07407
+
+epoch 3385
+Train Loss 0.08459
+
+epoch 3386
+Train Loss 0.10009
+
+epoch 3387
+Train Loss 0.10764
+
+epoch 3388
+Train Loss 0.06593
+
+epoch 3389
+Train Loss 0.09068
+
+epoch 3390
+Train Loss 0.08102
+
+epoch 3391
+Train Loss 0.06585
+
+epoch 3392
+Train Loss 0.06542
+
+epoch 3393
+Train Loss 0.09446
+
+epoch 3394
+Train Loss 0.08412
+
+epoch 3395
+Train Loss 0.08100
+
+epoch 3396
+Train Loss 0.07957
+
+epoch 3397
+Train Loss 0.09168
+
+epoch 3398
+Train Loss 0.09099
+epoch 3399, Valid Loss 0.07445
+
+epoch 3399
+Train Loss 0.11796
+
+epoch 3400
+Train Loss 0.07263
+
+epoch 3401
+Train Loss 0.08315
+
+epoch 3402
+Train Loss 0.08399
+
+epoch 3403
+Train Loss 0.06784
+
+epoch 3404
+Train Loss 0.08582
+
+epoch 3405
+Train Loss 0.09379
+
+epoch 3406
+Train Loss 0.07695
+
+epoch 3407
+Train Loss 0.07236
+
+epoch 3408
+Train Loss 0.08080
+
+epoch 3409
+Train Loss 0.06919
+
+epoch 3410
+Train Loss 0.08081
+
+epoch 3411
+Train Loss 0.07155
+
+epoch 3412
+Train Loss 0.06784
+
+epoch 3413
+Train Loss 0.08330
+
+epoch 3414
+Train Loss 0.09366
+
+epoch 3415
+Train Loss 0.06862
+
+epoch 3416
+Train Loss 0.07029
+
+epoch 3417
+Train Loss 0.08899
+
+epoch 3418
+Train Loss 0.05780
+
+epoch 3419
+Train Loss 0.07577
+
+epoch 3420
+Train Loss 0.07285
+
+epoch 3421
+Train Loss 0.09239
+
+epoch 3422
+Train Loss 0.07110
+
+epoch 3423
+Train Loss 0.07806
+
+epoch 3424
+Train Loss 0.06604
+
+epoch 3425
+Train Loss 0.06959
+
+epoch 3426
+Train Loss 0.06660
+
+epoch 3427
+Train Loss 0.09093
+
+epoch 3428
+Train Loss 0.08070
+
+epoch 3429
+Train Loss 0.08549
+
+epoch 3430
+Train Loss 0.09039
+
+epoch 3431
+Train Loss 0.09897
+
+epoch 3432
+Train Loss 0.07343
+
+epoch 3433
+Train Loss 0.08107
+
+epoch 3434
+Train Loss 0.08256
+
+epoch 3435
+Train Loss 0.08721
+
+epoch 3436
+Train Loss 0.08500
+
+epoch 3437
+Train Loss 0.08606
+
+epoch 3438
+Train Loss 0.07374
+
+epoch 3439
+Train Loss 0.08005
+
+epoch 3440
+Train Loss 0.08365
+
+epoch 3441
+Train Loss 0.11023
+
+epoch 3442
+Train Loss 0.07392
+
+epoch 3443
+Train Loss 0.08182
+
+epoch 3444
+Train Loss 0.07935
+
+epoch 3445
+Train Loss 0.07128
+
+epoch 3446
+Train Loss 0.07904
+
+epoch 3447
+Train Loss 0.08894
+
+epoch 3448
+Train Loss 0.11619
+
+epoch 3449
+Train Loss 0.06968
+
+epoch 3450
+Train Loss 0.06616
+
+epoch 3451
+Train Loss 0.08851
+
+epoch 3452
+Train Loss 0.06816
+
+epoch 3453
+Train Loss 0.07475
+
+epoch 3454
+Train Loss 0.06855
+
+epoch 3455
+Train Loss 0.07557
+
+epoch 3456
+Train Loss 0.06640
+
+epoch 3457
+Train Loss 0.08379
+
+epoch 3458
+Train Loss 0.07591
+
+epoch 3459
+Train Loss 0.06712
+
+epoch 3460
+Train Loss 0.08128
+
+epoch 3461
+Train Loss 0.08373
+
+epoch 3462
+Train Loss 0.08549
+
+epoch 3463
+Train Loss 0.06527
+
+epoch 3464
+Train Loss 0.08731
+
+epoch 3465
+Train Loss 0.07342
+
+epoch 3466
+Train Loss 0.07684
+
+epoch 3467
+Train Loss 0.08744
+
+epoch 3468
+Train Loss 0.06939
+
+epoch 3469
+Train Loss 0.08780
+
+epoch 3470
+Train Loss 0.08818
+
+epoch 3471
+Train Loss 0.08632
+
+epoch 3472
+Train Loss 0.09402
+
+epoch 3473
+Train Loss 0.10069
+
+epoch 3474
+Train Loss 0.09134
+
+epoch 3475
+Train Loss 0.08913
+
+epoch 3476
+Train Loss 0.09085
+
+epoch 3477
+Train Loss 0.10003
+
+epoch 3478
+Train Loss 0.07637
+
+epoch 3479
+Train Loss 0.11472
+
+epoch 3480
+Train Loss 0.10100
+
+epoch 3481
+Train Loss 0.08206
+
+epoch 3482
+Train Loss 0.09029
+
+epoch 3483
+Train Loss 0.09037
+
+epoch 3484
+Train Loss 0.08901
+
+epoch 3485
+Train Loss 0.06679
+
+epoch 3486
+Train Loss 0.09809
+
+epoch 3487
+Train Loss 0.09737
+
+epoch 3488
+Train Loss 0.08378
+
+epoch 3489
+Train Loss 0.10441
+
+epoch 3490
+Train Loss 0.07298
+
+epoch 3491
+Train Loss 0.08767
+
+epoch 3492
+Train Loss 0.06539
+
+epoch 3493
+Train Loss 0.08196
+
+epoch 3494
+Train Loss 0.06579
+
+epoch 3495
+Train Loss 0.09138
+
+epoch 3496
+Train Loss 0.09429
+
+epoch 3497
+Train Loss 0.08038
+
+epoch 3498
+Train Loss 0.07350
+epoch 3499, Valid Loss 0.08030
+
+epoch 3499
+Train Loss 0.07492
+
+epoch 3500
+Train Loss 0.09072
+
+epoch 3501
+Train Loss 0.08832
+
+epoch 3502
+Train Loss 0.08140
+
+epoch 3503
+Train Loss 0.08554
+
+epoch 3504
+Train Loss 0.06683
+
+epoch 3505
+Train Loss 0.09200
+
+epoch 3506
+Train Loss 0.07572
+
+epoch 3507
+Train Loss 0.08146
+
+epoch 3508
+Train Loss 0.08029
+
+epoch 3509
+Train Loss 0.06766
+
+epoch 3510
+Train Loss 0.09813
+
+epoch 3511
+Train Loss 0.08422
+
+epoch 3512
+Train Loss 0.09294
+
+epoch 3513
+Train Loss 0.07950
+
+epoch 3514
+Train Loss 0.08988
+
+epoch 3515
+Train Loss 0.07759
+
+epoch 3516
+Train Loss 0.07204
+
+epoch 3517
+Train Loss 0.07833
+
+epoch 3518
+Train Loss 0.08254
+
+epoch 3519
+Train Loss 0.09824
+
+epoch 3520
+Train Loss 0.07355
+
+epoch 3521
+Train Loss 0.07592
+
+epoch 3522
+Train Loss 0.07992
+
+epoch 3523
+Train Loss 0.08673
+
+epoch 3524
+Train Loss 0.07926
+
+epoch 3525
+Train Loss 0.08303
+
+epoch 3526
+Train Loss 0.11636
+
+epoch 3527
+Train Loss 0.08605
+
+epoch 3528
+Train Loss 0.08011
+
+epoch 3529
+Train Loss 0.08007
+
+epoch 3530
+Train Loss 0.10111
+
+epoch 3531
+Train Loss 0.07254
+
+epoch 3532
+Train Loss 0.09139
+
+epoch 3533
+Train Loss 0.07722
+
+epoch 3534
+Train Loss 0.07881
+
+epoch 3535
+Train Loss 0.08549
+
+epoch 3536
+Train Loss 0.06072
+
+epoch 3537
+Train Loss 0.07722
+
+epoch 3538
+Train Loss 0.05780
+
+epoch 3539
+Train Loss 0.06688
+
+epoch 3540
+Train Loss 0.06738
+
+epoch 3541
+Train Loss 0.08113
+
+epoch 3542
+Train Loss 0.07665
+
+epoch 3543
+Train Loss 0.08439
+
+epoch 3544
+Train Loss 0.07196
+
+epoch 3545
+Train Loss 0.08174
+
+epoch 3546
+Train Loss 0.09009
+
+epoch 3547
+Train Loss 0.07674
+
+epoch 3548
+Train Loss 0.07806
+
+epoch 3549
+Train Loss 0.09673
+
+epoch 3550
+Train Loss 0.07705
+
+epoch 3551
+Train Loss 0.08797
+
+epoch 3552
+Train Loss 0.07299
+
+epoch 3553
+Train Loss 0.06954
+
+epoch 3554
+Train Loss 0.06920
+
+epoch 3555
+Train Loss 0.08259
+
+epoch 3556
+Train Loss 0.07892
+
+epoch 3557
+Train Loss 0.07210
+
+epoch 3558
+Train Loss 0.07721
+
+epoch 3559
+Train Loss 0.07988
+
+epoch 3560
+Train Loss 0.07468
+
+epoch 3561
+Train Loss 0.06987
+
+epoch 3562
+Train Loss 0.08482
+
+epoch 3563
+Train Loss 0.07293
+
+epoch 3564
+Train Loss 0.06221
+
+epoch 3565
+Train Loss 0.09319
+
+epoch 3566
+Train Loss 0.07611
+
+epoch 3567
+Train Loss 0.07178
+
+epoch 3568
+Train Loss 0.09542
+
+epoch 3569
+Train Loss 0.09576
+
+epoch 3570
+Train Loss 0.08295
+
+epoch 3571
+Train Loss 0.07459
+
+epoch 3572
+Train Loss 0.08329
+
+epoch 3573
+Train Loss 0.06970
+
+epoch 3574
+Train Loss 0.08872
+
+epoch 3575
+Train Loss 0.07680
+
+epoch 3576
+Train Loss 0.06713
+
+epoch 3577
+Train Loss 0.07840
+
+epoch 3578
+Train Loss 0.07695
+
+epoch 3579
+Train Loss 0.10484
+
+epoch 3580
+Train Loss 0.08630
+
+epoch 3581
+Train Loss 0.06860
+
+epoch 3582
+Train Loss 0.08024
+
+epoch 3583
+Train Loss 0.07312
+
+epoch 3584
+Train Loss 0.08779
+
+epoch 3585
+Train Loss 0.06495
+
+epoch 3586
+Train Loss 0.07799
+
+epoch 3587
+Train Loss 0.08277
+
+epoch 3588
+Train Loss 0.09747
+
+epoch 3589
+Train Loss 0.07991
+
+epoch 3590
+Train Loss 0.09148
+
+epoch 3591
+Train Loss 0.06816
+
+epoch 3592
+Train Loss 0.06560
+
+epoch 3593
+Train Loss 0.08134
+
+epoch 3594
+Train Loss 0.08653
+
+epoch 3595
+Train Loss 0.08206
+
+epoch 3596
+Train Loss 0.06925
+
+epoch 3597
+Train Loss 0.08159
+
+epoch 3598
+Train Loss 0.06637
+epoch 3599, Valid Loss 0.07893
+
+epoch 3599
+Train Loss 0.07663
+
+epoch 3600
+Train Loss 0.08851
+
+epoch 3601
+Train Loss 0.07537
+
+epoch 3602
+Train Loss 0.07318
+
+epoch 3603
+Train Loss 0.07029
+
+epoch 3604
+Train Loss 0.08740
+
+epoch 3605
+Train Loss 0.08401
+
+epoch 3606
+Train Loss 0.06706
+
+epoch 3607
+Train Loss 0.07965
+
+epoch 3608
+Train Loss 0.09298
+
+epoch 3609
+Train Loss 0.08435
+
+epoch 3610
+Train Loss 0.07893
+
+epoch 3611
+Train Loss 0.06662
+
+epoch 3612
+Train Loss 0.08183
+
+epoch 3613
+Train Loss 0.06001
+
+epoch 3614
+Train Loss 0.08585
+
+epoch 3615
+Train Loss 0.07371
+
+epoch 3616
+Train Loss 0.09236
+
+epoch 3617
+Train Loss 0.07149
+
+epoch 3618
+Train Loss 0.08372
+
+epoch 3619
+Train Loss 0.11022
+
+epoch 3620
+Train Loss 0.08906
+
+epoch 3621
+Train Loss 0.10560
+
+epoch 3622
+Train Loss 0.08212
+
+epoch 3623
+Train Loss 0.07661
+
+epoch 3624
+Train Loss 0.11553
+
+epoch 3625
+Train Loss 0.09500
+
+epoch 3626
+Train Loss 0.08683
+
+epoch 3627
+Train Loss 0.07859
+
+epoch 3628
+Train Loss 0.08346
+
+epoch 3629
+Train Loss 0.07264
+
+epoch 3630
+Train Loss 0.06836
+
+epoch 3631
+Train Loss 0.07311
+
+epoch 3632
+Train Loss 0.07579
+
+epoch 3633
+Train Loss 0.06662
+
+epoch 3634
+Train Loss 0.08198
+
+epoch 3635
+Train Loss 0.11525
+
+epoch 3636
+Train Loss 0.08096
+
+epoch 3637
+Train Loss 0.08778
+
+epoch 3638
+Train Loss 0.09193
+
+epoch 3639
+Train Loss 0.07876
+
+epoch 3640
+Train Loss 0.06422
+
+epoch 3641
+Train Loss 0.07417
+
+epoch 3642
+Train Loss 0.07755
+
+epoch 3643
+Train Loss 0.06400
+
+epoch 3644
+Train Loss 0.09042
+
+epoch 3645
+Train Loss 0.07441
+
+epoch 3646
+Train Loss 0.08209
+
+epoch 3647
+Train Loss 0.08875
+
+epoch 3648
+Train Loss 0.06610
+
+epoch 3649
+Train Loss 0.07394
+
+epoch 3650
+Train Loss 0.07635
+
+epoch 3651
+Train Loss 0.08952
+
+epoch 3652
+Train Loss 0.09762
+
+epoch 3653
+Train Loss 0.07318
+
+epoch 3654
+Train Loss 0.09919
+
+epoch 3655
+Train Loss 0.06997
+
+epoch 3656
+Train Loss 0.07319
+
+epoch 3657
+Train Loss 0.11527
+
+epoch 3658
+Train Loss 0.09516
+
+epoch 3659
+Train Loss 0.07711
+
+epoch 3660
+Train Loss 0.07880
+
+epoch 3661
+Train Loss 0.08591
+
+epoch 3662
+Train Loss 0.08349
+
+epoch 3663
+Train Loss 0.06983
+
+epoch 3664
+Train Loss 0.06377
+
+epoch 3665
+Train Loss 0.07287
+
+epoch 3666
+Train Loss 0.07290
+
+epoch 3667
+Train Loss 0.07692
+
+epoch 3668
+Train Loss 0.06280
+
+epoch 3669
+Train Loss 0.06783
+
+epoch 3670
+Train Loss 0.08654
+
+epoch 3671
+Train Loss 0.08436
+
+epoch 3672
+Train Loss 0.07757
+
+epoch 3673
+Train Loss 0.06606
+
+epoch 3674
+Train Loss 0.07042
+
+epoch 3675
+Train Loss 0.07879
+
+epoch 3676
+Train Loss 0.06670
+
+epoch 3677
+Train Loss 0.08370
+
+epoch 3678
+Train Loss 0.07966
+
+epoch 3679
+Train Loss 0.08285
+
+epoch 3680
+Train Loss 0.08693
+
+epoch 3681
+Train Loss 0.06657
+
+epoch 3682
+Train Loss 0.07223
+
+epoch 3683
+Train Loss 0.05844
+
+epoch 3684
+Train Loss 0.08598
+
+epoch 3685
+Train Loss 0.08530
+
+epoch 3686
+Train Loss 0.07663
+
+epoch 3687
+Train Loss 0.06648
+
+epoch 3688
+Train Loss 0.07665
+
+epoch 3689
+Train Loss 0.09432
+
+epoch 3690
+Train Loss 0.07994
+
+epoch 3691
+Train Loss 0.08302
+
+epoch 3692
+Train Loss 0.08970
+
+epoch 3693
+Train Loss 0.08231
+
+epoch 3694
+Train Loss 0.08075
+
+epoch 3695
+Train Loss 0.07866
+
+epoch 3696
+Train Loss 0.06813
+
+epoch 3697
+Train Loss 0.09190
+
+epoch 3698
+Train Loss 0.08730
+epoch 3699, Valid Loss 0.07890
+
+epoch 3699
+Train Loss 0.09092
+
+epoch 3700
+Train Loss 0.08440
+
+epoch 3701
+Train Loss 0.06801
+
+epoch 3702
+Train Loss 0.10150
+
+epoch 3703
+Train Loss 0.08709
+
+epoch 3704
+Train Loss 0.07772
+
+epoch 3705
+Train Loss 0.06693
+
+epoch 3706
+Train Loss 0.08915
+
+epoch 3707
+Train Loss 0.10087
+
+epoch 3708
+Train Loss 0.10741
+
+epoch 3709
+Train Loss 0.06482
+
+epoch 3710
+Train Loss 0.07801
+
+epoch 3711
+Train Loss 0.07107
+
+epoch 3712
+Train Loss 0.06933
+
+epoch 3713
+Train Loss 0.07295
+
+epoch 3714
+Train Loss 0.07978
+
+epoch 3715
+Train Loss 0.07849
+
+epoch 3716
+Train Loss 0.09898
+
+epoch 3717
+Train Loss 0.08084
+
+epoch 3718
+Train Loss 0.07048
+
+epoch 3719
+Train Loss 0.07543
+
+epoch 3720
+Train Loss 0.06276
+
+epoch 3721
+Train Loss 0.09665
+
+epoch 3722
+Train Loss 0.09229
+
+epoch 3723
+Train Loss 0.09228
+
+epoch 3724
+Train Loss 0.06513
+
+epoch 3725
+Train Loss 0.07803
+
+epoch 3726
+Train Loss 0.10443
+
+epoch 3727
+Train Loss 0.07374
+
+epoch 3728
+Train Loss 0.08427
+
+epoch 3729
+Train Loss 0.08494
+
+epoch 3730
+Train Loss 0.07698
+
+epoch 3731
+Train Loss 0.07258
+
+epoch 3732
+Train Loss 0.07794
+
+epoch 3733
+Train Loss 0.08732
+
+epoch 3734
+Train Loss 0.05817
+
+epoch 3735
+Train Loss 0.08202
+
+epoch 3736
+Train Loss 0.08754
+
+epoch 3737
+Train Loss 0.10874
+
+epoch 3738
+Train Loss 0.10065
+
+epoch 3739
+Train Loss 0.07008
+
+epoch 3740
+Train Loss 0.08426
+
+epoch 3741
+Train Loss 0.07830
+
+epoch 3742
+Train Loss 0.08154
+
+epoch 3743
+Train Loss 0.06791
+
+epoch 3744
+Train Loss 0.06589
+
+epoch 3745
+Train Loss 0.07901
+
+epoch 3746
+Train Loss 0.09819
+
+epoch 3747
+Train Loss 0.07113
+
+epoch 3748
+Train Loss 0.08729
+
+epoch 3749
+Train Loss 0.11843
+
+epoch 3750
+Train Loss 0.06429
+
+epoch 3751
+Train Loss 0.08752
+
+epoch 3752
+Train Loss 0.07551
+
+epoch 3753
+Train Loss 0.08630
+
+epoch 3754
+Train Loss 0.08137
+
+epoch 3755
+Train Loss 0.07410
+
+epoch 3756
+Train Loss 0.06150
+
+epoch 3757
+Train Loss 0.08306
+
+epoch 3758
+Train Loss 0.10612
+
+epoch 3759
+Train Loss 0.07427
+
+epoch 3760
+Train Loss 0.08630
+
+epoch 3761
+Train Loss 0.09221
+
+epoch 3762
+Train Loss 0.10679
+
+epoch 3763
+Train Loss 0.07425
+
+epoch 3764
+Train Loss 0.09481
+
+epoch 3765
+Train Loss 0.10483
+
+epoch 3766
+Train Loss 0.07917
+
+epoch 3767
+Train Loss 0.08330
+
+epoch 3768
+Train Loss 0.10079
+
+epoch 3769
+Train Loss 0.08212
+
+epoch 3770
+Train Loss 0.07469
+
+epoch 3771
+Train Loss 0.06913
+
+epoch 3772
+Train Loss 0.10990
+
+epoch 3773
+Train Loss 0.05710
+
+epoch 3774
+Train Loss 0.08134
+
+epoch 3775
+Train Loss 0.09666
+
+epoch 3776
+Train Loss 0.07564
+
+epoch 3777
+Train Loss 0.08537
+
+epoch 3778
+Train Loss 0.10013
+
+epoch 3779
+Train Loss 0.07333
+
+epoch 3780
+Train Loss 0.07042
+
+epoch 3781
+Train Loss 0.08359
+
+epoch 3782
+Train Loss 0.07632
+
+epoch 3783
+Train Loss 0.07093
+
+epoch 3784
+Train Loss 0.07345
+
+epoch 3785
+Train Loss 0.09087
+
+epoch 3786
+Train Loss 0.08091
+
+epoch 3787
+Train Loss 0.09422
+
+epoch 3788
+Train Loss 0.09069
+
+epoch 3789
+Train Loss 0.08211
+
+epoch 3790
+Train Loss 0.07008
+
+epoch 3791
+Train Loss 0.07192
+
+epoch 3792
+Train Loss 0.06784
+
+epoch 3793
+Train Loss 0.07986
+
+epoch 3794
+Train Loss 0.08535
+
+epoch 3795
+Train Loss 0.06239
+
+epoch 3796
+Train Loss 0.09005
+
+epoch 3797
+Train Loss 0.09040
+
+epoch 3798
+Train Loss 0.07280
+epoch 3799, Valid Loss 0.07145
+
+epoch 3799
+Train Loss 0.07824
+
+epoch 3800
+Train Loss 0.08725
+
+epoch 3801
+Train Loss 0.08570
+
+epoch 3802
+Train Loss 0.07084
+
+epoch 3803
+Train Loss 0.07111
+
+epoch 3804
+Train Loss 0.06727
+
+epoch 3805
+Train Loss 0.08320
+
+epoch 3806
+Train Loss 0.08002
+
+epoch 3807
+Train Loss 0.06389
+
+epoch 3808
+Train Loss 0.09707
+
+epoch 3809
+Train Loss 0.06778
+
+epoch 3810
+Train Loss 0.08760
+
+epoch 3811
+Train Loss 0.08611
+
+epoch 3812
+Train Loss 0.09042
+
+epoch 3813
+Train Loss 0.08830
+
+epoch 3814
+Train Loss 0.08192
+
+epoch 3815
+Train Loss 0.06806
+
+epoch 3816
+Train Loss 0.07856
+
+epoch 3817
+Train Loss 0.07308
+
+epoch 3818
+Train Loss 0.07039
+
+epoch 3819
+Train Loss 0.06797
+
+epoch 3820
+Train Loss 0.09319
+
+epoch 3821
+Train Loss 0.08287
+
+epoch 3822
+Train Loss 0.07420
+
+epoch 3823
+Train Loss 0.06652
+
+epoch 3824
+Train Loss 0.10091
+
+epoch 3825
+Train Loss 0.07580
+
+epoch 3826
+Train Loss 0.07216
+
+epoch 3827
+Train Loss 0.06932
+
+epoch 3828
+Train Loss 0.08239
+
+epoch 3829
+Train Loss 0.07491
+
+epoch 3830
+Train Loss 0.09365
+
+epoch 3831
+Train Loss 0.06508
+
+epoch 3832
+Train Loss 0.09255
+
+epoch 3833
+Train Loss 0.07683
+
+epoch 3834
+Train Loss 0.06928
+
+epoch 3835
+Train Loss 0.07636
+
+epoch 3836
+Train Loss 0.06044
+
+epoch 3837
+Train Loss 0.09025
+
+epoch 3838
+Train Loss 0.08064
+
+epoch 3839
+Train Loss 0.08472
+
+epoch 3840
+Train Loss 0.08647
+
+epoch 3841
+Train Loss 0.08338
+
+epoch 3842
+Train Loss 0.08616
+
+epoch 3843
+Train Loss 0.09585
+
+epoch 3844
+Train Loss 0.08716
+
+epoch 3845
+Train Loss 0.07404
+
+epoch 3846
+Train Loss 0.07984
+
+epoch 3847
+Train Loss 0.08260
+
+epoch 3848
+Train Loss 0.07056
+
+epoch 3849
+Train Loss 0.08357
+
+epoch 3850
+Train Loss 0.08908
+
+epoch 3851
+Train Loss 0.11310
+
+epoch 3852
+Train Loss 0.06577
+
+epoch 3853
+Train Loss 0.09408
+
+epoch 3854
+Train Loss 0.07217
+
+epoch 3855
+Train Loss 0.06092
+
+epoch 3856
+Train Loss 0.09908
+
+epoch 3857
+Train Loss 0.07921
+
+epoch 3858
+Train Loss 0.08468
+
+epoch 3859
+Train Loss 0.07822
+
+epoch 3860
+Train Loss 0.07444
+
+epoch 3861
+Train Loss 0.07847
+
+epoch 3862
+Train Loss 0.07528
+
+epoch 3863
+Train Loss 0.09415
+
+epoch 3864
+Train Loss 0.06944
+
+epoch 3865
+Train Loss 0.07626
+
+epoch 3866
+Train Loss 0.08594
+
+epoch 3867
+Train Loss 0.07148
+
+epoch 3868
+Train Loss 0.06704
+
+epoch 3869
+Train Loss 0.07158
+
+epoch 3870
+Train Loss 0.07831
+
+epoch 3871
+Train Loss 0.08297
+
+epoch 3872
+Train Loss 0.10327
+
+epoch 3873
+Train Loss 0.07571
+
+epoch 3874
+Train Loss 0.07928
+
+epoch 3875
+Train Loss 0.06464
+
+epoch 3876
+Train Loss 0.08019
+
+epoch 3877
+Train Loss 0.06501
+
+epoch 3878
+Train Loss 0.07134
+
+epoch 3879
+Train Loss 0.08206
+
+epoch 3880
+Train Loss 0.06756
+
+epoch 3881
+Train Loss 0.07966
+
+epoch 3882
+Train Loss 0.11115
+
+epoch 3883
+Train Loss 0.07166
+
+epoch 3884
+Train Loss 0.07893
+
+epoch 3885
+Train Loss 0.08927
+
+epoch 3886
+Train Loss 0.08428
+
+epoch 3887
+Train Loss 0.08366
+
+epoch 3888
+Train Loss 0.06937
+
+epoch 3889
+Train Loss 0.07435
+
+epoch 3890
+Train Loss 0.08229
+
+epoch 3891
+Train Loss 0.07868
+
+epoch 3892
+Train Loss 0.07112
+
+epoch 3893
+Train Loss 0.08101
+
+epoch 3894
+Train Loss 0.08216
+
+epoch 3895
+Train Loss 0.06948
+
+epoch 3896
+Train Loss 0.06647
+
+epoch 3897
+Train Loss 0.07669
+
+epoch 3898
+Train Loss 0.09534
+epoch 3899, Valid Loss 0.07449
+
+epoch 3899
+Train Loss 0.07640
+
+epoch 3900
+Train Loss 0.10244
+
+epoch 3901
+Train Loss 0.08085
+
+epoch 3902
+Train Loss 0.08180
+
+epoch 3903
+Train Loss 0.07457
+
+epoch 3904
+Train Loss 0.07530
+
+epoch 3905
+Train Loss 0.06906
+
+epoch 3906
+Train Loss 0.07690
+
+epoch 3907
+Train Loss 0.07512
+
+epoch 3908
+Train Loss 0.07463
+
+epoch 3909
+Train Loss 0.06474
+
+epoch 3910
+Train Loss 0.07133
+
+epoch 3911
+Train Loss 0.07847
+
+epoch 3912
+Train Loss 0.05754
+
+epoch 3913
+Train Loss 0.05180
+
+epoch 3914
+Train Loss 0.07211
+
+epoch 3915
+Train Loss 0.08525
+
+epoch 3916
+Train Loss 0.09208
+
+epoch 3917
+Train Loss 0.08279
+
+epoch 3918
+Train Loss 0.08556
+
+epoch 3919
+Train Loss 0.08249
+
+epoch 3920
+Train Loss 0.09883
+
+epoch 3921
+Train Loss 0.07591
+
+epoch 3922
+Train Loss 0.07985
+
+epoch 3923
+Train Loss 0.08070
+
+epoch 3924
+Train Loss 0.07905
+
+epoch 3925
+Train Loss 0.07781
+
+epoch 3926
+Train Loss 0.06295
+
+epoch 3927
+Train Loss 0.08561
+
+epoch 3928
+Train Loss 0.07622
+
+epoch 3929
+Train Loss 0.09105
+
+epoch 3930
+Train Loss 0.08684
+
+epoch 3931
+Train Loss 0.06612
+
+epoch 3932
+Train Loss 0.06352
+
+epoch 3933
+Train Loss 0.07511
+
+epoch 3934
+Train Loss 0.07257
+
+epoch 3935
+Train Loss 0.07928
+
+epoch 3936
+Train Loss 0.07662
+
+epoch 3937
+Train Loss 0.06825
+
+epoch 3938
+Train Loss 0.07137
+
+epoch 3939
+Train Loss 0.09274
+
+epoch 3940
+Train Loss 0.08535
+
+epoch 3941
+Train Loss 0.08406
+
+epoch 3942
+Train Loss 0.07203
+
+epoch 3943
+Train Loss 0.08259
+
+epoch 3944
+Train Loss 0.09122
+
+epoch 3945
+Train Loss 0.07336
+
+epoch 3946
+Train Loss 0.08638
+
+epoch 3947
+Train Loss 0.10156
+
+epoch 3948
+Train Loss 0.11260
+
+epoch 3949
+Train Loss 0.06520
+
+epoch 3950
+Train Loss 0.07923
+
+epoch 3951
+Train Loss 0.09531
+
+epoch 3952
+Train Loss 0.07646
+
+epoch 3953
+Train Loss 0.07876
+
+epoch 3954
+Train Loss 0.07351
+
+epoch 3955
+Train Loss 0.06438
+
+epoch 3956
+Train Loss 0.07212
+
+epoch 3957
+Train Loss 0.08490
+
+epoch 3958
+Train Loss 0.07318
+
+epoch 3959
+Train Loss 0.09089
+
+epoch 3960
+Train Loss 0.07162
+
+epoch 3961
+Train Loss 0.07654
+
+epoch 3962
+Train Loss 0.08343
+
+epoch 3963
+Train Loss 0.07637
+
+epoch 3964
+Train Loss 0.06122
+
+epoch 3965
+Train Loss 0.07815
+
+epoch 3966
+Train Loss 0.06421
+
+epoch 3967
+Train Loss 0.06436
+
+epoch 3968
+Train Loss 0.09428
+
+epoch 3969
+Train Loss 0.07139
+
+epoch 3970
+Train Loss 0.07436
+
+epoch 3971
+Train Loss 0.07989
+
+epoch 3972
+Train Loss 0.07294
+
+epoch 3973
+Train Loss 0.09099
+
+epoch 3974
+Train Loss 0.08493
+
+epoch 3975
+Train Loss 0.06599
+
+epoch 3976
+Train Loss 0.07466
+
+epoch 3977
+Train Loss 0.09378
+
+epoch 3978
+Train Loss 0.08523
+
+epoch 3979
+Train Loss 0.07196
+
+epoch 3980
+Train Loss 0.09000
+
+epoch 3981
+Train Loss 0.07542
+
+epoch 3982
+Train Loss 0.06192
+
+epoch 3983
+Train Loss 0.07533
+
+epoch 3984
+Train Loss 0.09227
+
+epoch 3985
+Train Loss 0.06419
+
+epoch 3986
+Train Loss 0.08561
+
+epoch 3987
+Train Loss 0.09565
+
+epoch 3988
+Train Loss 0.07515
+
+epoch 3989
+Train Loss 0.06458
+
+epoch 3990
+Train Loss 0.06238
+
+epoch 3991
+Train Loss 0.07714
+
+epoch 3992
+Train Loss 0.07436
+
+epoch 3993
+Train Loss 0.07927
+
+epoch 3994
+Train Loss 0.08076
+
+epoch 3995
+Train Loss 0.07470
+
+epoch 3996
+Train Loss 0.08958
+
+epoch 3997
+Train Loss 0.08357
+
+epoch 3998
+Train Loss 0.07233
+epoch 3999, Valid Loss 0.06955
+
+epoch 3999
+Train Loss 0.08181
+
+epoch 4000
+Train Loss 0.08381
+
+epoch 4001
+Train Loss 0.06125
+
+epoch 4002
+Train Loss 0.08952
+
+epoch 4003
+Train Loss 0.07051
+
+epoch 4004
+Train Loss 0.08193
+
+epoch 4005
+Train Loss 0.07329
+
+epoch 4006
+Train Loss 0.07096
+
+epoch 4007
+Train Loss 0.07356
+
+epoch 4008
+Train Loss 0.07679
+
+epoch 4009
+Train Loss 0.07652
+
+epoch 4010
+Train Loss 0.06420
+
+epoch 4011
+Train Loss 0.08351
+
+epoch 4012
+Train Loss 0.08668
+
+epoch 4013
+Train Loss 0.08386
+
+epoch 4014
+Train Loss 0.06075
+
+epoch 4015
+Train Loss 0.08320
+
+epoch 4016
+Train Loss 0.08367
+
+epoch 4017
+Train Loss 0.10452
+
+epoch 4018
+Train Loss 0.08239
+
+epoch 4019
+Train Loss 0.08836
+
+epoch 4020
+Train Loss 0.08693
+
+epoch 4021
+Train Loss 0.07782
+
+epoch 4022
+Train Loss 0.08712
+
+epoch 4023
+Train Loss 0.07382
+
+epoch 4024
+Train Loss 0.07607
+
+epoch 4025
+Train Loss 0.09161
+
+epoch 4026
+Train Loss 0.09294
+
+epoch 4027
+Train Loss 0.08877
+
+epoch 4028
+Train Loss 0.07482
+
+epoch 4029
+Train Loss 0.07630
+
+epoch 4030
+Train Loss 0.08270
+
+epoch 4031
+Train Loss 0.07037
+
+epoch 4032
+Train Loss 0.09379
+
+epoch 4033
+Train Loss 0.06984
+
+epoch 4034
+Train Loss 0.08777
+
+epoch 4035
+Train Loss 0.06292
+
+epoch 4036
+Train Loss 0.08509
+
+epoch 4037
+Train Loss 0.06364
+
+epoch 4038
+Train Loss 0.08642
+
+epoch 4039
+Train Loss 0.07538
+
+epoch 4040
+Train Loss 0.06331
+
+epoch 4041
+Train Loss 0.07194
+
+epoch 4042
+Train Loss 0.09396
+
+epoch 4043
+Train Loss 0.08470
+
+epoch 4044
+Train Loss 0.09925
+
+epoch 4045
+Train Loss 0.09147
+
+epoch 4046
+Train Loss 0.06224
+
+epoch 4047
+Train Loss 0.07057
+
+epoch 4048
+Train Loss 0.06261
+
+epoch 4049
+Train Loss 0.08939
+
+epoch 4050
+Train Loss 0.08075
+
+epoch 4051
+Train Loss 0.06740
+
+epoch 4052
+Train Loss 0.06799
+
+epoch 4053
+Train Loss 0.07864
+
+epoch 4054
+Train Loss 0.07837
+
+epoch 4055
+Train Loss 0.08217
+
+epoch 4056
+Train Loss 0.06128
+
+epoch 4057
+Train Loss 0.06402
+
+epoch 4058
+Train Loss 0.06314
+
+epoch 4059
+Train Loss 0.08048
+
+epoch 4060
+Train Loss 0.07989
+
+epoch 4061
+Train Loss 0.07151
+
+epoch 4062
+Train Loss 0.06235
+
+epoch 4063
+Train Loss 0.08536
+
+epoch 4064
+Train Loss 0.08916
+
+epoch 4065
+Train Loss 0.09903
+
+epoch 4066
+Train Loss 0.07414
+
+epoch 4067
+Train Loss 0.09971
+
+epoch 4068
+Train Loss 0.08677
+
+epoch 4069
+Train Loss 0.07587
+
+epoch 4070
+Train Loss 0.08435
+
+epoch 4071
+Train Loss 0.08435
+
+epoch 4072
+Train Loss 0.07545
+
+epoch 4073
+Train Loss 0.08697
+
+epoch 4074
+Train Loss 0.06759
+
+epoch 4075
+Train Loss 0.08897
+
+epoch 4076
+Train Loss 0.08084
+
+epoch 4077
+Train Loss 0.08886
+
+epoch 4078
+Train Loss 0.07407
+
+epoch 4079
+Train Loss 0.08119
+
+epoch 4080
+Train Loss 0.08995
+
+epoch 4081
+Train Loss 0.07609
+
+epoch 4082
+Train Loss 0.06294
+
+epoch 4083
+Train Loss 0.08803
+
+epoch 4084
+Train Loss 0.07409
+
+epoch 4085
+Train Loss 0.06021
+
+epoch 4086
+Train Loss 0.09572
+
+epoch 4087
+Train Loss 0.07023
+
+epoch 4088
+Train Loss 0.08631
+
+epoch 4089
+Train Loss 0.09781
+
+epoch 4090
+Train Loss 0.07214
+
+epoch 4091
+Train Loss 0.07508
+
+epoch 4092
+Train Loss 0.06404
+
+epoch 4093
+Train Loss 0.07770
+
+epoch 4094
+Train Loss 0.08636
+
+epoch 4095
+Train Loss 0.06879
+
+epoch 4096
+Train Loss 0.08563
+
+epoch 4097
+Train Loss 0.08967
+
+epoch 4098
+Train Loss 0.07190
+epoch 4099, Valid Loss 0.07503
+
+epoch 4099
+Train Loss 0.10164
+
+epoch 4100
+Train Loss 0.05942
+
+epoch 4101
+Train Loss 0.08881
+
+epoch 4102
+Train Loss 0.06149
+
+epoch 4103
+Train Loss 0.07019
+
+epoch 4104
+Train Loss 0.08913
+
+epoch 4105
+Train Loss 0.06825
+
+epoch 4106
+Train Loss 0.08340
+
+epoch 4107
+Train Loss 0.07587
+
+epoch 4108
+Train Loss 0.08845
+
+epoch 4109
+Train Loss 0.09987
+
+epoch 4110
+Train Loss 0.06988
+
+epoch 4111
+Train Loss 0.10273
+
+epoch 4112
+Train Loss 0.09977
+
+epoch 4113
+Train Loss 0.10146
+
+epoch 4114
+Train Loss 0.07441
+
+epoch 4115
+Train Loss 0.11500
+
+epoch 4116
+Train Loss 0.06737
+
+epoch 4117
+Train Loss 0.08740
+
+epoch 4118
+Train Loss 0.11524
+
+epoch 4119
+Train Loss 0.08418
+
+epoch 4120
+Train Loss 0.06726
+
+epoch 4121
+Train Loss 0.09162
+
+epoch 4122
+Train Loss 0.06793
+
+epoch 4123
+Train Loss 0.06854
+
+epoch 4124
+Train Loss 0.09489
+
+epoch 4125
+Train Loss 0.06732
+
+epoch 4126
+Train Loss 0.05969
+
+epoch 4127
+Train Loss 0.09586
+
+epoch 4128
+Train Loss 0.08527
+
+epoch 4129
+Train Loss 0.07025
+
+epoch 4130
+Train Loss 0.08240
+
+epoch 4131
+Train Loss 0.07455
+
+epoch 4132
+Train Loss 0.08031
+
+epoch 4133
+Train Loss 0.08959
+
+epoch 4134
+Train Loss 0.07239
+
+epoch 4135
+Train Loss 0.06912
+
+epoch 4136
+Train Loss 0.07363
+
+epoch 4137
+Train Loss 0.08154
+
+epoch 4138
+Train Loss 0.07342
+
+epoch 4139
+Train Loss 0.05642
+
+epoch 4140
+Train Loss 0.05592
+
+epoch 4141
+Train Loss 0.08015
+
+epoch 4142
+Train Loss 0.07369
+
+epoch 4143
+Train Loss 0.08876
+
+epoch 4144
+Train Loss 0.05833
+
+epoch 4145
+Train Loss 0.06880
+
+epoch 4146
+Train Loss 0.05479
+
+epoch 4147
+Train Loss 0.07872
+
+epoch 4148
+Train Loss 0.08175
+
+epoch 4149
+Train Loss 0.08664
+
+epoch 4150
+Train Loss 0.07565
+
+epoch 4151
+Train Loss 0.07499
+
+epoch 4152
+Train Loss 0.09414
+
+epoch 4153
+Train Loss 0.06892
+
+epoch 4154
+Train Loss 0.06295
+
+epoch 4155
+Train Loss 0.06051
+
+epoch 4156
+Train Loss 0.07110
+
+epoch 4157
+Train Loss 0.08224
+
+epoch 4158
+Train Loss 0.07267
+
+epoch 4159
+Train Loss 0.08176
+
+epoch 4160
+Train Loss 0.07485
+
+epoch 4161
+Train Loss 0.06994
+
+epoch 4162
+Train Loss 0.07217
+
+epoch 4163
+Train Loss 0.06818
+
+epoch 4164
+Train Loss 0.08755
+
+epoch 4165
+Train Loss 0.07735
+
+epoch 4166
+Train Loss 0.07431
+
+epoch 4167
+Train Loss 0.06457
+
+epoch 4168
+Train Loss 0.08343
+
+epoch 4169
+Train Loss 0.07885
+
+epoch 4170
+Train Loss 0.07025
+
+epoch 4171
+Train Loss 0.06690
+
+epoch 4172
+Train Loss 0.10028
+
+epoch 4173
+Train Loss 0.06532
+
+epoch 4174
+Train Loss 0.06854
+
+epoch 4175
+Train Loss 0.07115
+
+epoch 4176
+Train Loss 0.06746
+
+epoch 4177
+Train Loss 0.07180
+
+epoch 4178
+Train Loss 0.06963
+
+epoch 4179
+Train Loss 0.06853
+
+epoch 4180
+Train Loss 0.07696
+
+epoch 4181
+Train Loss 0.07260
+
+epoch 4182
+Train Loss 0.07119
+
+epoch 4183
+Train Loss 0.11418
+
+epoch 4184
+Train Loss 0.07507
+
+epoch 4185
+Train Loss 0.08095
+
+epoch 4186
+Train Loss 0.07275
+
+epoch 4187
+Train Loss 0.07554
+
+epoch 4188
+Train Loss 0.07890
+
+epoch 4189
+Train Loss 0.07010
+
+epoch 4190
+Train Loss 0.07462
+
+epoch 4191
+Train Loss 0.07264
+
+epoch 4192
+Train Loss 0.06293
+
+epoch 4193
+Train Loss 0.08674
+
+epoch 4194
+Train Loss 0.08439
+
+epoch 4195
+Train Loss 0.06972
+
+epoch 4196
+Train Loss 0.08050
+
+epoch 4197
+Train Loss 0.07594
+
+epoch 4198
+Train Loss 0.07575
+epoch 4199, Valid Loss 0.09021
+
+epoch 4199
+Train Loss 0.09613
+
+epoch 4200
+Train Loss 0.07304
+
+epoch 4201
+Train Loss 0.08884
+
+epoch 4202
+Train Loss 0.09713
+
+epoch 4203
+Train Loss 0.08343
+
+epoch 4204
+Train Loss 0.07888
+
+epoch 4205
+Train Loss 0.09206
+
+epoch 4206
+Train Loss 0.07184
+
+epoch 4207
+Train Loss 0.05899
+
+epoch 4208
+Train Loss 0.08493
+
+epoch 4209
+Train Loss 0.06482
+
+epoch 4210
+Train Loss 0.08551
+
+epoch 4211
+Train Loss 0.07826
+
+epoch 4212
+Train Loss 0.08109
+
+epoch 4213
+Train Loss 0.07943
+
+epoch 4214
+Train Loss 0.07133
+
+epoch 4215
+Train Loss 0.07788
+
+epoch 4216
+Train Loss 0.08001
+
+epoch 4217
+Train Loss 0.08624
+
+epoch 4218
+Train Loss 0.08170
+
+epoch 4219
+Train Loss 0.08458
+
+epoch 4220
+Train Loss 0.05273
+
+epoch 4221
+Train Loss 0.08508
+
+epoch 4222
+Train Loss 0.06516
+
+epoch 4223
+Train Loss 0.08446
+
+epoch 4224
+Train Loss 0.08777
+
+epoch 4225
+Train Loss 0.06857
+
+epoch 4226
+Train Loss 0.08872
+
+epoch 4227
+Train Loss 0.08177
+
+epoch 4228
+Train Loss 0.06510
+
+epoch 4229
+Train Loss 0.07962
+
+epoch 4230
+Train Loss 0.07634
+
+epoch 4231
+Train Loss 0.07551
+
+epoch 4232
+Train Loss 0.08057
+
+epoch 4233
+Train Loss 0.05959
+
+epoch 4234
+Train Loss 0.06738
+
+epoch 4235
+Train Loss 0.09380
+
+epoch 4236
+Train Loss 0.07987
+
+epoch 4237
+Train Loss 0.06579
+
+epoch 4238
+Train Loss 0.06503
+
+epoch 4239
+Train Loss 0.08078
+
+epoch 4240
+Train Loss 0.06720
+
+epoch 4241
+Train Loss 0.06899
+
+epoch 4242
+Train Loss 0.09522
+
+epoch 4243
+Train Loss 0.06633
+
+epoch 4244
+Train Loss 0.06012
+
+epoch 4245
+Train Loss 0.08127
+
+epoch 4246
+Train Loss 0.08825
+
+epoch 4247
+Train Loss 0.06386
+
+epoch 4248
+Train Loss 0.08726
+
+epoch 4249
+Train Loss 0.08775
+
+epoch 4250
+Train Loss 0.07176
+
+epoch 4251
+Train Loss 0.07230
+
+epoch 4252
+Train Loss 0.05863
+
+epoch 4253
+Train Loss 0.08475
+
+epoch 4254
+Train Loss 0.07958
+
+epoch 4255
+Train Loss 0.08434
+
+epoch 4256
+Train Loss 0.08481
+
+epoch 4257
+Train Loss 0.08132
+
+epoch 4258
+Train Loss 0.09226
+
+epoch 4259
+Train Loss 0.09235
+
+epoch 4260
+Train Loss 0.06131
+
+epoch 4261
+Train Loss 0.07352
+
+epoch 4262
+Train Loss 0.07841
+
+epoch 4263
+Train Loss 0.07719
+
+epoch 4264
+Train Loss 0.07475
+
+epoch 4265
+Train Loss 0.07633
+
+epoch 4266
+Train Loss 0.08005
+
+epoch 4267
+Train Loss 0.09339
+
+epoch 4268
+Train Loss 0.06942
+
+epoch 4269
+Train Loss 0.08154
+
+epoch 4270
+Train Loss 0.07668
+
+epoch 4271
+Train Loss 0.06518
+
+epoch 4272
+Train Loss 0.06850
+
+epoch 4273
+Train Loss 0.07331
+
+epoch 4274
+Train Loss 0.07088
+
+epoch 4275
+Train Loss 0.07711
+
+epoch 4276
+Train Loss 0.06083
+
+epoch 4277
+Train Loss 0.09545
+
+epoch 4278
+Train Loss 0.07387
+
+epoch 4279
+Train Loss 0.12517
+
+epoch 4280
+Train Loss 0.10146
+
+epoch 4281
+Train Loss 0.06997
+
+epoch 4282
+Train Loss 0.07934
+
+epoch 4283
+Train Loss 0.06922
+
+epoch 4284
+Train Loss 0.08287
+
+epoch 4285
+Train Loss 0.06142
+
+epoch 4286
+Train Loss 0.08035
+
+epoch 4287
+Train Loss 0.08076
+
+epoch 4288
+Train Loss 0.08139
+
+epoch 4289
+Train Loss 0.06218
+
+epoch 4290
+Train Loss 0.07596
+
+epoch 4291
+Train Loss 0.08403
+
+epoch 4292
+Train Loss 0.08652
+
+epoch 4293
+Train Loss 0.06481
+
+epoch 4294
+Train Loss 0.07747
+
+epoch 4295
+Train Loss 0.05612
+
+epoch 4296
+Train Loss 0.07979
+
+epoch 4297
+Train Loss 0.07889
+
+epoch 4298
+Train Loss 0.06869
+epoch 4299, Valid Loss 0.06826
+
+epoch 4299
+Train Loss 0.05856
+
+epoch 4300
+Train Loss 0.07647
+
+epoch 4301
+Train Loss 0.07016
+
+epoch 4302
+Train Loss 0.07674
+
+epoch 4303
+Train Loss 0.07482
+
+epoch 4304
+Train Loss 0.07868
+
+epoch 4305
+Train Loss 0.07947
+
+epoch 4306
+Train Loss 0.06503
+
+epoch 4307
+Train Loss 0.07267
+
+epoch 4308
+Train Loss 0.08460
+
+epoch 4309
+Train Loss 0.07106
+
+epoch 4310
+Train Loss 0.08125
+
+epoch 4311
+Train Loss 0.06825
+
+epoch 4312
+Train Loss 0.07395
+
+epoch 4313
+Train Loss 0.08796
+
+epoch 4314
+Train Loss 0.09091
+
+epoch 4315
+Train Loss 0.07809
+
+epoch 4316
+Train Loss 0.07659
+
+epoch 4317
+Train Loss 0.09676
+
+epoch 4318
+Train Loss 0.06350
+
+epoch 4319
+Train Loss 0.08016
+
+epoch 4320
+Train Loss 0.06857
+
+epoch 4321
+Train Loss 0.06877
+
+epoch 4322
+Train Loss 0.06334
+
+epoch 4323
+Train Loss 0.08278
+
+epoch 4324
+Train Loss 0.07546
+
+epoch 4325
+Train Loss 0.08387
+
+epoch 4326
+Train Loss 0.08163
+
+epoch 4327
+Train Loss 0.07895
+
+epoch 4328
+Train Loss 0.06715
+
+epoch 4329
+Train Loss 0.07113
+
+epoch 4330
+Train Loss 0.06830
+
+epoch 4331
+Train Loss 0.06738
+
+epoch 4332
+Train Loss 0.05110
+
+epoch 4333
+Train Loss 0.08611
+
+epoch 4334
+Train Loss 0.09282
+
+epoch 4335
+Train Loss 0.07731
+
+epoch 4336
+Train Loss 0.07462
+
+epoch 4337
+Train Loss 0.07071
+
+epoch 4338
+Train Loss 0.07547
+
+epoch 4339
+Train Loss 0.08569
+
+epoch 4340
+Train Loss 0.06336
+
+epoch 4341
+Train Loss 0.07299
+
+epoch 4342
+Train Loss 0.09015
+
+epoch 4343
+Train Loss 0.06901
+
+epoch 4344
+Train Loss 0.09953
+
+epoch 4345
+Train Loss 0.08584
+
+epoch 4346
+Train Loss 0.09556
+
+epoch 4347
+Train Loss 0.05645
+
+epoch 4348
+Train Loss 0.07138
+
+epoch 4349
+Train Loss 0.08005
+
+epoch 4350
+Train Loss 0.08279
+
+epoch 4351
+Train Loss 0.08062
+
+epoch 4352
+Train Loss 0.09034
+
+epoch 4353
+Train Loss 0.10897
+
+epoch 4354
+Train Loss 0.09081
+
+epoch 4355
+Train Loss 0.06763
+
+epoch 4356
+Train Loss 0.10458
+
+epoch 4357
+Train Loss 0.09821
+
+epoch 4358
+Train Loss 0.08478
+
+epoch 4359
+Train Loss 0.07755
+
+epoch 4360
+Train Loss 0.09294
+
+epoch 4361
+Train Loss 0.09552
+
+epoch 4362
+Train Loss 0.07619
+
+epoch 4363
+Train Loss 0.08257
+
+epoch 4364
+Train Loss 0.10383
+
+epoch 4365
+Train Loss 0.06721
+
+epoch 4366
+Train Loss 0.07587
+
+epoch 4367
+Train Loss 0.08736
+
+epoch 4368
+Train Loss 0.06420
+
+epoch 4369
+Train Loss 0.07576
+
+epoch 4370
+Train Loss 0.07368
+
+epoch 4371
+Train Loss 0.10010
+
+epoch 4372
+Train Loss 0.07330
+
+epoch 4373
+Train Loss 0.09439
+
+epoch 4374
+Train Loss 0.08571
+
+epoch 4375
+Train Loss 0.08853
+
+epoch 4376
+Train Loss 0.06919
+
+epoch 4377
+Train Loss 0.07061
+
+epoch 4378
+Train Loss 0.07823
+
+epoch 4379
+Train Loss 0.06349
+
+epoch 4380
+Train Loss 0.08774
+
+epoch 4381
+Train Loss 0.07598
+
+epoch 4382
+Train Loss 0.06341
+
+epoch 4383
+Train Loss 0.07516
+
+epoch 4384
+Train Loss 0.05886
+
+epoch 4385
+Train Loss 0.06135
+
+epoch 4386
+Train Loss 0.07109
+
+epoch 4387
+Train Loss 0.07217
+
+epoch 4388
+Train Loss 0.07048
+
+epoch 4389
+Train Loss 0.06367
+
+epoch 4390
+Train Loss 0.08505
+
+epoch 4391
+Train Loss 0.05949
+
+epoch 4392
+Train Loss 0.07128
+
+epoch 4393
+Train Loss 0.07076
+
+epoch 4394
+Train Loss 0.08195
+
+epoch 4395
+Train Loss 0.07159
+
+epoch 4396
+Train Loss 0.09122
+
+epoch 4397
+Train Loss 0.07666
+
+epoch 4398
+Train Loss 0.08666
+epoch 4399, Valid Loss 0.06762
+
+epoch 4399
+Train Loss 0.07070
+
+epoch 4400
+Train Loss 0.08311
+
+epoch 4401
+Train Loss 0.06901
+
+epoch 4402
+Train Loss 0.07185
+
+epoch 4403
+Train Loss 0.07761
+
+epoch 4404
+Train Loss 0.08873
+
+epoch 4405
+Train Loss 0.08048
+
+epoch 4406
+Train Loss 0.05957
+
+epoch 4407
+Train Loss 0.07473
+
+epoch 4408
+Train Loss 0.07258
+
+epoch 4409
+Train Loss 0.06372
+
+epoch 4410
+Train Loss 0.08198
+
+epoch 4411
+Train Loss 0.06092
+
+epoch 4412
+Train Loss 0.09398
+
+epoch 4413
+Train Loss 0.08484
+
+epoch 4414
+Train Loss 0.07763
+
+epoch 4415
+Train Loss 0.07063
+
+epoch 4416
+Train Loss 0.05204
+
+epoch 4417
+Train Loss 0.08905
+
+epoch 4418
+Train Loss 0.07616
+
+epoch 4419
+Train Loss 0.09320
+
+epoch 4420
+Train Loss 0.09158
+
+epoch 4421
+Train Loss 0.06418
+
+epoch 4422
+Train Loss 0.06359
+
+epoch 4423
+Train Loss 0.09644
+
+epoch 4424
+Train Loss 0.07206
+
+epoch 4425
+Train Loss 0.06182
+
+epoch 4426
+Train Loss 0.09056
+
+epoch 4427
+Train Loss 0.07599
+
+epoch 4428
+Train Loss 0.06756
+
+epoch 4429
+Train Loss 0.07630
+
+epoch 4430
+Train Loss 0.06179
+
+epoch 4431
+Train Loss 0.08577
+
+epoch 4432
+Train Loss 0.08613
+
+epoch 4433
+Train Loss 0.07180
+
+epoch 4434
+Train Loss 0.11053
+
+epoch 4435
+Train Loss 0.07283
+
+epoch 4436
+Train Loss 0.08301
+
+epoch 4437
+Train Loss 0.08331
+
+epoch 4438
+Train Loss 0.06949
+
+epoch 4439
+Train Loss 0.06992
+
+epoch 4440
+Train Loss 0.07281
+
+epoch 4441
+Train Loss 0.07362
+
+epoch 4442
+Train Loss 0.08746
+
+epoch 4443
+Train Loss 0.07353
+
+epoch 4444
+Train Loss 0.06938
+
+epoch 4445
+Train Loss 0.07482
+
+epoch 4446
+Train Loss 0.06532
+
+epoch 4447
+Train Loss 0.08379
+
+epoch 4448
+Train Loss 0.08794
+
+epoch 4449
+Train Loss 0.07376
+
+epoch 4450
+Train Loss 0.07505
+
+epoch 4451
+Train Loss 0.07992
+
+epoch 4452
+Train Loss 0.08033
+
+epoch 4453
+Train Loss 0.09785
+
+epoch 4454
+Train Loss 0.07518
+
+epoch 4455
+Train Loss 0.08195
+
+epoch 4456
+Train Loss 0.07794
+
+epoch 4457
+Train Loss 0.06417
+
+epoch 4458
+Train Loss 0.07671
+
+epoch 4459
+Train Loss 0.06084
+
+epoch 4460
+Train Loss 0.06202
+
+epoch 4461
+Train Loss 0.10956
+
+epoch 4462
+Train Loss 0.07188
+
+epoch 4463
+Train Loss 0.07533
+
+epoch 4464
+Train Loss 0.08171
+
+epoch 4465
+Train Loss 0.07010
+
+epoch 4466
+Train Loss 0.09727
+
+epoch 4467
+Train Loss 0.07684
+
+epoch 4468
+Train Loss 0.09739
+
+epoch 4469
+Train Loss 0.08100
+
+epoch 4470
+Train Loss 0.07589
+
+epoch 4471
+Train Loss 0.07145
+
+epoch 4472
+Train Loss 0.08889
+
+epoch 4473
+Train Loss 0.07832
+
+epoch 4474
+Train Loss 0.08151
+
+epoch 4475
+Train Loss 0.08093
+
+epoch 4476
+Train Loss 0.07543
+
+epoch 4477
+Train Loss 0.09484
+
+epoch 4478
+Train Loss 0.09477
+
+epoch 4479
+Train Loss 0.08187
+
+epoch 4480
+Train Loss 0.06693
+
+epoch 4481
+Train Loss 0.08153
+
+epoch 4482
+Train Loss 0.06793
+
+epoch 4483
+Train Loss 0.07599
+
+epoch 4484
+Train Loss 0.06639
+
+epoch 4485
+Train Loss 0.08079
+
+epoch 4486
+Train Loss 0.09512
+
+epoch 4487
+Train Loss 0.09492
+
+epoch 4488
+Train Loss 0.11242
+
+epoch 4489
+Train Loss 0.10280
+
+epoch 4490
+Train Loss 0.06968
+
+epoch 4491
+Train Loss 0.07424
+
+epoch 4492
+Train Loss 0.08248
+
+epoch 4493
+Train Loss 0.07527
+
+epoch 4494
+Train Loss 0.07749
+
+epoch 4495
+Train Loss 0.07312
+
+epoch 4496
+Train Loss 0.07344
+
+epoch 4497
+Train Loss 0.06468
+
+epoch 4498
+Train Loss 0.09026
+epoch 4499, Valid Loss 0.06481
+
+epoch 4499
+Train Loss 0.06767
+
+epoch 4500
+Train Loss 0.08118
+
+epoch 4501
+Train Loss 0.09940
+
+epoch 4502
+Train Loss 0.07504
+
+epoch 4503
+Train Loss 0.07530
+
+epoch 4504
+Train Loss 0.05886
+
+epoch 4505
+Train Loss 0.06375
+
+epoch 4506
+Train Loss 0.07446
+
+epoch 4507
+Train Loss 0.07621
+
+epoch 4508
+Train Loss 0.06653
+
+epoch 4509
+Train Loss 0.08042
+
+epoch 4510
+Train Loss 0.06702
+
+epoch 4511
+Train Loss 0.06940
+
+epoch 4512
+Train Loss 0.08673
+
+epoch 4513
+Train Loss 0.08316
+
+epoch 4514
+Train Loss 0.06998
+
+epoch 4515
+Train Loss 0.06298
+
+epoch 4516
+Train Loss 0.08243
+
+epoch 4517
+Train Loss 0.08856
+
+epoch 4518
+Train Loss 0.07070
+
+epoch 4519
+Train Loss 0.06819
+
+epoch 4520
+Train Loss 0.07190
+
+epoch 4521
+Train Loss 0.08167
+
+epoch 4522
+Train Loss 0.08923
+
+epoch 4523
+Train Loss 0.06459
+
+epoch 4524
+Train Loss 0.06948
+
+epoch 4525
+Train Loss 0.08159
+
+epoch 4526
+Train Loss 0.08535
+
+epoch 4527
+Train Loss 0.08960
+
+epoch 4528
+Train Loss 0.06600
+
+epoch 4529
+Train Loss 0.07393
+
+epoch 4530
+Train Loss 0.08000
+
+epoch 4531
+Train Loss 0.07625
+
+epoch 4532
+Train Loss 0.06846
+
+epoch 4533
+Train Loss 0.08501
+
+epoch 4534
+Train Loss 0.06244
+
+epoch 4535
+Train Loss 0.06528
+
+epoch 4536
+Train Loss 0.07010
+
+epoch 4537
+Train Loss 0.06085
+
+epoch 4538
+Train Loss 0.07775
+
+epoch 4539
+Train Loss 0.06386
+
+epoch 4540
+Train Loss 0.06343
+
+epoch 4541
+Train Loss 0.06177
+
+epoch 4542
+Train Loss 0.07213
+
+epoch 4543
+Train Loss 0.06095
+
+epoch 4544
+Train Loss 0.06556
+
+epoch 4545
+Train Loss 0.07174
+
+epoch 4546
+Train Loss 0.08163
+
+epoch 4547
+Train Loss 0.07647
+
+epoch 4548
+Train Loss 0.07502
+
+epoch 4549
+Train Loss 0.09311
+
+epoch 4550
+Train Loss 0.10125
+
+epoch 4551
+Train Loss 0.07656
+
+epoch 4552
+Train Loss 0.07881
+
+epoch 4553
+Train Loss 0.07630
+
+epoch 4554
+Train Loss 0.06288
+
+epoch 4555
+Train Loss 0.08192
+
+epoch 4556
+Train Loss 0.08035
+
+epoch 4557
+Train Loss 0.06726
+
+epoch 4558
+Train Loss 0.07483
+
+epoch 4559
+Train Loss 0.06546
+
+epoch 4560
+Train Loss 0.08147
+
+epoch 4561
+Train Loss 0.07386
+
+epoch 4562
+Train Loss 0.05125
+
+epoch 4563
+Train Loss 0.07274
+
+epoch 4564
+Train Loss 0.09698
+
+epoch 4565
+Train Loss 0.05929
+
+epoch 4566
+Train Loss 0.09325
+
+epoch 4567
+Train Loss 0.07406
+
+epoch 4568
+Train Loss 0.07465
+
+epoch 4569
+Train Loss 0.08241
+
+epoch 4570
+Train Loss 0.07117
+
+epoch 4571
+Train Loss 0.09832
+
+epoch 4572
+Train Loss 0.08126
+
+epoch 4573
+Train Loss 0.06639
+
+epoch 4574
+Train Loss 0.06795
+
+epoch 4575
+Train Loss 0.08156
+
+epoch 4576
+Train Loss 0.05609
+
+epoch 4577
+Train Loss 0.08229
+
+epoch 4578
+Train Loss 0.08505
+
+epoch 4579
+Train Loss 0.06300
+
+epoch 4580
+Train Loss 0.06087
+
+epoch 4581
+Train Loss 0.09463
+
+epoch 4582
+Train Loss 0.09506
+
+epoch 4583
+Train Loss 0.06085
+
+epoch 4584
+Train Loss 0.07727
+
+epoch 4585
+Train Loss 0.08674
+
+epoch 4586
+Train Loss 0.07333
+
+epoch 4587
+Train Loss 0.06507
+
+epoch 4588
+Train Loss 0.07671
+
+epoch 4589
+Train Loss 0.09537
+
+epoch 4590
+Train Loss 0.06245
+
+epoch 4591
+Train Loss 0.07133
+
+epoch 4592
+Train Loss 0.07343
+
+epoch 4593
+Train Loss 0.08184
+
+epoch 4594
+Train Loss 0.07108
+
+epoch 4595
+Train Loss 0.06932
+
+epoch 4596
+Train Loss 0.06970
+
+epoch 4597
+Train Loss 0.07246
+
+epoch 4598
+Train Loss 0.07682
+epoch 4599, Valid Loss 0.06770
+
+epoch 4599
+Train Loss 0.06412
+
+epoch 4600
+Train Loss 0.08012
+
+epoch 4601
+Train Loss 0.07211
+
+epoch 4602
+Train Loss 0.07114
+
+epoch 4603
+Train Loss 0.06039
+
+epoch 4604
+Train Loss 0.06653
+
+epoch 4605
+Train Loss 0.05467
+
+epoch 4606
+Train Loss 0.06566
+
+epoch 4607
+Train Loss 0.07790
+
+epoch 4608
+Train Loss 0.08911
+
+epoch 4609
+Train Loss 0.06534
+
+epoch 4610
+Train Loss 0.06924
+
+epoch 4611
+Train Loss 0.06790
+
+epoch 4612
+Train Loss 0.06961
+
+epoch 4613
+Train Loss 0.07673
+
+epoch 4614
+Train Loss 0.08124
+
+epoch 4615
+Train Loss 0.07797
+
+epoch 4616
+Train Loss 0.05906
+
+epoch 4617
+Train Loss 0.06669
+
+epoch 4618
+Train Loss 0.06420
+
+epoch 4619
+Train Loss 0.06879
+
+epoch 4620
+Train Loss 0.07461
+
+epoch 4621
+Train Loss 0.05059
+
+epoch 4622
+Train Loss 0.07290
+
+epoch 4623
+Train Loss 0.08022
+
+epoch 4624
+Train Loss 0.07511
+
+epoch 4625
+Train Loss 0.06045
+
+epoch 4626
+Train Loss 0.05032
+
+epoch 4627
+Train Loss 0.05729
+
+epoch 4628
+Train Loss 0.07705
+
+epoch 4629
+Train Loss 0.07137
+
+epoch 4630
+Train Loss 0.06801
+
+epoch 4631
+Train Loss 0.07444
+
+epoch 4632
+Train Loss 0.07968
+
+epoch 4633
+Train Loss 0.06253
+
+epoch 4634
+Train Loss 0.07048
+
+epoch 4635
+Train Loss 0.05447
+
+epoch 4636
+Train Loss 0.06395
+
+epoch 4637
+Train Loss 0.07290
+
+epoch 4638
+Train Loss 0.07026
+
+epoch 4639
+Train Loss 0.10106
+
+epoch 4640
+Train Loss 0.08617
+
+epoch 4641
+Train Loss 0.06712
+
+epoch 4642
+Train Loss 0.07099
+
+epoch 4643
+Train Loss 0.05947
+
+epoch 4644
+Train Loss 0.06826
+
+epoch 4645
+Train Loss 0.08205
+
+epoch 4646
+Train Loss 0.07535
+
+epoch 4647
+Train Loss 0.06826
+
+epoch 4648
+Train Loss 0.10590
+
+epoch 4649
+Train Loss 0.07588
+
+epoch 4650
+Train Loss 0.07299
+
+epoch 4651
+Train Loss 0.08524
+
+epoch 4652
+Train Loss 0.08517
+
+epoch 4653
+Train Loss 0.07524
+
+epoch 4654
+Train Loss 0.05873
+
+epoch 4655
+Train Loss 0.07961
+
+epoch 4656
+Train Loss 0.06376
+
+epoch 4657
+Train Loss 0.07036
+
+epoch 4658
+Train Loss 0.08451
+
+epoch 4659
+Train Loss 0.08405
+
+epoch 4660
+Train Loss 0.06879
+
+epoch 4661
+Train Loss 0.09428
+
+epoch 4662
+Train Loss 0.08548
+
+epoch 4663
+Train Loss 0.06088
+
+epoch 4664
+Train Loss 0.06999
+
+epoch 4665
+Train Loss 0.07265
+
+epoch 4666
+Train Loss 0.10438
+
+epoch 4667
+Train Loss 0.08859
+
+epoch 4668
+Train Loss 0.06423
+
+epoch 4669
+Train Loss 0.07249
+
+epoch 4670
+Train Loss 0.06355
+
+epoch 4671
+Train Loss 0.08980
+
+epoch 4672
+Train Loss 0.05755
+
+epoch 4673
+Train Loss 0.07413
+
+epoch 4674
+Train Loss 0.08660
+
+epoch 4675
+Train Loss 0.07873
+
+epoch 4676
+Train Loss 0.06802
+
+epoch 4677
+Train Loss 0.06216
+
+epoch 4678
+Train Loss 0.10864
+
+epoch 4679
+Train Loss 0.08849
+
+epoch 4680
+Train Loss 0.07376
+
+epoch 4681
+Train Loss 0.08472
+
+epoch 4682
+Train Loss 0.05961
+
+epoch 4683
+Train Loss 0.06718
+
+epoch 4684
+Train Loss 0.06115
+
+epoch 4685
+Train Loss 0.05243
+
+epoch 4686
+Train Loss 0.06212
+
+epoch 4687
+Train Loss 0.07452
+
+epoch 4688
+Train Loss 0.07724
+
+epoch 4689
+Train Loss 0.06016
+
+epoch 4690
+Train Loss 0.09675
+
+epoch 4691
+Train Loss 0.07039
+
+epoch 4692
+Train Loss 0.06542
+
+epoch 4693
+Train Loss 0.06077
+
+epoch 4694
+Train Loss 0.06930
+
+epoch 4695
+Train Loss 0.11838
+
+epoch 4696
+Train Loss 0.08392
+
+epoch 4697
+Train Loss 0.07604
+
+epoch 4698
+Train Loss 0.10088
+epoch 4699, Valid Loss 0.08035
+
+epoch 4699
+Train Loss 0.08394
+
+epoch 4700
+Train Loss 0.07039
+
+epoch 4701
+Train Loss 0.07173
+
+epoch 4702
+Train Loss 0.09251
+
+epoch 4703
+Train Loss 0.08267
+
+epoch 4704
+Train Loss 0.08311
+
+epoch 4705
+Train Loss 0.08201
+
+epoch 4706
+Train Loss 0.06939
+
+epoch 4707
+Train Loss 0.07710
+
+epoch 4708
+Train Loss 0.08751
+
+epoch 4709
+Train Loss 0.07988
+
+epoch 4710
+Train Loss 0.07534
+
+epoch 4711
+Train Loss 0.12779
+
+epoch 4712
+Train Loss 0.07377
+
+epoch 4713
+Train Loss 0.08163
+
+epoch 4714
+Train Loss 0.08909
+
+epoch 4715
+Train Loss 0.11129
+
+epoch 4716
+Train Loss 0.08717
+
+epoch 4717
+Train Loss 0.07683
+
+epoch 4718
+Train Loss 0.08213
+
+epoch 4719
+Train Loss 0.08508
+
+epoch 4720
+Train Loss 0.06868
+
+epoch 4721
+Train Loss 0.07871
+
+epoch 4722
+Train Loss 0.07389
+
+epoch 4723
+Train Loss 0.06626
+
+epoch 4724
+Train Loss 0.08140
+
+epoch 4725
+Train Loss 0.07225
+
+epoch 4726
+Train Loss 0.06842
+
+epoch 4727
+Train Loss 0.05469
+
+epoch 4728
+Train Loss 0.06008
+
+epoch 4729
+Train Loss 0.07496
+
+epoch 4730
+Train Loss 0.06848
+
+epoch 4731
+Train Loss 0.06848
+
+epoch 4732
+Train Loss 0.07892
+
+epoch 4733
+Train Loss 0.08086
+
+epoch 4734
+Train Loss 0.09609
+
+epoch 4735
+Train Loss 0.08950
+
+epoch 4736
+Train Loss 0.07000
+
+epoch 4737
+Train Loss 0.08430
+
+epoch 4738
+Train Loss 0.09163
+
+epoch 4739
+Train Loss 0.08124
+
+epoch 4740
+Train Loss 0.07947
+
+epoch 4741
+Train Loss 0.06631
+
+epoch 4742
+Train Loss 0.08175
+
+epoch 4743
+Train Loss 0.08962
+
+epoch 4744
+Train Loss 0.06693
+
+epoch 4745
+Train Loss 0.07150
+
+epoch 4746
+Train Loss 0.10612
+
+epoch 4747
+Train Loss 0.07339
+
+epoch 4748
+Train Loss 0.09075
+
+epoch 4749
+Train Loss 0.07583
+
+epoch 4750
+Train Loss 0.06698
+
+epoch 4751
+Train Loss 0.08971
+
+epoch 4752
+Train Loss 0.10716
+
+epoch 4753
+Train Loss 0.09484
+
+epoch 4754
+Train Loss 0.07074
+
+epoch 4755
+Train Loss 0.08693
+
+epoch 4756
+Train Loss 0.07163
+
+epoch 4757
+Train Loss 0.07574
+
+epoch 4758
+Train Loss 0.07957
+
+epoch 4759
+Train Loss 0.07955
+
+epoch 4760
+Train Loss 0.06755
+
+epoch 4761
+Train Loss 0.06846
+
+epoch 4762
+Train Loss 0.07266
+
+epoch 4763
+Train Loss 0.07772
+
+epoch 4764
+Train Loss 0.09547
+
+epoch 4765
+Train Loss 0.07961
+
+epoch 4766
+Train Loss 0.08406
+
+epoch 4767
+Train Loss 0.05299
+
+epoch 4768
+Train Loss 0.07096
+
+epoch 4769
+Train Loss 0.06951
+
+epoch 4770
+Train Loss 0.07259
+
+epoch 4771
+Train Loss 0.09393
+
+epoch 4772
+Train Loss 0.06808
+
+epoch 4773
+Train Loss 0.07637
+
+epoch 4774
+Train Loss 0.07633
+
+epoch 4775
+Train Loss 0.07363
+
+epoch 4776
+Train Loss 0.07614
+
+epoch 4777
+Train Loss 0.06416
+
+epoch 4778
+Train Loss 0.06607
+
+epoch 4779
+Train Loss 0.05866
+
+epoch 4780
+Train Loss 0.07314
+
+epoch 4781
+Train Loss 0.07648
+
+epoch 4782
+Train Loss 0.07892
+
+epoch 4783
+Train Loss 0.06254
+
+epoch 4784
+Train Loss 0.06373
+
+epoch 4785
+Train Loss 0.07937
+
+epoch 4786
+Train Loss 0.07066
+
+epoch 4787
+Train Loss 0.07005
+
+epoch 4788
+Train Loss 0.07488
+
+epoch 4789
+Train Loss 0.07924
+
+epoch 4790
+Train Loss 0.07150
+
+epoch 4791
+Train Loss 0.06946
+
+epoch 4792
+Train Loss 0.07285
+
+epoch 4793
+Train Loss 0.08659
+
+epoch 4794
+Train Loss 0.10995
+
+epoch 4795
+Train Loss 0.06770
+
+epoch 4796
+Train Loss 0.09035
+
+epoch 4797
+Train Loss 0.08613
+
+epoch 4798
+Train Loss 0.06675
+epoch 4799, Valid Loss 0.07638
+
+epoch 4799
+Train Loss 0.07782
+
+epoch 4800
+Train Loss 0.09074
+
+epoch 4801
+Train Loss 0.05929
+
+epoch 4802
+Train Loss 0.05592
+
+epoch 4803
+Train Loss 0.08049
+
+epoch 4804
+Train Loss 0.08062
+
+epoch 4805
+Train Loss 0.08125
+
+epoch 4806
+Train Loss 0.07252
+
+epoch 4807
+Train Loss 0.07762
+
+epoch 4808
+Train Loss 0.07881
+
+epoch 4809
+Train Loss 0.09626
+
+epoch 4810
+Train Loss 0.09383
+
+epoch 4811
+Train Loss 0.06126
+
+epoch 4812
+Train Loss 0.06473
+
+epoch 4813
+Train Loss 0.07082
+
+epoch 4814
+Train Loss 0.07181
+
+epoch 4815
+Train Loss 0.07224
+
+epoch 4816
+Train Loss 0.08554
+
+epoch 4817
+Train Loss 0.07999
+
+epoch 4818
+Train Loss 0.06780
+
+epoch 4819
+Train Loss 0.08064
+
+epoch 4820
+Train Loss 0.07418
+
+epoch 4821
+Train Loss 0.07147
+
+epoch 4822
+Train Loss 0.06468
+
+epoch 4823
+Train Loss 0.08723
+
+epoch 4824
+Train Loss 0.06436
+
+epoch 4825
+Train Loss 0.06556
+
+epoch 4826
+Train Loss 0.08852
+
+epoch 4827
+Train Loss 0.08384
+
+epoch 4828
+Train Loss 0.07872
+
+epoch 4829
+Train Loss 0.09639
+
+epoch 4830
+Train Loss 0.06586
+
+epoch 4831
+Train Loss 0.10885
+
+epoch 4832
+Train Loss 0.05936
+
+epoch 4833
+Train Loss 0.08263
+
+epoch 4834
+Train Loss 0.08210
+
+epoch 4835
+Train Loss 0.06800
+
+epoch 4836
+Train Loss 0.06418
+
+epoch 4837
+Train Loss 0.06817
+
+epoch 4838
+Train Loss 0.08729
+
+epoch 4839
+Train Loss 0.08378
+
+epoch 4840
+Train Loss 0.07271
+
+epoch 4841
+Train Loss 0.07616
+
+epoch 4842
+Train Loss 0.09065
+
+epoch 4843
+Train Loss 0.11707
+
+epoch 4844
+Train Loss 0.05787
+
+epoch 4845
+Train Loss 0.05764
+
+epoch 4846
+Train Loss 0.05919
+
+epoch 4847
+Train Loss 0.07035
+
+epoch 4848
+Train Loss 0.06010
+
+epoch 4849
+Train Loss 0.09256
+
+epoch 4850
+Train Loss 0.09699
+
+epoch 4851
+Train Loss 0.07559
+
+epoch 4852
+Train Loss 0.06166
+
+epoch 4853
+Train Loss 0.07192
+
+epoch 4854
+Train Loss 0.07905
+
+epoch 4855
+Train Loss 0.07884
+
+epoch 4856
+Train Loss 0.09317
+
+epoch 4857
+Train Loss 0.08918
+
+epoch 4858
+Train Loss 0.06878
+
+epoch 4859
+Train Loss 0.07929
+
+epoch 4860
+Train Loss 0.07559
+
+epoch 4861
+Train Loss 0.07294
+
+epoch 4862
+Train Loss 0.07577
+
+epoch 4863
+Train Loss 0.09121
+
+epoch 4864
+Train Loss 0.08459
+
+epoch 4865
+Train Loss 0.07070
+
+epoch 4866
+Train Loss 0.06485
+
+epoch 4867
+Train Loss 0.06744
+
+epoch 4868
+Train Loss 0.07422
+
+epoch 4869
+Train Loss 0.06349
+
+epoch 4870
+Train Loss 0.06713
+
+epoch 4871
+Train Loss 0.06258
+
+epoch 4872
+Train Loss 0.07164
+
+epoch 4873
+Train Loss 0.07324
+
+epoch 4874
+Train Loss 0.08636
+
+epoch 4875
+Train Loss 0.08649
+
+epoch 4876
+Train Loss 0.08610
+
+epoch 4877
+Train Loss 0.05054
+
+epoch 4878
+Train Loss 0.07143
+
+epoch 4879
+Train Loss 0.07259
+
+epoch 4880
+Train Loss 0.10437
+
+epoch 4881
+Train Loss 0.07306
+
+epoch 4882
+Train Loss 0.09557
+
+epoch 4883
+Train Loss 0.06911
+
+epoch 4884
+Train Loss 0.08653
+
+epoch 4885
+Train Loss 0.08934
+
+epoch 4886
+Train Loss 0.06319
+
+epoch 4887
+Train Loss 0.08892
+
+epoch 4888
+Train Loss 0.09156
+
+epoch 4889
+Train Loss 0.08603
+
+epoch 4890
+Train Loss 0.06270
+
+epoch 4891
+Train Loss 0.10382
+
+epoch 4892
+Train Loss 0.06208
+
+epoch 4893
+Train Loss 0.06045
+
+epoch 4894
+Train Loss 0.10159
+
+epoch 4895
+Train Loss 0.09328
+
+epoch 4896
+Train Loss 0.07609
+
+epoch 4897
+Train Loss 0.10013
+
+epoch 4898
+Train Loss 0.08042
+epoch 4899, Valid Loss 0.08160
+
+epoch 4899
+Train Loss 0.08487
+
+epoch 4900
+Train Loss 0.07901
+
+epoch 4901
+Train Loss 0.08102
+
+epoch 4902
+Train Loss 0.10451
+
+epoch 4903
+Train Loss 0.07550
+
+epoch 4904
+Train Loss 0.07667
+
+epoch 4905
+Train Loss 0.06833
+
+epoch 4906
+Train Loss 0.08657
+
+epoch 4907
+Train Loss 0.08642
+
+epoch 4908
+Train Loss 0.08138
+
+epoch 4909
+Train Loss 0.07866
+
+epoch 4910
+Train Loss 0.07156
+
+epoch 4911
+Train Loss 0.07466
+
+epoch 4912
+Train Loss 0.08684
+
+epoch 4913
+Train Loss 0.07222
+
+epoch 4914
+Train Loss 0.08278
+
+epoch 4915
+Train Loss 0.07549
+
+epoch 4916
+Train Loss 0.07412
+
+epoch 4917
+Train Loss 0.07046
+
+epoch 4918
+Train Loss 0.05640
+
+epoch 4919
+Train Loss 0.08682
+
+epoch 4920
+Train Loss 0.07690
+
+epoch 4921
+Train Loss 0.05633
+
+epoch 4922
+Train Loss 0.06116
+
+epoch 4923
+Train Loss 0.06430
+
+epoch 4924
+Train Loss 0.07256
+
+epoch 4925
+Train Loss 0.05837
+
+epoch 4926
+Train Loss 0.06002
+
+epoch 4927
+Train Loss 0.08049
+
+epoch 4928
+Train Loss 0.07455
+
+epoch 4929
+Train Loss 0.05492
+
+epoch 4930
+Train Loss 0.07175
+
+epoch 4931
+Train Loss 0.06528
+
+epoch 4932
+Train Loss 0.07926
+
+epoch 4933
+Train Loss 0.08102
+
+epoch 4934
+Train Loss 0.06770
+
+epoch 4935
+Train Loss 0.06712
+
+epoch 4936
+Train Loss 0.08126
+
+epoch 4937
+Train Loss 0.07518
+
+epoch 4938
+Train Loss 0.08217
+
+epoch 4939
+Train Loss 0.05927
+
+epoch 4940
+Train Loss 0.05526
+
+epoch 4941
+Train Loss 0.10281
+
+epoch 4942
+Train Loss 0.07559
+
+epoch 4943
+Train Loss 0.06471
+
+epoch 4944
+Train Loss 0.06784
+
+epoch 4945
+Train Loss 0.08155
+
+epoch 4946
+Train Loss 0.06661
+
+epoch 4947
+Train Loss 0.06783
+
+epoch 4948
+Train Loss 0.10767
+
+epoch 4949
+Train Loss 0.09193
+
+epoch 4950
+Train Loss 0.06385
+
+epoch 4951
+Train Loss 0.07180
+
+epoch 4952
+Train Loss 0.07588
+
+epoch 4953
+Train Loss 0.08044
+
+epoch 4954
+Train Loss 0.06188
+
+epoch 4955
+Train Loss 0.07854
+
+epoch 4956
+Train Loss 0.08577
+
+epoch 4957
+Train Loss 0.09224
+
+epoch 4958
+Train Loss 0.08572
+
+epoch 4959
+Train Loss 0.07682
+
+epoch 4960
+Train Loss 0.07151
+
+epoch 4961
+Train Loss 0.10432
+
+epoch 4962
+Train Loss 0.07883
+
+epoch 4963
+Train Loss 0.06118
+
+epoch 4964
+Train Loss 0.06334
+
+epoch 4965
+Train Loss 0.08135
+
+epoch 4966
+Train Loss 0.08960
+
+epoch 4967
+Train Loss 0.06532
+
+epoch 4968
+Train Loss 0.07648
+
+epoch 4969
+Train Loss 0.07132
+
+epoch 4970
+Train Loss 0.06816
+
+epoch 4971
+Train Loss 0.05904
+
+epoch 4972
+Train Loss 0.09617
+
+epoch 4973
+Train Loss 0.06722
+
+epoch 4974
+Train Loss 0.08674
+
+epoch 4975
+Train Loss 0.08369
+
+epoch 4976
+Train Loss 0.07722
+
+epoch 4977
+Train Loss 0.08074
+
+epoch 4978
+Train Loss 0.07211
+
+epoch 4979
+Train Loss 0.06627
+
+epoch 4980
+Train Loss 0.07143
+
+epoch 4981
+Train Loss 0.07593
+
+epoch 4982
+Train Loss 0.07650
+
+epoch 4983
+Train Loss 0.06384
+
+epoch 4984
+Train Loss 0.05898
+
+epoch 4985
+Train Loss 0.08279
+
+epoch 4986
+Train Loss 0.09570
+
+epoch 4987
+Train Loss 0.07698
+
+epoch 4988
+Train Loss 0.07333
+
+epoch 4989
+Train Loss 0.06083
+
+epoch 4990
+Train Loss 0.05992
+
+epoch 4991
+Train Loss 0.08063
+
+epoch 4992
+Train Loss 0.06893
+
+epoch 4993
+Train Loss 0.07668
+
+epoch 4994
+Train Loss 0.08912
+
+epoch 4995
+Train Loss 0.06829
+
+epoch 4996
+Train Loss 0.05742
+
+epoch 4997
+Train Loss 0.07506
+
+epoch 4998
+Train Loss 0.07613
+epoch 4999, Valid Loss 0.07238
+
+epoch 4999
+Train Loss 0.07527
+
+epoch 5000
+Train Loss 0.07612
+
+epoch 5001
+Train Loss 0.07086
+
+epoch 5002
+Train Loss 0.07775
+
+epoch 5003
+Train Loss 0.04924
+
+epoch 5004
+Train Loss 0.06863
+
+epoch 5005
+Train Loss 0.08915
+
+epoch 5006
+Train Loss 0.06462
+
+epoch 5007
+Train Loss 0.07613
+
+epoch 5008
+Train Loss 0.07814
+
+epoch 5009
+Train Loss 0.08701
+
+epoch 5010
+Train Loss 0.09365
+
+epoch 5011
+Train Loss 0.08166
+
+epoch 5012
+Train Loss 0.06384
+
+epoch 5013
+Train Loss 0.07495
+
+epoch 5014
+Train Loss 0.06432
+
+epoch 5015
+Train Loss 0.06465
+
+epoch 5016
+Train Loss 0.09172
+
+epoch 5017
+Train Loss 0.07478
+
+epoch 5018
+Train Loss 0.07158
+
+epoch 5019
+Train Loss 0.08621
+
+epoch 5020
+Train Loss 0.07179
+
+epoch 5021
+Train Loss 0.07051
+
+epoch 5022
+Train Loss 0.06979
+
+epoch 5023
+Train Loss 0.07487
+
+epoch 5024
+Train Loss 0.08951
+
+epoch 5025
+Train Loss 0.06290
+
+epoch 5026
+Train Loss 0.07849
+
+epoch 5027
+Train Loss 0.09015
+
+epoch 5028
+Train Loss 0.06637
+
+epoch 5029
+Train Loss 0.09634
+
+epoch 5030
+Train Loss 0.07934
+
+epoch 5031
+Train Loss 0.08515
+
+epoch 5032
+Train Loss 0.06927
+
+epoch 5033
+Train Loss 0.07690
+
+epoch 5034
+Train Loss 0.08038
+
+epoch 5035
+Train Loss 0.06498
+
+epoch 5036
+Train Loss 0.07508
+
+epoch 5037
+Train Loss 0.07522
+
+epoch 5038
+Train Loss 0.06101
+
+epoch 5039
+Train Loss 0.07939
+
+epoch 5040
+Train Loss 0.06506
+
+epoch 5041
+Train Loss 0.06615
+
+epoch 5042
+Train Loss 0.09370
+
+epoch 5043
+Train Loss 0.07451
+
+epoch 5044
+Train Loss 0.06422
+
+epoch 5045
+Train Loss 0.08396
+
+epoch 5046
+Train Loss 0.08275
+
+epoch 5047
+Train Loss 0.06314
+
+epoch 5048
+Train Loss 0.08524
+
+epoch 5049
+Train Loss 0.09371
+
+epoch 5050
+Train Loss 0.07810
+
+epoch 5051
+Train Loss 0.06945
+
+epoch 5052
+Train Loss 0.08438
+
+epoch 5053
+Train Loss 0.07275
+
+epoch 5054
+Train Loss 0.06827
+
+epoch 5055
+Train Loss 0.07814
+
+epoch 5056
+Train Loss 0.07478
+
+epoch 5057
+Train Loss 0.09225
+
+epoch 5058
+Train Loss 0.07059
+
+epoch 5059
+Train Loss 0.06964
+
+epoch 5060
+Train Loss 0.07237
+
+epoch 5061
+Train Loss 0.07795
+
+epoch 5062
+Train Loss 0.06861
+
+epoch 5063
+Train Loss 0.07861
+
+epoch 5064
+Train Loss 0.07677
+
+epoch 5065
+Train Loss 0.06997
+
+epoch 5066
+Train Loss 0.06972
+
+epoch 5067
+Train Loss 0.07786
+
+epoch 5068
+Train Loss 0.06715
+
+epoch 5069
+Train Loss 0.09360
+
+epoch 5070
+Train Loss 0.08175
+
+epoch 5071
+Train Loss 0.07372
+
+epoch 5072
+Train Loss 0.06561
+
+epoch 5073
+Train Loss 0.06552
+
+epoch 5074
+Train Loss 0.06316
+
+epoch 5075
+Train Loss 0.05583
+
+epoch 5076
+Train Loss 0.09784
+
+epoch 5077
+Train Loss 0.05881
+
+epoch 5078
+Train Loss 0.05694
+
+epoch 5079
+Train Loss 0.09073
+
+epoch 5080
+Train Loss 0.05892
+
+epoch 5081
+Train Loss 0.07798
+
+epoch 5082
+Train Loss 0.08678
+
+epoch 5083
+Train Loss 0.07263
+
+epoch 5084
+Train Loss 0.07542
+
+epoch 5085
+Train Loss 0.06940
+
+epoch 5086
+Train Loss 0.07580
+
+epoch 5087
+Train Loss 0.06447
+
+epoch 5088
+Train Loss 0.06939
+
+epoch 5089
+Train Loss 0.07323
+
+epoch 5090
+Train Loss 0.05193
+
+epoch 5091
+Train Loss 0.09945
+
+epoch 5092
+Train Loss 0.07082
+
+epoch 5093
+Train Loss 0.06777
+
+epoch 5094
+Train Loss 0.07462
+
+epoch 5095
+Train Loss 0.06616
+
+epoch 5096
+Train Loss 0.05879
+
+epoch 5097
+Train Loss 0.06255
+
+epoch 5098
+Train Loss 0.06657
+epoch 5099, Valid Loss 0.06457
+
+epoch 5099
+Train Loss 0.06140
+
+epoch 5100
+Train Loss 0.08276
+
+epoch 5101
+Train Loss 0.07627
+
+epoch 5102
+Train Loss 0.06118
+
+epoch 5103
+Train Loss 0.06942
+
+epoch 5104
+Train Loss 0.07169
+
+epoch 5105
+Train Loss 0.07937
+
+epoch 5106
+Train Loss 0.08574
+
+epoch 5107
+Train Loss 0.07134
+
+epoch 5108
+Train Loss 0.05087
+
+epoch 5109
+Train Loss 0.05506
+
+epoch 5110
+Train Loss 0.06376
+
+epoch 5111
+Train Loss 0.07232
+
+epoch 5112
+Train Loss 0.08988
+
+epoch 5113
+Train Loss 0.06986
+
+epoch 5114
+Train Loss 0.06765
+
+epoch 5115
+Train Loss 0.09176
+
+epoch 5116
+Train Loss 0.09899
+
+epoch 5117
+Train Loss 0.08459
+
+epoch 5118
+Train Loss 0.06961
+
+epoch 5119
+Train Loss 0.07140
+
+epoch 5120
+Train Loss 0.06709
+
+epoch 5121
+Train Loss 0.06838
+
+epoch 5122
+Train Loss 0.05341
+
+epoch 5123
+Train Loss 0.05902
+
+epoch 5124
+Train Loss 0.08542
+
+epoch 5125
+Train Loss 0.06785
+
+epoch 5126
+Train Loss 0.07898
+
+epoch 5127
+Train Loss 0.07942
+
+epoch 5128
+Train Loss 0.08246
+
+epoch 5129
+Train Loss 0.09390
+
+epoch 5130
+Train Loss 0.08325
+
+epoch 5131
+Train Loss 0.08775
+
+epoch 5132
+Train Loss 0.06911
+
+epoch 5133
+Train Loss 0.07021
+
+epoch 5134
+Train Loss 0.10267
+
+epoch 5135
+Train Loss 0.07664
+
+epoch 5136
+Train Loss 0.07306
+
+epoch 5137
+Train Loss 0.06570
+
+epoch 5138
+Train Loss 0.06393
+
+epoch 5139
+Train Loss 0.07967
+
+epoch 5140
+Train Loss 0.06393
+
+epoch 5141
+Train Loss 0.06578
+
+epoch 5142
+Train Loss 0.06433
+
+epoch 5143
+Train Loss 0.06733
+
+epoch 5144
+Train Loss 0.09442
+
+epoch 5145
+Train Loss 0.06412
+
+epoch 5146
+Train Loss 0.07932
+
+epoch 5147
+Train Loss 0.08548
+
+epoch 5148
+Train Loss 0.08028
+
+epoch 5149
+Train Loss 0.08139
+
+epoch 5150
+Train Loss 0.05496
+
+epoch 5151
+Train Loss 0.07853
+
+epoch 5152
+Train Loss 0.06686
+
+epoch 5153
+Train Loss 0.07616
+
+epoch 5154
+Train Loss 0.06967
+
+epoch 5155
+Train Loss 0.06111
+
+epoch 5156
+Train Loss 0.06753
+
+epoch 5157
+Train Loss 0.07821
+
+epoch 5158
+Train Loss 0.06364
+
+epoch 5159
+Train Loss 0.07302
+
+epoch 5160
+Train Loss 0.06928
+
+epoch 5161
+Train Loss 0.08443
+
+epoch 5162
+Train Loss 0.06246
+
+epoch 5163
+Train Loss 0.08385
+
+epoch 5164
+Train Loss 0.08166
+
+epoch 5165
+Train Loss 0.05824
+
+epoch 5166
+Train Loss 0.07238
+
+epoch 5167
+Train Loss 0.06874
+
+epoch 5168
+Train Loss 0.08447
+
+epoch 5169
+Train Loss 0.06950
+
+epoch 5170
+Train Loss 0.07906
+
+epoch 5171
+Train Loss 0.07645
+
+epoch 5172
+Train Loss 0.07736
+
+epoch 5173
+Train Loss 0.06803
+
+epoch 5174
+Train Loss 0.06961
+
+epoch 5175
+Train Loss 0.07090
+
+epoch 5176
+Train Loss 0.06636
+
+epoch 5177
+Train Loss 0.06755
+
+epoch 5178
+Train Loss 0.05633
+
+epoch 5179
+Train Loss 0.07416
+
+epoch 5180
+Train Loss 0.09279
+
+epoch 5181
+Train Loss 0.07008
+
+epoch 5182
+Train Loss 0.06961
+
+epoch 5183
+Train Loss 0.05579
+
+epoch 5184
+Train Loss 0.07188
+
+epoch 5185
+Train Loss 0.08458
+
+epoch 5186
+Train Loss 0.07229
+
+epoch 5187
+Train Loss 0.06645
+
+epoch 5188
+Train Loss 0.06449
+
+epoch 5189
+Train Loss 0.10879
+
+epoch 5190
+Train Loss 0.06712
+
+epoch 5191
+Train Loss 0.08071
+
+epoch 5192
+Train Loss 0.08587
+
+epoch 5193
+Train Loss 0.05377
+
+epoch 5194
+Train Loss 0.07911
+
+epoch 5195
+Train Loss 0.06334
+
+epoch 5196
+Train Loss 0.07194
+
+epoch 5197
+Train Loss 0.08154
+
+epoch 5198
+Train Loss 0.08219
+epoch 5199, Valid Loss 0.07823
+
+epoch 5199
+Train Loss 0.06394
+
+epoch 5200
+Train Loss 0.06827
+
+epoch 5201
+Train Loss 0.06951
+
+epoch 5202
+Train Loss 0.08567
+
+epoch 5203
+Train Loss 0.06273
+
+epoch 5204
+Train Loss 0.08290
+
+epoch 5205
+Train Loss 0.06913
+
+epoch 5206
+Train Loss 0.08012
+
+epoch 5207
+Train Loss 0.07588
+
+epoch 5208
+Train Loss 0.06380
+
+epoch 5209
+Train Loss 0.08213
+
+epoch 5210
+Train Loss 0.07610
+
+epoch 5211
+Train Loss 0.06343
+
+epoch 5212
+Train Loss 0.08944
+
+epoch 5213
+Train Loss 0.08547
+
+epoch 5214
+Train Loss 0.05832
+
+epoch 5215
+Train Loss 0.07428
+
+epoch 5216
+Train Loss 0.07155
+
+epoch 5217
+Train Loss 0.08857
+
+epoch 5218
+Train Loss 0.08131
+
+epoch 5219
+Train Loss 0.05665
+
+epoch 5220
+Train Loss 0.06924
+
+epoch 5221
+Train Loss 0.05175
+
+epoch 5222
+Train Loss 0.06129
+
+epoch 5223
+Train Loss 0.08052
+
+epoch 5224
+Train Loss 0.07497
+
+epoch 5225
+Train Loss 0.06378
+
+epoch 5226
+Train Loss 0.05983
+
+epoch 5227
+Train Loss 0.06684
+
+epoch 5228
+Train Loss 0.07072
+
+epoch 5229
+Train Loss 0.06607
+
+epoch 5230
+Train Loss 0.06527
+
+epoch 5231
+Train Loss 0.05911
+
+epoch 5232
+Train Loss 0.10285
+
+epoch 5233
+Train Loss 0.06805
+
+epoch 5234
+Train Loss 0.08433
+
+epoch 5235
+Train Loss 0.06759
+
+epoch 5236
+Train Loss 0.07533
+
+epoch 5237
+Train Loss 0.08496
+
+epoch 5238
+Train Loss 0.07261
+
+epoch 5239
+Train Loss 0.06175
+
+epoch 5240
+Train Loss 0.08248
+
+epoch 5241
+Train Loss 0.06950
+
+epoch 5242
+Train Loss 0.07293
+
+epoch 5243
+Train Loss 0.05737
+
+epoch 5244
+Train Loss 0.06845
+
+epoch 5245
+Train Loss 0.08743
+
+epoch 5246
+Train Loss 0.06349
+
+epoch 5247
+Train Loss 0.06275
+
+epoch 5248
+Train Loss 0.06876
+
+epoch 5249
+Train Loss 0.08722
+
+epoch 5250
+Train Loss 0.07964
+
+epoch 5251
+Train Loss 0.08362
+
+epoch 5252
+Train Loss 0.06778
+
+epoch 5253
+Train Loss 0.08335
+
+epoch 5254
+Train Loss 0.06319
+
+epoch 5255
+Train Loss 0.05821
+
+epoch 5256
+Train Loss 0.06826
+
+epoch 5257
+Train Loss 0.06800
+
+epoch 5258
+Train Loss 0.06435
+
+epoch 5259
+Train Loss 0.07937
+
+epoch 5260
+Train Loss 0.07743
+
+epoch 5261
+Train Loss 0.09503
+
+epoch 5262
+Train Loss 0.06450
+
+epoch 5263
+Train Loss 0.07394
+
+epoch 5264
+Train Loss 0.08176
+
+epoch 5265
+Train Loss 0.07932
+
+epoch 5266
+Train Loss 0.09438
+
+epoch 5267
+Train Loss 0.06452
+
+epoch 5268
+Train Loss 0.07513
+
+epoch 5269
+Train Loss 0.06567
+
+epoch 5270
+Train Loss 0.06043
+
+epoch 5271
+Train Loss 0.08295
+
+epoch 5272
+Train Loss 0.07410
+
+epoch 5273
+Train Loss 0.08121
+
+epoch 5274
+Train Loss 0.07724
+
+epoch 5275
+Train Loss 0.08264
+
+epoch 5276
+Train Loss 0.07358
+
+epoch 5277
+Train Loss 0.06901
+
+epoch 5278
+Train Loss 0.06026
+
+epoch 5279
+Train Loss 0.08352
+
+epoch 5280
+Train Loss 0.07389
+
+epoch 5281
+Train Loss 0.08349
+
+epoch 5282
+Train Loss 0.06512
+
+epoch 5283
+Train Loss 0.07520
+
+epoch 5284
+Train Loss 0.06507
+
+epoch 5285
+Train Loss 0.07260
+
+epoch 5286
+Train Loss 0.07455
+
+epoch 5287
+Train Loss 0.06556
+
+epoch 5288
+Train Loss 0.07200
+
+epoch 5289
+Train Loss 0.06996
+
+epoch 5290
+Train Loss 0.07960
+
+epoch 5291
+Train Loss 0.06832
+
+epoch 5292
+Train Loss 0.07221
+
+epoch 5293
+Train Loss 0.09343
+
+epoch 5294
+Train Loss 0.07726
+
+epoch 5295
+Train Loss 0.07505
+
+epoch 5296
+Train Loss 0.08192
+
+epoch 5297
+Train Loss 0.06987
+
+epoch 5298
+Train Loss 0.07883
+epoch 5299, Valid Loss 0.08084
+
+epoch 5299
+Train Loss 0.08268
+
+epoch 5300
+Train Loss 0.08287
+
+epoch 5301
+Train Loss 0.07223
+
+epoch 5302
+Train Loss 0.06853
+
+epoch 5303
+Train Loss 0.07358
+
+epoch 5304
+Train Loss 0.05868
+
+epoch 5305
+Train Loss 0.07578
+
+epoch 5306
+Train Loss 0.08261
+
+epoch 5307
+Train Loss 0.08551
+
+epoch 5308
+Train Loss 0.06560
+
+epoch 5309
+Train Loss 0.06596
+
+epoch 5310
+Train Loss 0.07980
+
+epoch 5311
+Train Loss 0.06486
+
+epoch 5312
+Train Loss 0.06909
+
+epoch 5313
+Train Loss 0.07914
+
+epoch 5314
+Train Loss 0.05554
+
+epoch 5315
+Train Loss 0.07097
+
+epoch 5316
+Train Loss 0.06377
+
+epoch 5317
+Train Loss 0.05426
+
+epoch 5318
+Train Loss 0.06512
+
+epoch 5319
+Train Loss 0.07416
+
+epoch 5320
+Train Loss 0.07909
+
+epoch 5321
+Train Loss 0.07426
+
+epoch 5322
+Train Loss 0.06446
+
+epoch 5323
+Train Loss 0.06047
+
+epoch 5324
+Train Loss 0.06784
+
+epoch 5325
+Train Loss 0.06501
+
+epoch 5326
+Train Loss 0.05503
+
+epoch 5327
+Train Loss 0.06682
+
+epoch 5328
+Train Loss 0.09326
+
+epoch 5329
+Train Loss 0.08048
+
+epoch 5330
+Train Loss 0.06226
+
+epoch 5331
+Train Loss 0.06713
+
+epoch 5332
+Train Loss 0.07142
+
+epoch 5333
+Train Loss 0.06567
+
+epoch 5334
+Train Loss 0.06793
+
+epoch 5335
+Train Loss 0.05643
+
+epoch 5336
+Train Loss 0.07891
+
+epoch 5337
+Train Loss 0.06748
+
+epoch 5338
+Train Loss 0.05563
+
+epoch 5339
+Train Loss 0.06374
+
+epoch 5340
+Train Loss 0.06972
+
+epoch 5341
+Train Loss 0.06379
+
+epoch 5342
+Train Loss 0.05299
+
+epoch 5343
+Train Loss 0.07980
+
+epoch 5344
+Train Loss 0.06575
+
+epoch 5345
+Train Loss 0.07286
+
+epoch 5346
+Train Loss 0.08409
+
+epoch 5347
+Train Loss 0.07998
+
+epoch 5348
+Train Loss 0.05426
+
+epoch 5349
+Train Loss 0.06870
+
+epoch 5350
+Train Loss 0.09146
+
+epoch 5351
+Train Loss 0.08100
+
+epoch 5352
+Train Loss 0.06144
+
+epoch 5353
+Train Loss 0.07361
+
+epoch 5354
+Train Loss 0.06056
+
+epoch 5355
+Train Loss 0.07704
+
+epoch 5356
+Train Loss 0.07763
+
+epoch 5357
+Train Loss 0.06262
+
+epoch 5358
+Train Loss 0.05575
+
+epoch 5359
+Train Loss 0.06617
+
+epoch 5360
+Train Loss 0.08130
+
+epoch 5361
+Train Loss 0.06099
+
+epoch 5362
+Train Loss 0.07060
+
+epoch 5363
+Train Loss 0.06248
+
+epoch 5364
+Train Loss 0.05892
+
+epoch 5365
+Train Loss 0.08067
+
+epoch 5366
+Train Loss 0.07636
+
+epoch 5367
+Train Loss 0.06839
+
+epoch 5368
+Train Loss 0.07335
+
+epoch 5369
+Train Loss 0.06319
+
+epoch 5370
+Train Loss 0.07897
+
+epoch 5371
+Train Loss 0.07675
+
+epoch 5372
+Train Loss 0.06252
+
+epoch 5373
+Train Loss 0.07111
+
+epoch 5374
+Train Loss 0.06914
+
+epoch 5375
+Train Loss 0.06782
+
+epoch 5376
+Train Loss 0.06283
+
+epoch 5377
+Train Loss 0.05719
+
+epoch 5378
+Train Loss 0.05712
+
+epoch 5379
+Train Loss 0.07677
+
+epoch 5380
+Train Loss 0.06904
+
+epoch 5381
+Train Loss 0.06895
+
+epoch 5382
+Train Loss 0.07387
+
+epoch 5383
+Train Loss 0.07443
+
+epoch 5384
+Train Loss 0.07932
+
+epoch 5385
+Train Loss 0.06175
+
+epoch 5386
+Train Loss 0.08472
+
+epoch 5387
+Train Loss 0.07795
+
+epoch 5388
+Train Loss 0.06598
+
+epoch 5389
+Train Loss 0.07458
+
+epoch 5390
+Train Loss 0.07055
+
+epoch 5391
+Train Loss 0.07578
+
+epoch 5392
+Train Loss 0.07396
+
+epoch 5393
+Train Loss 0.07544
+
+epoch 5394
+Train Loss 0.08431
+
+epoch 5395
+Train Loss 0.08588
+
+epoch 5396
+Train Loss 0.07482
+
+epoch 5397
+Train Loss 0.08221
+
+epoch 5398
+Train Loss 0.07577
+epoch 5399, Valid Loss 0.06531
+
+epoch 5399
+Train Loss 0.10098
+
+epoch 5400
+Train Loss 0.07760
+
+epoch 5401
+Train Loss 0.06322
+
+epoch 5402
+Train Loss 0.07274
+
+epoch 5403
+Train Loss 0.08622
+
+epoch 5404
+Train Loss 0.07838
+
+epoch 5405
+Train Loss 0.07502
+
+epoch 5406
+Train Loss 0.08376
+
+epoch 5407
+Train Loss 0.08835
+
+epoch 5408
+Train Loss 0.08792
+
+epoch 5409
+Train Loss 0.08188
+
+epoch 5410
+Train Loss 0.06010
+
+epoch 5411
+Train Loss 0.07108
+
+epoch 5412
+Train Loss 0.06345
+
+epoch 5413
+Train Loss 0.05537
+
+epoch 5414
+Train Loss 0.09490
+
+epoch 5415
+Train Loss 0.06340
+
+epoch 5416
+Train Loss 0.07654
+
+epoch 5417
+Train Loss 0.07280
+
+epoch 5418
+Train Loss 0.08615
+
+epoch 5419
+Train Loss 0.07966
+
+epoch 5420
+Train Loss 0.06644
+
+epoch 5421
+Train Loss 0.06378
+
+epoch 5422
+Train Loss 0.06279
+
+epoch 5423
+Train Loss 0.06795
+
+epoch 5424
+Train Loss 0.05872
+
+epoch 5425
+Train Loss 0.08480
+
+epoch 5426
+Train Loss 0.08420
+
+epoch 5427
+Train Loss 0.05890
+
+epoch 5428
+Train Loss 0.06479
+
+epoch 5429
+Train Loss 0.06698
+
+epoch 5430
+Train Loss 0.08631
+
+epoch 5431
+Train Loss 0.07187
+
+epoch 5432
+Train Loss 0.06968
+
+epoch 5433
+Train Loss 0.06528
+
+epoch 5434
+Train Loss 0.07188
+
+epoch 5435
+Train Loss 0.07442
+
+epoch 5436
+Train Loss 0.06466
+
+epoch 5437
+Train Loss 0.07540
+
+epoch 5438
+Train Loss 0.06242
+
+epoch 5439
+Train Loss 0.08358
+
+epoch 5440
+Train Loss 0.08591
+
+epoch 5441
+Train Loss 0.07062
+
+epoch 5442
+Train Loss 0.05623
+
+epoch 5443
+Train Loss 0.05442
+
+epoch 5444
+Train Loss 0.07172
+
+epoch 5445
+Train Loss 0.06388
+
+epoch 5446
+Train Loss 0.07291
+
+epoch 5447
+Train Loss 0.06734
+
+epoch 5448
+Train Loss 0.09173
+
+epoch 5449
+Train Loss 0.07816
+
+epoch 5450
+Train Loss 0.05962
+
+epoch 5451
+Train Loss 0.05968
+
+epoch 5452
+Train Loss 0.07076
+
+epoch 5453
+Train Loss 0.06694
+
+epoch 5454
+Train Loss 0.05347
+
+epoch 5455
+Train Loss 0.08006
+
+epoch 5456
+Train Loss 0.06322
+
+epoch 5457
+Train Loss 0.07032
+
+epoch 5458
+Train Loss 0.07410
+
+epoch 5459
+Train Loss 0.08090
+
+epoch 5460
+Train Loss 0.07397
+
+epoch 5461
+Train Loss 0.06853
+
+epoch 5462
+Train Loss 0.07584
+
+epoch 5463
+Train Loss 0.06770
+
+epoch 5464
+Train Loss 0.09478
+
+epoch 5465
+Train Loss 0.06744
+
+epoch 5466
+Train Loss 0.07657
+
+epoch 5467
+Train Loss 0.09405
+
+epoch 5468
+Train Loss 0.05969
+
+epoch 5469
+Train Loss 0.10353
+
+epoch 5470
+Train Loss 0.07901
+
+epoch 5471
+Train Loss 0.06615
+
+epoch 5472
+Train Loss 0.05948
+
+epoch 5473
+Train Loss 0.06054
+
+epoch 5474
+Train Loss 0.07753
+
+epoch 5475
+Train Loss 0.07464
+
+epoch 5476
+Train Loss 0.08563
+
+epoch 5477
+Train Loss 0.06977
+
+epoch 5478
+Train Loss 0.06972
+
+epoch 5479
+Train Loss 0.07875
+
+epoch 5480
+Train Loss 0.06348
+
+epoch 5481
+Train Loss 0.06984
+
+epoch 5482
+Train Loss 0.05995
+
+epoch 5483
+Train Loss 0.07707
+
+epoch 5484
+Train Loss 0.06694
+
+epoch 5485
+Train Loss 0.08223
+
+epoch 5486
+Train Loss 0.06626
+
+epoch 5487
+Train Loss 0.06688
+
+epoch 5488
+Train Loss 0.07455
+
+epoch 5489
+Train Loss 0.07858
+
+epoch 5490
+Train Loss 0.07187
+
+epoch 5491
+Train Loss 0.06224
+
+epoch 5492
+Train Loss 0.07284
+
+epoch 5493
+Train Loss 0.07480
+
+epoch 5494
+Train Loss 0.08710
+
+epoch 5495
+Train Loss 0.06515
+
+epoch 5496
+Train Loss 0.07850
+
+epoch 5497
+Train Loss 0.07318
+
+epoch 5498
+Train Loss 0.07528
+epoch 5499, Valid Loss 0.06748
+
+epoch 5499
+Train Loss 0.07759
+
+epoch 5500
+Train Loss 0.05597
+
+epoch 5501
+Train Loss 0.06208
+
+epoch 5502
+Train Loss 0.08373
+
+epoch 5503
+Train Loss 0.10324
+
+epoch 5504
+Train Loss 0.07958
+
+epoch 5505
+Train Loss 0.08256
+
+epoch 5506
+Train Loss 0.07777
+
+epoch 5507
+Train Loss 0.06268
+
+epoch 5508
+Train Loss 0.08355
+
+epoch 5509
+Train Loss 0.07518
+
+epoch 5510
+Train Loss 0.08194
+
+epoch 5511
+Train Loss 0.06598
+
+epoch 5512
+Train Loss 0.08575
+
+epoch 5513
+Train Loss 0.06913
+
+epoch 5514
+Train Loss 0.09562
+
+epoch 5515
+Train Loss 0.08542
+
+epoch 5516
+Train Loss 0.08051
+
+epoch 5517
+Train Loss 0.08179
+
+epoch 5518
+Train Loss 0.09739
+
+epoch 5519
+Train Loss 0.06290
+
+epoch 5520
+Train Loss 0.08966
+
+epoch 5521
+Train Loss 0.07974
+
+epoch 5522
+Train Loss 0.06846
+
+epoch 5523
+Train Loss 0.08924
+
+epoch 5524
+Train Loss 0.08306
+
+epoch 5525
+Train Loss 0.08670
+
+epoch 5526
+Train Loss 0.06311
+
+epoch 5527
+Train Loss 0.07327
+
+epoch 5528
+Train Loss 0.08810
+
+epoch 5529
+Train Loss 0.08051
+
+epoch 5530
+Train Loss 0.06740
+
+epoch 5531
+Train Loss 0.09324
+
+epoch 5532
+Train Loss 0.08589
+
+epoch 5533
+Train Loss 0.10711
+
+epoch 5534
+Train Loss 0.08094
+
+epoch 5535
+Train Loss 0.05547
+
+epoch 5536
+Train Loss 0.06989
+
+epoch 5537
+Train Loss 0.06843
+
+epoch 5538
+Train Loss 0.07466
+
+epoch 5539
+Train Loss 0.07321
+
+epoch 5540
+Train Loss 0.07954
+
+epoch 5541
+Train Loss 0.06298
+
+epoch 5542
+Train Loss 0.06016
+
+epoch 5543
+Train Loss 0.07695
+
+epoch 5544
+Train Loss 0.07542
+
+epoch 5545
+Train Loss 0.08039
+
+epoch 5546
+Train Loss 0.07859
+
+epoch 5547
+Train Loss 0.08055
+
+epoch 5548
+Train Loss 0.09932
+
+epoch 5549
+Train Loss 0.07473
+
+epoch 5550
+Train Loss 0.08316
+
+epoch 5551
+Train Loss 0.11619
+
+epoch 5552
+Train Loss 0.08053
+
+epoch 5553
+Train Loss 0.05596
+
+epoch 5554
+Train Loss 0.07787
+
+epoch 5555
+Train Loss 0.07193
+
+epoch 5556
+Train Loss 0.06046
+
+epoch 5557
+Train Loss 0.08579
+
+epoch 5558
+Train Loss 0.07921
+
+epoch 5559
+Train Loss 0.06425
+
+epoch 5560
+Train Loss 0.07531
+
+epoch 5561
+Train Loss 0.07386
+
+epoch 5562
+Train Loss 0.05224
+
+epoch 5563
+Train Loss 0.07002
+
+epoch 5564
+Train Loss 0.06417
+
+epoch 5565
+Train Loss 0.08719
+
+epoch 5566
+Train Loss 0.05827
+
+epoch 5567
+Train Loss 0.09458
+
+epoch 5568
+Train Loss 0.08192
+
+epoch 5569
+Train Loss 0.07272
+
+epoch 5570
+Train Loss 0.09236
+
+epoch 5571
+Train Loss 0.12472
+
+epoch 5572
+Train Loss 0.09510
+
+epoch 5573
+Train Loss 0.11174
+
+epoch 5574
+Train Loss 0.08561
+
+epoch 5575
+Train Loss 0.07692
+
+epoch 5576
+Train Loss 0.08236
+
+epoch 5577
+Train Loss 0.07823
+
+epoch 5578
+Train Loss 0.07007
+
+epoch 5579
+Train Loss 0.07644
+
+epoch 5580
+Train Loss 0.07399
+
+epoch 5581
+Train Loss 0.07623
+
+epoch 5582
+Train Loss 0.07020
+
+epoch 5583
+Train Loss 0.09361
+
+epoch 5584
+Train Loss 0.07232
+
+epoch 5585
+Train Loss 0.08404
+
+epoch 5586
+Train Loss 0.08155
+
+epoch 5587
+Train Loss 0.07572
+
+epoch 5588
+Train Loss 0.07024
+
+epoch 5589
+Train Loss 0.07936
+
+epoch 5590
+Train Loss 0.05748
+
+epoch 5591
+Train Loss 0.06591
+
+epoch 5592
+Train Loss 0.06936
+
+epoch 5593
+Train Loss 0.07106
+
+epoch 5594
+Train Loss 0.07652
+
+epoch 5595
+Train Loss 0.07145
+
+epoch 5596
+Train Loss 0.07154
+
+epoch 5597
+Train Loss 0.08326
+
+epoch 5598
+Train Loss 0.06423
+epoch 5599, Valid Loss 0.09124
+
+epoch 5599
+Train Loss 0.06570
+
+epoch 5600
+Train Loss 0.07033
+
+epoch 5601
+Train Loss 0.08480
+
+epoch 5602
+Train Loss 0.06884
+
+epoch 5603
+Train Loss 0.08224
+
+epoch 5604
+Train Loss 0.07069
+
+epoch 5605
+Train Loss 0.12251
+
+epoch 5606
+Train Loss 0.08580
+
+epoch 5607
+Train Loss 0.09081
+
+epoch 5608
+Train Loss 0.08743
+
+epoch 5609
+Train Loss 0.07994
+
+epoch 5610
+Train Loss 0.07908
+
+epoch 5611
+Train Loss 0.08279
+
+epoch 5612
+Train Loss 0.07030
+
+epoch 5613
+Train Loss 0.05905
+
+epoch 5614
+Train Loss 0.06461
+
+epoch 5615
+Train Loss 0.07840
+
+epoch 5616
+Train Loss 0.06428
+
+epoch 5617
+Train Loss 0.07408
+
+epoch 5618
+Train Loss 0.06640
+
+epoch 5619
+Train Loss 0.07206
+
+epoch 5620
+Train Loss 0.06552
+
+epoch 5621
+Train Loss 0.07425
+
+epoch 5622
+Train Loss 0.07501
+
+epoch 5623
+Train Loss 0.06420
+
+epoch 5624
+Train Loss 0.07290
+
+epoch 5625
+Train Loss 0.08040
+
+epoch 5626
+Train Loss 0.07297
+
+epoch 5627
+Train Loss 0.05551
+
+epoch 5628
+Train Loss 0.06659

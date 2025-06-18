@@ -1,0 +1,12 @@
+epoch = 50000
+seed = 1
+batch = 10
+save_name = bc-task1-new
+device = cuda:0
+sample_size = 40
+down_sample_factor = 2
+interval = 3
+loss_factor = 100
+multi_dt = 3
+lr = 0.0005
+subtask = 0

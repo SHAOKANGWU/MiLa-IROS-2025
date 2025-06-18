@@ -1,0 +1,1 @@
+python bc-task3.py --epoch 50000 --batch 10 --save-name bc-task3 --lr 0.0001 --loss-factor 1000 --interval 6 --subtask 2 --multi-dt 6

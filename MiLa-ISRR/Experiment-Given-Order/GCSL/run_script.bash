@@ -1,0 +1,2 @@
+# TODO: Remember to tune the learning rate before run the python script
+python GCBC.py --epoch 50000 --batch 5 --save-name sub1 --lr 0.0001 --loss-factor 10000 --interval 3 --sample-size 40 --subtask 0

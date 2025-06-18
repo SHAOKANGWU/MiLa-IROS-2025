@@ -1,0 +1,17 @@
+epoch = 50000
+seed = 1
+batch = 30
+save_name = 200-data-step5
+device = cuda:0
+inner_tau = 0.0001
+inner_goal = 1e-05
+inner_logits = 1e-05
+outer_tau = 0.0001
+outer_goal = 0.0001
+outer_logits = 0.0001
+dt = 0.04
+beta = 1.0
+kp = 150.0
+kv = 25.0
+alpha = 5
+basis_num = 8

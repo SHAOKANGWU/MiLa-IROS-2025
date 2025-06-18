@@ -1,0 +1,10 @@
+epoch = 50000
+seed = 1
+batch = 2
+save_name = tmp
+device = cuda:0
+sample_size = 40
+down_sample_factor = 2
+interval = 3
+inner_lr = 0.0001
+outer_lr = 0.0001

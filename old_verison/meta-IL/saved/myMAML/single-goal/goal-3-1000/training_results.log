@@ -1,0 +1,6066 @@
+epoch: 0, meta train BC loss 92.49
+epoch: 0, meta test BC loss 83.42
+
+epoch: 1, meta train BC loss 93.37
+epoch: 1, meta test BC loss 57.79
+
+epoch: 2, meta train BC loss 47.01
+epoch: 2, meta test BC loss 44.13
+
+epoch: 3, meta train BC loss 41.36
+epoch: 3, meta test BC loss 34.38
+
+epoch: 4, meta train BC loss 20.09
+epoch: 4, meta test BC loss 16.42
+
+epoch: 5, meta train BC loss 14.38
+epoch: 5, meta test BC loss 10.90
+
+epoch: 6, meta train BC loss 8.01
+epoch: 6, meta test BC loss 6.97
+
+epoch: 7, meta train BC loss 6.76
+epoch: 7, meta test BC loss 9.39
+
+epoch: 8, meta train BC loss 11.48
+epoch: 8, meta test BC loss 9.92
+
+epoch: 9, meta train BC loss 16.36
+epoch: 9, meta test BC loss 9.03
+
+epoch: 10, meta train BC loss 18.10
+epoch: 10, meta test BC loss 12.73
+
+epoch: 11, meta train BC loss 18.41
+epoch: 11, meta test BC loss 13.01
+
+epoch: 12, meta train BC loss 19.66
+epoch: 12, meta test BC loss 13.37
+
+epoch: 13, meta train BC loss 22.95
+epoch: 13, meta test BC loss 10.02
+
+epoch: 14, meta train BC loss 15.41
+epoch: 14, meta test BC loss 11.63
+
+epoch: 15, meta train BC loss 14.50
+epoch: 15, meta test BC loss 11.31
+
+epoch: 16, meta train BC loss 11.49
+epoch: 16, meta test BC loss 12.49
+
+epoch: 17, meta train BC loss 7.30
+epoch: 17, meta test BC loss 5.73
+
+epoch: 18, meta train BC loss 7.27
+epoch: 18, meta test BC loss 5.86
+
+epoch: 19, meta train BC loss 5.41
+epoch: 19, meta test BC loss 5.51
+
+epoch: 20, meta train BC loss 6.37
+epoch: 20, meta test BC loss 6.87
+
+epoch: 21, meta train BC loss 6.18
+epoch: 21, meta test BC loss 4.52
+
+epoch: 22, meta train BC loss 5.64
+epoch: 22, meta test BC loss 5.83
+
+epoch: 23, meta train BC loss 5.36
+epoch: 23, meta test BC loss 5.11
+
+epoch: 24, meta train BC loss 6.06
+epoch: 24, meta test BC loss 4.07
+
+epoch: 25, meta train BC loss 6.07
+epoch: 25, meta test BC loss 5.94
+
+epoch: 26, meta train BC loss 6.49
+epoch: 26, meta test BC loss 5.51
+
+epoch: 27, meta train BC loss 5.51
+epoch: 27, meta test BC loss 5.71
+
+epoch: 28, meta train BC loss 5.13
+epoch: 28, meta test BC loss 5.72
+
+epoch: 29, meta train BC loss 6.70
+epoch: 29, meta test BC loss 6.01
+
+epoch: 30, meta train BC loss 6.40
+epoch: 30, meta test BC loss 5.03
+
+epoch: 31, meta train BC loss 5.93
+epoch: 31, meta test BC loss 6.36
+
+epoch: 32, meta train BC loss 4.45
+epoch: 32, meta test BC loss 4.12
+
+epoch: 33, meta train BC loss 4.41
+epoch: 33, meta test BC loss 4.02
+
+epoch: 34, meta train BC loss 4.61
+epoch: 34, meta test BC loss 3.85
+
+epoch: 35, meta train BC loss 4.50
+epoch: 35, meta test BC loss 4.39
+
+epoch: 36, meta train BC loss 3.50
+epoch: 36, meta test BC loss 3.66
+
+epoch: 37, meta train BC loss 4.23
+epoch: 37, meta test BC loss 2.96
+
+epoch: 38, meta train BC loss 4.42
+epoch: 38, meta test BC loss 3.69
+
+epoch: 39, meta train BC loss 3.97
+epoch: 39, meta test BC loss 4.42
+
+epoch: 40, meta train BC loss 3.97
+epoch: 40, meta test BC loss 3.39
+
+epoch: 41, meta train BC loss 3.52
+epoch: 41, meta test BC loss 3.88
+
+epoch: 42, meta train BC loss 3.93
+epoch: 42, meta test BC loss 4.80
+
+epoch: 43, meta train BC loss 3.17
+epoch: 43, meta test BC loss 4.43
+
+epoch: 44, meta train BC loss 3.78
+epoch: 44, meta test BC loss 4.34
+
+epoch: 45, meta train BC loss 3.09
+epoch: 45, meta test BC loss 4.15
+
+epoch: 46, meta train BC loss 4.77
+epoch: 46, meta test BC loss 3.60
+
+epoch: 47, meta train BC loss 3.77
+epoch: 47, meta test BC loss 3.51
+
+epoch: 48, meta train BC loss 4.27
+epoch: 48, meta test BC loss 3.31
+
+epoch: 49, meta train BC loss 3.99
+epoch: 49, meta test BC loss 3.33
+
+############# Evaluation #############
+evaluation loss 5.03
+
+epoch: 50, meta train BC loss 3.02
+epoch: 50, meta test BC loss 3.72
+
+epoch: 51, meta train BC loss 3.75
+epoch: 51, meta test BC loss 3.21
+
+epoch: 52, meta train BC loss 2.57
+epoch: 52, meta test BC loss 3.16
+
+epoch: 53, meta train BC loss 3.59
+epoch: 53, meta test BC loss 3.05
+
+epoch: 54, meta train BC loss 3.75
+epoch: 54, meta test BC loss 2.86
+
+epoch: 55, meta train BC loss 2.60
+epoch: 55, meta test BC loss 2.40
+
+epoch: 56, meta train BC loss 3.17
+epoch: 56, meta test BC loss 2.64
+
+epoch: 57, meta train BC loss 2.37
+epoch: 57, meta test BC loss 2.37
+
+epoch: 58, meta train BC loss 2.90
+epoch: 58, meta test BC loss 3.88
+
+epoch: 59, meta train BC loss 2.60
+epoch: 59, meta test BC loss 2.42
+
+epoch: 60, meta train BC loss 2.56
+epoch: 60, meta test BC loss 2.75
+
+epoch: 61, meta train BC loss 3.00
+epoch: 61, meta test BC loss 2.26
+
+epoch: 62, meta train BC loss 3.83
+epoch: 62, meta test BC loss 3.03
+
+epoch: 63, meta train BC loss 2.43
+epoch: 63, meta test BC loss 3.20
+
+epoch: 64, meta train BC loss 3.12
+epoch: 64, meta test BC loss 2.69
+
+epoch: 65, meta train BC loss 2.87
+epoch: 65, meta test BC loss 3.13
+
+epoch: 66, meta train BC loss 3.33
+epoch: 66, meta test BC loss 2.69
+
+epoch: 67, meta train BC loss 3.88
+epoch: 67, meta test BC loss 2.51
+
+epoch: 68, meta train BC loss 2.24
+epoch: 68, meta test BC loss 2.59
+
+epoch: 69, meta train BC loss 2.96
+epoch: 69, meta test BC loss 2.68
+
+epoch: 70, meta train BC loss 2.50
+epoch: 70, meta test BC loss 3.20
+
+epoch: 71, meta train BC loss 3.03
+epoch: 71, meta test BC loss 3.08
+
+epoch: 72, meta train BC loss 2.70
+epoch: 72, meta test BC loss 2.35
+
+epoch: 73, meta train BC loss 2.57
+epoch: 73, meta test BC loss 2.72
+
+epoch: 74, meta train BC loss 2.79
+epoch: 74, meta test BC loss 2.22
+
+epoch: 75, meta train BC loss 3.59
+epoch: 75, meta test BC loss 2.73
+
+epoch: 76, meta train BC loss 2.16
+epoch: 76, meta test BC loss 3.27
+
+epoch: 77, meta train BC loss 2.95
+epoch: 77, meta test BC loss 2.39
+
+epoch: 78, meta train BC loss 2.70
+epoch: 78, meta test BC loss 2.89
+
+epoch: 79, meta train BC loss 2.85
+epoch: 79, meta test BC loss 2.27
+
+epoch: 80, meta train BC loss 2.45
+epoch: 80, meta test BC loss 2.76
+
+epoch: 81, meta train BC loss 1.49
+epoch: 81, meta test BC loss 2.50
+
+epoch: 82, meta train BC loss 1.61
+epoch: 82, meta test BC loss 2.22
+
+epoch: 83, meta train BC loss 3.44
+epoch: 83, meta test BC loss 2.00
+
+epoch: 84, meta train BC loss 2.43
+epoch: 84, meta test BC loss 3.01
+
+epoch: 85, meta train BC loss 2.19
+epoch: 85, meta test BC loss 1.95
+
+epoch: 86, meta train BC loss 2.25
+epoch: 86, meta test BC loss 1.89
+
+epoch: 87, meta train BC loss 2.21
+epoch: 87, meta test BC loss 2.04
+
+epoch: 88, meta train BC loss 3.59
+epoch: 88, meta test BC loss 2.41
+
+epoch: 89, meta train BC loss 2.24
+epoch: 89, meta test BC loss 2.72
+
+epoch: 90, meta train BC loss 2.68
+epoch: 90, meta test BC loss 3.12
+
+epoch: 91, meta train BC loss 2.98
+epoch: 91, meta test BC loss 1.76
+
+epoch: 92, meta train BC loss 2.37
+epoch: 92, meta test BC loss 3.11
+
+epoch: 93, meta train BC loss 2.15
+epoch: 93, meta test BC loss 2.53
+
+epoch: 94, meta train BC loss 2.14
+epoch: 94, meta test BC loss 2.67
+
+epoch: 95, meta train BC loss 1.81
+epoch: 95, meta test BC loss 2.35
+
+epoch: 96, meta train BC loss 2.01
+epoch: 96, meta test BC loss 1.42
+
+epoch: 97, meta train BC loss 2.03
+epoch: 97, meta test BC loss 2.79
+
+epoch: 98, meta train BC loss 2.50
+epoch: 98, meta test BC loss 2.14
+
+epoch: 99, meta train BC loss 1.93
+epoch: 99, meta test BC loss 1.84
+
+############# Evaluation #############
+evaluation loss 3.55
+
+epoch: 100, meta train BC loss 2.32
+epoch: 100, meta test BC loss 2.68
+
+epoch: 101, meta train BC loss 2.56
+epoch: 101, meta test BC loss 1.94
+
+epoch: 102, meta train BC loss 2.25
+epoch: 102, meta test BC loss 1.96
+
+epoch: 103, meta train BC loss 2.18
+epoch: 103, meta test BC loss 1.85
+
+epoch: 104, meta train BC loss 1.68
+epoch: 104, meta test BC loss 1.77
+
+epoch: 105, meta train BC loss 1.57
+epoch: 105, meta test BC loss 1.89
+
+epoch: 106, meta train BC loss 2.02
+epoch: 106, meta test BC loss 1.68
+
+epoch: 107, meta train BC loss 1.84
+epoch: 107, meta test BC loss 1.84
+
+epoch: 108, meta train BC loss 2.33
+epoch: 108, meta test BC loss 2.25
+
+epoch: 109, meta train BC loss 2.15
+epoch: 109, meta test BC loss 1.91
+
+epoch: 110, meta train BC loss 2.00
+epoch: 110, meta test BC loss 1.48
+
+epoch: 111, meta train BC loss 1.68
+epoch: 111, meta test BC loss 2.52
+
+epoch: 112, meta train BC loss 1.59
+epoch: 112, meta test BC loss 1.88
+
+epoch: 113, meta train BC loss 1.78
+epoch: 113, meta test BC loss 2.29
+
+epoch: 114, meta train BC loss 1.67
+epoch: 114, meta test BC loss 1.32
+
+epoch: 115, meta train BC loss 2.55
+epoch: 115, meta test BC loss 2.36
+
+epoch: 116, meta train BC loss 1.95
+epoch: 116, meta test BC loss 1.94
+
+epoch: 117, meta train BC loss 1.99
+epoch: 117, meta test BC loss 2.09
+
+epoch: 118, meta train BC loss 1.69
+epoch: 118, meta test BC loss 1.92
+
+epoch: 119, meta train BC loss 1.89
+epoch: 119, meta test BC loss 2.06
+
+epoch: 120, meta train BC loss 2.01
+epoch: 120, meta test BC loss 2.22
+
+epoch: 121, meta train BC loss 1.73
+epoch: 121, meta test BC loss 1.91
+
+epoch: 122, meta train BC loss 1.87
+epoch: 122, meta test BC loss 2.05
+
+epoch: 123, meta train BC loss 1.82
+epoch: 123, meta test BC loss 1.68
+
+epoch: 124, meta train BC loss 1.72
+epoch: 124, meta test BC loss 1.49
+
+epoch: 125, meta train BC loss 2.12
+epoch: 125, meta test BC loss 1.95
+
+epoch: 126, meta train BC loss 1.85
+epoch: 126, meta test BC loss 1.68
+
+epoch: 127, meta train BC loss 1.84
+epoch: 127, meta test BC loss 1.99
+
+epoch: 128, meta train BC loss 1.79
+epoch: 128, meta test BC loss 1.75
+
+epoch: 129, meta train BC loss 2.05
+epoch: 129, meta test BC loss 1.59
+
+epoch: 130, meta train BC loss 1.93
+epoch: 130, meta test BC loss 1.89
+
+epoch: 131, meta train BC loss 1.86
+epoch: 131, meta test BC loss 1.90
+
+epoch: 132, meta train BC loss 1.62
+epoch: 132, meta test BC loss 1.23
+
+epoch: 133, meta train BC loss 1.28
+epoch: 133, meta test BC loss 1.58
+
+epoch: 134, meta train BC loss 1.91
+epoch: 134, meta test BC loss 1.92
+
+epoch: 135, meta train BC loss 1.81
+epoch: 135, meta test BC loss 1.95
+
+epoch: 136, meta train BC loss 1.78
+epoch: 136, meta test BC loss 1.15
+
+epoch: 137, meta train BC loss 2.25
+epoch: 137, meta test BC loss 1.47
+
+epoch: 138, meta train BC loss 1.46
+epoch: 138, meta test BC loss 1.18
+
+epoch: 139, meta train BC loss 2.08
+epoch: 139, meta test BC loss 1.67
+
+epoch: 140, meta train BC loss 1.53
+epoch: 140, meta test BC loss 2.00
+
+epoch: 141, meta train BC loss 1.29
+epoch: 141, meta test BC loss 1.13
+
+epoch: 142, meta train BC loss 1.59
+epoch: 142, meta test BC loss 1.62
+
+epoch: 143, meta train BC loss 1.60
+epoch: 143, meta test BC loss 1.46
+
+epoch: 144, meta train BC loss 1.38
+epoch: 144, meta test BC loss 1.32
+
+epoch: 145, meta train BC loss 1.55
+epoch: 145, meta test BC loss 1.99
+
+epoch: 146, meta train BC loss 1.94
+epoch: 146, meta test BC loss 1.61
+
+epoch: 147, meta train BC loss 1.76
+epoch: 147, meta test BC loss 1.38
+
+epoch: 148, meta train BC loss 1.60
+epoch: 148, meta test BC loss 1.74
+
+epoch: 149, meta train BC loss 1.28
+epoch: 149, meta test BC loss 1.69
+
+############# Evaluation #############
+evaluation loss 4.10
+
+epoch: 150, meta train BC loss 1.38
+epoch: 150, meta test BC loss 1.79
+
+epoch: 151, meta train BC loss 1.77
+epoch: 151, meta test BC loss 1.49
+
+epoch: 152, meta train BC loss 1.49
+epoch: 152, meta test BC loss 1.41
+
+epoch: 153, meta train BC loss 1.92
+epoch: 153, meta test BC loss 1.20
+
+epoch: 154, meta train BC loss 1.17
+epoch: 154, meta test BC loss 1.78
+
+epoch: 155, meta train BC loss 1.51
+epoch: 155, meta test BC loss 1.04
+
+epoch: 156, meta train BC loss 1.88
+epoch: 156, meta test BC loss 1.56
+
+epoch: 157, meta train BC loss 1.20
+epoch: 157, meta test BC loss 1.15
+
+epoch: 158, meta train BC loss 1.33
+epoch: 158, meta test BC loss 1.25
+
+epoch: 159, meta train BC loss 0.66
+epoch: 159, meta test BC loss 1.76
+
+epoch: 160, meta train BC loss 1.60
+epoch: 160, meta test BC loss 1.56
+
+epoch: 161, meta train BC loss 1.31
+epoch: 161, meta test BC loss 1.18
+
+epoch: 162, meta train BC loss 1.82
+epoch: 162, meta test BC loss 1.30
+
+epoch: 163, meta train BC loss 1.82
+epoch: 163, meta test BC loss 1.46
+
+epoch: 164, meta train BC loss 1.72
+epoch: 164, meta test BC loss 1.49
+
+epoch: 165, meta train BC loss 1.01
+epoch: 165, meta test BC loss 1.38
+
+epoch: 166, meta train BC loss 1.12
+epoch: 166, meta test BC loss 1.40
+
+epoch: 167, meta train BC loss 1.17
+epoch: 167, meta test BC loss 1.21
+
+epoch: 168, meta train BC loss 1.14
+epoch: 168, meta test BC loss 1.14
+
+epoch: 169, meta train BC loss 1.09
+epoch: 169, meta test BC loss 1.34
+
+epoch: 170, meta train BC loss 1.26
+epoch: 170, meta test BC loss 1.50
+
+epoch: 171, meta train BC loss 1.37
+epoch: 171, meta test BC loss 0.99
+
+epoch: 172, meta train BC loss 1.08
+epoch: 172, meta test BC loss 0.98
+
+epoch: 173, meta train BC loss 1.68
+epoch: 173, meta test BC loss 1.13
+
+epoch: 174, meta train BC loss 1.33
+epoch: 174, meta test BC loss 1.48
+
+epoch: 175, meta train BC loss 1.54
+epoch: 175, meta test BC loss 1.34
+
+epoch: 176, meta train BC loss 0.92
+epoch: 176, meta test BC loss 1.31
+
+epoch: 177, meta train BC loss 1.53
+epoch: 177, meta test BC loss 1.26
+
+epoch: 178, meta train BC loss 1.59
+epoch: 178, meta test BC loss 1.20
+
+epoch: 179, meta train BC loss 0.93
+epoch: 179, meta test BC loss 1.37
+
+epoch: 180, meta train BC loss 1.27
+epoch: 180, meta test BC loss 0.80
+
+epoch: 181, meta train BC loss 1.36
+epoch: 181, meta test BC loss 1.21
+
+epoch: 182, meta train BC loss 1.73
+epoch: 182, meta test BC loss 1.37
+
+epoch: 183, meta train BC loss 1.46
+epoch: 183, meta test BC loss 1.41
+
+epoch: 184, meta train BC loss 1.16
+epoch: 184, meta test BC loss 1.21
+
+epoch: 185, meta train BC loss 0.84
+epoch: 185, meta test BC loss 1.26
+
+epoch: 186, meta train BC loss 1.29
+epoch: 186, meta test BC loss 0.93
+
+epoch: 187, meta train BC loss 1.61
+epoch: 187, meta test BC loss 1.26
+
+epoch: 188, meta train BC loss 1.15
+epoch: 188, meta test BC loss 0.98
+
+epoch: 189, meta train BC loss 1.15
+epoch: 189, meta test BC loss 1.03
+
+epoch: 190, meta train BC loss 0.93
+epoch: 190, meta test BC loss 1.21
+
+epoch: 191, meta train BC loss 1.09
+epoch: 191, meta test BC loss 1.60
+
+epoch: 192, meta train BC loss 1.07
+epoch: 192, meta test BC loss 0.96
+
+epoch: 193, meta train BC loss 1.09
+epoch: 193, meta test BC loss 1.60
+
+epoch: 194, meta train BC loss 1.09
+epoch: 194, meta test BC loss 1.30
+
+epoch: 195, meta train BC loss 1.09
+epoch: 195, meta test BC loss 1.01
+
+epoch: 196, meta train BC loss 0.99
+epoch: 196, meta test BC loss 1.12
+
+epoch: 197, meta train BC loss 1.45
+epoch: 197, meta test BC loss 1.16
+
+epoch: 198, meta train BC loss 1.01
+epoch: 198, meta test BC loss 0.95
+
+epoch: 199, meta train BC loss 1.07
+epoch: 199, meta test BC loss 1.09
+
+############# Evaluation #############
+evaluation loss 3.13
+
+epoch: 200, meta train BC loss 0.92
+epoch: 200, meta test BC loss 0.95
+
+epoch: 201, meta train BC loss 1.20
+epoch: 201, meta test BC loss 1.33
+
+epoch: 202, meta train BC loss 0.94
+epoch: 202, meta test BC loss 1.11
+
+epoch: 203, meta train BC loss 1.00
+epoch: 203, meta test BC loss 1.13
+
+epoch: 204, meta train BC loss 0.64
+epoch: 204, meta test BC loss 1.25
+
+epoch: 205, meta train BC loss 0.95
+epoch: 205, meta test BC loss 1.27
+
+epoch: 206, meta train BC loss 1.03
+epoch: 206, meta test BC loss 1.22
+
+epoch: 207, meta train BC loss 0.90
+epoch: 207, meta test BC loss 1.09
+
+epoch: 208, meta train BC loss 0.93
+epoch: 208, meta test BC loss 0.90
+
+epoch: 209, meta train BC loss 1.04
+epoch: 209, meta test BC loss 0.83
+
+epoch: 210, meta train BC loss 0.83
+epoch: 210, meta test BC loss 0.91
+
+epoch: 211, meta train BC loss 1.15
+epoch: 211, meta test BC loss 1.52
+
+epoch: 212, meta train BC loss 0.73
+epoch: 212, meta test BC loss 1.08
+
+epoch: 213, meta train BC loss 1.14
+epoch: 213, meta test BC loss 1.31
+
+epoch: 214, meta train BC loss 0.78
+epoch: 214, meta test BC loss 1.33
+
+epoch: 215, meta train BC loss 0.99
+epoch: 215, meta test BC loss 1.09
+
+epoch: 216, meta train BC loss 0.90
+epoch: 216, meta test BC loss 1.25
+
+epoch: 217, meta train BC loss 1.21
+epoch: 217, meta test BC loss 1.33
+
+epoch: 218, meta train BC loss 1.26
+epoch: 218, meta test BC loss 1.13
+
+epoch: 219, meta train BC loss 1.15
+epoch: 219, meta test BC loss 0.68
+
+epoch: 220, meta train BC loss 0.90
+epoch: 220, meta test BC loss 1.24
+
+epoch: 221, meta train BC loss 1.07
+epoch: 221, meta test BC loss 1.18
+
+epoch: 222, meta train BC loss 0.99
+epoch: 222, meta test BC loss 1.13
+
+epoch: 223, meta train BC loss 0.91
+epoch: 223, meta test BC loss 1.43
+
+epoch: 224, meta train BC loss 1.01
+epoch: 224, meta test BC loss 1.10
+
+epoch: 225, meta train BC loss 1.11
+epoch: 225, meta test BC loss 1.22
+
+epoch: 226, meta train BC loss 0.86
+epoch: 226, meta test BC loss 1.22
+
+epoch: 227, meta train BC loss 1.12
+epoch: 227, meta test BC loss 1.05
+
+epoch: 228, meta train BC loss 0.76
+epoch: 228, meta test BC loss 0.92
+
+epoch: 229, meta train BC loss 0.96
+epoch: 229, meta test BC loss 0.96
+
+epoch: 230, meta train BC loss 1.07
+epoch: 230, meta test BC loss 0.95
+
+epoch: 231, meta train BC loss 1.02
+epoch: 231, meta test BC loss 1.06
+
+epoch: 232, meta train BC loss 1.21
+epoch: 232, meta test BC loss 0.88
+
+epoch: 233, meta train BC loss 1.07
+epoch: 233, meta test BC loss 1.21
+
+epoch: 234, meta train BC loss 0.92
+epoch: 234, meta test BC loss 0.77
+
+epoch: 235, meta train BC loss 0.77
+epoch: 235, meta test BC loss 0.63
+
+epoch: 236, meta train BC loss 0.73
+epoch: 236, meta test BC loss 0.87
+
+epoch: 237, meta train BC loss 0.93
+epoch: 237, meta test BC loss 0.73
+
+epoch: 238, meta train BC loss 0.91
+epoch: 238, meta test BC loss 0.98
+
+epoch: 239, meta train BC loss 0.74
+epoch: 239, meta test BC loss 0.99
+
+epoch: 240, meta train BC loss 0.99
+epoch: 240, meta test BC loss 0.77
+
+epoch: 241, meta train BC loss 0.71
+epoch: 241, meta test BC loss 0.91
+
+epoch: 242, meta train BC loss 0.78
+epoch: 242, meta test BC loss 0.79
+
+epoch: 243, meta train BC loss 0.75
+epoch: 243, meta test BC loss 0.87
+
+epoch: 244, meta train BC loss 0.93
+epoch: 244, meta test BC loss 1.23
+
+epoch: 245, meta train BC loss 0.77
+epoch: 245, meta test BC loss 0.74
+
+epoch: 246, meta train BC loss 1.34
+epoch: 246, meta test BC loss 1.02
+
+epoch: 247, meta train BC loss 0.92
+epoch: 247, meta test BC loss 0.92
+
+epoch: 248, meta train BC loss 0.63
+epoch: 248, meta test BC loss 1.01
+
+epoch: 249, meta train BC loss 0.83
+epoch: 249, meta test BC loss 0.92
+
+############# Evaluation #############
+evaluation loss 3.58
+
+epoch: 250, meta train BC loss 0.60
+epoch: 250, meta test BC loss 0.67
+
+epoch: 251, meta train BC loss 0.63
+epoch: 251, meta test BC loss 0.62
+
+epoch: 252, meta train BC loss 0.89
+epoch: 252, meta test BC loss 0.94
+
+epoch: 253, meta train BC loss 0.80
+epoch: 253, meta test BC loss 0.61
+
+epoch: 254, meta train BC loss 0.82
+epoch: 254, meta test BC loss 0.92
+
+epoch: 255, meta train BC loss 0.91
+epoch: 255, meta test BC loss 0.82
+
+epoch: 256, meta train BC loss 0.73
+epoch: 256, meta test BC loss 0.76
+
+epoch: 257, meta train BC loss 1.01
+epoch: 257, meta test BC loss 0.98
+
+epoch: 258, meta train BC loss 0.72
+epoch: 258, meta test BC loss 1.06
+
+epoch: 259, meta train BC loss 0.70
+epoch: 259, meta test BC loss 0.80
+
+epoch: 260, meta train BC loss 0.95
+epoch: 260, meta test BC loss 0.81
+
+epoch: 261, meta train BC loss 1.05
+epoch: 261, meta test BC loss 0.80
+
+epoch: 262, meta train BC loss 0.64
+epoch: 262, meta test BC loss 0.74
+
+epoch: 263, meta train BC loss 0.76
+epoch: 263, meta test BC loss 0.84
+
+epoch: 264, meta train BC loss 0.72
+epoch: 264, meta test BC loss 0.77
+
+epoch: 265, meta train BC loss 0.89
+epoch: 265, meta test BC loss 0.77
+
+epoch: 266, meta train BC loss 1.33
+epoch: 266, meta test BC loss 0.61
+
+epoch: 267, meta train BC loss 0.88
+epoch: 267, meta test BC loss 0.60
+
+epoch: 268, meta train BC loss 0.93
+epoch: 268, meta test BC loss 0.55
+
+epoch: 269, meta train BC loss 0.72
+epoch: 269, meta test BC loss 0.68
+
+epoch: 270, meta train BC loss 0.80
+epoch: 270, meta test BC loss 1.17
+
+epoch: 271, meta train BC loss 0.83
+epoch: 271, meta test BC loss 0.78
+
+epoch: 272, meta train BC loss 0.76
+epoch: 272, meta test BC loss 0.82
+
+epoch: 273, meta train BC loss 0.69
+epoch: 273, meta test BC loss 0.87
+
+epoch: 274, meta train BC loss 0.89
+epoch: 274, meta test BC loss 0.79
+
+epoch: 275, meta train BC loss 0.55
+epoch: 275, meta test BC loss 0.77
+
+epoch: 276, meta train BC loss 0.61
+epoch: 276, meta test BC loss 0.84
+
+epoch: 277, meta train BC loss 0.64
+epoch: 277, meta test BC loss 1.42
+
+epoch: 278, meta train BC loss 0.73
+epoch: 278, meta test BC loss 0.77
+
+epoch: 279, meta train BC loss 0.98
+epoch: 279, meta test BC loss 0.67
+
+epoch: 280, meta train BC loss 0.85
+epoch: 280, meta test BC loss 0.61
+
+epoch: 281, meta train BC loss 0.69
+epoch: 281, meta test BC loss 0.80
+
+epoch: 282, meta train BC loss 0.72
+epoch: 282, meta test BC loss 0.94
+
+epoch: 283, meta train BC loss 0.75
+epoch: 283, meta test BC loss 0.63
+
+epoch: 284, meta train BC loss 0.79
+epoch: 284, meta test BC loss 0.50
+
+epoch: 285, meta train BC loss 0.58
+epoch: 285, meta test BC loss 0.80
+
+epoch: 286, meta train BC loss 0.60
+epoch: 286, meta test BC loss 0.53
+
+epoch: 287, meta train BC loss 0.83
+epoch: 287, meta test BC loss 0.49
+
+epoch: 288, meta train BC loss 0.50
+epoch: 288, meta test BC loss 0.64
+
+epoch: 289, meta train BC loss 0.72
+epoch: 289, meta test BC loss 0.61
+
+epoch: 290, meta train BC loss 0.64
+epoch: 290, meta test BC loss 0.60
+
+epoch: 291, meta train BC loss 0.56
+epoch: 291, meta test BC loss 0.68
+
+epoch: 292, meta train BC loss 0.85
+epoch: 292, meta test BC loss 0.68
+
+epoch: 293, meta train BC loss 0.66
+epoch: 293, meta test BC loss 0.66
+
+epoch: 294, meta train BC loss 0.67
+epoch: 294, meta test BC loss 0.62
+
+epoch: 295, meta train BC loss 0.72
+epoch: 295, meta test BC loss 0.51
+
+epoch: 296, meta train BC loss 0.64
+epoch: 296, meta test BC loss 0.90
+
+epoch: 297, meta train BC loss 0.68
+epoch: 297, meta test BC loss 0.65
+
+epoch: 298, meta train BC loss 0.81
+epoch: 298, meta test BC loss 0.70
+
+epoch: 299, meta train BC loss 0.51
+epoch: 299, meta test BC loss 0.67
+
+############# Evaluation #############
+evaluation loss 3.30
+
+epoch: 300, meta train BC loss 0.49
+epoch: 300, meta test BC loss 0.44
+
+epoch: 301, meta train BC loss 1.02
+epoch: 301, meta test BC loss 0.62
+
+epoch: 302, meta train BC loss 0.61
+epoch: 302, meta test BC loss 0.68
+
+epoch: 303, meta train BC loss 0.71
+epoch: 303, meta test BC loss 0.56
+
+epoch: 304, meta train BC loss 0.61
+epoch: 304, meta test BC loss 0.73
+
+epoch: 305, meta train BC loss 0.52
+epoch: 305, meta test BC loss 0.59
+
+epoch: 306, meta train BC loss 0.51
+epoch: 306, meta test BC loss 0.90
+
+epoch: 307, meta train BC loss 0.54
+epoch: 307, meta test BC loss 0.80
+
+epoch: 308, meta train BC loss 0.76
+epoch: 308, meta test BC loss 0.63
+
+epoch: 309, meta train BC loss 0.61
+epoch: 309, meta test BC loss 0.44
+
+epoch: 310, meta train BC loss 0.59
+epoch: 310, meta test BC loss 0.58
+
+epoch: 311, meta train BC loss 0.55
+epoch: 311, meta test BC loss 0.65
+
+epoch: 312, meta train BC loss 0.57
+epoch: 312, meta test BC loss 0.70
+
+epoch: 313, meta train BC loss 0.73
+epoch: 313, meta test BC loss 0.44
+
+epoch: 314, meta train BC loss 0.66
+epoch: 314, meta test BC loss 0.77
+
+epoch: 315, meta train BC loss 0.61
+epoch: 315, meta test BC loss 0.44
+
+epoch: 316, meta train BC loss 0.53
+epoch: 316, meta test BC loss 0.65
+
+epoch: 317, meta train BC loss 0.45
+epoch: 317, meta test BC loss 0.59
+
+epoch: 318, meta train BC loss 0.49
+epoch: 318, meta test BC loss 0.69
+
+epoch: 319, meta train BC loss 0.55
+epoch: 319, meta test BC loss 0.70
+
+epoch: 320, meta train BC loss 0.51
+epoch: 320, meta test BC loss 0.46
+
+epoch: 321, meta train BC loss 0.49
+epoch: 321, meta test BC loss 0.67
+
+epoch: 322, meta train BC loss 0.61
+epoch: 322, meta test BC loss 0.53
+
+epoch: 323, meta train BC loss 0.45
+epoch: 323, meta test BC loss 0.73
+
+epoch: 324, meta train BC loss 0.54
+epoch: 324, meta test BC loss 0.37
+
+epoch: 325, meta train BC loss 0.77
+epoch: 325, meta test BC loss 0.62
+
+epoch: 326, meta train BC loss 0.84
+epoch: 326, meta test BC loss 0.54
+
+epoch: 327, meta train BC loss 0.60
+epoch: 327, meta test BC loss 0.51
+
+epoch: 328, meta train BC loss 0.47
+epoch: 328, meta test BC loss 0.41
+
+epoch: 329, meta train BC loss 0.55
+epoch: 329, meta test BC loss 0.59
+
+epoch: 330, meta train BC loss 0.48
+epoch: 330, meta test BC loss 0.49
+
+epoch: 331, meta train BC loss 0.59
+epoch: 331, meta test BC loss 0.55
+
+epoch: 332, meta train BC loss 0.44
+epoch: 332, meta test BC loss 0.54
+
+epoch: 333, meta train BC loss 0.48
+epoch: 333, meta test BC loss 0.47
+
+epoch: 334, meta train BC loss 0.58
+epoch: 334, meta test BC loss 0.52
+
+epoch: 335, meta train BC loss 0.63
+epoch: 335, meta test BC loss 0.37
+
+epoch: 336, meta train BC loss 0.47
+epoch: 336, meta test BC loss 0.66
+
+epoch: 337, meta train BC loss 0.62
+epoch: 337, meta test BC loss 0.46
+
+epoch: 338, meta train BC loss 0.30
+epoch: 338, meta test BC loss 0.60
+
+epoch: 339, meta train BC loss 0.42
+epoch: 339, meta test BC loss 0.56
+
+epoch: 340, meta train BC loss 0.45
+epoch: 340, meta test BC loss 0.82
+
+epoch: 341, meta train BC loss 0.41
+epoch: 341, meta test BC loss 0.47
+
+epoch: 342, meta train BC loss 0.57
+epoch: 342, meta test BC loss 0.43
+
+epoch: 343, meta train BC loss 0.49
+epoch: 343, meta test BC loss 0.40
+
+epoch: 344, meta train BC loss 0.45
+epoch: 344, meta test BC loss 0.55
+
+epoch: 345, meta train BC loss 0.53
+epoch: 345, meta test BC loss 0.50
+
+epoch: 346, meta train BC loss 0.47
+epoch: 346, meta test BC loss 0.50
+
+epoch: 347, meta train BC loss 0.62
+epoch: 347, meta test BC loss 0.39
+
+epoch: 348, meta train BC loss 0.63
+epoch: 348, meta test BC loss 0.49
+
+epoch: 349, meta train BC loss 0.53
+epoch: 349, meta test BC loss 0.61
+
+############# Evaluation #############
+evaluation loss 2.61
+
+epoch: 350, meta train BC loss 0.69
+epoch: 350, meta test BC loss 0.64
+
+epoch: 351, meta train BC loss 0.63
+epoch: 351, meta test BC loss 0.46
+
+epoch: 352, meta train BC loss 0.33
+epoch: 352, meta test BC loss 0.38
+
+epoch: 353, meta train BC loss 0.47
+epoch: 353, meta test BC loss 0.48
+
+epoch: 354, meta train BC loss 0.50
+epoch: 354, meta test BC loss 0.29
+
+epoch: 355, meta train BC loss 0.47
+epoch: 355, meta test BC loss 0.34
+
+epoch: 356, meta train BC loss 0.53
+epoch: 356, meta test BC loss 0.47
+
+epoch: 357, meta train BC loss 0.43
+epoch: 357, meta test BC loss 0.57
+
+epoch: 358, meta train BC loss 0.33
+epoch: 358, meta test BC loss 0.49
+
+epoch: 359, meta train BC loss 0.32
+epoch: 359, meta test BC loss 0.41
+
+epoch: 360, meta train BC loss 0.35
+epoch: 360, meta test BC loss 0.48
+
+epoch: 361, meta train BC loss 0.42
+epoch: 361, meta test BC loss 0.43
+
+epoch: 362, meta train BC loss 0.33
+epoch: 362, meta test BC loss 0.36
+
+epoch: 363, meta train BC loss 0.42
+epoch: 363, meta test BC loss 0.40
+
+epoch: 364, meta train BC loss 0.68
+epoch: 364, meta test BC loss 0.55
+
+epoch: 365, meta train BC loss 0.45
+epoch: 365, meta test BC loss 0.57
+
+epoch: 366, meta train BC loss 0.48
+epoch: 366, meta test BC loss 0.54
+
+epoch: 367, meta train BC loss 0.62
+epoch: 367, meta test BC loss 0.41
+
+epoch: 368, meta train BC loss 0.40
+epoch: 368, meta test BC loss 0.42
+
+epoch: 369, meta train BC loss 0.43
+epoch: 369, meta test BC loss 0.44
+
+epoch: 370, meta train BC loss 0.48
+epoch: 370, meta test BC loss 0.40
+
+epoch: 371, meta train BC loss 0.45
+epoch: 371, meta test BC loss 0.35
+
+epoch: 372, meta train BC loss 0.49
+epoch: 372, meta test BC loss 0.61
+
+epoch: 373, meta train BC loss 0.39
+epoch: 373, meta test BC loss 0.53
+
+epoch: 374, meta train BC loss 0.32
+epoch: 374, meta test BC loss 0.45
+
+epoch: 375, meta train BC loss 0.41
+epoch: 375, meta test BC loss 0.39
+
+epoch: 376, meta train BC loss 0.42
+epoch: 376, meta test BC loss 0.41
+
+epoch: 377, meta train BC loss 0.43
+epoch: 377, meta test BC loss 0.49
+
+epoch: 378, meta train BC loss 0.46
+epoch: 378, meta test BC loss 0.26
+
+epoch: 379, meta train BC loss 0.28
+epoch: 379, meta test BC loss 0.33
+
+epoch: 380, meta train BC loss 0.37
+epoch: 380, meta test BC loss 0.53
+
+epoch: 381, meta train BC loss 0.33
+epoch: 381, meta test BC loss 0.24
+
+epoch: 382, meta train BC loss 0.35
+epoch: 382, meta test BC loss 0.30
+
+epoch: 383, meta train BC loss 0.32
+epoch: 383, meta test BC loss 0.43
+
+epoch: 384, meta train BC loss 0.33
+epoch: 384, meta test BC loss 0.36
+
+epoch: 385, meta train BC loss 0.37
+epoch: 385, meta test BC loss 0.41
+
+epoch: 386, meta train BC loss 0.55
+epoch: 386, meta test BC loss 0.30
+
+epoch: 387, meta train BC loss 0.35
+epoch: 387, meta test BC loss 0.25
+
+epoch: 388, meta train BC loss 0.39
+epoch: 388, meta test BC loss 0.54
+
+epoch: 389, meta train BC loss 0.45
+epoch: 389, meta test BC loss 0.36
+
+epoch: 390, meta train BC loss 0.38
+epoch: 390, meta test BC loss 0.38
+
+epoch: 391, meta train BC loss 0.36
+epoch: 391, meta test BC loss 0.28
+
+epoch: 392, meta train BC loss 0.37
+epoch: 392, meta test BC loss 0.44
+
+epoch: 393, meta train BC loss 0.38
+epoch: 393, meta test BC loss 0.26
+
+epoch: 394, meta train BC loss 0.38
+epoch: 394, meta test BC loss 0.32
+
+epoch: 395, meta train BC loss 0.34
+epoch: 395, meta test BC loss 0.31
+
+epoch: 396, meta train BC loss 0.35
+epoch: 396, meta test BC loss 0.40
+
+epoch: 397, meta train BC loss 0.36
+epoch: 397, meta test BC loss 0.51
+
+epoch: 398, meta train BC loss 0.42
+epoch: 398, meta test BC loss 0.23
+
+epoch: 399, meta train BC loss 0.29
+epoch: 399, meta test BC loss 0.21
+
+############# Evaluation #############
+evaluation loss 3.80
+
+epoch: 400, meta train BC loss 0.44
+epoch: 400, meta test BC loss 0.27
+
+epoch: 401, meta train BC loss 0.33
+epoch: 401, meta test BC loss 0.36
+
+epoch: 402, meta train BC loss 0.50
+epoch: 402, meta test BC loss 0.33
+
+epoch: 403, meta train BC loss 0.38
+epoch: 403, meta test BC loss 0.31
+
+epoch: 404, meta train BC loss 0.39
+epoch: 404, meta test BC loss 0.26
+
+epoch: 405, meta train BC loss 0.32
+epoch: 405, meta test BC loss 0.38
+
+epoch: 406, meta train BC loss 0.40
+epoch: 406, meta test BC loss 0.36
+
+epoch: 407, meta train BC loss 0.30
+epoch: 407, meta test BC loss 0.46
+
+epoch: 408, meta train BC loss 0.38
+epoch: 408, meta test BC loss 0.40
+
+epoch: 409, meta train BC loss 0.27
+epoch: 409, meta test BC loss 0.30
+
+epoch: 410, meta train BC loss 0.41
+epoch: 410, meta test BC loss 0.30
+
+epoch: 411, meta train BC loss 0.25
+epoch: 411, meta test BC loss 0.45
+
+epoch: 412, meta train BC loss 0.40
+epoch: 412, meta test BC loss 0.33
+
+epoch: 413, meta train BC loss 0.26
+epoch: 413, meta test BC loss 0.27
+
+epoch: 414, meta train BC loss 0.49
+epoch: 414, meta test BC loss 0.32
+
+epoch: 415, meta train BC loss 0.40
+epoch: 415, meta test BC loss 0.47
+
+epoch: 416, meta train BC loss 0.18
+epoch: 416, meta test BC loss 0.28
+
+epoch: 417, meta train BC loss 0.26
+epoch: 417, meta test BC loss 0.27
+
+epoch: 418, meta train BC loss 0.34
+epoch: 418, meta test BC loss 0.22
+
+epoch: 419, meta train BC loss 0.26
+epoch: 419, meta test BC loss 0.30
+
+epoch: 420, meta train BC loss 0.39
+epoch: 420, meta test BC loss 0.32
+
+epoch: 421, meta train BC loss 0.35
+epoch: 421, meta test BC loss 0.27
+
+epoch: 422, meta train BC loss 0.26
+epoch: 422, meta test BC loss 0.27
+
+epoch: 423, meta train BC loss 0.42
+epoch: 423, meta test BC loss 0.27
+
+epoch: 424, meta train BC loss 0.35
+epoch: 424, meta test BC loss 0.49
+
+epoch: 425, meta train BC loss 0.31
+epoch: 425, meta test BC loss 0.34
+
+epoch: 426, meta train BC loss 0.28
+epoch: 426, meta test BC loss 0.39
+
+epoch: 427, meta train BC loss 0.24
+epoch: 427, meta test BC loss 0.29
+
+epoch: 428, meta train BC loss 0.28
+epoch: 428, meta test BC loss 0.22
+
+epoch: 429, meta train BC loss 0.30
+epoch: 429, meta test BC loss 0.36
+
+epoch: 430, meta train BC loss 0.19
+epoch: 430, meta test BC loss 0.29
+
+epoch: 431, meta train BC loss 0.22
+epoch: 431, meta test BC loss 0.32
+
+epoch: 432, meta train BC loss 0.33
+epoch: 432, meta test BC loss 0.20
+
+epoch: 433, meta train BC loss 0.29
+epoch: 433, meta test BC loss 0.37
+
+epoch: 434, meta train BC loss 0.29
+epoch: 434, meta test BC loss 0.27
+
+epoch: 435, meta train BC loss 0.26
+epoch: 435, meta test BC loss 0.21
+
+epoch: 436, meta train BC loss 0.30
+epoch: 436, meta test BC loss 0.35
+
+epoch: 437, meta train BC loss 0.32
+epoch: 437, meta test BC loss 0.24
+
+epoch: 438, meta train BC loss 0.20
+epoch: 438, meta test BC loss 0.25
+
+epoch: 439, meta train BC loss 0.24
+epoch: 439, meta test BC loss 0.31
+
+epoch: 440, meta train BC loss 0.26
+epoch: 440, meta test BC loss 0.30
+
+epoch: 441, meta train BC loss 0.25
+epoch: 441, meta test BC loss 0.24
+
+epoch: 442, meta train BC loss 0.19
+epoch: 442, meta test BC loss 0.18
+
+epoch: 443, meta train BC loss 0.47
+epoch: 443, meta test BC loss 0.24
+
+epoch: 444, meta train BC loss 0.34
+epoch: 444, meta test BC loss 0.23
+
+epoch: 445, meta train BC loss 0.29
+epoch: 445, meta test BC loss 0.30
+
+epoch: 446, meta train BC loss 0.18
+epoch: 446, meta test BC loss 0.27
+
+epoch: 447, meta train BC loss 0.35
+epoch: 447, meta test BC loss 0.21
+
+epoch: 448, meta train BC loss 0.34
+epoch: 448, meta test BC loss 0.20
+
+epoch: 449, meta train BC loss 0.33
+epoch: 449, meta test BC loss 0.28
+
+############# Evaluation #############
+evaluation loss 3.61
+
+epoch: 450, meta train BC loss 0.20
+epoch: 450, meta test BC loss 0.16
+
+epoch: 451, meta train BC loss 0.21
+epoch: 451, meta test BC loss 0.26
+
+epoch: 452, meta train BC loss 0.22
+epoch: 452, meta test BC loss 0.19
+
+epoch: 453, meta train BC loss 0.29
+epoch: 453, meta test BC loss 0.17
+
+epoch: 454, meta train BC loss 0.32
+epoch: 454, meta test BC loss 0.16
+
+epoch: 455, meta train BC loss 0.24
+epoch: 455, meta test BC loss 0.19
+
+epoch: 456, meta train BC loss 0.22
+epoch: 456, meta test BC loss 0.31
+
+epoch: 457, meta train BC loss 0.31
+epoch: 457, meta test BC loss 0.27
+
+epoch: 458, meta train BC loss 0.15
+epoch: 458, meta test BC loss 0.29
+
+epoch: 459, meta train BC loss 0.27
+epoch: 459, meta test BC loss 0.19
+
+epoch: 460, meta train BC loss 0.25
+epoch: 460, meta test BC loss 0.25
+
+epoch: 461, meta train BC loss 0.24
+epoch: 461, meta test BC loss 0.15
+
+epoch: 462, meta train BC loss 0.19
+epoch: 462, meta test BC loss 0.20
+
+epoch: 463, meta train BC loss 0.35
+epoch: 463, meta test BC loss 0.25
+
+epoch: 464, meta train BC loss 0.28
+epoch: 464, meta test BC loss 0.21
+
+epoch: 465, meta train BC loss 0.15
+epoch: 465, meta test BC loss 0.18
+
+epoch: 466, meta train BC loss 0.29
+epoch: 466, meta test BC loss 0.29
+
+epoch: 467, meta train BC loss 0.20
+epoch: 467, meta test BC loss 0.17
+
+epoch: 468, meta train BC loss 0.25
+epoch: 468, meta test BC loss 0.26
+
+epoch: 469, meta train BC loss 0.20
+epoch: 469, meta test BC loss 0.18
+
+epoch: 470, meta train BC loss 0.25
+epoch: 470, meta test BC loss 0.24
+
+epoch: 471, meta train BC loss 0.25
+epoch: 471, meta test BC loss 0.30
+
+epoch: 472, meta train BC loss 0.20
+epoch: 472, meta test BC loss 0.24
+
+epoch: 473, meta train BC loss 0.14
+epoch: 473, meta test BC loss 0.27
+
+epoch: 474, meta train BC loss 0.17
+epoch: 474, meta test BC loss 0.21
+
+epoch: 475, meta train BC loss 0.18
+epoch: 475, meta test BC loss 0.28
+
+epoch: 476, meta train BC loss 0.17
+epoch: 476, meta test BC loss 0.20
+
+epoch: 477, meta train BC loss 0.19
+epoch: 477, meta test BC loss 0.28
+
+epoch: 478, meta train BC loss 0.20
+epoch: 478, meta test BC loss 0.16
+
+epoch: 479, meta train BC loss 0.19
+epoch: 479, meta test BC loss 0.30
+
+epoch: 480, meta train BC loss 0.17
+epoch: 480, meta test BC loss 0.22
+
+epoch: 481, meta train BC loss 0.23
+epoch: 481, meta test BC loss 0.21
+
+epoch: 482, meta train BC loss 0.22
+epoch: 482, meta test BC loss 0.22
+
+epoch: 483, meta train BC loss 0.25
+epoch: 483, meta test BC loss 0.19
+
+epoch: 484, meta train BC loss 0.22
+epoch: 484, meta test BC loss 0.23
+
+epoch: 485, meta train BC loss 0.22
+epoch: 485, meta test BC loss 0.23
+
+epoch: 486, meta train BC loss 0.24
+epoch: 486, meta test BC loss 0.18
+
+epoch: 487, meta train BC loss 0.20
+epoch: 487, meta test BC loss 0.14
+
+epoch: 488, meta train BC loss 0.22
+epoch: 488, meta test BC loss 0.17
+
+epoch: 489, meta train BC loss 0.31
+epoch: 489, meta test BC loss 0.23
+
+epoch: 490, meta train BC loss 0.24
+epoch: 490, meta test BC loss 0.14
+
+epoch: 491, meta train BC loss 0.20
+epoch: 491, meta test BC loss 0.19
+
+epoch: 492, meta train BC loss 0.21
+epoch: 492, meta test BC loss 0.19
+
+epoch: 493, meta train BC loss 0.12
+epoch: 493, meta test BC loss 0.21
+
+epoch: 494, meta train BC loss 0.18
+epoch: 494, meta test BC loss 0.18
+
+epoch: 495, meta train BC loss 0.19
+epoch: 495, meta test BC loss 0.18
+
+epoch: 496, meta train BC loss 0.17
+epoch: 496, meta test BC loss 0.19
+
+epoch: 497, meta train BC loss 0.17
+epoch: 497, meta test BC loss 0.22
+
+epoch: 498, meta train BC loss 0.21
+epoch: 498, meta test BC loss 0.19
+
+epoch: 499, meta train BC loss 0.23
+epoch: 499, meta test BC loss 0.22
+
+############# Evaluation #############
+evaluation loss 2.99
+
+epoch: 500, meta train BC loss 0.21
+epoch: 500, meta test BC loss 0.21
+
+epoch: 501, meta train BC loss 0.18
+epoch: 501, meta test BC loss 0.13
+
+epoch: 502, meta train BC loss 0.18
+epoch: 502, meta test BC loss 0.15
+
+epoch: 503, meta train BC loss 0.22
+epoch: 503, meta test BC loss 0.16
+
+epoch: 504, meta train BC loss 0.14
+epoch: 504, meta test BC loss 0.20
+
+epoch: 505, meta train BC loss 0.29
+epoch: 505, meta test BC loss 0.14
+
+epoch: 506, meta train BC loss 0.17
+epoch: 506, meta test BC loss 0.17
+
+epoch: 507, meta train BC loss 0.18
+epoch: 507, meta test BC loss 0.21
+
+epoch: 508, meta train BC loss 0.15
+epoch: 508, meta test BC loss 0.17
+
+epoch: 509, meta train BC loss 0.23
+epoch: 509, meta test BC loss 0.20
+
+epoch: 510, meta train BC loss 0.18
+epoch: 510, meta test BC loss 0.13
+
+epoch: 511, meta train BC loss 0.15
+epoch: 511, meta test BC loss 0.19
+
+epoch: 512, meta train BC loss 0.15
+epoch: 512, meta test BC loss 0.21
+
+epoch: 513, meta train BC loss 0.21
+epoch: 513, meta test BC loss 0.12
+
+epoch: 514, meta train BC loss 0.12
+epoch: 514, meta test BC loss 0.19
+
+epoch: 515, meta train BC loss 0.27
+epoch: 515, meta test BC loss 0.13
+
+epoch: 516, meta train BC loss 0.14
+epoch: 516, meta test BC loss 0.15
+
+epoch: 517, meta train BC loss 0.16
+epoch: 517, meta test BC loss 0.13
+
+epoch: 518, meta train BC loss 0.13
+epoch: 518, meta test BC loss 0.14
+
+epoch: 519, meta train BC loss 0.28
+epoch: 519, meta test BC loss 0.22
+
+epoch: 520, meta train BC loss 0.12
+epoch: 520, meta test BC loss 0.26
+
+epoch: 521, meta train BC loss 0.20
+epoch: 521, meta test BC loss 0.18
+
+epoch: 522, meta train BC loss 0.16
+epoch: 522, meta test BC loss 0.14
+
+epoch: 523, meta train BC loss 0.22
+epoch: 523, meta test BC loss 0.15
+
+epoch: 524, meta train BC loss 0.23
+epoch: 524, meta test BC loss 0.14
+
+epoch: 525, meta train BC loss 0.17
+epoch: 525, meta test BC loss 0.18
+
+epoch: 526, meta train BC loss 0.15
+epoch: 526, meta test BC loss 0.13
+
+epoch: 527, meta train BC loss 0.20
+epoch: 527, meta test BC loss 0.17
+
+epoch: 528, meta train BC loss 0.18
+epoch: 528, meta test BC loss 0.15
+
+epoch: 529, meta train BC loss 0.20
+epoch: 529, meta test BC loss 0.15
+
+epoch: 530, meta train BC loss 0.20
+epoch: 530, meta test BC loss 0.17
+
+epoch: 531, meta train BC loss 0.14
+epoch: 531, meta test BC loss 0.18
+
+epoch: 532, meta train BC loss 0.14
+epoch: 532, meta test BC loss 0.15
+
+epoch: 533, meta train BC loss 0.18
+epoch: 533, meta test BC loss 0.16
+
+epoch: 534, meta train BC loss 0.13
+epoch: 534, meta test BC loss 0.15
+
+epoch: 535, meta train BC loss 0.18
+epoch: 535, meta test BC loss 0.19
+
+epoch: 536, meta train BC loss 0.15
+epoch: 536, meta test BC loss 0.15
+
+epoch: 537, meta train BC loss 0.11
+epoch: 537, meta test BC loss 0.18
+
+epoch: 538, meta train BC loss 0.13
+epoch: 538, meta test BC loss 0.13
+
+epoch: 539, meta train BC loss 0.12
+epoch: 539, meta test BC loss 0.13
+
+epoch: 540, meta train BC loss 0.13
+epoch: 540, meta test BC loss 0.13
+
+epoch: 541, meta train BC loss 0.17
+epoch: 541, meta test BC loss 0.13
+
+epoch: 542, meta train BC loss 0.11
+epoch: 542, meta test BC loss 0.11
+
+epoch: 543, meta train BC loss 0.13
+epoch: 543, meta test BC loss 0.16
+
+epoch: 544, meta train BC loss 0.15
+epoch: 544, meta test BC loss 0.11
+
+epoch: 545, meta train BC loss 0.18
+epoch: 545, meta test BC loss 0.13
+
+epoch: 546, meta train BC loss 0.11
+epoch: 546, meta test BC loss 0.12
+
+epoch: 547, meta train BC loss 0.14
+epoch: 547, meta test BC loss 0.15
+
+epoch: 548, meta train BC loss 0.11
+epoch: 548, meta test BC loss 0.10
+
+epoch: 549, meta train BC loss 0.10
+epoch: 549, meta test BC loss 0.12
+
+############# Evaluation #############
+evaluation loss 3.40
+
+epoch: 550, meta train BC loss 0.10
+epoch: 550, meta test BC loss 0.13
+
+epoch: 551, meta train BC loss 0.12
+epoch: 551, meta test BC loss 0.09
+
+epoch: 552, meta train BC loss 0.17
+epoch: 552, meta test BC loss 0.13
+
+epoch: 553, meta train BC loss 0.13
+epoch: 553, meta test BC loss 0.16
+
+epoch: 554, meta train BC loss 0.11
+epoch: 554, meta test BC loss 0.13
+
+epoch: 555, meta train BC loss 0.11
+epoch: 555, meta test BC loss 0.12
+
+epoch: 556, meta train BC loss 0.11
+epoch: 556, meta test BC loss 0.07
+
+epoch: 557, meta train BC loss 0.16
+epoch: 557, meta test BC loss 0.08
+
+epoch: 558, meta train BC loss 0.12
+epoch: 558, meta test BC loss 0.12
+
+epoch: 559, meta train BC loss 0.09
+epoch: 559, meta test BC loss 0.14
+
+epoch: 560, meta train BC loss 0.10
+epoch: 560, meta test BC loss 0.14
+
+epoch: 561, meta train BC loss 0.19
+epoch: 561, meta test BC loss 0.08
+
+epoch: 562, meta train BC loss 0.10
+epoch: 562, meta test BC loss 0.08
+
+epoch: 563, meta train BC loss 0.13
+epoch: 563, meta test BC loss 0.11
+
+epoch: 564, meta train BC loss 0.09
+epoch: 564, meta test BC loss 0.13
+
+epoch: 565, meta train BC loss 0.11
+epoch: 565, meta test BC loss 0.10
+
+epoch: 566, meta train BC loss 0.07
+epoch: 566, meta test BC loss 0.08
+
+epoch: 567, meta train BC loss 0.13
+epoch: 567, meta test BC loss 0.14
+
+epoch: 568, meta train BC loss 0.17
+epoch: 568, meta test BC loss 0.07
+
+epoch: 569, meta train BC loss 0.12
+epoch: 569, meta test BC loss 0.17
+
+epoch: 570, meta train BC loss 0.11
+epoch: 570, meta test BC loss 0.10
+
+epoch: 571, meta train BC loss 0.16
+epoch: 571, meta test BC loss 0.08
+
+epoch: 572, meta train BC loss 0.22
+epoch: 572, meta test BC loss 0.11
+
+epoch: 573, meta train BC loss 0.11
+epoch: 573, meta test BC loss 0.10
+
+epoch: 574, meta train BC loss 0.13
+epoch: 574, meta test BC loss 0.20
+
+epoch: 575, meta train BC loss 0.10
+epoch: 575, meta test BC loss 0.14
+
+epoch: 576, meta train BC loss 0.10
+epoch: 576, meta test BC loss 0.09
+
+epoch: 577, meta train BC loss 0.13
+epoch: 577, meta test BC loss 0.10
+
+epoch: 578, meta train BC loss 0.15
+epoch: 578, meta test BC loss 0.17
+
+epoch: 579, meta train BC loss 0.09
+epoch: 579, meta test BC loss 0.12
+
+epoch: 580, meta train BC loss 0.14
+epoch: 580, meta test BC loss 0.16
+
+epoch: 581, meta train BC loss 0.17
+epoch: 581, meta test BC loss 0.10
+
+epoch: 582, meta train BC loss 0.12
+epoch: 582, meta test BC loss 0.19
+
+epoch: 583, meta train BC loss 0.09
+epoch: 583, meta test BC loss 0.10
+
+epoch: 584, meta train BC loss 0.09
+epoch: 584, meta test BC loss 0.10
+
+epoch: 585, meta train BC loss 0.10
+epoch: 585, meta test BC loss 0.09
+
+epoch: 586, meta train BC loss 0.14
+epoch: 586, meta test BC loss 0.17
+
+epoch: 587, meta train BC loss 0.13
+epoch: 587, meta test BC loss 0.14
+
+epoch: 588, meta train BC loss 0.09
+epoch: 588, meta test BC loss 0.11
+
+epoch: 589, meta train BC loss 0.12
+epoch: 589, meta test BC loss 0.07
+
+epoch: 590, meta train BC loss 0.12
+epoch: 590, meta test BC loss 0.13
+
+epoch: 591, meta train BC loss 0.07
+epoch: 591, meta test BC loss 0.13
+
+epoch: 592, meta train BC loss 0.19
+epoch: 592, meta test BC loss 0.10
+
+epoch: 593, meta train BC loss 0.11
+epoch: 593, meta test BC loss 0.10
+
+epoch: 594, meta train BC loss 0.10
+epoch: 594, meta test BC loss 0.10
+
+epoch: 595, meta train BC loss 0.13
+epoch: 595, meta test BC loss 0.08
+
+epoch: 596, meta train BC loss 0.16
+epoch: 596, meta test BC loss 0.11
+
+epoch: 597, meta train BC loss 0.11
+epoch: 597, meta test BC loss 0.11
+
+epoch: 598, meta train BC loss 0.12
+epoch: 598, meta test BC loss 0.10
+
+epoch: 599, meta train BC loss 0.15
+epoch: 599, meta test BC loss 0.07
+
+############# Evaluation #############
+evaluation loss 3.01
+
+epoch: 600, meta train BC loss 0.11
+epoch: 600, meta test BC loss 0.12
+
+epoch: 601, meta train BC loss 0.09
+epoch: 601, meta test BC loss 0.15
+
+epoch: 602, meta train BC loss 0.07
+epoch: 602, meta test BC loss 0.10
+
+epoch: 603, meta train BC loss 0.10
+epoch: 603, meta test BC loss 0.08
+
+epoch: 604, meta train BC loss 0.09
+epoch: 604, meta test BC loss 0.09
+
+epoch: 605, meta train BC loss 0.08
+epoch: 605, meta test BC loss 0.13
+
+epoch: 606, meta train BC loss 0.07
+epoch: 606, meta test BC loss 0.11
+
+epoch: 607, meta train BC loss 0.06
+epoch: 607, meta test BC loss 0.06
+
+epoch: 608, meta train BC loss 0.08
+epoch: 608, meta test BC loss 0.11
+
+epoch: 609, meta train BC loss 0.16
+epoch: 609, meta test BC loss 0.09
+
+epoch: 610, meta train BC loss 0.09
+epoch: 610, meta test BC loss 0.12
+
+epoch: 611, meta train BC loss 0.10
+epoch: 611, meta test BC loss 0.08
+
+epoch: 612, meta train BC loss 0.09
+epoch: 612, meta test BC loss 0.06
+
+epoch: 613, meta train BC loss 0.07
+epoch: 613, meta test BC loss 0.05
+
+epoch: 614, meta train BC loss 0.10
+epoch: 614, meta test BC loss 0.05
+
+epoch: 615, meta train BC loss 0.10
+epoch: 615, meta test BC loss 0.09
+
+epoch: 616, meta train BC loss 0.10
+epoch: 616, meta test BC loss 0.11
+
+epoch: 617, meta train BC loss 0.07
+epoch: 617, meta test BC loss 0.08
+
+epoch: 618, meta train BC loss 0.07
+epoch: 618, meta test BC loss 0.07
+
+epoch: 619, meta train BC loss 0.08
+epoch: 619, meta test BC loss 0.07
+
+epoch: 620, meta train BC loss 0.07
+epoch: 620, meta test BC loss 0.06
+
+epoch: 621, meta train BC loss 0.06
+epoch: 621, meta test BC loss 0.07
+
+epoch: 622, meta train BC loss 0.05
+epoch: 622, meta test BC loss 0.09
+
+epoch: 623, meta train BC loss 0.08
+epoch: 623, meta test BC loss 0.09
+
+epoch: 624, meta train BC loss 0.06
+epoch: 624, meta test BC loss 0.05
+
+epoch: 625, meta train BC loss 0.09
+epoch: 625, meta test BC loss 0.07
+
+epoch: 626, meta train BC loss 0.13
+epoch: 626, meta test BC loss 0.07
+
+epoch: 627, meta train BC loss 0.14
+epoch: 627, meta test BC loss 0.05
+
+epoch: 628, meta train BC loss 0.08
+epoch: 628, meta test BC loss 0.06
+
+epoch: 629, meta train BC loss 0.11
+epoch: 629, meta test BC loss 0.11
+
+epoch: 630, meta train BC loss 0.07
+epoch: 630, meta test BC loss 0.07
+
+epoch: 631, meta train BC loss 0.06
+epoch: 631, meta test BC loss 0.08
+
+epoch: 632, meta train BC loss 0.08
+epoch: 632, meta test BC loss 0.10
+
+epoch: 633, meta train BC loss 0.09
+epoch: 633, meta test BC loss 0.08
+
+epoch: 634, meta train BC loss 0.05
+epoch: 634, meta test BC loss 0.08
+
+epoch: 635, meta train BC loss 0.08
+epoch: 635, meta test BC loss 0.08
+
+epoch: 636, meta train BC loss 0.05
+epoch: 636, meta test BC loss 0.06
+
+epoch: 637, meta train BC loss 0.06
+epoch: 637, meta test BC loss 0.04
+
+epoch: 638, meta train BC loss 0.11
+epoch: 638, meta test BC loss 0.08
+
+epoch: 639, meta train BC loss 0.14
+epoch: 639, meta test BC loss 0.08
+
+epoch: 640, meta train BC loss 0.08
+epoch: 640, meta test BC loss 0.10
+
+epoch: 641, meta train BC loss 0.05
+epoch: 641, meta test BC loss 0.09
+
+epoch: 642, meta train BC loss 0.06
+epoch: 642, meta test BC loss 0.11
+
+epoch: 643, meta train BC loss 0.07
+epoch: 643, meta test BC loss 0.06
+
+epoch: 644, meta train BC loss 0.11
+epoch: 644, meta test BC loss 0.09
+
+epoch: 645, meta train BC loss 0.09
+epoch: 645, meta test BC loss 0.06
+
+epoch: 646, meta train BC loss 0.09
+epoch: 646, meta test BC loss 0.09
+
+epoch: 647, meta train BC loss 0.09
+epoch: 647, meta test BC loss 0.05
+
+epoch: 648, meta train BC loss 0.09
+epoch: 648, meta test BC loss 0.11
+
+epoch: 649, meta train BC loss 0.06
+epoch: 649, meta test BC loss 0.08
+
+############# Evaluation #############
+evaluation loss 2.96
+
+epoch: 650, meta train BC loss 0.09
+epoch: 650, meta test BC loss 0.08
+
+epoch: 651, meta train BC loss 0.07
+epoch: 651, meta test BC loss 0.06
+
+epoch: 652, meta train BC loss 0.10
+epoch: 652, meta test BC loss 0.07
+
+epoch: 653, meta train BC loss 0.07
+epoch: 653, meta test BC loss 0.09
+
+epoch: 654, meta train BC loss 0.08
+epoch: 654, meta test BC loss 0.09
+
+epoch: 655, meta train BC loss 0.08
+epoch: 655, meta test BC loss 0.07
+
+epoch: 656, meta train BC loss 0.06
+epoch: 656, meta test BC loss 0.06
+
+epoch: 657, meta train BC loss 0.07
+epoch: 657, meta test BC loss 0.05
+
+epoch: 658, meta train BC loss 0.09
+epoch: 658, meta test BC loss 0.07
+
+epoch: 659, meta train BC loss 0.09
+epoch: 659, meta test BC loss 0.07
+
+epoch: 660, meta train BC loss 0.06
+epoch: 660, meta test BC loss 0.06
+
+epoch: 661, meta train BC loss 0.08
+epoch: 661, meta test BC loss 0.06
+
+epoch: 662, meta train BC loss 0.07
+epoch: 662, meta test BC loss 0.10
+
+epoch: 663, meta train BC loss 0.05
+epoch: 663, meta test BC loss 0.06
+
+epoch: 664, meta train BC loss 0.05
+epoch: 664, meta test BC loss 0.05
+
+epoch: 665, meta train BC loss 0.04
+epoch: 665, meta test BC loss 0.09
+
+epoch: 666, meta train BC loss 0.08
+epoch: 666, meta test BC loss 0.05
+
+epoch: 667, meta train BC loss 0.04
+epoch: 667, meta test BC loss 0.04
+
+epoch: 668, meta train BC loss 0.08
+epoch: 668, meta test BC loss 0.06
+
+epoch: 669, meta train BC loss 0.05
+epoch: 669, meta test BC loss 0.06
+
+epoch: 670, meta train BC loss 0.06
+epoch: 670, meta test BC loss 0.04
+
+epoch: 671, meta train BC loss 0.05
+epoch: 671, meta test BC loss 0.04
+
+epoch: 672, meta train BC loss 0.07
+epoch: 672, meta test BC loss 0.05
+
+epoch: 673, meta train BC loss 0.04
+epoch: 673, meta test BC loss 0.03
+
+epoch: 674, meta train BC loss 0.05
+epoch: 674, meta test BC loss 0.04
+
+epoch: 675, meta train BC loss 0.07
+epoch: 675, meta test BC loss 0.07
+
+epoch: 676, meta train BC loss 0.04
+epoch: 676, meta test BC loss 0.07
+
+epoch: 677, meta train BC loss 0.05
+epoch: 677, meta test BC loss 0.03
+
+epoch: 678, meta train BC loss 0.04
+epoch: 678, meta test BC loss 0.04
+
+epoch: 679, meta train BC loss 0.06
+epoch: 679, meta test BC loss 0.07
+
+epoch: 680, meta train BC loss 0.07
+epoch: 680, meta test BC loss 0.06
+
+epoch: 681, meta train BC loss 0.06
+epoch: 681, meta test BC loss 0.05
+
+epoch: 682, meta train BC loss 0.05
+epoch: 682, meta test BC loss 0.05
+
+epoch: 683, meta train BC loss 0.06
+epoch: 683, meta test BC loss 0.04
+
+epoch: 684, meta train BC loss 0.06
+epoch: 684, meta test BC loss 0.07
+
+epoch: 685, meta train BC loss 0.06
+epoch: 685, meta test BC loss 0.07
+
+epoch: 686, meta train BC loss 0.08
+epoch: 686, meta test BC loss 0.04
+
+epoch: 687, meta train BC loss 0.08
+epoch: 687, meta test BC loss 0.04
+
+epoch: 688, meta train BC loss 0.05
+epoch: 688, meta test BC loss 0.04
+
+epoch: 689, meta train BC loss 0.04
+epoch: 689, meta test BC loss 0.07
+
+epoch: 690, meta train BC loss 0.04
+epoch: 690, meta test BC loss 0.04
+
+epoch: 691, meta train BC loss 0.08
+epoch: 691, meta test BC loss 0.07
+
+epoch: 692, meta train BC loss 0.07
+epoch: 692, meta test BC loss 0.05
+
+epoch: 693, meta train BC loss 0.06
+epoch: 693, meta test BC loss 0.05
+
+epoch: 694, meta train BC loss 0.10
+epoch: 694, meta test BC loss 0.08
+
+epoch: 695, meta train BC loss 0.10
+epoch: 695, meta test BC loss 0.07
+
+epoch: 696, meta train BC loss 0.04
+epoch: 696, meta test BC loss 0.04
+
+epoch: 697, meta train BC loss 0.04
+epoch: 697, meta test BC loss 0.05
+
+epoch: 698, meta train BC loss 0.03
+epoch: 698, meta test BC loss 0.07
+
+epoch: 699, meta train BC loss 0.04
+epoch: 699, meta test BC loss 0.06
+
+############# Evaluation #############
+evaluation loss 3.51
+
+epoch: 700, meta train BC loss 0.06
+epoch: 700, meta test BC loss 0.06
+
+epoch: 701, meta train BC loss 0.04
+epoch: 701, meta test BC loss 0.03
+
+epoch: 702, meta train BC loss 0.06
+epoch: 702, meta test BC loss 0.03
+
+epoch: 703, meta train BC loss 0.03
+epoch: 703, meta test BC loss 0.04
+
+epoch: 704, meta train BC loss 0.03
+epoch: 704, meta test BC loss 0.06
+
+epoch: 705, meta train BC loss 0.04
+epoch: 705, meta test BC loss 0.07
+
+epoch: 706, meta train BC loss 0.04
+epoch: 706, meta test BC loss 0.05
+
+epoch: 707, meta train BC loss 0.05
+epoch: 707, meta test BC loss 0.07
+
+epoch: 708, meta train BC loss 0.05
+epoch: 708, meta test BC loss 0.05
+
+epoch: 709, meta train BC loss 0.04
+epoch: 709, meta test BC loss 0.03
+
+epoch: 710, meta train BC loss 0.05
+epoch: 710, meta test BC loss 0.03
+
+epoch: 711, meta train BC loss 0.05
+epoch: 711, meta test BC loss 0.03
+
+epoch: 712, meta train BC loss 0.08
+epoch: 712, meta test BC loss 0.05
+
+epoch: 713, meta train BC loss 0.05
+epoch: 713, meta test BC loss 0.05
+
+epoch: 714, meta train BC loss 0.06
+epoch: 714, meta test BC loss 0.05
+
+epoch: 715, meta train BC loss 0.10
+epoch: 715, meta test BC loss 0.06
+
+epoch: 716, meta train BC loss 0.10
+epoch: 716, meta test BC loss 0.05
+
+epoch: 717, meta train BC loss 0.03
+epoch: 717, meta test BC loss 0.02
+
+epoch: 718, meta train BC loss 0.05
+epoch: 718, meta test BC loss 0.05
+
+epoch: 719, meta train BC loss 0.02
+epoch: 719, meta test BC loss 0.05
+
+epoch: 720, meta train BC loss 0.13
+epoch: 720, meta test BC loss 0.03
+
+epoch: 721, meta train BC loss 0.03
+epoch: 721, meta test BC loss 0.03
+
+epoch: 722, meta train BC loss 0.03
+epoch: 722, meta test BC loss 0.04
+
+epoch: 723, meta train BC loss 0.04
+epoch: 723, meta test BC loss 0.04
+
+epoch: 724, meta train BC loss 0.07
+epoch: 724, meta test BC loss 0.04
+
+epoch: 725, meta train BC loss 0.08
+epoch: 725, meta test BC loss 0.04
+
+epoch: 726, meta train BC loss 0.04
+epoch: 726, meta test BC loss 0.03
+
+epoch: 727, meta train BC loss 0.02
+epoch: 727, meta test BC loss 0.03
+
+epoch: 728, meta train BC loss 0.04
+epoch: 728, meta test BC loss 0.03
+
+epoch: 729, meta train BC loss 0.05
+epoch: 729, meta test BC loss 0.03
+
+epoch: 730, meta train BC loss 0.04
+epoch: 730, meta test BC loss 0.04
+
+epoch: 731, meta train BC loss 0.03
+epoch: 731, meta test BC loss 0.03
+
+epoch: 732, meta train BC loss 0.05
+epoch: 732, meta test BC loss 0.03
+
+epoch: 733, meta train BC loss 0.07
+epoch: 733, meta test BC loss 0.03
+
+epoch: 734, meta train BC loss 0.02
+epoch: 734, meta test BC loss 0.04
+
+epoch: 735, meta train BC loss 0.03
+epoch: 735, meta test BC loss 0.03
+
+epoch: 736, meta train BC loss 0.06
+epoch: 736, meta test BC loss 0.02
+
+epoch: 737, meta train BC loss 0.05
+epoch: 737, meta test BC loss 0.03
+
+epoch: 738, meta train BC loss 0.04
+epoch: 738, meta test BC loss 0.04
+
+epoch: 739, meta train BC loss 0.03
+epoch: 739, meta test BC loss 0.04
+
+epoch: 740, meta train BC loss 0.03
+epoch: 740, meta test BC loss 0.05
+
+epoch: 741, meta train BC loss 0.03
+epoch: 741, meta test BC loss 0.03
+
+epoch: 742, meta train BC loss 0.02
+epoch: 742, meta test BC loss 0.02
+
+epoch: 743, meta train BC loss 0.03
+epoch: 743, meta test BC loss 0.04
+
+epoch: 744, meta train BC loss 0.03
+epoch: 744, meta test BC loss 0.02
+
+epoch: 745, meta train BC loss 0.05
+epoch: 745, meta test BC loss 0.03
+
+epoch: 746, meta train BC loss 0.03
+epoch: 746, meta test BC loss 0.03
+
+epoch: 747, meta train BC loss 0.03
+epoch: 747, meta test BC loss 0.05
+
+epoch: 748, meta train BC loss 0.03
+epoch: 748, meta test BC loss 0.04
+
+epoch: 749, meta train BC loss 0.04
+epoch: 749, meta test BC loss 0.03
+
+############# Evaluation #############
+evaluation loss 4.12
+
+epoch: 750, meta train BC loss 0.02
+epoch: 750, meta test BC loss 0.03
+
+epoch: 751, meta train BC loss 0.03
+epoch: 751, meta test BC loss 0.02
+
+epoch: 752, meta train BC loss 0.02
+epoch: 752, meta test BC loss 0.03
+
+epoch: 753, meta train BC loss 0.02
+epoch: 753, meta test BC loss 0.05
+
+epoch: 754, meta train BC loss 0.03
+epoch: 754, meta test BC loss 0.05
+
+epoch: 755, meta train BC loss 0.06
+epoch: 755, meta test BC loss 0.02
+
+epoch: 756, meta train BC loss 0.03
+epoch: 756, meta test BC loss 0.02
+
+epoch: 757, meta train BC loss 0.03
+epoch: 757, meta test BC loss 0.03
+
+epoch: 758, meta train BC loss 0.03
+epoch: 758, meta test BC loss 0.02
+
+epoch: 759, meta train BC loss 0.03
+epoch: 759, meta test BC loss 0.04
+
+epoch: 760, meta train BC loss 0.02
+epoch: 760, meta test BC loss 0.09
+
+epoch: 761, meta train BC loss 0.03
+epoch: 761, meta test BC loss 0.02
+
+epoch: 762, meta train BC loss 0.02
+epoch: 762, meta test BC loss 0.03
+
+epoch: 763, meta train BC loss 0.02
+epoch: 763, meta test BC loss 0.02
+
+epoch: 764, meta train BC loss 0.04
+epoch: 764, meta test BC loss 0.03
+
+epoch: 765, meta train BC loss 0.03
+epoch: 765, meta test BC loss 0.02
+
+epoch: 766, meta train BC loss 0.04
+epoch: 766, meta test BC loss 0.04
+
+epoch: 767, meta train BC loss 0.03
+epoch: 767, meta test BC loss 0.03
+
+epoch: 768, meta train BC loss 0.07
+epoch: 768, meta test BC loss 0.03
+
+epoch: 769, meta train BC loss 0.02
+epoch: 769, meta test BC loss 0.05
+
+epoch: 770, meta train BC loss 0.03
+epoch: 770, meta test BC loss 0.03
+
+epoch: 771, meta train BC loss 0.03
+epoch: 771, meta test BC loss 0.04
+
+epoch: 772, meta train BC loss 0.05
+epoch: 772, meta test BC loss 0.03
+
+epoch: 773, meta train BC loss 0.04
+epoch: 773, meta test BC loss 0.03
+
+epoch: 774, meta train BC loss 0.03
+epoch: 774, meta test BC loss 0.02
+
+epoch: 775, meta train BC loss 0.02
+epoch: 775, meta test BC loss 0.03
+
+epoch: 776, meta train BC loss 0.03
+epoch: 776, meta test BC loss 0.03
+
+epoch: 777, meta train BC loss 0.03
+epoch: 777, meta test BC loss 0.04
+
+epoch: 778, meta train BC loss 0.04
+epoch: 778, meta test BC loss 0.03
+
+epoch: 779, meta train BC loss 0.04
+epoch: 779, meta test BC loss 0.02
+
+epoch: 780, meta train BC loss 0.02
+epoch: 780, meta test BC loss 0.02
+
+epoch: 781, meta train BC loss 0.03
+epoch: 781, meta test BC loss 0.03
+
+epoch: 782, meta train BC loss 0.03
+epoch: 782, meta test BC loss 0.02
+
+epoch: 783, meta train BC loss 0.03
+epoch: 783, meta test BC loss 0.03
+
+epoch: 784, meta train BC loss 0.02
+epoch: 784, meta test BC loss 0.05
+
+epoch: 785, meta train BC loss 0.03
+epoch: 785, meta test BC loss 0.03
+
+epoch: 786, meta train BC loss 0.02
+epoch: 786, meta test BC loss 0.04
+
+epoch: 787, meta train BC loss 0.02
+epoch: 787, meta test BC loss 0.03
+
+epoch: 788, meta train BC loss 0.02
+epoch: 788, meta test BC loss 0.04
+
+epoch: 789, meta train BC loss 0.03
+epoch: 789, meta test BC loss 0.02
+
+epoch: 790, meta train BC loss 0.03
+epoch: 790, meta test BC loss 0.03
+
+epoch: 791, meta train BC loss 0.06
+epoch: 791, meta test BC loss 0.03
+
+epoch: 792, meta train BC loss 0.02
+epoch: 792, meta test BC loss 0.03
+
+epoch: 793, meta train BC loss 0.04
+epoch: 793, meta test BC loss 0.04
+
+epoch: 794, meta train BC loss 0.03
+epoch: 794, meta test BC loss 0.05
+
+epoch: 795, meta train BC loss 0.05
+epoch: 795, meta test BC loss 0.02
+
+epoch: 796, meta train BC loss 0.03
+epoch: 796, meta test BC loss 0.02
+
+epoch: 797, meta train BC loss 0.03
+epoch: 797, meta test BC loss 0.03
+
+epoch: 798, meta train BC loss 0.03
+epoch: 798, meta test BC loss 0.06
+
+epoch: 799, meta train BC loss 0.03
+epoch: 799, meta test BC loss 0.04
+
+############# Evaluation #############
+evaluation loss 3.50
+
+epoch: 800, meta train BC loss 0.04
+epoch: 800, meta test BC loss 0.03
+
+epoch: 801, meta train BC loss 0.02
+epoch: 801, meta test BC loss 0.03
+
+epoch: 802, meta train BC loss 0.03
+epoch: 802, meta test BC loss 0.03
+
+epoch: 803, meta train BC loss 0.04
+epoch: 803, meta test BC loss 0.03
+
+epoch: 804, meta train BC loss 0.03
+epoch: 804, meta test BC loss 0.04
+
+epoch: 805, meta train BC loss 0.04
+epoch: 805, meta test BC loss 0.03
+
+epoch: 806, meta train BC loss 0.03
+epoch: 806, meta test BC loss 0.03
+
+epoch: 807, meta train BC loss 0.03
+epoch: 807, meta test BC loss 0.02
+
+epoch: 808, meta train BC loss 0.03
+epoch: 808, meta test BC loss 0.02
+
+epoch: 809, meta train BC loss 0.04
+epoch: 809, meta test BC loss 0.04
+
+epoch: 810, meta train BC loss 0.03
+epoch: 810, meta test BC loss 0.03
+
+epoch: 811, meta train BC loss 0.04
+epoch: 811, meta test BC loss 0.05
+
+epoch: 812, meta train BC loss 0.03
+epoch: 812, meta test BC loss 0.02
+
+epoch: 813, meta train BC loss 0.02
+epoch: 813, meta test BC loss 0.02
+
+epoch: 814, meta train BC loss 0.03
+epoch: 814, meta test BC loss 0.02
+
+epoch: 815, meta train BC loss 0.04
+epoch: 815, meta test BC loss 0.01
+
+epoch: 816, meta train BC loss 0.02
+epoch: 816, meta test BC loss 0.04
+
+epoch: 817, meta train BC loss 0.02
+epoch: 817, meta test BC loss 0.03
+
+epoch: 818, meta train BC loss 0.02
+epoch: 818, meta test BC loss 0.02
+
+epoch: 819, meta train BC loss 0.03
+epoch: 819, meta test BC loss 0.03
+
+epoch: 820, meta train BC loss 0.02
+epoch: 820, meta test BC loss 0.02
+
+epoch: 821, meta train BC loss 0.02
+epoch: 821, meta test BC loss 0.02
+
+epoch: 822, meta train BC loss 0.02
+epoch: 822, meta test BC loss 0.03
+
+epoch: 823, meta train BC loss 0.02
+epoch: 823, meta test BC loss 0.02
+
+epoch: 824, meta train BC loss 0.02
+epoch: 824, meta test BC loss 0.01
+
+epoch: 825, meta train BC loss 0.02
+epoch: 825, meta test BC loss 0.03
+
+epoch: 826, meta train BC loss 0.02
+epoch: 826, meta test BC loss 0.02
+
+epoch: 827, meta train BC loss 0.02
+epoch: 827, meta test BC loss 0.01
+
+epoch: 828, meta train BC loss 0.02
+epoch: 828, meta test BC loss 0.02
+
+epoch: 829, meta train BC loss 0.02
+epoch: 829, meta test BC loss 0.04
+
+epoch: 830, meta train BC loss 0.04
+epoch: 830, meta test BC loss 0.02
+
+epoch: 831, meta train BC loss 0.02
+epoch: 831, meta test BC loss 0.02
+
+epoch: 832, meta train BC loss 0.02
+epoch: 832, meta test BC loss 0.02
+
+epoch: 833, meta train BC loss 0.02
+epoch: 833, meta test BC loss 0.03
+
+epoch: 834, meta train BC loss 0.02
+epoch: 834, meta test BC loss 0.03
+
+epoch: 835, meta train BC loss 0.02
+epoch: 835, meta test BC loss 0.02
+
+epoch: 836, meta train BC loss 0.02
+epoch: 836, meta test BC loss 0.02
+
+epoch: 837, meta train BC loss 0.03
+epoch: 837, meta test BC loss 0.02
+
+epoch: 838, meta train BC loss 0.02
+epoch: 838, meta test BC loss 0.01
+
+epoch: 839, meta train BC loss 0.02
+epoch: 839, meta test BC loss 0.02
+
+epoch: 840, meta train BC loss 0.03
+epoch: 840, meta test BC loss 0.02
+
+epoch: 841, meta train BC loss 0.02
+epoch: 841, meta test BC loss 0.02
+
+epoch: 842, meta train BC loss 0.02
+epoch: 842, meta test BC loss 0.03
+
+epoch: 843, meta train BC loss 0.02
+epoch: 843, meta test BC loss 0.02
+
+epoch: 844, meta train BC loss 0.02
+epoch: 844, meta test BC loss 0.01
+
+epoch: 845, meta train BC loss 0.02
+epoch: 845, meta test BC loss 0.02
+
+epoch: 846, meta train BC loss 0.02
+epoch: 846, meta test BC loss 0.02
+
+epoch: 847, meta train BC loss 0.02
+epoch: 847, meta test BC loss 0.03
+
+epoch: 848, meta train BC loss 0.03
+epoch: 848, meta test BC loss 0.03
+
+epoch: 849, meta train BC loss 0.02
+epoch: 849, meta test BC loss 0.01
+
+############# Evaluation #############
+evaluation loss 3.00
+
+epoch: 850, meta train BC loss 0.02
+epoch: 850, meta test BC loss 0.01
+
+epoch: 851, meta train BC loss 0.03
+epoch: 851, meta test BC loss 0.03
+
+epoch: 852, meta train BC loss 0.02
+epoch: 852, meta test BC loss 0.02
+
+epoch: 853, meta train BC loss 0.01
+epoch: 853, meta test BC loss 0.02
+
+epoch: 854, meta train BC loss 0.02
+epoch: 854, meta test BC loss 0.03
+
+epoch: 855, meta train BC loss 0.01
+epoch: 855, meta test BC loss 0.02
+
+epoch: 856, meta train BC loss 0.02
+epoch: 856, meta test BC loss 0.02
+
+epoch: 857, meta train BC loss 0.02
+epoch: 857, meta test BC loss 0.01
+
+epoch: 858, meta train BC loss 0.02
+epoch: 858, meta test BC loss 0.02
+
+epoch: 859, meta train BC loss 0.02
+epoch: 859, meta test BC loss 0.02
+
+epoch: 860, meta train BC loss 0.02
+epoch: 860, meta test BC loss 0.01
+
+epoch: 861, meta train BC loss 0.01
+epoch: 861, meta test BC loss 0.02
+
+epoch: 862, meta train BC loss 0.02
+epoch: 862, meta test BC loss 0.01
+
+epoch: 863, meta train BC loss 0.01
+epoch: 863, meta test BC loss 0.02
+
+epoch: 864, meta train BC loss 0.02
+epoch: 864, meta test BC loss 0.01
+
+epoch: 865, meta train BC loss 0.02
+epoch: 865, meta test BC loss 0.01
+
+epoch: 866, meta train BC loss 0.03
+epoch: 866, meta test BC loss 0.02
+
+epoch: 867, meta train BC loss 0.02
+epoch: 867, meta test BC loss 0.02
+
+epoch: 868, meta train BC loss 0.02
+epoch: 868, meta test BC loss 0.01
+
+epoch: 869, meta train BC loss 0.03
+epoch: 869, meta test BC loss 0.03
+
+epoch: 870, meta train BC loss 0.02
+epoch: 870, meta test BC loss 0.02
+
+epoch: 871, meta train BC loss 0.02
+epoch: 871, meta test BC loss 0.02
+
+epoch: 872, meta train BC loss 0.01
+epoch: 872, meta test BC loss 0.02
+
+epoch: 873, meta train BC loss 0.01
+epoch: 873, meta test BC loss 0.01
+
+epoch: 874, meta train BC loss 0.02
+epoch: 874, meta test BC loss 0.01
+
+epoch: 875, meta train BC loss 0.01
+epoch: 875, meta test BC loss 0.01
+
+epoch: 876, meta train BC loss 0.02
+epoch: 876, meta test BC loss 0.01
+
+epoch: 877, meta train BC loss 0.02
+epoch: 877, meta test BC loss 0.01
+
+epoch: 878, meta train BC loss 0.01
+epoch: 878, meta test BC loss 0.01
+
+epoch: 879, meta train BC loss 0.01
+epoch: 879, meta test BC loss 0.01
+
+epoch: 880, meta train BC loss 0.01
+epoch: 880, meta test BC loss 0.01
+
+epoch: 881, meta train BC loss 0.01
+epoch: 881, meta test BC loss 0.01
+
+epoch: 882, meta train BC loss 0.02
+epoch: 882, meta test BC loss 0.01
+
+epoch: 883, meta train BC loss 0.01
+epoch: 883, meta test BC loss 0.02
+
+epoch: 884, meta train BC loss 0.01
+epoch: 884, meta test BC loss 0.01
+
+epoch: 885, meta train BC loss 0.02
+epoch: 885, meta test BC loss 0.01
+
+epoch: 886, meta train BC loss 0.02
+epoch: 886, meta test BC loss 0.01
+
+epoch: 887, meta train BC loss 0.01
+epoch: 887, meta test BC loss 0.02
+
+epoch: 888, meta train BC loss 0.02
+epoch: 888, meta test BC loss 0.02
+
+epoch: 889, meta train BC loss 0.01
+epoch: 889, meta test BC loss 0.01
+
+epoch: 890, meta train BC loss 0.01
+epoch: 890, meta test BC loss 0.01
+
+epoch: 891, meta train BC loss 0.01
+epoch: 891, meta test BC loss 0.01
+
+epoch: 892, meta train BC loss 0.01
+epoch: 892, meta test BC loss 0.02
+
+epoch: 893, meta train BC loss 0.01
+epoch: 893, meta test BC loss 0.02
+
+epoch: 894, meta train BC loss 0.01
+epoch: 894, meta test BC loss 0.02
+
+epoch: 895, meta train BC loss 0.01
+epoch: 895, meta test BC loss 0.02
+
+epoch: 896, meta train BC loss 0.01
+epoch: 896, meta test BC loss 0.02
+
+epoch: 897, meta train BC loss 0.01
+epoch: 897, meta test BC loss 0.01
+
+epoch: 898, meta train BC loss 0.02
+epoch: 898, meta test BC loss 0.01
+
+epoch: 899, meta train BC loss 0.01
+epoch: 899, meta test BC loss 0.01
+
+############# Evaluation #############
+evaluation loss 2.75
+
+epoch: 900, meta train BC loss 0.02
+epoch: 900, meta test BC loss 0.01
+
+epoch: 901, meta train BC loss 0.01
+epoch: 901, meta test BC loss 0.02
+
+epoch: 902, meta train BC loss 0.01
+epoch: 902, meta test BC loss 0.01
+
+epoch: 903, meta train BC loss 0.01
+epoch: 903, meta test BC loss 0.02
+
+epoch: 904, meta train BC loss 0.01
+epoch: 904, meta test BC loss 0.01
+
+epoch: 905, meta train BC loss 0.01
+epoch: 905, meta test BC loss 0.02
+
+epoch: 906, meta train BC loss 0.01
+epoch: 906, meta test BC loss 0.01
+
+epoch: 907, meta train BC loss 0.01
+epoch: 907, meta test BC loss 0.01
+
+epoch: 908, meta train BC loss 0.01
+epoch: 908, meta test BC loss 0.01
+
+epoch: 909, meta train BC loss 0.01
+epoch: 909, meta test BC loss 0.01
+
+epoch: 910, meta train BC loss 0.01
+epoch: 910, meta test BC loss 0.01
+
+epoch: 911, meta train BC loss 0.01
+epoch: 911, meta test BC loss 0.01
+
+epoch: 912, meta train BC loss 0.01
+epoch: 912, meta test BC loss 0.01
+
+epoch: 913, meta train BC loss 0.01
+epoch: 913, meta test BC loss 0.01
+
+epoch: 914, meta train BC loss 0.02
+epoch: 914, meta test BC loss 0.01
+
+epoch: 915, meta train BC loss 0.01
+epoch: 915, meta test BC loss 0.01
+
+epoch: 916, meta train BC loss 0.01
+epoch: 916, meta test BC loss 0.01
+
+epoch: 917, meta train BC loss 0.01
+epoch: 917, meta test BC loss 0.02
+
+epoch: 918, meta train BC loss 0.01
+epoch: 918, meta test BC loss 0.01
+
+epoch: 919, meta train BC loss 0.01
+epoch: 919, meta test BC loss 0.01
+
+epoch: 920, meta train BC loss 0.01
+epoch: 920, meta test BC loss 0.01
+
+epoch: 921, meta train BC loss 0.01
+epoch: 921, meta test BC loss 0.01
+
+epoch: 922, meta train BC loss 0.01
+epoch: 922, meta test BC loss 0.01
+
+epoch: 923, meta train BC loss 0.01
+epoch: 923, meta test BC loss 0.01
+
+epoch: 924, meta train BC loss 0.01
+epoch: 924, meta test BC loss 0.01
+
+epoch: 925, meta train BC loss 0.01
+epoch: 925, meta test BC loss 0.01
+
+epoch: 926, meta train BC loss 0.01
+epoch: 926, meta test BC loss 0.01
+
+epoch: 927, meta train BC loss 0.01
+epoch: 927, meta test BC loss 0.01
+
+epoch: 928, meta train BC loss 0.01
+epoch: 928, meta test BC loss 0.01
+
+epoch: 929, meta train BC loss 0.01
+epoch: 929, meta test BC loss 0.01
+
+epoch: 930, meta train BC loss 0.02
+epoch: 930, meta test BC loss 0.01
+
+epoch: 931, meta train BC loss 0.02
+epoch: 931, meta test BC loss 0.01
+
+epoch: 932, meta train BC loss 0.01
+epoch: 932, meta test BC loss 0.01
+
+epoch: 933, meta train BC loss 0.02
+epoch: 933, meta test BC loss 0.01
+
+epoch: 934, meta train BC loss 0.01
+epoch: 934, meta test BC loss 0.01
+
+epoch: 935, meta train BC loss 0.01
+epoch: 935, meta test BC loss 0.01
+
+epoch: 936, meta train BC loss 0.01
+epoch: 936, meta test BC loss 0.02
+
+epoch: 937, meta train BC loss 0.01
+epoch: 937, meta test BC loss 0.01
+
+epoch: 938, meta train BC loss 0.01
+epoch: 938, meta test BC loss 0.01
+
+epoch: 939, meta train BC loss 0.01
+epoch: 939, meta test BC loss 0.01
+
+epoch: 940, meta train BC loss 0.01
+epoch: 940, meta test BC loss 0.01
+
+epoch: 941, meta train BC loss 0.01
+epoch: 941, meta test BC loss 0.01
+
+epoch: 942, meta train BC loss 0.01
+epoch: 942, meta test BC loss 0.01
+
+epoch: 943, meta train BC loss 0.01
+epoch: 943, meta test BC loss 0.01
+
+epoch: 944, meta train BC loss 0.01
+epoch: 944, meta test BC loss 0.01
+
+epoch: 945, meta train BC loss 0.02
+epoch: 945, meta test BC loss 0.01
+
+epoch: 946, meta train BC loss 0.01
+epoch: 946, meta test BC loss 0.01
+
+epoch: 947, meta train BC loss 0.01
+epoch: 947, meta test BC loss 0.01
+
+epoch: 948, meta train BC loss 0.01
+epoch: 948, meta test BC loss 0.01
+
+epoch: 949, meta train BC loss 0.01
+epoch: 949, meta test BC loss 0.01
+
+############# Evaluation #############
+evaluation loss 3.33
+
+epoch: 950, meta train BC loss 0.01
+epoch: 950, meta test BC loss 0.01
+
+epoch: 951, meta train BC loss 0.01
+epoch: 951, meta test BC loss 0.01
+
+epoch: 952, meta train BC loss 0.01
+epoch: 952, meta test BC loss 0.01
+
+epoch: 953, meta train BC loss 0.01
+epoch: 953, meta test BC loss 0.01
+
+epoch: 954, meta train BC loss 0.01
+epoch: 954, meta test BC loss 0.01
+
+epoch: 955, meta train BC loss 0.01
+epoch: 955, meta test BC loss 0.01
+
+epoch: 956, meta train BC loss 0.01
+epoch: 956, meta test BC loss 0.01
+
+epoch: 957, meta train BC loss 0.01
+epoch: 957, meta test BC loss 0.01
+
+epoch: 958, meta train BC loss 0.01
+epoch: 958, meta test BC loss 0.01
+
+epoch: 959, meta train BC loss 0.01
+epoch: 959, meta test BC loss 0.01
+
+epoch: 960, meta train BC loss 0.01
+epoch: 960, meta test BC loss 0.01
+
+epoch: 961, meta train BC loss 0.01
+epoch: 961, meta test BC loss 0.01
+
+epoch: 962, meta train BC loss 0.01
+epoch: 962, meta test BC loss 0.01
+
+epoch: 963, meta train BC loss 0.01
+epoch: 963, meta test BC loss 0.01
+
+epoch: 964, meta train BC loss 0.01
+epoch: 964, meta test BC loss 0.01
+
+epoch: 965, meta train BC loss 0.01
+epoch: 965, meta test BC loss 0.01
+
+epoch: 966, meta train BC loss 0.01
+epoch: 966, meta test BC loss 0.01
+
+epoch: 967, meta train BC loss 0.01
+epoch: 967, meta test BC loss 0.01
+
+epoch: 968, meta train BC loss 0.01
+epoch: 968, meta test BC loss 0.01
+
+epoch: 969, meta train BC loss 0.01
+epoch: 969, meta test BC loss 0.01
+
+epoch: 970, meta train BC loss 0.01
+epoch: 970, meta test BC loss 0.01
+
+epoch: 971, meta train BC loss 0.01
+epoch: 971, meta test BC loss 0.01
+
+epoch: 972, meta train BC loss 0.01
+epoch: 972, meta test BC loss 0.01
+
+epoch: 973, meta train BC loss 0.01
+epoch: 973, meta test BC loss 0.01
+
+epoch: 974, meta train BC loss 0.01
+epoch: 974, meta test BC loss 0.01
+
+epoch: 975, meta train BC loss 0.01
+epoch: 975, meta test BC loss 0.01
+
+epoch: 976, meta train BC loss 0.01
+epoch: 976, meta test BC loss 0.01
+
+epoch: 977, meta train BC loss 0.00
+epoch: 977, meta test BC loss 0.01
+
+epoch: 978, meta train BC loss 0.02
+epoch: 978, meta test BC loss 0.01
+
+epoch: 979, meta train BC loss 0.01
+epoch: 979, meta test BC loss 0.01
+
+epoch: 980, meta train BC loss 0.02
+epoch: 980, meta test BC loss 0.01
+
+epoch: 981, meta train BC loss 0.01
+epoch: 981, meta test BC loss 0.01
+
+epoch: 982, meta train BC loss 0.01
+epoch: 982, meta test BC loss 0.01
+
+epoch: 983, meta train BC loss 0.01
+epoch: 983, meta test BC loss 0.01
+
+epoch: 984, meta train BC loss 0.01
+epoch: 984, meta test BC loss 0.01
+
+epoch: 985, meta train BC loss 0.01
+epoch: 985, meta test BC loss 0.01
+
+epoch: 986, meta train BC loss 0.01
+epoch: 986, meta test BC loss 0.01
+
+epoch: 987, meta train BC loss 0.01
+epoch: 987, meta test BC loss 0.01
+
+epoch: 988, meta train BC loss 0.01
+epoch: 988, meta test BC loss 0.01
+
+epoch: 989, meta train BC loss 0.01
+epoch: 989, meta test BC loss 0.01
+
+epoch: 990, meta train BC loss 0.01
+epoch: 990, meta test BC loss 0.01
+
+epoch: 991, meta train BC loss 0.01
+epoch: 991, meta test BC loss 0.01
+
+epoch: 992, meta train BC loss 0.01
+epoch: 992, meta test BC loss 0.01
+
+epoch: 993, meta train BC loss 0.01
+epoch: 993, meta test BC loss 0.01
+
+epoch: 994, meta train BC loss 0.01
+epoch: 994, meta test BC loss 0.01
+
+epoch: 995, meta train BC loss 0.01
+epoch: 995, meta test BC loss 0.01
+
+epoch: 996, meta train BC loss 0.01
+epoch: 996, meta test BC loss 0.00
+
+epoch: 997, meta train BC loss 0.01
+epoch: 997, meta test BC loss 0.01
+
+epoch: 998, meta train BC loss 0.01
+epoch: 998, meta test BC loss 0.00
+
+epoch: 999, meta train BC loss 0.01
+epoch: 999, meta test BC loss 0.01
+
+############# Evaluation #############
+evaluation loss 3.93
+
+epoch: 1000, meta train BC loss 0.01
+epoch: 1000, meta test BC loss 0.01
+
+epoch: 1001, meta train BC loss 0.01
+epoch: 1001, meta test BC loss 0.01
+
+epoch: 1002, meta train BC loss 0.01
+epoch: 1002, meta test BC loss 0.01
+
+epoch: 1003, meta train BC loss 0.01
+epoch: 1003, meta test BC loss 0.01
+
+epoch: 1004, meta train BC loss 0.01
+epoch: 1004, meta test BC loss 0.01
+
+epoch: 1005, meta train BC loss 0.01
+epoch: 1005, meta test BC loss 0.01
+
+epoch: 1006, meta train BC loss 0.01
+epoch: 1006, meta test BC loss 0.01
+
+epoch: 1007, meta train BC loss 0.01
+epoch: 1007, meta test BC loss 0.01
+
+epoch: 1008, meta train BC loss 0.01
+epoch: 1008, meta test BC loss 0.01
+
+epoch: 1009, meta train BC loss 0.01
+epoch: 1009, meta test BC loss 0.00
+
+epoch: 1010, meta train BC loss 0.01
+epoch: 1010, meta test BC loss 0.01
+
+epoch: 1011, meta train BC loss 0.01
+epoch: 1011, meta test BC loss 0.00
+
+epoch: 1012, meta train BC loss 0.01
+epoch: 1012, meta test BC loss 0.01
+
+epoch: 1013, meta train BC loss 0.01
+epoch: 1013, meta test BC loss 0.01
+
+epoch: 1014, meta train BC loss 0.01
+epoch: 1014, meta test BC loss 0.01
+
+epoch: 1015, meta train BC loss 0.01
+epoch: 1015, meta test BC loss 0.01
+
+epoch: 1016, meta train BC loss 0.00
+epoch: 1016, meta test BC loss 0.01
+
+epoch: 1017, meta train BC loss 0.01
+epoch: 1017, meta test BC loss 0.01
+
+epoch: 1018, meta train BC loss 0.00
+epoch: 1018, meta test BC loss 0.01
+
+epoch: 1019, meta train BC loss 0.01
+epoch: 1019, meta test BC loss 0.01
+
+epoch: 1020, meta train BC loss 0.01
+epoch: 1020, meta test BC loss 0.01
+
+epoch: 1021, meta train BC loss 0.01
+epoch: 1021, meta test BC loss 0.01
+
+epoch: 1022, meta train BC loss 0.01
+epoch: 1022, meta test BC loss 0.01
+
+epoch: 1023, meta train BC loss 0.01
+epoch: 1023, meta test BC loss 0.00
+
+epoch: 1024, meta train BC loss 0.01
+epoch: 1024, meta test BC loss 0.01
+
+epoch: 1025, meta train BC loss 0.01
+epoch: 1025, meta test BC loss 0.00
+
+epoch: 1026, meta train BC loss 0.00
+epoch: 1026, meta test BC loss 0.01
+
+epoch: 1027, meta train BC loss 0.01
+epoch: 1027, meta test BC loss 0.01
+
+epoch: 1028, meta train BC loss 0.01
+epoch: 1028, meta test BC loss 0.00
+
+epoch: 1029, meta train BC loss 0.00
+epoch: 1029, meta test BC loss 0.01
+
+epoch: 1030, meta train BC loss 0.01
+epoch: 1030, meta test BC loss 0.00
+
+epoch: 1031, meta train BC loss 0.01
+epoch: 1031, meta test BC loss 0.01
+
+epoch: 1032, meta train BC loss 0.01
+epoch: 1032, meta test BC loss 0.01
+
+epoch: 1033, meta train BC loss 0.00
+epoch: 1033, meta test BC loss 0.01
+
+epoch: 1034, meta train BC loss 0.00
+epoch: 1034, meta test BC loss 0.00
+
+epoch: 1035, meta train BC loss 0.01
+epoch: 1035, meta test BC loss 0.01
+
+epoch: 1036, meta train BC loss 0.01
+epoch: 1036, meta test BC loss 0.00
+
+epoch: 1037, meta train BC loss 0.01
+epoch: 1037, meta test BC loss 0.00
+
+epoch: 1038, meta train BC loss 0.00
+epoch: 1038, meta test BC loss 0.00
+
+epoch: 1039, meta train BC loss 0.00
+epoch: 1039, meta test BC loss 0.01
+
+epoch: 1040, meta train BC loss 0.01
+epoch: 1040, meta test BC loss 0.01
+
+epoch: 1041, meta train BC loss 0.01
+epoch: 1041, meta test BC loss 0.00
+
+epoch: 1042, meta train BC loss 0.00
+epoch: 1042, meta test BC loss 0.01
+
+epoch: 1043, meta train BC loss 0.00
+epoch: 1043, meta test BC loss 0.01
+
+epoch: 1044, meta train BC loss 0.01
+epoch: 1044, meta test BC loss 0.00
+
+epoch: 1045, meta train BC loss 0.00
+epoch: 1045, meta test BC loss 0.00
+
+epoch: 1046, meta train BC loss 0.01
+epoch: 1046, meta test BC loss 0.01
+
+epoch: 1047, meta train BC loss 0.01
+epoch: 1047, meta test BC loss 0.01
+
+epoch: 1048, meta train BC loss 0.01
+epoch: 1048, meta test BC loss 0.00
+
+epoch: 1049, meta train BC loss 0.01
+epoch: 1049, meta test BC loss 0.01
+
+############# Evaluation #############
+evaluation loss 3.34
+
+epoch: 1050, meta train BC loss 0.01
+epoch: 1050, meta test BC loss 0.01
+
+epoch: 1051, meta train BC loss 0.00
+epoch: 1051, meta test BC loss 0.00
+
+epoch: 1052, meta train BC loss 0.01
+epoch: 1052, meta test BC loss 0.00
+
+epoch: 1053, meta train BC loss 0.01
+epoch: 1053, meta test BC loss 0.00
+
+epoch: 1054, meta train BC loss 0.01
+epoch: 1054, meta test BC loss 0.01
+
+epoch: 1055, meta train BC loss 0.01
+epoch: 1055, meta test BC loss 0.00
+
+epoch: 1056, meta train BC loss 0.00
+epoch: 1056, meta test BC loss 0.01
+
+epoch: 1057, meta train BC loss 0.00
+epoch: 1057, meta test BC loss 0.01
+
+epoch: 1058, meta train BC loss 0.00
+epoch: 1058, meta test BC loss 0.00
+
+epoch: 1059, meta train BC loss 0.00
+epoch: 1059, meta test BC loss 0.01
+
+epoch: 1060, meta train BC loss 0.00
+epoch: 1060, meta test BC loss 0.01
+
+epoch: 1061, meta train BC loss 0.01
+epoch: 1061, meta test BC loss 0.00
+
+epoch: 1062, meta train BC loss 0.00
+epoch: 1062, meta test BC loss 0.01
+
+epoch: 1063, meta train BC loss 0.00
+epoch: 1063, meta test BC loss 0.01
+
+epoch: 1064, meta train BC loss 0.00
+epoch: 1064, meta test BC loss 0.00
+
+epoch: 1065, meta train BC loss 0.01
+epoch: 1065, meta test BC loss 0.00
+
+epoch: 1066, meta train BC loss 0.00
+epoch: 1066, meta test BC loss 0.00
+
+epoch: 1067, meta train BC loss 0.00
+epoch: 1067, meta test BC loss 0.01
+
+epoch: 1068, meta train BC loss 0.01
+epoch: 1068, meta test BC loss 0.01
+
+epoch: 1069, meta train BC loss 0.00
+epoch: 1069, meta test BC loss 0.00
+
+epoch: 1070, meta train BC loss 0.00
+epoch: 1070, meta test BC loss 0.01
+
+epoch: 1071, meta train BC loss 0.01
+epoch: 1071, meta test BC loss 0.01
+
+epoch: 1072, meta train BC loss 0.00
+epoch: 1072, meta test BC loss 0.00
+
+epoch: 1073, meta train BC loss 0.00
+epoch: 1073, meta test BC loss 0.00
+
+epoch: 1074, meta train BC loss 0.00
+epoch: 1074, meta test BC loss 0.00
+
+epoch: 1075, meta train BC loss 0.00
+epoch: 1075, meta test BC loss 0.00
+
+epoch: 1076, meta train BC loss 0.01
+epoch: 1076, meta test BC loss 0.00
+
+epoch: 1077, meta train BC loss 0.00
+epoch: 1077, meta test BC loss 0.01
+
+epoch: 1078, meta train BC loss 0.00
+epoch: 1078, meta test BC loss 0.00
+
+epoch: 1079, meta train BC loss 0.00
+epoch: 1079, meta test BC loss 0.01
+
+epoch: 1080, meta train BC loss 0.00
+epoch: 1080, meta test BC loss 0.00
+
+epoch: 1081, meta train BC loss 0.01
+epoch: 1081, meta test BC loss 0.00
+
+epoch: 1082, meta train BC loss 0.00
+epoch: 1082, meta test BC loss 0.00
+
+epoch: 1083, meta train BC loss 0.01
+epoch: 1083, meta test BC loss 0.01
+
+epoch: 1084, meta train BC loss 0.00
+epoch: 1084, meta test BC loss 0.00
+
+epoch: 1085, meta train BC loss 0.01
+epoch: 1085, meta test BC loss 0.00
+
+epoch: 1086, meta train BC loss 0.01
+epoch: 1086, meta test BC loss 0.00
+
+epoch: 1087, meta train BC loss 0.00
+epoch: 1087, meta test BC loss 0.00
+
+epoch: 1088, meta train BC loss 0.01
+epoch: 1088, meta test BC loss 0.00
+
+epoch: 1089, meta train BC loss 0.01
+epoch: 1089, meta test BC loss 0.00
+
+epoch: 1090, meta train BC loss 0.01
+epoch: 1090, meta test BC loss 0.00
+
+epoch: 1091, meta train BC loss 0.00
+epoch: 1091, meta test BC loss 0.00
+
+epoch: 1092, meta train BC loss 0.00
+epoch: 1092, meta test BC loss 0.01
+
+epoch: 1093, meta train BC loss 0.00
+epoch: 1093, meta test BC loss 0.00
+
+epoch: 1094, meta train BC loss 0.01
+epoch: 1094, meta test BC loss 0.00
+
+epoch: 1095, meta train BC loss 0.01
+epoch: 1095, meta test BC loss 0.00
+
+epoch: 1096, meta train BC loss 0.00
+epoch: 1096, meta test BC loss 0.00
+
+epoch: 1097, meta train BC loss 0.00
+epoch: 1097, meta test BC loss 0.00
+
+epoch: 1098, meta train BC loss 0.00
+epoch: 1098, meta test BC loss 0.00
+
+epoch: 1099, meta train BC loss 0.00
+epoch: 1099, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 3.96
+
+epoch: 1100, meta train BC loss 0.00
+epoch: 1100, meta test BC loss 0.00
+
+epoch: 1101, meta train BC loss 0.00
+epoch: 1101, meta test BC loss 0.00
+
+epoch: 1102, meta train BC loss 0.00
+epoch: 1102, meta test BC loss 0.01
+
+epoch: 1103, meta train BC loss 0.00
+epoch: 1103, meta test BC loss 0.00
+
+epoch: 1104, meta train BC loss 0.00
+epoch: 1104, meta test BC loss 0.01
+
+epoch: 1105, meta train BC loss 0.00
+epoch: 1105, meta test BC loss 0.00
+
+epoch: 1106, meta train BC loss 0.01
+epoch: 1106, meta test BC loss 0.00
+
+epoch: 1107, meta train BC loss 0.00
+epoch: 1107, meta test BC loss 0.00
+
+epoch: 1108, meta train BC loss 0.00
+epoch: 1108, meta test BC loss 0.00
+
+epoch: 1109, meta train BC loss 0.00
+epoch: 1109, meta test BC loss 0.00
+
+epoch: 1110, meta train BC loss 0.00
+epoch: 1110, meta test BC loss 0.00
+
+epoch: 1111, meta train BC loss 0.00
+epoch: 1111, meta test BC loss 0.00
+
+epoch: 1112, meta train BC loss 0.00
+epoch: 1112, meta test BC loss 0.00
+
+epoch: 1113, meta train BC loss 0.00
+epoch: 1113, meta test BC loss 0.00
+
+epoch: 1114, meta train BC loss 0.00
+epoch: 1114, meta test BC loss 0.01
+
+epoch: 1115, meta train BC loss 0.00
+epoch: 1115, meta test BC loss 0.00
+
+epoch: 1116, meta train BC loss 0.00
+epoch: 1116, meta test BC loss 0.00
+
+epoch: 1117, meta train BC loss 0.00
+epoch: 1117, meta test BC loss 0.00
+
+epoch: 1118, meta train BC loss 0.00
+epoch: 1118, meta test BC loss 0.00
+
+epoch: 1119, meta train BC loss 0.00
+epoch: 1119, meta test BC loss 0.00
+
+epoch: 1120, meta train BC loss 0.00
+epoch: 1120, meta test BC loss 0.00
+
+epoch: 1121, meta train BC loss 0.00
+epoch: 1121, meta test BC loss 0.00
+
+epoch: 1122, meta train BC loss 0.01
+epoch: 1122, meta test BC loss 0.00
+
+epoch: 1123, meta train BC loss 0.00
+epoch: 1123, meta test BC loss 0.00
+
+epoch: 1124, meta train BC loss 0.00
+epoch: 1124, meta test BC loss 0.00
+
+epoch: 1125, meta train BC loss 0.00
+epoch: 1125, meta test BC loss 0.00
+
+epoch: 1126, meta train BC loss 0.00
+epoch: 1126, meta test BC loss 0.00
+
+epoch: 1127, meta train BC loss 0.00
+epoch: 1127, meta test BC loss 0.00
+
+epoch: 1128, meta train BC loss 0.01
+epoch: 1128, meta test BC loss 0.00
+
+epoch: 1129, meta train BC loss 0.00
+epoch: 1129, meta test BC loss 0.00
+
+epoch: 1130, meta train BC loss 0.00
+epoch: 1130, meta test BC loss 0.00
+
+epoch: 1131, meta train BC loss 0.00
+epoch: 1131, meta test BC loss 0.00
+
+epoch: 1132, meta train BC loss 0.00
+epoch: 1132, meta test BC loss 0.00
+
+epoch: 1133, meta train BC loss 0.00
+epoch: 1133, meta test BC loss 0.00
+
+epoch: 1134, meta train BC loss 0.00
+epoch: 1134, meta test BC loss 0.01
+
+epoch: 1135, meta train BC loss 0.00
+epoch: 1135, meta test BC loss 0.00
+
+epoch: 1136, meta train BC loss 0.00
+epoch: 1136, meta test BC loss 0.00
+
+epoch: 1137, meta train BC loss 0.00
+epoch: 1137, meta test BC loss 0.00
+
+epoch: 1138, meta train BC loss 0.00
+epoch: 1138, meta test BC loss 0.00
+
+epoch: 1139, meta train BC loss 0.00
+epoch: 1139, meta test BC loss 0.00
+
+epoch: 1140, meta train BC loss 0.00
+epoch: 1140, meta test BC loss 0.00
+
+epoch: 1141, meta train BC loss 0.00
+epoch: 1141, meta test BC loss 0.00
+
+epoch: 1142, meta train BC loss 0.00
+epoch: 1142, meta test BC loss 0.00
+
+epoch: 1143, meta train BC loss 0.00
+epoch: 1143, meta test BC loss 0.00
+
+epoch: 1144, meta train BC loss 0.00
+epoch: 1144, meta test BC loss 0.00
+
+epoch: 1145, meta train BC loss 0.00
+epoch: 1145, meta test BC loss 0.00
+
+epoch: 1146, meta train BC loss 0.00
+epoch: 1146, meta test BC loss 0.00
+
+epoch: 1147, meta train BC loss 0.00
+epoch: 1147, meta test BC loss 0.00
+
+epoch: 1148, meta train BC loss 0.00
+epoch: 1148, meta test BC loss 0.00
+
+epoch: 1149, meta train BC loss 0.00
+epoch: 1149, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 3.67
+
+epoch: 1150, meta train BC loss 0.00
+epoch: 1150, meta test BC loss 0.00
+
+epoch: 1151, meta train BC loss 0.00
+epoch: 1151, meta test BC loss 0.00
+
+epoch: 1152, meta train BC loss 0.00
+epoch: 1152, meta test BC loss 0.00
+
+epoch: 1153, meta train BC loss 0.00
+epoch: 1153, meta test BC loss 0.00
+
+epoch: 1154, meta train BC loss 0.00
+epoch: 1154, meta test BC loss 0.00
+
+epoch: 1155, meta train BC loss 0.00
+epoch: 1155, meta test BC loss 0.00
+
+epoch: 1156, meta train BC loss 0.00
+epoch: 1156, meta test BC loss 0.00
+
+epoch: 1157, meta train BC loss 0.00
+epoch: 1157, meta test BC loss 0.00
+
+epoch: 1158, meta train BC loss 0.00
+epoch: 1158, meta test BC loss 0.00
+
+epoch: 1159, meta train BC loss 0.00
+epoch: 1159, meta test BC loss 0.00
+
+epoch: 1160, meta train BC loss 0.00
+epoch: 1160, meta test BC loss 0.00
+
+epoch: 1161, meta train BC loss 0.00
+epoch: 1161, meta test BC loss 0.00
+
+epoch: 1162, meta train BC loss 0.00
+epoch: 1162, meta test BC loss 0.00
+
+epoch: 1163, meta train BC loss 0.00
+epoch: 1163, meta test BC loss 0.00
+
+epoch: 1164, meta train BC loss 0.00
+epoch: 1164, meta test BC loss 0.00
+
+epoch: 1165, meta train BC loss 0.00
+epoch: 1165, meta test BC loss 0.00
+
+epoch: 1166, meta train BC loss 0.00
+epoch: 1166, meta test BC loss 0.00
+
+epoch: 1167, meta train BC loss 0.00
+epoch: 1167, meta test BC loss 0.00
+
+epoch: 1168, meta train BC loss 0.00
+epoch: 1168, meta test BC loss 0.00
+
+epoch: 1169, meta train BC loss 0.00
+epoch: 1169, meta test BC loss 0.00
+
+epoch: 1170, meta train BC loss 0.00
+epoch: 1170, meta test BC loss 0.00
+
+epoch: 1171, meta train BC loss 0.00
+epoch: 1171, meta test BC loss 0.00
+
+epoch: 1172, meta train BC loss 0.00
+epoch: 1172, meta test BC loss 0.00
+
+epoch: 1173, meta train BC loss 0.00
+epoch: 1173, meta test BC loss 0.00
+
+epoch: 1174, meta train BC loss 0.00
+epoch: 1174, meta test BC loss 0.00
+
+epoch: 1175, meta train BC loss 0.00
+epoch: 1175, meta test BC loss 0.00
+
+epoch: 1176, meta train BC loss 0.00
+epoch: 1176, meta test BC loss 0.00
+
+epoch: 1177, meta train BC loss 0.00
+epoch: 1177, meta test BC loss 0.00
+
+epoch: 1178, meta train BC loss 0.00
+epoch: 1178, meta test BC loss 0.00
+
+epoch: 1179, meta train BC loss 0.00
+epoch: 1179, meta test BC loss 0.00
+
+epoch: 1180, meta train BC loss 0.00
+epoch: 1180, meta test BC loss 0.00
+
+epoch: 1181, meta train BC loss 0.00
+epoch: 1181, meta test BC loss 0.00
+
+epoch: 1182, meta train BC loss 0.00
+epoch: 1182, meta test BC loss 0.00
+
+epoch: 1183, meta train BC loss 0.00
+epoch: 1183, meta test BC loss 0.00
+
+epoch: 1184, meta train BC loss 0.00
+epoch: 1184, meta test BC loss 0.00
+
+epoch: 1185, meta train BC loss 0.00
+epoch: 1185, meta test BC loss 0.00
+
+epoch: 1186, meta train BC loss 0.00
+epoch: 1186, meta test BC loss 0.00
+
+epoch: 1187, meta train BC loss 0.00
+epoch: 1187, meta test BC loss 0.00
+
+epoch: 1188, meta train BC loss 0.00
+epoch: 1188, meta test BC loss 0.00
+
+epoch: 1189, meta train BC loss 0.00
+epoch: 1189, meta test BC loss 0.00
+
+epoch: 1190, meta train BC loss 0.00
+epoch: 1190, meta test BC loss 0.00
+
+epoch: 1191, meta train BC loss 0.00
+epoch: 1191, meta test BC loss 0.00
+
+epoch: 1192, meta train BC loss 0.00
+epoch: 1192, meta test BC loss 0.00
+
+epoch: 1193, meta train BC loss 0.00
+epoch: 1193, meta test BC loss 0.00
+
+epoch: 1194, meta train BC loss 0.00
+epoch: 1194, meta test BC loss 0.00
+
+epoch: 1195, meta train BC loss 0.00
+epoch: 1195, meta test BC loss 0.00
+
+epoch: 1196, meta train BC loss 0.00
+epoch: 1196, meta test BC loss 0.00
+
+epoch: 1197, meta train BC loss 0.00
+epoch: 1197, meta test BC loss 0.00
+
+epoch: 1198, meta train BC loss 0.00
+epoch: 1198, meta test BC loss 0.00
+
+epoch: 1199, meta train BC loss 0.00
+epoch: 1199, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 3.12
+
+epoch: 1200, meta train BC loss 0.00
+epoch: 1200, meta test BC loss 0.00
+
+epoch: 1201, meta train BC loss 0.00
+epoch: 1201, meta test BC loss 0.00
+
+epoch: 1202, meta train BC loss 0.00
+epoch: 1202, meta test BC loss 0.00
+
+epoch: 1203, meta train BC loss 0.00
+epoch: 1203, meta test BC loss 0.00
+
+epoch: 1204, meta train BC loss 0.00
+epoch: 1204, meta test BC loss 0.00
+
+epoch: 1205, meta train BC loss 0.00
+epoch: 1205, meta test BC loss 0.00
+
+epoch: 1206, meta train BC loss 0.00
+epoch: 1206, meta test BC loss 0.00
+
+epoch: 1207, meta train BC loss 0.00
+epoch: 1207, meta test BC loss 0.00
+
+epoch: 1208, meta train BC loss 0.00
+epoch: 1208, meta test BC loss 0.00
+
+epoch: 1209, meta train BC loss 0.00
+epoch: 1209, meta test BC loss 0.00
+
+epoch: 1210, meta train BC loss 0.00
+epoch: 1210, meta test BC loss 0.00
+
+epoch: 1211, meta train BC loss 0.00
+epoch: 1211, meta test BC loss 0.00
+
+epoch: 1212, meta train BC loss 0.00
+epoch: 1212, meta test BC loss 0.00
+
+epoch: 1213, meta train BC loss 0.00
+epoch: 1213, meta test BC loss 0.00
+
+epoch: 1214, meta train BC loss 0.00
+epoch: 1214, meta test BC loss 0.00
+
+epoch: 1215, meta train BC loss 0.00
+epoch: 1215, meta test BC loss 0.00
+
+epoch: 1216, meta train BC loss 0.00
+epoch: 1216, meta test BC loss 0.00
+
+epoch: 1217, meta train BC loss 0.00
+epoch: 1217, meta test BC loss 0.00
+
+epoch: 1218, meta train BC loss 0.00
+epoch: 1218, meta test BC loss 0.00
+
+epoch: 1219, meta train BC loss 0.00
+epoch: 1219, meta test BC loss 0.00
+
+epoch: 1220, meta train BC loss 0.00
+epoch: 1220, meta test BC loss 0.00
+
+epoch: 1221, meta train BC loss 0.00
+epoch: 1221, meta test BC loss 0.00
+
+epoch: 1222, meta train BC loss 0.00
+epoch: 1222, meta test BC loss 0.00
+
+epoch: 1223, meta train BC loss 0.00
+epoch: 1223, meta test BC loss 0.00
+
+epoch: 1224, meta train BC loss 0.00
+epoch: 1224, meta test BC loss 0.00
+
+epoch: 1225, meta train BC loss 0.00
+epoch: 1225, meta test BC loss 0.00
+
+epoch: 1226, meta train BC loss 0.00
+epoch: 1226, meta test BC loss 0.00
+
+epoch: 1227, meta train BC loss 0.00
+epoch: 1227, meta test BC loss 0.00
+
+epoch: 1228, meta train BC loss 0.00
+epoch: 1228, meta test BC loss 0.00
+
+epoch: 1229, meta train BC loss 0.00
+epoch: 1229, meta test BC loss 0.00
+
+epoch: 1230, meta train BC loss 0.00
+epoch: 1230, meta test BC loss 0.00
+
+epoch: 1231, meta train BC loss 0.00
+epoch: 1231, meta test BC loss 0.00
+
+epoch: 1232, meta train BC loss 0.00
+epoch: 1232, meta test BC loss 0.00
+
+epoch: 1233, meta train BC loss 0.00
+epoch: 1233, meta test BC loss 0.00
+
+epoch: 1234, meta train BC loss 0.00
+epoch: 1234, meta test BC loss 0.00
+
+epoch: 1235, meta train BC loss 0.00
+epoch: 1235, meta test BC loss 0.00
+
+epoch: 1236, meta train BC loss 0.00
+epoch: 1236, meta test BC loss 0.00
+
+epoch: 1237, meta train BC loss 0.00
+epoch: 1237, meta test BC loss 0.00
+
+epoch: 1238, meta train BC loss 0.00
+epoch: 1238, meta test BC loss 0.00
+
+epoch: 1239, meta train BC loss 0.00
+epoch: 1239, meta test BC loss 0.00
+
+epoch: 1240, meta train BC loss 0.00
+epoch: 1240, meta test BC loss 0.00
+
+epoch: 1241, meta train BC loss 0.00
+epoch: 1241, meta test BC loss 0.00
+
+epoch: 1242, meta train BC loss 0.00
+epoch: 1242, meta test BC loss 0.00
+
+epoch: 1243, meta train BC loss 0.00
+epoch: 1243, meta test BC loss 0.00
+
+epoch: 1244, meta train BC loss 0.00
+epoch: 1244, meta test BC loss 0.00
+
+epoch: 1245, meta train BC loss 0.00
+epoch: 1245, meta test BC loss 0.00
+
+epoch: 1246, meta train BC loss 0.00
+epoch: 1246, meta test BC loss 0.00
+
+epoch: 1247, meta train BC loss 0.00
+epoch: 1247, meta test BC loss 0.00
+
+epoch: 1248, meta train BC loss 0.00
+epoch: 1248, meta test BC loss 0.00
+
+epoch: 1249, meta train BC loss 0.00
+epoch: 1249, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 4.30
+
+epoch: 1250, meta train BC loss 0.00
+epoch: 1250, meta test BC loss 0.00
+
+epoch: 1251, meta train BC loss 0.00
+epoch: 1251, meta test BC loss 0.00
+
+epoch: 1252, meta train BC loss 0.00
+epoch: 1252, meta test BC loss 0.00
+
+epoch: 1253, meta train BC loss 0.00
+epoch: 1253, meta test BC loss 0.00
+
+epoch: 1254, meta train BC loss 0.00
+epoch: 1254, meta test BC loss 0.00
+
+epoch: 1255, meta train BC loss 0.00
+epoch: 1255, meta test BC loss 0.00
+
+epoch: 1256, meta train BC loss 0.00
+epoch: 1256, meta test BC loss 0.00
+
+epoch: 1257, meta train BC loss 0.00
+epoch: 1257, meta test BC loss 0.00
+
+epoch: 1258, meta train BC loss 0.00
+epoch: 1258, meta test BC loss 0.00
+
+epoch: 1259, meta train BC loss 0.00
+epoch: 1259, meta test BC loss 0.00
+
+epoch: 1260, meta train BC loss 0.00
+epoch: 1260, meta test BC loss 0.00
+
+epoch: 1261, meta train BC loss 0.00
+epoch: 1261, meta test BC loss 0.00
+
+epoch: 1262, meta train BC loss 0.00
+epoch: 1262, meta test BC loss 0.00
+
+epoch: 1263, meta train BC loss 0.00
+epoch: 1263, meta test BC loss 0.00
+
+epoch: 1264, meta train BC loss 0.00
+epoch: 1264, meta test BC loss 0.00
+
+epoch: 1265, meta train BC loss 0.00
+epoch: 1265, meta test BC loss 0.00
+
+epoch: 1266, meta train BC loss 0.00
+epoch: 1266, meta test BC loss 0.00
+
+epoch: 1267, meta train BC loss 0.00
+epoch: 1267, meta test BC loss 0.00
+
+epoch: 1268, meta train BC loss 0.00
+epoch: 1268, meta test BC loss 0.00
+
+epoch: 1269, meta train BC loss 0.00
+epoch: 1269, meta test BC loss 0.00
+
+epoch: 1270, meta train BC loss 0.00
+epoch: 1270, meta test BC loss 0.00
+
+epoch: 1271, meta train BC loss 0.00
+epoch: 1271, meta test BC loss 0.00
+
+epoch: 1272, meta train BC loss 0.00
+epoch: 1272, meta test BC loss 0.00
+
+epoch: 1273, meta train BC loss 0.00
+epoch: 1273, meta test BC loss 0.00
+
+epoch: 1274, meta train BC loss 0.00
+epoch: 1274, meta test BC loss 0.00
+
+epoch: 1275, meta train BC loss 0.00
+epoch: 1275, meta test BC loss 0.00
+
+epoch: 1276, meta train BC loss 0.00
+epoch: 1276, meta test BC loss 0.00
+
+epoch: 1277, meta train BC loss 0.00
+epoch: 1277, meta test BC loss 0.00
+
+epoch: 1278, meta train BC loss 0.00
+epoch: 1278, meta test BC loss 0.00
+
+epoch: 1279, meta train BC loss 0.00
+epoch: 1279, meta test BC loss 0.00
+
+epoch: 1280, meta train BC loss 0.00
+epoch: 1280, meta test BC loss 0.00
+
+epoch: 1281, meta train BC loss 0.00
+epoch: 1281, meta test BC loss 0.00
+
+epoch: 1282, meta train BC loss 0.00
+epoch: 1282, meta test BC loss 0.00
+
+epoch: 1283, meta train BC loss 0.00
+epoch: 1283, meta test BC loss 0.00
+
+epoch: 1284, meta train BC loss 0.00
+epoch: 1284, meta test BC loss 0.00
+
+epoch: 1285, meta train BC loss 0.00
+epoch: 1285, meta test BC loss 0.00
+
+epoch: 1286, meta train BC loss 0.00
+epoch: 1286, meta test BC loss 0.00
+
+epoch: 1287, meta train BC loss 0.00
+epoch: 1287, meta test BC loss 0.00
+
+epoch: 1288, meta train BC loss 0.00
+epoch: 1288, meta test BC loss 0.00
+
+epoch: 1289, meta train BC loss 0.00
+epoch: 1289, meta test BC loss 0.00
+
+epoch: 1290, meta train BC loss 0.00
+epoch: 1290, meta test BC loss 0.00
+
+epoch: 1291, meta train BC loss 0.00
+epoch: 1291, meta test BC loss 0.00
+
+epoch: 1292, meta train BC loss 0.00
+epoch: 1292, meta test BC loss 0.00
+
+epoch: 1293, meta train BC loss 0.00
+epoch: 1293, meta test BC loss 0.00
+
+epoch: 1294, meta train BC loss 0.00
+epoch: 1294, meta test BC loss 0.00
+
+epoch: 1295, meta train BC loss 0.00
+epoch: 1295, meta test BC loss 0.00
+
+epoch: 1296, meta train BC loss 0.00
+epoch: 1296, meta test BC loss 0.00
+
+epoch: 1297, meta train BC loss 0.00
+epoch: 1297, meta test BC loss 0.00
+
+epoch: 1298, meta train BC loss 0.00
+epoch: 1298, meta test BC loss 0.00
+
+epoch: 1299, meta train BC loss 0.00
+epoch: 1299, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 3.26
+
+epoch: 1300, meta train BC loss 0.00
+epoch: 1300, meta test BC loss 0.00
+
+epoch: 1301, meta train BC loss 0.00
+epoch: 1301, meta test BC loss 0.00
+
+epoch: 1302, meta train BC loss 0.00
+epoch: 1302, meta test BC loss 0.00
+
+epoch: 1303, meta train BC loss 0.00
+epoch: 1303, meta test BC loss 0.00
+
+epoch: 1304, meta train BC loss 0.00
+epoch: 1304, meta test BC loss 0.00
+
+epoch: 1305, meta train BC loss 0.00
+epoch: 1305, meta test BC loss 0.00
+
+epoch: 1306, meta train BC loss 0.00
+epoch: 1306, meta test BC loss 0.00
+
+epoch: 1307, meta train BC loss 0.00
+epoch: 1307, meta test BC loss 0.00
+
+epoch: 1308, meta train BC loss 0.00
+epoch: 1308, meta test BC loss 0.00
+
+epoch: 1309, meta train BC loss 0.00
+epoch: 1309, meta test BC loss 0.00
+
+epoch: 1310, meta train BC loss 0.00
+epoch: 1310, meta test BC loss 0.00
+
+epoch: 1311, meta train BC loss 0.00
+epoch: 1311, meta test BC loss 0.00
+
+epoch: 1312, meta train BC loss 0.00
+epoch: 1312, meta test BC loss 0.00
+
+epoch: 1313, meta train BC loss 0.00
+epoch: 1313, meta test BC loss 0.00
+
+epoch: 1314, meta train BC loss 0.00
+epoch: 1314, meta test BC loss 0.00
+
+epoch: 1315, meta train BC loss 0.00
+epoch: 1315, meta test BC loss 0.00
+
+epoch: 1316, meta train BC loss 0.00
+epoch: 1316, meta test BC loss 0.00
+
+epoch: 1317, meta train BC loss 0.00
+epoch: 1317, meta test BC loss 0.00
+
+epoch: 1318, meta train BC loss 0.00
+epoch: 1318, meta test BC loss 0.00
+
+epoch: 1319, meta train BC loss 0.00
+epoch: 1319, meta test BC loss 0.00
+
+epoch: 1320, meta train BC loss 0.00
+epoch: 1320, meta test BC loss 0.00
+
+epoch: 1321, meta train BC loss 0.00
+epoch: 1321, meta test BC loss 0.00
+
+epoch: 1322, meta train BC loss 0.00
+epoch: 1322, meta test BC loss 0.00
+
+epoch: 1323, meta train BC loss 0.00
+epoch: 1323, meta test BC loss 0.00
+
+epoch: 1324, meta train BC loss 0.00
+epoch: 1324, meta test BC loss 0.00
+
+epoch: 1325, meta train BC loss 0.00
+epoch: 1325, meta test BC loss 0.00
+
+epoch: 1326, meta train BC loss 0.00
+epoch: 1326, meta test BC loss 0.00
+
+epoch: 1327, meta train BC loss 0.00
+epoch: 1327, meta test BC loss 0.00
+
+epoch: 1328, meta train BC loss 0.00
+epoch: 1328, meta test BC loss 0.00
+
+epoch: 1329, meta train BC loss 0.00
+epoch: 1329, meta test BC loss 0.00
+
+epoch: 1330, meta train BC loss 0.00
+epoch: 1330, meta test BC loss 0.00
+
+epoch: 1331, meta train BC loss 0.00
+epoch: 1331, meta test BC loss 0.00
+
+epoch: 1332, meta train BC loss 0.00
+epoch: 1332, meta test BC loss 0.00
+
+epoch: 1333, meta train BC loss 0.00
+epoch: 1333, meta test BC loss 0.00
+
+epoch: 1334, meta train BC loss 0.00
+epoch: 1334, meta test BC loss 0.00
+
+epoch: 1335, meta train BC loss 0.00
+epoch: 1335, meta test BC loss 0.00
+
+epoch: 1336, meta train BC loss 0.00
+epoch: 1336, meta test BC loss 0.00
+
+epoch: 1337, meta train BC loss 0.00
+epoch: 1337, meta test BC loss 0.00
+
+epoch: 1338, meta train BC loss 0.00
+epoch: 1338, meta test BC loss 0.00
+
+epoch: 1339, meta train BC loss 0.00
+epoch: 1339, meta test BC loss 0.00
+
+epoch: 1340, meta train BC loss 0.00
+epoch: 1340, meta test BC loss 0.00
+
+epoch: 1341, meta train BC loss 0.00
+epoch: 1341, meta test BC loss 0.00
+
+epoch: 1342, meta train BC loss 0.00
+epoch: 1342, meta test BC loss 0.00
+
+epoch: 1343, meta train BC loss 0.00
+epoch: 1343, meta test BC loss 0.00
+
+epoch: 1344, meta train BC loss 0.00
+epoch: 1344, meta test BC loss 0.00
+
+epoch: 1345, meta train BC loss 0.00
+epoch: 1345, meta test BC loss 0.00
+
+epoch: 1346, meta train BC loss 0.00
+epoch: 1346, meta test BC loss 0.00
+
+epoch: 1347, meta train BC loss 0.00
+epoch: 1347, meta test BC loss 0.00
+
+epoch: 1348, meta train BC loss 0.00
+epoch: 1348, meta test BC loss 0.00
+
+epoch: 1349, meta train BC loss 0.00
+epoch: 1349, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 3.42
+
+epoch: 1350, meta train BC loss 0.00
+epoch: 1350, meta test BC loss 0.00
+
+epoch: 1351, meta train BC loss 0.00
+epoch: 1351, meta test BC loss 0.00
+
+epoch: 1352, meta train BC loss 0.00
+epoch: 1352, meta test BC loss 0.00
+
+epoch: 1353, meta train BC loss 0.00
+epoch: 1353, meta test BC loss 0.00
+
+epoch: 1354, meta train BC loss 0.00
+epoch: 1354, meta test BC loss 0.00
+
+epoch: 1355, meta train BC loss 0.00
+epoch: 1355, meta test BC loss 0.00
+
+epoch: 1356, meta train BC loss 0.00
+epoch: 1356, meta test BC loss 0.00
+
+epoch: 1357, meta train BC loss 0.00
+epoch: 1357, meta test BC loss 0.00
+
+epoch: 1358, meta train BC loss 0.00
+epoch: 1358, meta test BC loss 0.00
+
+epoch: 1359, meta train BC loss 0.00
+epoch: 1359, meta test BC loss 0.00
+
+epoch: 1360, meta train BC loss 0.00
+epoch: 1360, meta test BC loss 0.00
+
+epoch: 1361, meta train BC loss 0.00
+epoch: 1361, meta test BC loss 0.00
+
+epoch: 1362, meta train BC loss 0.00
+epoch: 1362, meta test BC loss 0.00
+
+epoch: 1363, meta train BC loss 0.00
+epoch: 1363, meta test BC loss 0.00
+
+epoch: 1364, meta train BC loss 0.00
+epoch: 1364, meta test BC loss 0.00
+
+epoch: 1365, meta train BC loss 0.00
+epoch: 1365, meta test BC loss 0.00
+
+epoch: 1366, meta train BC loss 0.00
+epoch: 1366, meta test BC loss 0.00
+
+epoch: 1367, meta train BC loss 0.00
+epoch: 1367, meta test BC loss 0.00
+
+epoch: 1368, meta train BC loss 0.00
+epoch: 1368, meta test BC loss 0.00
+
+epoch: 1369, meta train BC loss 0.00
+epoch: 1369, meta test BC loss 0.00
+
+epoch: 1370, meta train BC loss 0.00
+epoch: 1370, meta test BC loss 0.00
+
+epoch: 1371, meta train BC loss 0.00
+epoch: 1371, meta test BC loss 0.00
+
+epoch: 1372, meta train BC loss 0.00
+epoch: 1372, meta test BC loss 0.00
+
+epoch: 1373, meta train BC loss 0.00
+epoch: 1373, meta test BC loss 0.00
+
+epoch: 1374, meta train BC loss 0.00
+epoch: 1374, meta test BC loss 0.00
+
+epoch: 1375, meta train BC loss 0.00
+epoch: 1375, meta test BC loss 0.00
+
+epoch: 1376, meta train BC loss 0.00
+epoch: 1376, meta test BC loss 0.00
+
+epoch: 1377, meta train BC loss 0.00
+epoch: 1377, meta test BC loss 0.00
+
+epoch: 1378, meta train BC loss 0.00
+epoch: 1378, meta test BC loss 0.00
+
+epoch: 1379, meta train BC loss 0.00
+epoch: 1379, meta test BC loss 0.00
+
+epoch: 1380, meta train BC loss 0.00
+epoch: 1380, meta test BC loss 0.00
+
+epoch: 1381, meta train BC loss 0.00
+epoch: 1381, meta test BC loss 0.00
+
+epoch: 1382, meta train BC loss 0.00
+epoch: 1382, meta test BC loss 0.00
+
+epoch: 1383, meta train BC loss 0.00
+epoch: 1383, meta test BC loss 0.00
+
+epoch: 1384, meta train BC loss 0.00
+epoch: 1384, meta test BC loss 0.00
+
+epoch: 1385, meta train BC loss 0.00
+epoch: 1385, meta test BC loss 0.00
+
+epoch: 1386, meta train BC loss 0.00
+epoch: 1386, meta test BC loss 0.00
+
+epoch: 1387, meta train BC loss 0.00
+epoch: 1387, meta test BC loss 0.00
+
+epoch: 1388, meta train BC loss 0.00
+epoch: 1388, meta test BC loss 0.00
+
+epoch: 1389, meta train BC loss 0.00
+epoch: 1389, meta test BC loss 0.00
+
+epoch: 1390, meta train BC loss 0.00
+epoch: 1390, meta test BC loss 0.00
+
+epoch: 1391, meta train BC loss 0.00
+epoch: 1391, meta test BC loss 0.00
+
+epoch: 1392, meta train BC loss 0.00
+epoch: 1392, meta test BC loss 0.00
+
+epoch: 1393, meta train BC loss 0.00
+epoch: 1393, meta test BC loss 0.00
+
+epoch: 1394, meta train BC loss 0.00
+epoch: 1394, meta test BC loss 0.00
+
+epoch: 1395, meta train BC loss 0.00
+epoch: 1395, meta test BC loss 0.00
+
+epoch: 1396, meta train BC loss 0.00
+epoch: 1396, meta test BC loss 0.00
+
+epoch: 1397, meta train BC loss 0.00
+epoch: 1397, meta test BC loss 0.00
+
+epoch: 1398, meta train BC loss 0.00
+epoch: 1398, meta test BC loss 0.00
+
+epoch: 1399, meta train BC loss 0.00
+epoch: 1399, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 3.65
+
+epoch: 1400, meta train BC loss 0.00
+epoch: 1400, meta test BC loss 0.00
+
+epoch: 1401, meta train BC loss 0.00
+epoch: 1401, meta test BC loss 0.00
+
+epoch: 1402, meta train BC loss 0.00
+epoch: 1402, meta test BC loss 0.00
+
+epoch: 1403, meta train BC loss 0.00
+epoch: 1403, meta test BC loss 0.00
+
+epoch: 1404, meta train BC loss 0.00
+epoch: 1404, meta test BC loss 0.00
+
+epoch: 1405, meta train BC loss 0.00
+epoch: 1405, meta test BC loss 0.00
+
+epoch: 1406, meta train BC loss 0.00
+epoch: 1406, meta test BC loss 0.00
+
+epoch: 1407, meta train BC loss 0.00
+epoch: 1407, meta test BC loss 0.00
+
+epoch: 1408, meta train BC loss 0.00
+epoch: 1408, meta test BC loss 0.00
+
+epoch: 1409, meta train BC loss 0.00
+epoch: 1409, meta test BC loss 0.00
+
+epoch: 1410, meta train BC loss 0.00
+epoch: 1410, meta test BC loss 0.00
+
+epoch: 1411, meta train BC loss 0.00
+epoch: 1411, meta test BC loss 0.00
+
+epoch: 1412, meta train BC loss 0.00
+epoch: 1412, meta test BC loss 0.00
+
+epoch: 1413, meta train BC loss 0.00
+epoch: 1413, meta test BC loss 0.00
+
+epoch: 1414, meta train BC loss 0.00
+epoch: 1414, meta test BC loss 0.00
+
+epoch: 1415, meta train BC loss 0.00
+epoch: 1415, meta test BC loss 0.00
+
+epoch: 1416, meta train BC loss 0.00
+epoch: 1416, meta test BC loss 0.00
+
+epoch: 1417, meta train BC loss 0.00
+epoch: 1417, meta test BC loss 0.00
+
+epoch: 1418, meta train BC loss 0.00
+epoch: 1418, meta test BC loss 0.00
+
+epoch: 1419, meta train BC loss 0.00
+epoch: 1419, meta test BC loss 0.00
+
+epoch: 1420, meta train BC loss 0.00
+epoch: 1420, meta test BC loss 0.00
+
+epoch: 1421, meta train BC loss 0.00
+epoch: 1421, meta test BC loss 0.00
+
+epoch: 1422, meta train BC loss 0.00
+epoch: 1422, meta test BC loss 0.00
+
+epoch: 1423, meta train BC loss 0.00
+epoch: 1423, meta test BC loss 0.00
+
+epoch: 1424, meta train BC loss 0.00
+epoch: 1424, meta test BC loss 0.00
+
+epoch: 1425, meta train BC loss 0.00
+epoch: 1425, meta test BC loss 0.00
+
+epoch: 1426, meta train BC loss 0.00
+epoch: 1426, meta test BC loss 0.00
+
+epoch: 1427, meta train BC loss 0.00
+epoch: 1427, meta test BC loss 0.00
+
+epoch: 1428, meta train BC loss 0.00
+epoch: 1428, meta test BC loss 0.00
+
+epoch: 1429, meta train BC loss 0.00
+epoch: 1429, meta test BC loss 0.00
+
+epoch: 1430, meta train BC loss 0.00
+epoch: 1430, meta test BC loss 0.00
+
+epoch: 1431, meta train BC loss 0.00
+epoch: 1431, meta test BC loss 0.00
+
+epoch: 1432, meta train BC loss 0.00
+epoch: 1432, meta test BC loss 0.00
+
+epoch: 1433, meta train BC loss 0.00
+epoch: 1433, meta test BC loss 0.00
+
+epoch: 1434, meta train BC loss 0.00
+epoch: 1434, meta test BC loss 0.00
+
+epoch: 1435, meta train BC loss 0.00
+epoch: 1435, meta test BC loss 0.00
+
+epoch: 1436, meta train BC loss 0.00
+epoch: 1436, meta test BC loss 0.00
+
+epoch: 1437, meta train BC loss 0.00
+epoch: 1437, meta test BC loss 0.00
+
+epoch: 1438, meta train BC loss 0.00
+epoch: 1438, meta test BC loss 0.00
+
+epoch: 1439, meta train BC loss 0.00
+epoch: 1439, meta test BC loss 0.00
+
+epoch: 1440, meta train BC loss 0.00
+epoch: 1440, meta test BC loss 0.00
+
+epoch: 1441, meta train BC loss 0.00
+epoch: 1441, meta test BC loss 0.00
+
+epoch: 1442, meta train BC loss 0.00
+epoch: 1442, meta test BC loss 0.00
+
+epoch: 1443, meta train BC loss 0.00
+epoch: 1443, meta test BC loss 0.00
+
+epoch: 1444, meta train BC loss 0.00
+epoch: 1444, meta test BC loss 0.00
+
+epoch: 1445, meta train BC loss 0.00
+epoch: 1445, meta test BC loss 0.00
+
+epoch: 1446, meta train BC loss 0.00
+epoch: 1446, meta test BC loss 0.00
+
+epoch: 1447, meta train BC loss 0.00
+epoch: 1447, meta test BC loss 0.00
+
+epoch: 1448, meta train BC loss 0.00
+epoch: 1448, meta test BC loss 0.00
+
+epoch: 1449, meta train BC loss 0.00
+epoch: 1449, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 3.31
+
+epoch: 1450, meta train BC loss 0.00
+epoch: 1450, meta test BC loss 0.00
+
+epoch: 1451, meta train BC loss 0.00
+epoch: 1451, meta test BC loss 0.00
+
+epoch: 1452, meta train BC loss 0.00
+epoch: 1452, meta test BC loss 0.00
+
+epoch: 1453, meta train BC loss 0.00
+epoch: 1453, meta test BC loss 0.00
+
+epoch: 1454, meta train BC loss 0.00
+epoch: 1454, meta test BC loss 0.00
+
+epoch: 1455, meta train BC loss 0.00
+epoch: 1455, meta test BC loss 0.00
+
+epoch: 1456, meta train BC loss 0.00
+epoch: 1456, meta test BC loss 0.00
+
+epoch: 1457, meta train BC loss 0.00
+epoch: 1457, meta test BC loss 0.00
+
+epoch: 1458, meta train BC loss 0.00
+epoch: 1458, meta test BC loss 0.00
+
+epoch: 1459, meta train BC loss 0.00
+epoch: 1459, meta test BC loss 0.00
+
+epoch: 1460, meta train BC loss 0.00
+epoch: 1460, meta test BC loss 0.00
+
+epoch: 1461, meta train BC loss 0.00
+epoch: 1461, meta test BC loss 0.00
+
+epoch: 1462, meta train BC loss 0.00
+epoch: 1462, meta test BC loss 0.00
+
+epoch: 1463, meta train BC loss 0.00
+epoch: 1463, meta test BC loss 0.00
+
+epoch: 1464, meta train BC loss 0.00
+epoch: 1464, meta test BC loss 0.00
+
+epoch: 1465, meta train BC loss 0.00
+epoch: 1465, meta test BC loss 0.00
+
+epoch: 1466, meta train BC loss 0.00
+epoch: 1466, meta test BC loss 0.00
+
+epoch: 1467, meta train BC loss 0.00
+epoch: 1467, meta test BC loss 0.00
+
+epoch: 1468, meta train BC loss 0.00
+epoch: 1468, meta test BC loss 0.00
+
+epoch: 1469, meta train BC loss 0.00
+epoch: 1469, meta test BC loss 0.00
+
+epoch: 1470, meta train BC loss 0.00
+epoch: 1470, meta test BC loss 0.00
+
+epoch: 1471, meta train BC loss 0.00
+epoch: 1471, meta test BC loss 0.00
+
+epoch: 1472, meta train BC loss 0.00
+epoch: 1472, meta test BC loss 0.00
+
+epoch: 1473, meta train BC loss 0.00
+epoch: 1473, meta test BC loss 0.00
+
+epoch: 1474, meta train BC loss 0.00
+epoch: 1474, meta test BC loss 0.00
+
+epoch: 1475, meta train BC loss 0.00
+epoch: 1475, meta test BC loss 0.00
+
+epoch: 1476, meta train BC loss 0.00
+epoch: 1476, meta test BC loss 0.00
+
+epoch: 1477, meta train BC loss 0.00
+epoch: 1477, meta test BC loss 0.00
+
+epoch: 1478, meta train BC loss 0.00
+epoch: 1478, meta test BC loss 0.00
+
+epoch: 1479, meta train BC loss 0.00
+epoch: 1479, meta test BC loss 0.00
+
+epoch: 1480, meta train BC loss 0.00
+epoch: 1480, meta test BC loss 0.00
+
+epoch: 1481, meta train BC loss 0.00
+epoch: 1481, meta test BC loss 0.00
+
+epoch: 1482, meta train BC loss 0.00
+epoch: 1482, meta test BC loss 0.00
+
+epoch: 1483, meta train BC loss 0.00
+epoch: 1483, meta test BC loss 0.00
+
+epoch: 1484, meta train BC loss 0.00
+epoch: 1484, meta test BC loss 0.00
+
+epoch: 1485, meta train BC loss 0.00
+epoch: 1485, meta test BC loss 0.00
+
+epoch: 1486, meta train BC loss 0.00
+epoch: 1486, meta test BC loss 0.00
+
+epoch: 1487, meta train BC loss 0.00
+epoch: 1487, meta test BC loss 0.00
+
+epoch: 1488, meta train BC loss 0.00
+epoch: 1488, meta test BC loss 0.00
+
+epoch: 1489, meta train BC loss 0.00
+epoch: 1489, meta test BC loss 0.00
+
+epoch: 1490, meta train BC loss 0.00
+epoch: 1490, meta test BC loss 0.00
+
+epoch: 1491, meta train BC loss 0.00
+epoch: 1491, meta test BC loss 0.00
+
+epoch: 1492, meta train BC loss 0.00
+epoch: 1492, meta test BC loss 0.00
+
+epoch: 1493, meta train BC loss 0.00
+epoch: 1493, meta test BC loss 0.00
+
+epoch: 1494, meta train BC loss 0.00
+epoch: 1494, meta test BC loss 0.00
+
+epoch: 1495, meta train BC loss 0.00
+epoch: 1495, meta test BC loss 0.00
+
+epoch: 1496, meta train BC loss 0.00
+epoch: 1496, meta test BC loss 0.00
+
+epoch: 1497, meta train BC loss 0.00
+epoch: 1497, meta test BC loss 0.00
+
+epoch: 1498, meta train BC loss 0.00
+epoch: 1498, meta test BC loss 0.00
+
+epoch: 1499, meta train BC loss 0.00
+epoch: 1499, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 3.17
+
+epoch: 1500, meta train BC loss 0.00
+epoch: 1500, meta test BC loss 0.00
+
+epoch: 1501, meta train BC loss 0.00
+epoch: 1501, meta test BC loss 0.00
+
+epoch: 1502, meta train BC loss 0.00
+epoch: 1502, meta test BC loss 0.00
+
+epoch: 1503, meta train BC loss 0.00
+epoch: 1503, meta test BC loss 0.00
+
+epoch: 1504, meta train BC loss 0.00
+epoch: 1504, meta test BC loss 0.00
+
+epoch: 1505, meta train BC loss 0.00
+epoch: 1505, meta test BC loss 0.00
+
+epoch: 1506, meta train BC loss 0.00
+epoch: 1506, meta test BC loss 0.00
+
+epoch: 1507, meta train BC loss 0.00
+epoch: 1507, meta test BC loss 0.00
+
+epoch: 1508, meta train BC loss 0.00
+epoch: 1508, meta test BC loss 0.00
+
+epoch: 1509, meta train BC loss 0.00
+epoch: 1509, meta test BC loss 0.00
+
+epoch: 1510, meta train BC loss 0.00
+epoch: 1510, meta test BC loss 0.00
+
+epoch: 1511, meta train BC loss 0.00
+epoch: 1511, meta test BC loss 0.00
+
+epoch: 1512, meta train BC loss 0.00
+epoch: 1512, meta test BC loss 0.00
+
+epoch: 1513, meta train BC loss 0.00
+epoch: 1513, meta test BC loss 0.00
+
+epoch: 1514, meta train BC loss 0.00
+epoch: 1514, meta test BC loss 0.00
+
+epoch: 1515, meta train BC loss 0.00
+epoch: 1515, meta test BC loss 0.00
+
+epoch: 1516, meta train BC loss 0.00
+epoch: 1516, meta test BC loss 0.00
+
+epoch: 1517, meta train BC loss 0.00
+epoch: 1517, meta test BC loss 0.00
+
+epoch: 1518, meta train BC loss 0.00
+epoch: 1518, meta test BC loss 0.00
+
+epoch: 1519, meta train BC loss 0.00
+epoch: 1519, meta test BC loss 0.00
+
+epoch: 1520, meta train BC loss 0.00
+epoch: 1520, meta test BC loss 0.00
+
+epoch: 1521, meta train BC loss 0.00
+epoch: 1521, meta test BC loss 0.00
+
+epoch: 1522, meta train BC loss 0.00
+epoch: 1522, meta test BC loss 0.00
+
+epoch: 1523, meta train BC loss 0.00
+epoch: 1523, meta test BC loss 0.00
+
+epoch: 1524, meta train BC loss 0.00
+epoch: 1524, meta test BC loss 0.00
+
+epoch: 1525, meta train BC loss 0.00
+epoch: 1525, meta test BC loss 0.00
+
+epoch: 1526, meta train BC loss 0.00
+epoch: 1526, meta test BC loss 0.00
+
+epoch: 1527, meta train BC loss 0.00
+epoch: 1527, meta test BC loss 0.00
+
+epoch: 1528, meta train BC loss 0.00
+epoch: 1528, meta test BC loss 0.00
+
+epoch: 1529, meta train BC loss 0.00
+epoch: 1529, meta test BC loss 0.00
+
+epoch: 1530, meta train BC loss 0.00
+epoch: 1530, meta test BC loss 0.00
+
+epoch: 1531, meta train BC loss 0.00
+epoch: 1531, meta test BC loss 0.00
+
+epoch: 1532, meta train BC loss 0.00
+epoch: 1532, meta test BC loss 0.00
+
+epoch: 1533, meta train BC loss 0.00
+epoch: 1533, meta test BC loss 0.00
+
+epoch: 1534, meta train BC loss 0.00
+epoch: 1534, meta test BC loss 0.00
+
+epoch: 1535, meta train BC loss 0.00
+epoch: 1535, meta test BC loss 0.00
+
+epoch: 1536, meta train BC loss 0.00
+epoch: 1536, meta test BC loss 0.00
+
+epoch: 1537, meta train BC loss 0.00
+epoch: 1537, meta test BC loss 0.00
+
+epoch: 1538, meta train BC loss 0.00
+epoch: 1538, meta test BC loss 0.00
+
+epoch: 1539, meta train BC loss 0.00
+epoch: 1539, meta test BC loss 0.00
+
+epoch: 1540, meta train BC loss 0.00
+epoch: 1540, meta test BC loss 0.00
+
+epoch: 1541, meta train BC loss 0.00
+epoch: 1541, meta test BC loss 0.00
+
+epoch: 1542, meta train BC loss 0.00
+epoch: 1542, meta test BC loss 0.00
+
+epoch: 1543, meta train BC loss 0.00
+epoch: 1543, meta test BC loss 0.00
+
+epoch: 1544, meta train BC loss 0.00
+epoch: 1544, meta test BC loss 0.00
+
+epoch: 1545, meta train BC loss 0.00
+epoch: 1545, meta test BC loss 0.00
+
+epoch: 1546, meta train BC loss 0.00
+epoch: 1546, meta test BC loss 0.00
+
+epoch: 1547, meta train BC loss 0.00
+epoch: 1547, meta test BC loss 0.00
+
+epoch: 1548, meta train BC loss 0.00
+epoch: 1548, meta test BC loss 0.00
+
+epoch: 1549, meta train BC loss 0.00
+epoch: 1549, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 2.89
+
+epoch: 1550, meta train BC loss 0.00
+epoch: 1550, meta test BC loss 0.00
+
+epoch: 1551, meta train BC loss 0.00
+epoch: 1551, meta test BC loss 0.00
+
+epoch: 1552, meta train BC loss 0.00
+epoch: 1552, meta test BC loss 0.00
+
+epoch: 1553, meta train BC loss 0.00
+epoch: 1553, meta test BC loss 0.00
+
+epoch: 1554, meta train BC loss 0.00
+epoch: 1554, meta test BC loss 0.00
+
+epoch: 1555, meta train BC loss 0.00
+epoch: 1555, meta test BC loss 0.00
+
+epoch: 1556, meta train BC loss 0.00
+epoch: 1556, meta test BC loss 0.00
+
+epoch: 1557, meta train BC loss 0.00
+epoch: 1557, meta test BC loss 0.00
+
+epoch: 1558, meta train BC loss 0.00
+epoch: 1558, meta test BC loss 0.00
+
+epoch: 1559, meta train BC loss 0.00
+epoch: 1559, meta test BC loss 0.00
+
+epoch: 1560, meta train BC loss 0.00
+epoch: 1560, meta test BC loss 0.00
+
+epoch: 1561, meta train BC loss 0.00
+epoch: 1561, meta test BC loss 0.00
+
+epoch: 1562, meta train BC loss 0.00
+epoch: 1562, meta test BC loss 0.00
+
+epoch: 1563, meta train BC loss 0.00
+epoch: 1563, meta test BC loss 0.00
+
+epoch: 1564, meta train BC loss 0.00
+epoch: 1564, meta test BC loss 0.00
+
+epoch: 1565, meta train BC loss 0.00
+epoch: 1565, meta test BC loss 0.00
+
+epoch: 1566, meta train BC loss 0.00
+epoch: 1566, meta test BC loss 0.00
+
+epoch: 1567, meta train BC loss 0.00
+epoch: 1567, meta test BC loss 0.00
+
+epoch: 1568, meta train BC loss 0.00
+epoch: 1568, meta test BC loss 0.00
+
+epoch: 1569, meta train BC loss 0.00
+epoch: 1569, meta test BC loss 0.00
+
+epoch: 1570, meta train BC loss 0.00
+epoch: 1570, meta test BC loss 0.00
+
+epoch: 1571, meta train BC loss 0.00
+epoch: 1571, meta test BC loss 0.00
+
+epoch: 1572, meta train BC loss 0.00
+epoch: 1572, meta test BC loss 0.00
+
+epoch: 1573, meta train BC loss 0.00
+epoch: 1573, meta test BC loss 0.00
+
+epoch: 1574, meta train BC loss 0.00
+epoch: 1574, meta test BC loss 0.00
+
+epoch: 1575, meta train BC loss 0.00
+epoch: 1575, meta test BC loss 0.00
+
+epoch: 1576, meta train BC loss 0.00
+epoch: 1576, meta test BC loss 0.00
+
+epoch: 1577, meta train BC loss 0.00
+epoch: 1577, meta test BC loss 0.00
+
+epoch: 1578, meta train BC loss 0.00
+epoch: 1578, meta test BC loss 0.00
+
+epoch: 1579, meta train BC loss 0.00
+epoch: 1579, meta test BC loss 0.00
+
+epoch: 1580, meta train BC loss 0.00
+epoch: 1580, meta test BC loss 0.00
+
+epoch: 1581, meta train BC loss 0.00
+epoch: 1581, meta test BC loss 0.00
+
+epoch: 1582, meta train BC loss 0.00
+epoch: 1582, meta test BC loss 0.00
+
+epoch: 1583, meta train BC loss 0.00
+epoch: 1583, meta test BC loss 0.00
+
+epoch: 1584, meta train BC loss 0.00
+epoch: 1584, meta test BC loss 0.00
+
+epoch: 1585, meta train BC loss 0.00
+epoch: 1585, meta test BC loss 0.00
+
+epoch: 1586, meta train BC loss 0.00
+epoch: 1586, meta test BC loss 0.00
+
+epoch: 1587, meta train BC loss 0.00
+epoch: 1587, meta test BC loss 0.00
+
+epoch: 1588, meta train BC loss 0.00
+epoch: 1588, meta test BC loss 0.00
+
+epoch: 1589, meta train BC loss 0.00
+epoch: 1589, meta test BC loss 0.00
+
+epoch: 1590, meta train BC loss 0.00
+epoch: 1590, meta test BC loss 0.00
+
+epoch: 1591, meta train BC loss 0.00
+epoch: 1591, meta test BC loss 0.00
+
+epoch: 1592, meta train BC loss 0.00
+epoch: 1592, meta test BC loss 0.00
+
+epoch: 1593, meta train BC loss 0.00
+epoch: 1593, meta test BC loss 0.00
+
+epoch: 1594, meta train BC loss 0.00
+epoch: 1594, meta test BC loss 0.00
+
+epoch: 1595, meta train BC loss 0.00
+epoch: 1595, meta test BC loss 0.00
+
+epoch: 1596, meta train BC loss 0.00
+epoch: 1596, meta test BC loss 0.00
+
+epoch: 1597, meta train BC loss 0.00
+epoch: 1597, meta test BC loss 0.00
+
+epoch: 1598, meta train BC loss 0.00
+epoch: 1598, meta test BC loss 0.00
+
+epoch: 1599, meta train BC loss 0.00
+epoch: 1599, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 3.17
+
+epoch: 1600, meta train BC loss 0.00
+epoch: 1600, meta test BC loss 0.00
+
+epoch: 1601, meta train BC loss 0.00
+epoch: 1601, meta test BC loss 0.00
+
+epoch: 1602, meta train BC loss 0.00
+epoch: 1602, meta test BC loss 0.00
+
+epoch: 1603, meta train BC loss 0.00
+epoch: 1603, meta test BC loss 0.00
+
+epoch: 1604, meta train BC loss 0.00
+epoch: 1604, meta test BC loss 0.00
+
+epoch: 1605, meta train BC loss 0.00
+epoch: 1605, meta test BC loss 0.00
+
+epoch: 1606, meta train BC loss 0.00
+epoch: 1606, meta test BC loss 0.00
+
+epoch: 1607, meta train BC loss 0.00
+epoch: 1607, meta test BC loss 0.00
+
+epoch: 1608, meta train BC loss 0.00
+epoch: 1608, meta test BC loss 0.00
+
+epoch: 1609, meta train BC loss 0.00
+epoch: 1609, meta test BC loss 0.00
+
+epoch: 1610, meta train BC loss 0.00
+epoch: 1610, meta test BC loss 0.00
+
+epoch: 1611, meta train BC loss 0.00
+epoch: 1611, meta test BC loss 0.00
+
+epoch: 1612, meta train BC loss 0.00
+epoch: 1612, meta test BC loss 0.00
+
+epoch: 1613, meta train BC loss 0.00
+epoch: 1613, meta test BC loss 0.00
+
+epoch: 1614, meta train BC loss 0.00
+epoch: 1614, meta test BC loss 0.00
+
+epoch: 1615, meta train BC loss 0.00
+epoch: 1615, meta test BC loss 0.00
+
+epoch: 1616, meta train BC loss 0.00
+epoch: 1616, meta test BC loss 0.00
+
+epoch: 1617, meta train BC loss 0.00
+epoch: 1617, meta test BC loss 0.00
+
+epoch: 1618, meta train BC loss 0.00
+epoch: 1618, meta test BC loss 0.00
+
+epoch: 1619, meta train BC loss 0.00
+epoch: 1619, meta test BC loss 0.00
+
+epoch: 1620, meta train BC loss 0.00
+epoch: 1620, meta test BC loss 0.00
+
+epoch: 1621, meta train BC loss 0.00
+epoch: 1621, meta test BC loss 0.00
+
+epoch: 1622, meta train BC loss 0.00
+epoch: 1622, meta test BC loss 0.00
+
+epoch: 1623, meta train BC loss 0.00
+epoch: 1623, meta test BC loss 0.00
+
+epoch: 1624, meta train BC loss 0.00
+epoch: 1624, meta test BC loss 0.00
+
+epoch: 1625, meta train BC loss 0.00
+epoch: 1625, meta test BC loss 0.00
+
+epoch: 1626, meta train BC loss 0.00
+epoch: 1626, meta test BC loss 0.00
+
+epoch: 1627, meta train BC loss 0.00
+epoch: 1627, meta test BC loss 0.00
+
+epoch: 1628, meta train BC loss 0.00
+epoch: 1628, meta test BC loss 0.00
+
+epoch: 1629, meta train BC loss 0.00
+epoch: 1629, meta test BC loss 0.00
+
+epoch: 1630, meta train BC loss 0.00
+epoch: 1630, meta test BC loss 0.00
+
+epoch: 1631, meta train BC loss 0.00
+epoch: 1631, meta test BC loss 0.00
+
+epoch: 1632, meta train BC loss 0.00
+epoch: 1632, meta test BC loss 0.00
+
+epoch: 1633, meta train BC loss 0.00
+epoch: 1633, meta test BC loss 0.00
+
+epoch: 1634, meta train BC loss 0.00
+epoch: 1634, meta test BC loss 0.00
+
+epoch: 1635, meta train BC loss 0.00
+epoch: 1635, meta test BC loss 0.00
+
+epoch: 1636, meta train BC loss 0.00
+epoch: 1636, meta test BC loss 0.00
+
+epoch: 1637, meta train BC loss 0.00
+epoch: 1637, meta test BC loss 0.00
+
+epoch: 1638, meta train BC loss 0.00
+epoch: 1638, meta test BC loss 0.00
+
+epoch: 1639, meta train BC loss 0.00
+epoch: 1639, meta test BC loss 0.00
+
+epoch: 1640, meta train BC loss 0.00
+epoch: 1640, meta test BC loss 0.00
+
+epoch: 1641, meta train BC loss 0.00
+epoch: 1641, meta test BC loss 0.00
+
+epoch: 1642, meta train BC loss 0.00
+epoch: 1642, meta test BC loss 0.00
+
+epoch: 1643, meta train BC loss 0.00
+epoch: 1643, meta test BC loss 0.00
+
+epoch: 1644, meta train BC loss 0.00
+epoch: 1644, meta test BC loss 0.00
+
+epoch: 1645, meta train BC loss 0.00
+epoch: 1645, meta test BC loss 0.00
+
+epoch: 1646, meta train BC loss 0.00
+epoch: 1646, meta test BC loss 0.00
+
+epoch: 1647, meta train BC loss 0.00
+epoch: 1647, meta test BC loss 0.00
+
+epoch: 1648, meta train BC loss 0.00
+epoch: 1648, meta test BC loss 0.00
+
+epoch: 1649, meta train BC loss 0.00
+epoch: 1649, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 2.47
+
+epoch: 1650, meta train BC loss 0.00
+epoch: 1650, meta test BC loss 0.00
+
+epoch: 1651, meta train BC loss 0.00
+epoch: 1651, meta test BC loss 0.00
+
+epoch: 1652, meta train BC loss 0.00
+epoch: 1652, meta test BC loss 0.00
+
+epoch: 1653, meta train BC loss 0.00
+epoch: 1653, meta test BC loss 0.00
+
+epoch: 1654, meta train BC loss 0.00
+epoch: 1654, meta test BC loss 0.00
+
+epoch: 1655, meta train BC loss 0.00
+epoch: 1655, meta test BC loss 0.00
+
+epoch: 1656, meta train BC loss 0.00
+epoch: 1656, meta test BC loss 0.00
+
+epoch: 1657, meta train BC loss 0.00
+epoch: 1657, meta test BC loss 0.00
+
+epoch: 1658, meta train BC loss 0.00
+epoch: 1658, meta test BC loss 0.00
+
+epoch: 1659, meta train BC loss 0.00
+epoch: 1659, meta test BC loss 0.00
+
+epoch: 1660, meta train BC loss 0.00
+epoch: 1660, meta test BC loss 0.00
+
+epoch: 1661, meta train BC loss 0.00
+epoch: 1661, meta test BC loss 0.00
+
+epoch: 1662, meta train BC loss 0.00
+epoch: 1662, meta test BC loss 0.00
+
+epoch: 1663, meta train BC loss 0.00
+epoch: 1663, meta test BC loss 0.00
+
+epoch: 1664, meta train BC loss 0.00
+epoch: 1664, meta test BC loss 0.00
+
+epoch: 1665, meta train BC loss 0.00
+epoch: 1665, meta test BC loss 0.00
+
+epoch: 1666, meta train BC loss 0.00
+epoch: 1666, meta test BC loss 0.00
+
+epoch: 1667, meta train BC loss 0.00
+epoch: 1667, meta test BC loss 0.00
+
+epoch: 1668, meta train BC loss 0.00
+epoch: 1668, meta test BC loss 0.00
+
+epoch: 1669, meta train BC loss 0.00
+epoch: 1669, meta test BC loss 0.00
+
+epoch: 1670, meta train BC loss 0.00
+epoch: 1670, meta test BC loss 0.00
+
+epoch: 1671, meta train BC loss 0.00
+epoch: 1671, meta test BC loss 0.00
+
+epoch: 1672, meta train BC loss 0.00
+epoch: 1672, meta test BC loss 0.00
+
+epoch: 1673, meta train BC loss 0.00
+epoch: 1673, meta test BC loss 0.00
+
+epoch: 1674, meta train BC loss 0.00
+epoch: 1674, meta test BC loss 0.00
+
+epoch: 1675, meta train BC loss 0.00
+epoch: 1675, meta test BC loss 0.00
+
+epoch: 1676, meta train BC loss 0.00
+epoch: 1676, meta test BC loss 0.00
+
+epoch: 1677, meta train BC loss 0.00
+epoch: 1677, meta test BC loss 0.00
+
+epoch: 1678, meta train BC loss 0.00
+epoch: 1678, meta test BC loss 0.00
+
+epoch: 1679, meta train BC loss 0.00
+epoch: 1679, meta test BC loss 0.00
+
+epoch: 1680, meta train BC loss 0.00
+epoch: 1680, meta test BC loss 0.00
+
+epoch: 1681, meta train BC loss 0.00
+epoch: 1681, meta test BC loss 0.00
+
+epoch: 1682, meta train BC loss 0.00
+epoch: 1682, meta test BC loss 0.00
+
+epoch: 1683, meta train BC loss 0.00
+epoch: 1683, meta test BC loss 0.00
+
+epoch: 1684, meta train BC loss 0.00
+epoch: 1684, meta test BC loss 0.00
+
+epoch: 1685, meta train BC loss 0.00
+epoch: 1685, meta test BC loss 0.00
+
+epoch: 1686, meta train BC loss 0.00
+epoch: 1686, meta test BC loss 0.00
+
+epoch: 1687, meta train BC loss 0.00
+epoch: 1687, meta test BC loss 0.00
+
+epoch: 1688, meta train BC loss 0.00
+epoch: 1688, meta test BC loss 0.00
+
+epoch: 1689, meta train BC loss 0.00
+epoch: 1689, meta test BC loss 0.00
+
+epoch: 1690, meta train BC loss 0.00
+epoch: 1690, meta test BC loss 0.00
+
+epoch: 1691, meta train BC loss 0.00
+epoch: 1691, meta test BC loss 0.00
+
+epoch: 1692, meta train BC loss 0.00
+epoch: 1692, meta test BC loss 0.00
+
+epoch: 1693, meta train BC loss 0.00
+epoch: 1693, meta test BC loss 0.00
+
+epoch: 1694, meta train BC loss 0.00
+epoch: 1694, meta test BC loss 0.00
+
+epoch: 1695, meta train BC loss 0.00
+epoch: 1695, meta test BC loss 0.00
+
+epoch: 1696, meta train BC loss 0.00
+epoch: 1696, meta test BC loss 0.00
+
+epoch: 1697, meta train BC loss 0.00
+epoch: 1697, meta test BC loss 0.00
+
+epoch: 1698, meta train BC loss 0.00
+epoch: 1698, meta test BC loss 0.00
+
+epoch: 1699, meta train BC loss 0.00
+epoch: 1699, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 3.74
+
+epoch: 1700, meta train BC loss 0.00
+epoch: 1700, meta test BC loss 0.00
+
+epoch: 1701, meta train BC loss 0.00
+epoch: 1701, meta test BC loss 0.00
+
+epoch: 1702, meta train BC loss 0.00
+epoch: 1702, meta test BC loss 0.00
+
+epoch: 1703, meta train BC loss 0.00
+epoch: 1703, meta test BC loss 0.00
+
+epoch: 1704, meta train BC loss 0.00
+epoch: 1704, meta test BC loss 0.00
+
+epoch: 1705, meta train BC loss 0.00
+epoch: 1705, meta test BC loss 0.00
+
+epoch: 1706, meta train BC loss 0.00
+epoch: 1706, meta test BC loss 0.00
+
+epoch: 1707, meta train BC loss 0.00
+epoch: 1707, meta test BC loss 0.00
+
+epoch: 1708, meta train BC loss 0.00
+epoch: 1708, meta test BC loss 0.00
+
+epoch: 1709, meta train BC loss 0.00
+epoch: 1709, meta test BC loss 0.00
+
+epoch: 1710, meta train BC loss 0.00
+epoch: 1710, meta test BC loss 0.00
+
+epoch: 1711, meta train BC loss 0.00
+epoch: 1711, meta test BC loss 0.00
+
+epoch: 1712, meta train BC loss 0.00
+epoch: 1712, meta test BC loss 0.00
+
+epoch: 1713, meta train BC loss 0.00
+epoch: 1713, meta test BC loss 0.00
+
+epoch: 1714, meta train BC loss 0.00
+epoch: 1714, meta test BC loss 0.00
+
+epoch: 1715, meta train BC loss 0.00
+epoch: 1715, meta test BC loss 0.00
+
+epoch: 1716, meta train BC loss 0.00
+epoch: 1716, meta test BC loss 0.00
+
+epoch: 1717, meta train BC loss 0.00
+epoch: 1717, meta test BC loss 0.00
+
+epoch: 1718, meta train BC loss 0.00
+epoch: 1718, meta test BC loss 0.00
+
+epoch: 1719, meta train BC loss 0.00
+epoch: 1719, meta test BC loss 0.00
+
+epoch: 1720, meta train BC loss 0.00
+epoch: 1720, meta test BC loss 0.00
+
+epoch: 1721, meta train BC loss 0.00
+epoch: 1721, meta test BC loss 0.00
+
+epoch: 1722, meta train BC loss 0.00
+epoch: 1722, meta test BC loss 0.00
+
+epoch: 1723, meta train BC loss 0.00
+epoch: 1723, meta test BC loss 0.00
+
+epoch: 1724, meta train BC loss 0.00
+epoch: 1724, meta test BC loss 0.00
+
+epoch: 1725, meta train BC loss 0.00
+epoch: 1725, meta test BC loss 0.00
+
+epoch: 1726, meta train BC loss 0.00
+epoch: 1726, meta test BC loss 0.00
+
+epoch: 1727, meta train BC loss 0.00
+epoch: 1727, meta test BC loss 0.00
+
+epoch: 1728, meta train BC loss 0.00
+epoch: 1728, meta test BC loss 0.00
+
+epoch: 1729, meta train BC loss 0.00
+epoch: 1729, meta test BC loss 0.00
+
+epoch: 1730, meta train BC loss 0.00
+epoch: 1730, meta test BC loss 0.00
+
+epoch: 1731, meta train BC loss 0.00
+epoch: 1731, meta test BC loss 0.00
+
+epoch: 1732, meta train BC loss 0.00
+epoch: 1732, meta test BC loss 0.00
+
+epoch: 1733, meta train BC loss 0.00
+epoch: 1733, meta test BC loss 0.00
+
+epoch: 1734, meta train BC loss 0.00
+epoch: 1734, meta test BC loss 0.00
+
+epoch: 1735, meta train BC loss 0.00
+epoch: 1735, meta test BC loss 0.00
+
+epoch: 1736, meta train BC loss 0.00
+epoch: 1736, meta test BC loss 0.00
+
+epoch: 1737, meta train BC loss 0.00
+epoch: 1737, meta test BC loss 0.00
+
+epoch: 1738, meta train BC loss 0.00
+epoch: 1738, meta test BC loss 0.00
+
+epoch: 1739, meta train BC loss 0.00
+epoch: 1739, meta test BC loss 0.00
+
+epoch: 1740, meta train BC loss 0.00
+epoch: 1740, meta test BC loss 0.00
+
+epoch: 1741, meta train BC loss 0.00
+epoch: 1741, meta test BC loss 0.00
+
+epoch: 1742, meta train BC loss 0.00
+epoch: 1742, meta test BC loss 0.00
+
+epoch: 1743, meta train BC loss 0.00
+epoch: 1743, meta test BC loss 0.00
+
+epoch: 1744, meta train BC loss 0.00
+epoch: 1744, meta test BC loss 0.00
+
+epoch: 1745, meta train BC loss 0.00
+epoch: 1745, meta test BC loss 0.00
+
+epoch: 1746, meta train BC loss 0.00
+epoch: 1746, meta test BC loss 0.00
+
+epoch: 1747, meta train BC loss 0.00
+epoch: 1747, meta test BC loss 0.00
+
+epoch: 1748, meta train BC loss 0.00
+epoch: 1748, meta test BC loss 0.00
+
+epoch: 1749, meta train BC loss 0.00
+epoch: 1749, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 3.66
+
+epoch: 1750, meta train BC loss 0.00
+epoch: 1750, meta test BC loss 0.00
+
+epoch: 1751, meta train BC loss 0.00
+epoch: 1751, meta test BC loss 0.00
+
+epoch: 1752, meta train BC loss 0.00
+epoch: 1752, meta test BC loss 0.00
+
+epoch: 1753, meta train BC loss 0.00
+epoch: 1753, meta test BC loss 0.00
+
+epoch: 1754, meta train BC loss 0.00
+epoch: 1754, meta test BC loss 0.00
+
+epoch: 1755, meta train BC loss 0.00
+epoch: 1755, meta test BC loss 0.00
+
+epoch: 1756, meta train BC loss 0.00
+epoch: 1756, meta test BC loss 0.00
+
+epoch: 1757, meta train BC loss 0.00
+epoch: 1757, meta test BC loss 0.00
+
+epoch: 1758, meta train BC loss 0.00
+epoch: 1758, meta test BC loss 0.00
+
+epoch: 1759, meta train BC loss 0.00
+epoch: 1759, meta test BC loss 0.00
+
+epoch: 1760, meta train BC loss 0.00
+epoch: 1760, meta test BC loss 0.00
+
+epoch: 1761, meta train BC loss 0.00
+epoch: 1761, meta test BC loss 0.00
+
+epoch: 1762, meta train BC loss 0.00
+epoch: 1762, meta test BC loss 0.00
+
+epoch: 1763, meta train BC loss 0.00
+epoch: 1763, meta test BC loss 0.00
+
+epoch: 1764, meta train BC loss 0.00
+epoch: 1764, meta test BC loss 0.00
+
+epoch: 1765, meta train BC loss 0.00
+epoch: 1765, meta test BC loss 0.00
+
+epoch: 1766, meta train BC loss 0.00
+epoch: 1766, meta test BC loss 0.00
+
+epoch: 1767, meta train BC loss 0.00
+epoch: 1767, meta test BC loss 0.00
+
+epoch: 1768, meta train BC loss 0.00
+epoch: 1768, meta test BC loss 0.00
+
+epoch: 1769, meta train BC loss 0.00
+epoch: 1769, meta test BC loss 0.00
+
+epoch: 1770, meta train BC loss 0.00
+epoch: 1770, meta test BC loss 0.00
+
+epoch: 1771, meta train BC loss 0.00
+epoch: 1771, meta test BC loss 0.00
+
+epoch: 1772, meta train BC loss 0.00
+epoch: 1772, meta test BC loss 0.00
+
+epoch: 1773, meta train BC loss 0.00
+epoch: 1773, meta test BC loss 0.00
+
+epoch: 1774, meta train BC loss 0.00
+epoch: 1774, meta test BC loss 0.00
+
+epoch: 1775, meta train BC loss 0.00
+epoch: 1775, meta test BC loss 0.00
+
+epoch: 1776, meta train BC loss 0.00
+epoch: 1776, meta test BC loss 0.00
+
+epoch: 1777, meta train BC loss 0.00
+epoch: 1777, meta test BC loss 0.00
+
+epoch: 1778, meta train BC loss 0.00
+epoch: 1778, meta test BC loss 0.00
+
+epoch: 1779, meta train BC loss 0.00
+epoch: 1779, meta test BC loss 0.00
+
+epoch: 1780, meta train BC loss 0.00
+epoch: 1780, meta test BC loss 0.00
+
+epoch: 1781, meta train BC loss 0.00
+epoch: 1781, meta test BC loss 0.00
+
+epoch: 1782, meta train BC loss 0.00
+epoch: 1782, meta test BC loss 0.00
+
+epoch: 1783, meta train BC loss 0.00
+epoch: 1783, meta test BC loss 0.00
+
+epoch: 1784, meta train BC loss 0.00
+epoch: 1784, meta test BC loss 0.00
+
+epoch: 1785, meta train BC loss 0.00
+epoch: 1785, meta test BC loss 0.00
+
+epoch: 1786, meta train BC loss 0.00
+epoch: 1786, meta test BC loss 0.00
+
+epoch: 1787, meta train BC loss 0.00
+epoch: 1787, meta test BC loss 0.00
+
+epoch: 1788, meta train BC loss 0.00
+epoch: 1788, meta test BC loss 0.00
+
+epoch: 1789, meta train BC loss 0.00
+epoch: 1789, meta test BC loss 0.00
+
+epoch: 1790, meta train BC loss 0.00
+epoch: 1790, meta test BC loss 0.00
+
+epoch: 1791, meta train BC loss 0.00
+epoch: 1791, meta test BC loss 0.00
+
+epoch: 1792, meta train BC loss 0.00
+epoch: 1792, meta test BC loss 0.00
+
+epoch: 1793, meta train BC loss 0.00
+epoch: 1793, meta test BC loss 0.00
+
+epoch: 1794, meta train BC loss 0.00
+epoch: 1794, meta test BC loss 0.00
+
+epoch: 1795, meta train BC loss 0.00
+epoch: 1795, meta test BC loss 0.00
+
+epoch: 1796, meta train BC loss 0.00
+epoch: 1796, meta test BC loss 0.00
+
+epoch: 1797, meta train BC loss 0.00
+epoch: 1797, meta test BC loss 0.00
+
+epoch: 1798, meta train BC loss 0.00
+epoch: 1798, meta test BC loss 0.00
+
+epoch: 1799, meta train BC loss 0.00
+epoch: 1799, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 3.14
+
+epoch: 1800, meta train BC loss 0.00
+epoch: 1800, meta test BC loss 0.00
+
+epoch: 1801, meta train BC loss 0.00
+epoch: 1801, meta test BC loss 0.00
+
+epoch: 1802, meta train BC loss 0.00
+epoch: 1802, meta test BC loss 0.00
+
+epoch: 1803, meta train BC loss 0.00
+epoch: 1803, meta test BC loss 0.00
+
+epoch: 1804, meta train BC loss 0.00
+epoch: 1804, meta test BC loss 0.00
+
+epoch: 1805, meta train BC loss 0.00
+epoch: 1805, meta test BC loss 0.00
+
+epoch: 1806, meta train BC loss 0.00
+epoch: 1806, meta test BC loss 0.00
+
+epoch: 1807, meta train BC loss 0.00
+epoch: 1807, meta test BC loss 0.00
+
+epoch: 1808, meta train BC loss 0.00
+epoch: 1808, meta test BC loss 0.00
+
+epoch: 1809, meta train BC loss 0.00
+epoch: 1809, meta test BC loss 0.00
+
+epoch: 1810, meta train BC loss 0.00
+epoch: 1810, meta test BC loss 0.00
+
+epoch: 1811, meta train BC loss 0.00
+epoch: 1811, meta test BC loss 0.00
+
+epoch: 1812, meta train BC loss 0.00
+epoch: 1812, meta test BC loss 0.00
+
+epoch: 1813, meta train BC loss 0.00
+epoch: 1813, meta test BC loss 0.00
+
+epoch: 1814, meta train BC loss 0.00
+epoch: 1814, meta test BC loss 0.00
+
+epoch: 1815, meta train BC loss 0.00
+epoch: 1815, meta test BC loss 0.00
+
+epoch: 1816, meta train BC loss 0.00
+epoch: 1816, meta test BC loss 0.00
+
+epoch: 1817, meta train BC loss 0.00
+epoch: 1817, meta test BC loss 0.00
+
+epoch: 1818, meta train BC loss 0.00
+epoch: 1818, meta test BC loss 0.00
+
+epoch: 1819, meta train BC loss 0.00
+epoch: 1819, meta test BC loss 0.00
+
+epoch: 1820, meta train BC loss 0.00
+epoch: 1820, meta test BC loss 0.00
+
+epoch: 1821, meta train BC loss 0.00
+epoch: 1821, meta test BC loss 0.00
+
+epoch: 1822, meta train BC loss 0.00
+epoch: 1822, meta test BC loss 0.00
+
+epoch: 1823, meta train BC loss 0.00
+epoch: 1823, meta test BC loss 0.00
+
+epoch: 1824, meta train BC loss 0.00
+epoch: 1824, meta test BC loss 0.00
+
+epoch: 1825, meta train BC loss 0.00
+epoch: 1825, meta test BC loss 0.00
+
+epoch: 1826, meta train BC loss 0.00
+epoch: 1826, meta test BC loss 0.00
+
+epoch: 1827, meta train BC loss 0.00
+epoch: 1827, meta test BC loss 0.00
+
+epoch: 1828, meta train BC loss 0.00
+epoch: 1828, meta test BC loss 0.00
+
+epoch: 1829, meta train BC loss 0.00
+epoch: 1829, meta test BC loss 0.00
+
+epoch: 1830, meta train BC loss 0.00
+epoch: 1830, meta test BC loss 0.00
+
+epoch: 1831, meta train BC loss 0.00
+epoch: 1831, meta test BC loss 0.00
+
+epoch: 1832, meta train BC loss 0.00
+epoch: 1832, meta test BC loss 0.00
+
+epoch: 1833, meta train BC loss 0.00
+epoch: 1833, meta test BC loss 0.00
+
+epoch: 1834, meta train BC loss 0.00
+epoch: 1834, meta test BC loss 0.00
+
+epoch: 1835, meta train BC loss 0.00
+epoch: 1835, meta test BC loss 0.00
+
+epoch: 1836, meta train BC loss 0.00
+epoch: 1836, meta test BC loss 0.00
+
+epoch: 1837, meta train BC loss 0.00
+epoch: 1837, meta test BC loss 0.00
+
+epoch: 1838, meta train BC loss 0.00
+epoch: 1838, meta test BC loss 0.00
+
+epoch: 1839, meta train BC loss 0.00
+epoch: 1839, meta test BC loss 0.00
+
+epoch: 1840, meta train BC loss 0.00
+epoch: 1840, meta test BC loss 0.00
+
+epoch: 1841, meta train BC loss 0.00
+epoch: 1841, meta test BC loss 0.00
+
+epoch: 1842, meta train BC loss 0.00
+epoch: 1842, meta test BC loss 0.00
+
+epoch: 1843, meta train BC loss 0.00
+epoch: 1843, meta test BC loss 0.00
+
+epoch: 1844, meta train BC loss 0.00
+epoch: 1844, meta test BC loss 0.00
+
+epoch: 1845, meta train BC loss 0.00
+epoch: 1845, meta test BC loss 0.00
+
+epoch: 1846, meta train BC loss 0.00
+epoch: 1846, meta test BC loss 0.00
+
+epoch: 1847, meta train BC loss 0.00
+epoch: 1847, meta test BC loss 0.00
+
+epoch: 1848, meta train BC loss 0.00
+epoch: 1848, meta test BC loss 0.00
+
+epoch: 1849, meta train BC loss 0.00
+epoch: 1849, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 3.85
+
+epoch: 1850, meta train BC loss 0.00
+epoch: 1850, meta test BC loss 0.00
+
+epoch: 1851, meta train BC loss 0.00
+epoch: 1851, meta test BC loss 0.00
+
+epoch: 1852, meta train BC loss 0.00
+epoch: 1852, meta test BC loss 0.00
+
+epoch: 1853, meta train BC loss 0.00
+epoch: 1853, meta test BC loss 0.00
+
+epoch: 1854, meta train BC loss 0.00
+epoch: 1854, meta test BC loss 0.00
+
+epoch: 1855, meta train BC loss 0.00
+epoch: 1855, meta test BC loss 0.00
+
+epoch: 1856, meta train BC loss 0.00
+epoch: 1856, meta test BC loss 0.00
+
+epoch: 1857, meta train BC loss 0.00
+epoch: 1857, meta test BC loss 0.00
+
+epoch: 1858, meta train BC loss 0.00
+epoch: 1858, meta test BC loss 0.00
+
+epoch: 1859, meta train BC loss 0.00
+epoch: 1859, meta test BC loss 0.00
+
+epoch: 1860, meta train BC loss 0.00
+epoch: 1860, meta test BC loss 0.00
+
+epoch: 1861, meta train BC loss 0.00
+epoch: 1861, meta test BC loss 0.00
+
+epoch: 1862, meta train BC loss 0.00
+epoch: 1862, meta test BC loss 0.00
+
+epoch: 1863, meta train BC loss 0.00
+epoch: 1863, meta test BC loss 0.00
+
+epoch: 1864, meta train BC loss 0.00
+epoch: 1864, meta test BC loss 0.00
+
+epoch: 1865, meta train BC loss 0.00
+epoch: 1865, meta test BC loss 0.00
+
+epoch: 1866, meta train BC loss 0.00
+epoch: 1866, meta test BC loss 0.00
+
+epoch: 1867, meta train BC loss 0.00
+epoch: 1867, meta test BC loss 0.00
+
+epoch: 1868, meta train BC loss 0.00
+epoch: 1868, meta test BC loss 0.00
+
+epoch: 1869, meta train BC loss 0.00
+epoch: 1869, meta test BC loss 0.00
+
+epoch: 1870, meta train BC loss 0.00
+epoch: 1870, meta test BC loss 0.00
+
+epoch: 1871, meta train BC loss 0.00
+epoch: 1871, meta test BC loss 0.00
+
+epoch: 1872, meta train BC loss 0.00
+epoch: 1872, meta test BC loss 0.00
+
+epoch: 1873, meta train BC loss 0.00
+epoch: 1873, meta test BC loss 0.00
+
+epoch: 1874, meta train BC loss 0.00
+epoch: 1874, meta test BC loss 0.00
+
+epoch: 1875, meta train BC loss 0.00
+epoch: 1875, meta test BC loss 0.00
+
+epoch: 1876, meta train BC loss 0.00
+epoch: 1876, meta test BC loss 0.00
+
+epoch: 1877, meta train BC loss 0.00
+epoch: 1877, meta test BC loss 0.00
+
+epoch: 1878, meta train BC loss 0.00
+epoch: 1878, meta test BC loss 0.00
+
+epoch: 1879, meta train BC loss 0.00
+epoch: 1879, meta test BC loss 0.00
+
+epoch: 1880, meta train BC loss 0.00
+epoch: 1880, meta test BC loss 0.00
+
+epoch: 1881, meta train BC loss 0.00
+epoch: 1881, meta test BC loss 0.00
+
+epoch: 1882, meta train BC loss 0.00
+epoch: 1882, meta test BC loss 0.00
+
+epoch: 1883, meta train BC loss 0.00
+epoch: 1883, meta test BC loss 0.00
+
+epoch: 1884, meta train BC loss 0.00
+epoch: 1884, meta test BC loss 0.00
+
+epoch: 1885, meta train BC loss 0.00
+epoch: 1885, meta test BC loss 0.00
+
+epoch: 1886, meta train BC loss 0.00
+epoch: 1886, meta test BC loss 0.00
+
+epoch: 1887, meta train BC loss 0.00
+epoch: 1887, meta test BC loss 0.00
+
+epoch: 1888, meta train BC loss 0.00
+epoch: 1888, meta test BC loss 0.00
+
+epoch: 1889, meta train BC loss 0.00
+epoch: 1889, meta test BC loss 0.00
+
+epoch: 1890, meta train BC loss 0.00
+epoch: 1890, meta test BC loss 0.00
+
+epoch: 1891, meta train BC loss 0.00
+epoch: 1891, meta test BC loss 0.00
+
+epoch: 1892, meta train BC loss 0.00
+epoch: 1892, meta test BC loss 0.00
+
+epoch: 1893, meta train BC loss 0.00
+epoch: 1893, meta test BC loss 0.00
+
+epoch: 1894, meta train BC loss 0.00
+epoch: 1894, meta test BC loss 0.00
+
+epoch: 1895, meta train BC loss 0.00
+epoch: 1895, meta test BC loss 0.00
+
+epoch: 1896, meta train BC loss 0.00
+epoch: 1896, meta test BC loss 0.00
+
+epoch: 1897, meta train BC loss 0.00
+epoch: 1897, meta test BC loss 0.00
+
+epoch: 1898, meta train BC loss 0.00
+epoch: 1898, meta test BC loss 0.00
+
+epoch: 1899, meta train BC loss 0.00
+epoch: 1899, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 2.65
+
+epoch: 1900, meta train BC loss 0.00
+epoch: 1900, meta test BC loss 0.00
+
+epoch: 1901, meta train BC loss 0.00
+epoch: 1901, meta test BC loss 0.00
+
+epoch: 1902, meta train BC loss 0.00
+epoch: 1902, meta test BC loss 0.00
+
+epoch: 1903, meta train BC loss 0.00
+epoch: 1903, meta test BC loss 0.00
+
+epoch: 1904, meta train BC loss 0.00
+epoch: 1904, meta test BC loss 0.00
+
+epoch: 1905, meta train BC loss 0.00
+epoch: 1905, meta test BC loss 0.00
+
+epoch: 1906, meta train BC loss 0.00
+epoch: 1906, meta test BC loss 0.00
+
+epoch: 1907, meta train BC loss 0.00
+epoch: 1907, meta test BC loss 0.00
+
+epoch: 1908, meta train BC loss 0.00
+epoch: 1908, meta test BC loss 0.00
+
+epoch: 1909, meta train BC loss 0.00
+epoch: 1909, meta test BC loss 0.00
+
+epoch: 1910, meta train BC loss 0.00
+epoch: 1910, meta test BC loss 0.00
+
+epoch: 1911, meta train BC loss 0.00
+epoch: 1911, meta test BC loss 0.00
+
+epoch: 1912, meta train BC loss 0.00
+epoch: 1912, meta test BC loss 0.00
+
+epoch: 1913, meta train BC loss 0.00
+epoch: 1913, meta test BC loss 0.00
+
+epoch: 1914, meta train BC loss 0.00
+epoch: 1914, meta test BC loss 0.00
+
+epoch: 1915, meta train BC loss 0.00
+epoch: 1915, meta test BC loss 0.00
+
+epoch: 1916, meta train BC loss 0.00
+epoch: 1916, meta test BC loss 0.00
+
+epoch: 1917, meta train BC loss 0.00
+epoch: 1917, meta test BC loss 0.00
+
+epoch: 1918, meta train BC loss 0.00
+epoch: 1918, meta test BC loss 0.00
+
+epoch: 1919, meta train BC loss 0.00
+epoch: 1919, meta test BC loss 0.00
+
+epoch: 1920, meta train BC loss 0.00
+epoch: 1920, meta test BC loss 0.00
+
+epoch: 1921, meta train BC loss 0.00
+epoch: 1921, meta test BC loss 0.00
+
+epoch: 1922, meta train BC loss 0.00
+epoch: 1922, meta test BC loss 0.00
+
+epoch: 1923, meta train BC loss 0.00
+epoch: 1923, meta test BC loss 0.00
+
+epoch: 1924, meta train BC loss 0.00
+epoch: 1924, meta test BC loss 0.00
+
+epoch: 1925, meta train BC loss 0.00
+epoch: 1925, meta test BC loss 0.00
+
+epoch: 1926, meta train BC loss 0.00
+epoch: 1926, meta test BC loss 0.00
+
+epoch: 1927, meta train BC loss 0.00
+epoch: 1927, meta test BC loss 0.00
+
+epoch: 1928, meta train BC loss 0.00
+epoch: 1928, meta test BC loss 0.00
+
+epoch: 1929, meta train BC loss 0.00
+epoch: 1929, meta test BC loss 0.00
+
+epoch: 1930, meta train BC loss 0.00
+epoch: 1930, meta test BC loss 0.00
+
+epoch: 1931, meta train BC loss 0.00
+epoch: 1931, meta test BC loss 0.00
+
+epoch: 1932, meta train BC loss 0.00
+epoch: 1932, meta test BC loss 0.00
+
+epoch: 1933, meta train BC loss 0.00
+epoch: 1933, meta test BC loss 0.00
+
+epoch: 1934, meta train BC loss 0.00
+epoch: 1934, meta test BC loss 0.00
+
+epoch: 1935, meta train BC loss 0.00
+epoch: 1935, meta test BC loss 0.00
+
+epoch: 1936, meta train BC loss 0.00
+epoch: 1936, meta test BC loss 0.00
+
+epoch: 1937, meta train BC loss 0.00
+epoch: 1937, meta test BC loss 0.00
+
+epoch: 1938, meta train BC loss 0.00
+epoch: 1938, meta test BC loss 0.00
+
+epoch: 1939, meta train BC loss 0.00
+epoch: 1939, meta test BC loss 0.00
+
+epoch: 1940, meta train BC loss 0.00
+epoch: 1940, meta test BC loss 0.00
+
+epoch: 1941, meta train BC loss 0.00
+epoch: 1941, meta test BC loss 0.00
+
+epoch: 1942, meta train BC loss 0.00
+epoch: 1942, meta test BC loss 0.00
+
+epoch: 1943, meta train BC loss 0.00
+epoch: 1943, meta test BC loss 0.00
+
+epoch: 1944, meta train BC loss 0.00
+epoch: 1944, meta test BC loss 0.00
+
+epoch: 1945, meta train BC loss 0.00
+epoch: 1945, meta test BC loss 0.00
+
+epoch: 1946, meta train BC loss 0.00
+epoch: 1946, meta test BC loss 0.00
+
+epoch: 1947, meta train BC loss 0.00
+epoch: 1947, meta test BC loss 0.00
+
+epoch: 1948, meta train BC loss 0.00
+epoch: 1948, meta test BC loss 0.00
+
+epoch: 1949, meta train BC loss 0.00
+epoch: 1949, meta test BC loss 0.00
+
+############# Evaluation #############
+evaluation loss 3.27
+
+epoch: 1950, meta train BC loss 0.00
+epoch: 1950, meta test BC loss 0.00
+
+epoch: 1951, meta train BC loss 0.00
+epoch: 1951, meta test BC loss 0.00
+
+epoch: 1952, meta train BC loss 0.00
+epoch: 1952, meta test BC loss 0.00
+
+epoch: 1953, meta train BC loss 0.00
+epoch: 1953, meta test BC loss 0.00
+
+epoch: 1954, meta train BC loss 0.00
+epoch: 1954, meta test BC loss 0.00
+
+epoch: 1955, meta train BC loss 0.00
+epoch: 1955, meta test BC loss 0.00
+
+epoch: 1956, meta train BC loss 0.00
+epoch: 1956, meta test BC loss 0.00
+
+epoch: 1957, meta train BC loss 0.00
+epoch: 1957, meta test BC loss 0.00
+
+epoch: 1958, meta train BC loss 0.00
+epoch: 1958, meta test BC loss 0.00
+
+epoch: 1959, meta train BC loss 0.00
+epoch: 1959, meta test BC loss 0.00
+
+epoch: 1960, meta train BC loss 0.00
+epoch: 1960, meta test BC loss 0.00
+
+epoch: 1961, meta train BC loss 0.00
+epoch: 1961, meta test BC loss 0.00
+
+epoch: 1962, meta train BC loss 0.00
+epoch: 1962, meta test BC loss 0.00
+
+epoch: 1963, meta train BC loss 0.00
+epoch: 1963, meta test BC loss 0.00
+
+epoch: 1964, meta train BC loss 0.00
+epoch: 1964, meta test BC loss 0.00
+
+epoch: 1965, meta train BC loss 0.00
+epoch: 1965, meta test BC loss 0.00
+
+epoch: 1966, meta train BC loss 0.00
+epoch: 1966, meta test BC loss 0.00
+
+epoch: 1967, meta train BC loss 0.00
+epoch: 1967, meta test BC loss 0.00
+
+epoch: 1968, meta train BC loss 0.00
+epoch: 1968, meta test BC loss 0.00
+
+epoch: 1969, meta train BC loss 0.00
+epoch: 1969, meta test BC loss 0.00
+
+epoch: 1970, meta train BC loss 0.00
+epoch: 1970, meta test BC loss 0.00
+
+epoch: 1971, meta train BC loss 0.00
+epoch: 1971, meta test BC loss 0.00
+
+epoch: 1972, meta train BC loss 0.00
+epoch: 1972, meta test BC loss 0.00
+
+epoch: 1973, meta train BC loss 0.00
+epoch: 1973, meta test BC loss 0.00
+
+epoch: 1974, meta train BC loss 0.00
+epoch: 1974, meta test BC loss 0.00
+
+epoch: 1975, meta train BC loss 0.00
+epoch: 1975, meta test BC loss 0.00
+
+epoch: 1976, meta train BC loss 0.00
+epoch: 1976, meta test BC loss 0.00
+
+epoch: 1977, meta train BC loss 0.00
+epoch: 1977, meta test BC loss 0.00
+
+epoch: 1978, meta train BC loss 0.00
+epoch: 1978, meta test BC loss 0.00
+
+epoch: 1979, meta train BC loss 0.00
+epoch: 1979, meta test BC loss 0.00
+
+epoch: 1980, meta train BC loss 0.00
+epoch: 1980, meta test BC loss 0.00
+
+epoch: 1981, meta train BC loss 0.00
+epoch: 1981, meta test BC loss 0.00
+
+epoch: 1982, meta train BC loss 0.00
+epoch: 1982, meta test BC loss 0.00
+

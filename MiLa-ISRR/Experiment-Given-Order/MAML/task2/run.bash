@@ -1,0 +1,1 @@
+python maml-task2-timestep6.py --epoch 50000 --batch 5 --save-name tmp --inner-lr 0.001 --outer-lr 0.0001 --loss-factor 1000 --adaptation-steps 1 --interval 6 --subtask 1 --multi-dt 6

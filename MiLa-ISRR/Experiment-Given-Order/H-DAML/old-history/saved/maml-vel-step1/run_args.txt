@@ -1,0 +1,12 @@
+epoch = 75000
+seed = 1
+batch = 6
+save_name = maml-vel-step1
+device = cuda:0
+sample_size = 40
+down_sample_factor = 2
+interval = 3
+loss_factor = 50
+inner_lr = 0.001
+outer_lr = 0.001
+adaptation_steps = 1
